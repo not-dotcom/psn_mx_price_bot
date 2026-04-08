@@ -1,71 +1,84 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>PSN List v2.0</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        body { background-color: #0b0e14; color: #e2e8f0; }
-        .row-game:hover { background-color: rgba(59, 130, 246, 0.1); }
-        input:focus { outline: none; border-color: #3b82f6; box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.3); }
+      body {
+        background-color: #0b0e14;
+        color: #e2e8f0;
+      }
+      .row-game:hover {
+        background-color: rgba(0, 0, 0, 0.1);
+      }
+      input:focus {
+        outline: none;
+        border-color: #3b82f6;
+        box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.3);
+      }
     </style>
-</head>
-<body class="p-4 md:p-10 font-sans">
-
+  </head>
+  <body class="p-4 md:p-10 font-sans">
     <div class="max-w-5xl mx-auto">
-        <div class="flex flex-col md:flex-row justify-between items-center mb-8 gap-4 bg-zinc-900 p-6 rounded-2xl border border-zinc-800">
-            <div class="flex-1 w-full">
-                <h1 class="text-xl font-bold mb-4 flex items-center gap-2">
-                    <span class="text-blue-500">Sony</span> PSN Price List
-                </h1>
-                <input type="text" id="buscador" placeholder="🔍 Buscar por nombre de juego..." 
-                    class="w-full bg-zinc-950 border border-zinc-700 rounded-lg px-4 py-3 text-sm transition-all">
-            </div>
-            
-            <div class="flex flex-col items-end shrink-0">
-                <button id="btnActualizar" class="bg-blue-600 hover:bg-blue-500 text-white font-bold py-3 px-6 rounded-lg flex items-center gap-2 transition-all active:scale-95 disabled:opacity-50">
-                    <span id="btnIcon">🔄</span> <span id="btnText">Scrapear Web</span>
-                </button>
-                <div id="stats" class="mt-2 text-[10px] uppercase tracking-widest text-zinc-500">
-                    Mostrando <span id="totalJuegos" class="text-blue-400">0</span> juegos
-                </div>
-            </div>
+      <div
+        class="flex flex-col md:flex-row justify-between items-center mb-8 gap-4 bg-zinc-900 p-6 rounded-2xl border border-zinc-800"
+      >
+        <div class="flex-1 w-full">
+          <h1 class="text-xl font-bold mb-4 flex items-center gap-2">
+            <span class="text-blue-500">Sony |</span> Lista de Ofertas en PSN
+          </h1>
+          <input
+            type="text"
+            id="buscador"
+            placeholder="Buscar juego..."
+            class="w-full bg-zinc-950 border border-zinc-700 rounded-lg px-4 py-3 text-sm transition-all"
+          />
+        </div>
+      </div>
+
+      <div
+        class="bg-zinc-900 rounded-2xl border border-zinc-800 overflow-hidden"
+      >
+        <div
+          class="grid grid-cols-12 bg-zinc-950 p-4 text-[10px] font-bold uppercase tracking-widest text-zinc-200 border-b border-zinc-800"
+        >
+          <div class="col-span-8 md:col-span-9">Título</div>
+          <div class="col-span-4 md:col-span-3 text-right">Precio (MXN)</div>
         </div>
 
-        <div class="bg-zinc-900 rounded-2xl border border-zinc-800 overflow-hidden">
-            <div class="grid grid-cols-12 bg-zinc-950 p-4 text-[10px] font-bold uppercase tracking-widest text-zinc-500 border-b border-zinc-800">
-                <div class="col-span-8 md:col-span-9">Nombre del Título</div>
-                <div class="col-span-4 md:col-span-3 text-right">Precio (MXN)</div>
-            </div>
-            
-            <div id="listaJuegos" class="divide-y divide-zinc-800">
-                <div class="p-10 text-center text-zinc-600">No hay datos cargados.</div>
-            </div>
+        <div id="listaJuegos" class="divide-y divide-zinc-800">
+          <div class="p-10 text-center text-zinc-400">
+            No hay datos cargados.
+          </div>
         </div>
+      </div>
     </div>
 
     <script>
-        let datosOriginales = [];
-        const inputBuscador = document.getElementById('buscador');
-        const lista = document.getElementById('listaJuegos');
-        const btn = document.getElementById('btnActualizar');
-        const totalJuegos = document.getElementById('totalJuegos');
+      let datosOriginales = [];
+      const inputBuscador = document.getElementById("buscador");
+      const lista = document.getElementById("listaJuegos");
+      const btn = document.getElementById("btnActualizar");
+      const totalJuegos = document.getElementById("totalJuegos");
 
-        // Función para renderizar la lista filtrada
-        function renderizar(juegos) {
-            lista.innerHTML = '';
-            totalJuegos.innerText = juegos.length;
+      // Función para renderizar la lista filtrada
+      function renderizar(juegos) {
+        lista.innerHTML = "";
+        totalJuegos.innerText = juegos.length;
 
-            if (juegos.length === 0) {
-                lista.innerHTML = '<div class="p-10 text-center text-zinc-600">No se encontraron resultados.</div>';
-                return;
-            }
+        if (juegos.length === 0) {
+          lista.innerHTML =
+            '<div class="p-10 text-center text-zinc-600">No se encontraron resultados.</div>';
+          return;
+        }
 
-            juegos.forEach(juego => {
-                const item = document.createElement('div');
-                item.className = 'grid grid-cols-12 p-4 row-game items-center transition-colors';
-                item.innerHTML = `
+        juegos.forEach((juego) => {
+          const item = document.createElement("div");
+          item.className =
+            "grid grid-cols-12 p-4 row-game items-center transition-colors";
+          item.innerHTML = `
                     <div class="col-span-8 md:col-span-9 font-medium text-zinc-200 truncate pr-4">
                         ${juego.nombre}
                     </div>
@@ -73,49 +86,49 @@
                         <span class="text-green-400 font-mono font-bold text-lg">${juego.precioFormateado}</span>
                     </div>
                 `;
-                lista.appendChild(item);
-            });
-        }
-
-        // Buscador en tiempo real
-        inputBuscador.addEventListener('input', (e) => {
-            const busqueda = e.target.value.toLowerCase();
-            const filtrados = datosOriginales.filter(juego => 
-                juego.nombre.toLowerCase().includes(busqueda)
-            );
-            renderizar(filtrados);
+          lista.appendChild(item);
         });
+      }
 
-        // Lógica de carga
-        async function fetchYRefrescar() {
-            btn.disabled = true;
-            document.getElementById('btnText').innerText = "Scrapeando...";
-            
-            try {
-                // Ejecuta el scraper en el servidor
-                await fetch('/run-scraper');
-                // Lee el JSON actualizado
-                const res = await fetch('juegos_psn.json');
-                datosOriginales = await res.json();
-                renderizar(datosOriginales);
-            } catch (e) {
-                alert("Error al conectar con el servidor.");
-            } finally {
-                btn.disabled = false;
-                document.getElementById('btnText').innerText = "Scrapear Web";
-            }
+      // Buscador en tiempo real
+      inputBuscador.addEventListener("input", (e) => {
+        const busqueda = e.target.value.toLowerCase();
+        const filtrados = datosOriginales.filter((juego) =>
+          juego.nombre.toLowerCase().includes(busqueda),
+        );
+        renderizar(filtrados);
+      });
+
+      // Lógica de carga
+      async function fetchYRefrescar() {
+        btn.disabled = true;
+        document.getElementById("btnText").innerText = "Scrapeando...";
+
+        try {
+          // Ejecuta el scraper en el servidor
+          await fetch("/run-scraper");
+          // Lee el JSON actualizado
+          const res = await fetch("juegos_psn.json");
+          datosOriginales = await res.json();
+          renderizar(datosOriginales);
+        } catch (e) {
+          alert("Error al conectar con el servidor.");
+        } finally {
+          btn.disabled = false;
+          document.getElementById("btnText").innerText = "Scrapear Web";
         }
+      }
 
-        btn.addEventListener('click', fetchYRefrescar);
+      btn.addEventListener("click", fetchYRefrescar);
 
-        // Carga inicial
-        window.onload = async () => {
-            try {
-                const res = await fetch('juegos_psn.json');
-                datosOriginales = await res.json();
-                renderizar(datosOriginales);
-            } catch (e) {}
-        };
+      // Carga inicial
+      window.onload = async () => {
+        try {
+          const res = await fetch("juegos_psn.json");
+          datosOriginales = await res.json();
+          renderizar(datosOriginales);
+        } catch (e) {}
+      };
     </script>
-</body>
+  </body>
 </html>
