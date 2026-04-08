@@ -1,0 +1,51 @@
+name: Actualizar Precios PSN
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Se ejecuta cada 6 horas automáticamente
+  workflow_dispatch:      # Permite que tú le des a un botón para ejecutarlo manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del código
+        uses: actions/checkout@v4
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependencias
+        run: |
+          npm install
+          npx playwright install --with-deps chromium
+
+      - name: Ejecutar Scraper
+        run: node scraper_psn.js
+
+      - name: Guardar cambios (Commit)
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "actions@github.com"
+          git add juegos_psn.json
+          git commit -m "Actualización automática de precios: $(date)" || echo "No hay cambios"
+          git push
+
+          # ... (todo lo anterior igual hasta el git push)
+      - name: Guardar cambios (Commit)
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "actions@github.com"
+          git add juegos_psn.json
+          git commit -m "Actualización automática de precios: $(date)" || echo "No hay cambios"
+          git push
+
+      - name: Trigger GitHub Pages Deploy
+        run: |
+          curl -L \
+            -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/${{ github.repository }}/pages/builds
