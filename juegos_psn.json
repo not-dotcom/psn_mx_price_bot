@@ -36,6 +36,12 @@
     "precioFormateado": "$1,592.36"
   },
   {
+    "nombre": "Battlefield™ 6 Phantom Edition",
+    "precioBaseUSD": 74.99,
+    "precioFinalMXN": 1531.11,
+    "precioFormateado": "$1,531.11"
+  },
+  {
     "nombre": "Sid Meier's Civilization® VII Edición Colonos",
     "precioBaseUSD": 71.99,
     "precioFinalMXN": 1469.86,
@@ -60,6 +66,12 @@
     "precioFormateado": "$1,326.93"
   },
   {
+    "nombre": "DRAGON BALL Z : KAKAROT - MASTER EDITION",
+    "precioBaseUSD": 64.99,
+    "precioFinalMXN": 1326.93,
+    "precioFormateado": "$1,326.93"
+  },
+  {
     "nombre": "Premium Edition de Assassin's Creed Shadows",
     "precioBaseUSD": 60.49,
     "precioFinalMXN": 1235.06,
@@ -72,10 +84,10 @@
     "precioFormateado": "$1,224.85"
   },
   {
-    "nombre": "Indiana Jones y el Gran Círculo",
-    "precioBaseUSD": 55.99,
-    "precioFinalMXN": 1143.18,
-    "precioFormateado": "$1,143.18"
+    "nombre": "Ninja Gaiden 4 Deluxe Edition",
+    "precioBaseUSD": 58.49,
+    "precioFinalMXN": 1194.22,
+    "precioFormateado": "$1,194.22"
   },
   {
     "nombre": "Edición Ultimate de DRAGON BALL: Sparking! ZERO",
@@ -1110,18 +1122,6 @@
     "precioFormateado": "$183.55"
   },
   {
-    "nombre": "Paquete Reino Koi de Fortnite",
-    "precioBaseUSD": 8.99,
-    "precioFinalMXN": 183.55,
-    "precioFormateado": "$183.55"
-  },
-  {
-    "nombre": "Fortnite: paquete Deriva infinita",
-    "precioBaseUSD": 8.99,
-    "precioFinalMXN": 183.55,
-    "precioFormateado": "$183.55"
-  },
-  {
     "nombre": "Colección LEGO® Marvel",
     "precioBaseUSD": 8.99,
     "precioFinalMXN": 183.55,
@@ -1356,13 +1356,13 @@
     "precioFormateado": "$101.88"
   },
   {
-    "nombre": "Burnout™ Paradise Remastered",
+    "nombre": "Resident Evil 3 Nemesis",
     "precioBaseUSD": 4.99,
     "precioFinalMXN": 101.88,
     "precioFormateado": "$101.88"
   },
   {
-    "nombre": "Resident Evil 3 Nemesis",
+    "nombre": "Burnout™ Paradise Remastered",
     "precioBaseUSD": 4.99,
     "precioFinalMXN": 101.88,
     "precioFormateado": "$101.88"
