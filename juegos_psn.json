@@ -336,12 +336,6 @@
     "precioFormateado": "$601.25"
   },
   {
-    "nombre": "La ascensión del Ronin™",
-    "precioBaseUSD": 29.39,
-    "precioFinalMXN": 601.25,
-    "precioFormateado": "$601.25"
-  },
-  {
     "nombre": "HITMAN World of Assassination",
     "precioBaseUSD": 27.99,
     "precioFinalMXN": 572.61,
@@ -600,12 +594,6 @@
     "precioFormateado": "$408.95"
   },
   {
-    "nombre": "KINGDOM HEARTS HD 1.5 +2.5 ReMIX",
-    "precioBaseUSD": 19.99,
-    "precioFinalMXN": 408.95,
-    "precioFormateado": "$408.95"
-  },
-  {
     "nombre": "Expansión Desde las Cenizas de Avatar: Frontiers of Pandora™",
     "precioBaseUSD": 19.99,
     "precioFinalMXN": 408.95,
@@ -643,6 +631,12 @@
   },
   {
     "nombre": "Persona 5 Tactica: Digital Deluxe Edition PS4 & PS5",
+    "precioBaseUSD": 19.99,
+    "precioFinalMXN": 408.95,
+    "precioFormateado": "$408.95"
+  },
+  {
+    "nombre": "KINGDOM HEARTS HD 1.5 +2.5 ReMIX",
     "precioBaseUSD": 19.99,
     "precioFinalMXN": 408.95,
     "precioFormateado": "$408.95"
@@ -894,6 +888,12 @@
     "precioFormateado": "$275.98"
   },
   {
+    "nombre": "NINJA GAIDEN 4 Deluxe Edition Upgrade",
+    "precioBaseUSD": 13,
+    "precioFinalMXN": 265.95,
+    "precioFormateado": "$265.95"
+  },
+  {
     "nombre": "Hell Let Loose",
     "precioBaseUSD": 12.49,
     "precioFinalMXN": 255.52,
@@ -937,6 +937,12 @@
   },
   {
     "nombre": "Marvel vs. Capcom: Infinite - Deluxe Edition",
+    "precioBaseUSD": 11.99,
+    "precioFinalMXN": 245.29,
+    "precioFormateado": "$245.29"
+  },
+  {
+    "nombre": "Capcom Arcade Stadium Bundle",
     "precioBaseUSD": 11.99,
     "precioFinalMXN": 245.29,
     "precioFormateado": "$245.29"
@@ -1074,12 +1080,6 @@
     "precioFormateado": "$204.37"
   },
   {
-    "nombre": "Terraria – PlayStation®4 Edition",
-    "precioBaseUSD": 9.99,
-    "precioFinalMXN": 204.37,
-    "precioFormateado": "$204.37"
-  },
-  {
     "nombre": "Super Monkey Ball Banana Mania PS4 & PS5",
     "precioBaseUSD": 9.99,
     "precioFinalMXN": 204.37,
@@ -1099,12 +1099,6 @@
   },
   {
     "nombre": "Monster Hunter Rise + Sunbreak",
-    "precioBaseUSD": 9.59,
-    "precioFinalMXN": 196.19,
-    "precioFormateado": "$196.19"
-  },
-  {
-    "nombre": "The Seven Deadly Sins: Knights of Britannia",
     "precioBaseUSD": 9.59,
     "precioFinalMXN": 196.19,
     "precioFormateado": "$196.19"
@@ -1158,6 +1152,12 @@
     "precioFormateado": "$163.46"
   },
   {
+    "nombre": "Kingdom Come: Deliverance Royal Edition",
+    "precioBaseUSD": 7.99,
+    "precioFinalMXN": 163.46,
+    "precioFormateado": "$163.46"
+  },
+  {
     "nombre": "Fallout 4",
     "precioBaseUSD": 7.99,
     "precioFinalMXN": 163.46,
@@ -1177,6 +1177,12 @@
   },
   {
     "nombre": "Poppy Playtime: Capítulo 3",
+    "precioBaseUSD": 7.49,
+    "precioFinalMXN": 153.23,
+    "precioFormateado": "$153.23"
+  },
+  {
+    "nombre": "Ultimate Marvel vs. Capcom 3",
     "precioBaseUSD": 7.49,
     "precioFinalMXN": 153.23,
     "precioFormateado": "$153.23"
@@ -1290,12 +1296,6 @@
     "precioFormateado": "$122.54"
   },
   {
-    "nombre": "Mafia III: Definitive Edition",
-    "precioBaseUSD": 5.99,
-    "precioFinalMXN": 122.54,
-    "precioFormateado": "$122.54"
-  },
-  {
     "nombre": "LEGO® Batman™ 3: Más allá de Gotham Edición Deluxe",
     "precioBaseUSD": 5.99,
     "precioFinalMXN": 122.54,
@@ -1344,6 +1344,12 @@
     "precioFormateado": "$102.08"
   },
   {
+    "nombre": "DRAGON BALL Z: KAKAROT - CONJUNTO EL DESPERTAR DE UN NUEVO PODER",
+    "precioBaseUSD": 4.99,
+    "precioFinalMXN": 102.08,
+    "precioFormateado": "$102.08"
+  },
+  {
     "nombre": "Assassin's Creed Odyssey The Fate of Atlantis",
     "precioBaseUSD": 4.99,
     "precioFinalMXN": 102.08,
@@ -1351,12 +1357,6 @@
   },
   {
     "nombre": "La Tierra Media™: Sombras de Mordor™ - Edición Juego del Año",
-    "precioBaseUSD": 4.99,
-    "precioFinalMXN": 102.08,
-    "precioFormateado": "$102.08"
-  },
-  {
-    "nombre": "Dead Rising 2",
     "precioBaseUSD": 4.99,
     "precioFinalMXN": 102.08,
     "precioFormateado": "$102.08"
