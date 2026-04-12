@@ -312,13 +312,13 @@
     "precioFormateado": "$610.52"
   },
   {
-    "nombre": "Farming Simulator 22",
+    "nombre": "Mount & Blade II: Bannerlord - Digital Deluxe",
     "precioBaseUSD": 29.99,
     "precioFinalMXN": 610.52,
     "precioFormateado": "$610.52"
   },
   {
-    "nombre": "Mount & Blade II: Bannerlord - Digital Deluxe",
+    "nombre": "Farming Simulator 22",
     "precioBaseUSD": 29.99,
     "precioFinalMXN": 610.52,
     "precioFormateado": "$610.52"
@@ -348,6 +348,12 @@
     "precioFormateado": "$598.30"
   },
   {
+    "nombre": "Returnal",
+    "precioBaseUSD": 29.39,
+    "precioFinalMXN": 598.3,
+    "precioFormateado": "$598.30"
+  },
+  {
     "nombre": "Demon’s Souls",
     "precioBaseUSD": 29.39,
     "precioFinalMXN": 598.3,
@@ -355,12 +361,6 @@
   },
   {
     "nombre": "Ratchet & Clank: Una dimensión aparte",
-    "precioBaseUSD": 29.39,
-    "precioFinalMXN": 598.3,
-    "precioFormateado": "$598.30"
-  },
-  {
-    "nombre": "Returnal",
     "precioBaseUSD": 29.39,
     "precioFinalMXN": 598.3,
     "precioFormateado": "$598.30"
@@ -492,7 +492,7 @@
     "precioFormateado": "$508.73"
   },
   {
-    "nombre": "Dead Rising Deluxe Remaster",
+    "nombre": "BL 3: Ultimate Edition PS4™ &  PS5™",
     "precioBaseUSD": 24.99,
     "precioFinalMXN": 508.73,
     "precioFormateado": "$508.73"
@@ -654,6 +654,12 @@
     "precioFormateado": "$406.94"
   },
   {
+    "nombre": "Mount & Blade II: Bannerlord - War Sails",
+    "precioBaseUSD": 19.99,
+    "precioFinalMXN": 406.94,
+    "precioFormateado": "$406.94"
+  },
+  {
     "nombre": "Los Sims™ 4 Creciendo en Familia Pack de Expansión",
     "precioBaseUSD": 19.99,
     "precioFinalMXN": 406.94,
@@ -679,12 +685,6 @@
   },
   {
     "nombre": "KINGDOM HEARTS HD 1.5 +2.5 ReMIX",
-    "precioBaseUSD": 19.99,
-    "precioFinalMXN": 406.94,
-    "precioFormateado": "$406.94"
-  },
-  {
-    "nombre": "Mount & Blade II: Bannerlord - War Sails",
     "precioBaseUSD": 19.99,
     "precioFinalMXN": 406.94,
     "precioFormateado": "$406.94"
@@ -960,6 +960,12 @@
     "precioFormateado": "$244.09"
   },
   {
+    "nombre": "Overcooked! All You Can Eat",
+    "precioBaseUSD": 11.99,
+    "precioFinalMXN": 244.09,
+    "precioFormateado": "$244.09"
+  },
+  {
     "nombre": "Assassin’s Creed® The Ezio Collection",
     "precioBaseUSD": 11.99,
     "precioFinalMXN": 244.09,
@@ -1002,13 +1008,13 @@
     "precioFormateado": "$203.37"
   },
   {
-    "nombre": "Lote Mortal Kombat 11 Ultimate + Injustice 2 Leg. Edition",
+    "nombre": "The Witcher 3: Wild Hunt – Complete Edition",
     "precioBaseUSD": 9.99,
     "precioFinalMXN": 203.37,
     "precioFormateado": "$203.37"
   },
   {
-    "nombre": "The Witcher 3: Wild Hunt – Complete Edition",
+    "nombre": "Lote Mortal Kombat 11 Ultimate + Injustice 2 Leg. Edition",
     "precioBaseUSD": 9.99,
     "precioFinalMXN": 203.37,
     "precioFormateado": "$203.37"
@@ -1230,6 +1236,12 @@
     "precioFormateado": "$121.94"
   },
   {
+    "nombre": "Mafia III: Definitive Edition",
+    "precioBaseUSD": 5.99,
+    "precioFinalMXN": 121.94,
+    "precioFormateado": "$121.94"
+  },
+  {
     "nombre": "Shadow of the Tomb Raider Definitive Edition",
     "precioBaseUSD": 5.99,
     "precioFinalMXN": 121.94,
@@ -1243,12 +1255,6 @@
   },
   {
     "nombre": "STAR WARS Jedi: La Orden caída™ Edición Deluxe",
-    "precioBaseUSD": 5.99,
-    "precioFinalMXN": 121.94,
-    "precioFormateado": "$121.94"
-  },
-  {
-    "nombre": "Mafia III: Definitive Edition",
     "precioBaseUSD": 5.99,
     "precioFinalMXN": 121.94,
     "precioFormateado": "$121.94"
@@ -1285,12 +1291,6 @@
   },
   {
     "nombre": "Poppy Playtime: Capítulo 2",
-    "precioBaseUSD": 4.99,
-    "precioFinalMXN": 101.58,
-    "precioFormateado": "$101.58"
-  },
-  {
-    "nombre": "Resident Evil 3 Nemesis",
     "precioBaseUSD": 4.99,
     "precioFinalMXN": 101.58,
     "precioFormateado": "$101.58"
