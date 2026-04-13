@@ -74,7 +74,7 @@ const URL_PAGINA = [
   "https://store.playstation.com/es-mx/category/3f772501-f6f8-49b7-abac-874a88ca4897/8?storeDisplayClassification=FULL_GAME,PREMIUM_EDITION,GAME_BUNDLE",
   "https://store.playstation.com/es-mx/category/3f772501-f6f8-49b7-abac-874a88ca4897/9?storeDisplayClassification=FULL_GAME,PREMIUM_EDITION,GAME_BUNDLE",
   "https://store.playstation.com/es-mx/category/3f772501-f6f8-49b7-abac-874a88ca4897/10?storeDisplayClassification=FULL_GAME,PREMIUM_EDITION,GAME_BUNDLE",
-  
+
   // Puedes dejar las demás páginas aquí
 ];
 
@@ -102,15 +102,15 @@ async function buscarTodos() {
 
   await browser.close();
 
-  // --- ORDENAMIENTO ---
-  // Ordenamos el catálogo completo de Mayor a Menor basándonos en la propiedad precioFinalMXN
   catalogoCompleto.sort((a, b) => b.precioFinalMXN - a.precioFinalMXN);
 
-  // --- GUARDADO EN JSON ---
-  // JSON.stringify(data, null, 2) le da un formato bonito y legible (con sangrías)
+  const output = {
+    lastUpdated: new Date().toISOString(),
+    juegos: catalogoCompleto,
+  };
   await fs.writeFile(
     "juegos_psn.json",
-    JSON.stringify(catalogoCompleto, null, 2),
+    JSON.stringify(output, null, 2),
     "utf-8",
   );
 
