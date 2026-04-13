@@ -66,6 +66,12 @@
     "precioFormateado": "$1,221.24"
   },
   {
+    "nombre": "Edición Estándar WWE 2K26",
+    "precioBaseUSD": 59.49,
+    "precioFinalMXN": 1211.06,
+    "precioFormateado": "$1,211.06"
+  },
+  {
     "nombre": "Ninja Gaiden 4 Deluxe Edition",
     "precioBaseUSD": 58.49,
     "precioFinalMXN": 1190.71,
@@ -499,12 +505,6 @@
   },
   {
     "nombre": "Mount & Blade II: Bannerlord",
-    "precioBaseUSD": 24.99,
-    "precioFinalMXN": 508.73,
-    "precioFormateado": "$508.73"
-  },
-  {
-    "nombre": "Dead Rising Deluxe Remaster",
     "precioBaseUSD": 24.99,
     "precioFinalMXN": 508.73,
     "precioFormateado": "$508.73"
