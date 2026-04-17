@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T00:10:51.954Z",
+  "lastUpdated": "2026-04-17T06:31:32.786Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -62,7 +62,7 @@
       "precioFormateado": "$1,296.74"
     },
     {
-      "nombre": "Sid Meier's Civilization® VII Edición Deluxe",
+      "nombre": "MX vs ATV Legends - 2025 Ultimate Edition",
       "precioBaseUSD": 59.99,
       "precioFinalMXN": 1215.68,
       "precioFormateado": "$1,215.68"
@@ -93,6 +93,12 @@
     },
     {
       "nombre": "Warhammer 40,000: Space Marine 2 - Season Pass 1 + 2",
+      "precioBaseUSD": 55.99,
+      "precioFinalMXN": 1134.62,
+      "precioFormateado": "$1,134.62"
+    },
+    {
+      "nombre": "Farming Simulator 25: Year 1 Bundle",
       "precioBaseUSD": 55.99,
       "precioFinalMXN": 1134.62,
       "precioFormateado": "$1,134.62"
@@ -206,13 +212,13 @@
       "precioFormateado": "$810.39"
     },
     {
-      "nombre": "Undisputed - Championship Edition",
+      "nombre": "Dragon's Dogma 2 Deluxe Edition",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 810.39,
       "precioFormateado": "$810.39"
     },
     {
-      "nombre": "Dragon's Dogma 2 Deluxe Edition",
+      "nombre": "Undisputed - Championship Edition",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 810.39,
       "precioFormateado": "$810.39"
@@ -224,13 +230,13 @@
       "precioFormateado": "$810.39"
     },
     {
-      "nombre": "Edición Completa de Horizon Forbidden West™",
-      "precioBaseUSD": 39.59,
-      "precioFinalMXN": 802.28,
-      "precioFormateado": "$802.28"
+      "nombre": "Street Fighter™ 6 - Year 2 Ultimate Pass",
+      "precioBaseUSD": 39.99,
+      "precioFinalMXN": 810.39,
+      "precioFormateado": "$810.39"
     },
     {
-      "nombre": "Horizon Call of the Mountain™",
+      "nombre": "Edición Completa de Horizon Forbidden West™",
       "precioBaseUSD": 39.59,
       "precioFinalMXN": 802.28,
       "precioFormateado": "$802.28"
@@ -296,13 +302,13 @@
       "precioFormateado": "$709.06"
     },
     {
-      "nombre": "Senua’s Saga: Hellblade II Edición Deluxe",
+      "nombre": "Metaphor: ReFantazio, PS4 & PS5",
       "precioBaseUSD": 34.99,
       "precioFinalMXN": 709.06,
       "precioFormateado": "$709.06"
     },
     {
-      "nombre": "Metaphor: ReFantazio, PS4 & PS5",
+      "nombre": "Senua’s Saga: Hellblade II Edición Deluxe",
       "precioBaseUSD": 34.99,
       "precioFinalMXN": 709.06,
       "precioFormateado": "$709.06"
@@ -332,13 +338,13 @@
       "precioFormateado": "$607.74"
     },
     {
-      "nombre": "DRAGON BALL XENOVERSE 2 - FUTURE SAGA Pack Set",
+      "nombre": "The Crew Motorfest - Ultimate Edition Año 2",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 607.74,
       "precioFormateado": "$607.74"
     },
     {
-      "nombre": "The Crew Motorfest - Ultimate Edition Año 2",
+      "nombre": "DRAGON BALL XENOVERSE 2 - FUTURE SAGA Pack Set",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 607.74,
       "precioFormateado": "$607.74"
@@ -356,7 +362,7 @@
       "precioFormateado": "$607.74"
     },
     {
-      "nombre": "NHL 26 Edición Deluxe PS5",
+      "nombre": "Mount & Blade II: Bannerlord - Digital Deluxe",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 607.74,
       "precioFormateado": "$607.74"
@@ -392,13 +398,13 @@
       "precioFormateado": "$595.58"
     },
     {
-      "nombre": "Returnal",
+      "nombre": "La ascensión del Ronin™",
       "precioBaseUSD": 29.39,
       "precioFinalMXN": 595.58,
       "precioFormateado": "$595.58"
     },
     {
-      "nombre": "La ascensión del Ronin™",
+      "nombre": "Returnal",
       "precioBaseUSD": 29.39,
       "precioFinalMXN": 595.58,
       "precioFormateado": "$595.58"
@@ -452,13 +458,13 @@
       "precioFormateado": "$557.08"
     },
     {
-      "nombre": "Sniper Elite: Resistance Deluxe Edition PS4™ & PS5™",
+      "nombre": "LOLLIPOP CHAINSAW RePOP",
       "precioBaseUSD": 26.99,
       "precioFinalMXN": 546.95,
       "precioFormateado": "$546.95"
     },
     {
-      "nombre": "LOLLIPOP CHAINSAW RePOP",
+      "nombre": "Sniper Elite: Resistance Deluxe Edition PS4™ & PS5™",
       "precioBaseUSD": 26.99,
       "precioFinalMXN": 546.95,
       "precioFormateado": "$546.95"
@@ -572,12 +578,6 @@
       "precioFormateado": "$455.75"
     },
     {
-      "nombre": "Sniper Elite 5 Complete Edition",
-      "precioBaseUSD": 21.99,
-      "precioFinalMXN": 445.62,
-      "precioFormateado": "$445.62"
-    },
-    {
       "nombre": "Dying Light Collection",
       "precioBaseUSD": 21.37,
       "precioFinalMXN": 433.06,
@@ -585,12 +585,6 @@
     },
     {
       "nombre": "Horizon Zero Dawn™ remasterizado",
-      "precioBaseUSD": 20.99,
-      "precioFinalMXN": 425.36,
-      "precioFormateado": "$425.36"
-    },
-    {
-      "nombre": "Sonic Frontiers Edición digital deluxe PS4 & PS5",
       "precioBaseUSD": 20.99,
       "precioFinalMXN": 425.36,
       "precioFormateado": "$425.36"
@@ -674,7 +668,7 @@
       "precioFormateado": "$405.09"
     },
     {
-      "nombre": "Expansión Desde las Cenizas de Avatar: Frontiers of Pandora™",
+      "nombre": "KINGDOM HEARTS HD 1.5 +2.5 ReMIX",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 405.09,
       "precioFormateado": "$405.09"
@@ -686,7 +680,13 @@
       "precioFormateado": "$405.09"
     },
     {
-      "nombre": "KINGDOM HEARTS HD 1.5 +2.5 ReMIX",
+      "nombre": "Expansión Desde las Cenizas de Avatar: Frontiers of Pandora™",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 405.09,
+      "precioFormateado": "$405.09"
+    },
+    {
+      "nombre": "SnowRunner - 1-Year Anniversary Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 405.09,
       "precioFormateado": "$405.09"
@@ -818,13 +818,13 @@
       "precioFormateado": "$303.77"
     },
     {
-      "nombre": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles PS4 & PS5",
+      "nombre": "CarX Street",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 303.77,
       "precioFormateado": "$303.77"
     },
     {
-      "nombre": "CarX Street",
+      "nombre": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles PS4 & PS5",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 303.77,
       "precioFormateado": "$303.77"
@@ -843,6 +843,12 @@
     },
     {
       "nombre": "Ready or Not: Mission Pass",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 303.77,
+      "precioFormateado": "$303.77"
+    },
+    {
+      "nombre": "Assassin’s Creed® Origins Gold Edition",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 303.77,
       "precioFormateado": "$303.77"
@@ -1022,19 +1028,19 @@
       "precioFormateado": "$202.44"
     },
     {
+      "nombre": "DRAGON BALL XENOVERSE 2 Deluxe Edition",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 202.44,
+      "precioFormateado": "$202.44"
+    },
+    {
       "nombre": "Borderlands Legendary Collection",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 202.44,
       "precioFormateado": "$202.44"
     },
     {
-      "nombre": "Captain Tsubasa: Rise of New Champions",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 202.44,
-      "precioFormateado": "$202.44"
-    },
-    {
-      "nombre": "DRAGON BALL XENOVERSE 2 Deluxe Edition",
+      "nombre": "Bayonetta & Vanquish 10th Anniversary Bundle",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 202.44,
       "precioFormateado": "$202.44"
@@ -1082,6 +1088,12 @@
       "precioFormateado": "$182.18"
     },
     {
+      "nombre": "Assassin's Creed Syndicate",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 182.18,
+      "precioFormateado": "$182.18"
+    },
+    {
       "nombre": "The Crew® 2",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 182.18,
@@ -1094,13 +1106,13 @@
       "precioFormateado": "$161.92"
     },
     {
-      "nombre": "Fallout 4",
+      "nombre": "The Evil Within 2",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 161.92,
       "precioFormateado": "$161.92"
     },
     {
-      "nombre": "The Evil Within 2",
+      "nombre": "Fallout 4",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 161.92,
       "precioFormateado": "$161.92"
@@ -1113,12 +1125,6 @@
     },
     {
       "nombre": "Kingdom Come: Deliverance Royal Edition",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 161.92,
-      "precioFormateado": "$161.92"
-    },
-    {
-      "nombre": "World War Z x The Walking Dead",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 161.92,
       "precioFormateado": "$161.92"
@@ -1310,12 +1316,6 @@
       "precioFormateado": "$101.12"
     },
     {
-      "nombre": "LEGO® Marvel Super Heroes 2",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 101.12,
-      "precioFormateado": "$101.12"
-    },
-    {
       "nombre": "Five Nights at Freddy's 2",
       "precioBaseUSD": 4.79,
       "precioFinalMXN": 97.07,
@@ -1346,6 +1346,12 @@
       "precioFormateado": "$90.99"
     },
     {
+      "nombre": "Metro Redux",
+      "precioBaseUSD": 4.49,
+      "precioFinalMXN": 90.99,
+      "precioFormateado": "$90.99"
+    },
+    {
       "nombre": "DOOM",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 80.86,
@@ -1370,12 +1376,6 @@
       "precioFormateado": "$60.59"
     },
     {
-      "nombre": "Lords of the Fallen - Deluxe Upgrade",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 60.59,
-      "precioFormateado": "$60.59"
-    },
-    {
       "nombre": "Dead Island Definitive Edition",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 60.59,
@@ -1388,16 +1388,16 @@
       "precioFormateado": "$60.59"
     },
     {
+      "nombre": "Lords of the Fallen - Deluxe Upgrade",
+      "precioBaseUSD": 2.99,
+      "precioFinalMXN": 60.59,
+      "precioFormateado": "$60.59"
+    },
+    {
       "nombre": "INSIDE",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 50.46,
       "precioFormateado": "$50.46"
-    },
-    {
-      "nombre": "Lords of the Fallen - Dark Crusader Starting Class",
-      "precioBaseUSD": 2.39,
-      "precioFinalMXN": 48.43,
-      "precioFormateado": "$48.43"
     },
     {
       "nombre": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
