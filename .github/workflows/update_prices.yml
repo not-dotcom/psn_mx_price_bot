@@ -1,9 +1,7 @@
 name: Actualizar Precios PSN
 on:
   schedule:
-    - cron: '0 */6 * * *' # Se ejecuta cada 6 horas automáticamente
-  workflow_dispatch:      # Permite que tú le des a un botón para ejecutarlo manualmente
-
+    - cron: '0 */0.5  * * *' # 
 jobs:
   build:
     runs-on: ubuntu-latest
