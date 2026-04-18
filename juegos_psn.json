@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T03:34:25.338Z",
+  "lastUpdated": "2026-04-18T04:48:30.950Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -128,12 +128,6 @@
       "precioFormateado": "$1,060.65"
     },
     {
-      "nombre": "BLEACH Rebirth of Souls Edición Deluxe PS4 y PS5",
-      "precioBaseUSD": 50.99,
-      "precioFinalMXN": 1030.34,
-      "precioFormateado": "$1,030.34"
-    },
-    {
       "nombre": "Edición Deluxe de DRAGON BALL: Sparking! ZERO",
       "precioBaseUSD": 49.99,
       "precioFinalMXN": 1010.13,
@@ -230,25 +224,25 @@
       "precioFormateado": "$808.07"
     },
     {
-      "nombre": "Dragon's Dogma 2 Deluxe Edition",
-      "precioBaseUSD": 39.99,
-      "precioFinalMXN": 808.07,
-      "precioFormateado": "$808.07"
-    },
-    {
       "nombre": "Hell is Us - Deluxe Edition",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 808.07,
       "precioFormateado": "$808.07"
     },
     {
-      "nombre": "Undisputed - Championship Edition",
+      "nombre": "Dragon's Dogma 2 Deluxe Edition",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 808.07,
       "precioFormateado": "$808.07"
     },
     {
       "nombre": "Street Fighter™ 6 - Year 2 Ultimate Pass",
+      "precioBaseUSD": 39.99,
+      "precioFinalMXN": 808.07,
+      "precioFormateado": "$808.07"
+    },
+    {
+      "nombre": "Undisputed - Championship Edition",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 808.07,
       "precioFormateado": "$808.07"
@@ -308,13 +302,13 @@
       "precioFormateado": "$727.24"
     },
     {
-      "nombre": "WUCHANG: Fallen Feathers",
+      "nombre": "Warhammer 40,000: Space Marine 2 - 1-Year Anniversary Edition",
       "precioBaseUSD": 34.99,
       "precioFinalMXN": 707.03,
       "precioFormateado": "$707.03"
     },
     {
-      "nombre": "Warhammer 40,000: Space Marine 2 - 1-Year Anniversary Edition",
+      "nombre": "WUCHANG: Fallen Feathers",
       "precioBaseUSD": 34.99,
       "precioFinalMXN": 707.03,
       "precioFormateado": "$707.03"
@@ -464,6 +458,18 @@
       "precioFormateado": "$565.59"
     },
     {
+      "nombre": "Alien: Rogue Incursion Evolved Edition Deluxe",
+      "precioBaseUSD": 27.99,
+      "precioFinalMXN": 565.59,
+      "precioFormateado": "$565.59"
+    },
+    {
+      "nombre": "Azure Striker Gunvolt Trilogy Enhanced",
+      "precioBaseUSD": 27.99,
+      "precioFinalMXN": 565.59,
+      "precioFormateado": "$565.59"
+    },
+    {
       "nombre": "Days Gone",
       "precioBaseUSD": 27.59,
       "precioFinalMXN": 557.5,
@@ -590,12 +596,6 @@
       "precioFormateado": "$454.45"
     },
     {
-      "nombre": "Sniper Elite 5 Complete Edition",
-      "precioBaseUSD": 21.99,
-      "precioFinalMXN": 444.35,
-      "precioFormateado": "$444.35"
-    },
-    {
       "nombre": "Dying Light Collection",
       "precioBaseUSD": 21.37,
       "precioFinalMXN": 431.82,
@@ -693,12 +693,6 @@
     },
     {
       "nombre": "SnowRunner - 1-Year Anniversary Edition",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 403.93,
-      "precioFormateado": "$403.93"
-    },
-    {
-      "nombre": "Life is Strange: Double Exposure",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 403.93,
       "precioFormateado": "$403.93"
@@ -830,12 +824,6 @@
       "precioFormateado": "$302.90"
     },
     {
-      "nombre": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles PS4 & PS5",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 302.9,
-      "precioFormateado": "$302.90"
-    },
-    {
       "nombre": "CarX Street",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 302.9,
@@ -843,6 +831,12 @@
     },
     {
       "nombre": "Sniper Elite: Resistance PS4™ & PS5™",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 302.9,
+      "precioFormateado": "$302.90"
+    },
+    {
+      "nombre": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles PS4 & PS5",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 302.9,
       "precioFormateado": "$302.90"
@@ -951,6 +945,12 @@
     },
     {
       "nombre": "Bread & Fred",
+      "precioBaseUSD": 11.24,
+      "precioFinalMXN": 227.12,
+      "precioFormateado": "$227.12"
+    },
+    {
+      "nombre": "Gravity Circuit Deluxe",
       "precioBaseUSD": 11.24,
       "precioFinalMXN": 227.12,
       "precioFormateado": "$227.12"
@@ -1112,13 +1112,13 @@
       "precioFormateado": "$161.45"
     },
     {
-      "nombre": "Fallout 4",
+      "nombre": "The Evil Within 2",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 161.45,
       "precioFormateado": "$161.45"
     },
     {
-      "nombre": "The Evil Within 2",
+      "nombre": "Fallout 4",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 161.45,
       "precioFormateado": "$161.45"
@@ -1250,12 +1250,6 @@
       "precioFormateado": "$121.04"
     },
     {
-      "nombre": "Human: Fall Flat PS4 & PS5",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 121.04,
-      "precioFormateado": "$121.04"
-    },
-    {
       "nombre": "Blasphemous 2 - Mea Culpa",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 121.04,
@@ -1263,6 +1257,12 @@
     },
     {
       "nombre": "Mafia II: Definitive Edition",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 121.04,
+      "precioFormateado": "$121.04"
+    },
+    {
+      "nombre": "Human: Fall Flat PS4 & PS5",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 121.04,
       "precioFormateado": "$121.04"
@@ -1316,12 +1316,6 @@
       "precioFormateado": "$100.83"
     },
     {
-      "nombre": "LEGO® Marvel Super Heroes 2",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 100.83,
-      "precioFormateado": "$100.83"
-    },
-    {
       "nombre": "Five Nights at Freddy's 2",
       "precioBaseUSD": 4.79,
       "precioFinalMXN": 96.79,
@@ -1347,6 +1341,12 @@
     },
     {
       "nombre": "Metro Redux",
+      "precioBaseUSD": 4.49,
+      "precioFinalMXN": 90.73,
+      "precioFormateado": "$90.73"
+    },
+    {
+      "nombre": "Saints Row: The Third Remastered",
       "precioBaseUSD": 4.49,
       "precioFinalMXN": 90.73,
       "precioFormateado": "$90.73"
