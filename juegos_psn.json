@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T01:02:10.125Z",
+  "lastUpdated": "2026-04-18T02:18:00.708Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -18,6 +18,12 @@
       "precioBaseUSD": 81.19,
       "precioFinalMXN": 1640.58,
       "precioFormateado": "$1,640.58"
+    },
+    {
+      "nombre": "Brawlhalla - Collector's Pack",
+      "precioBaseUSD": 79.99,
+      "precioFinalMXN": 1616.34,
+      "precioFormateado": "$1,616.34"
     },
     {
       "nombre": "SnowRunner - 5-Year Anniversary Edition",
@@ -44,6 +50,12 @@
       "precioFormateado": "$1,414.27"
     },
     {
+      "nombre": "Edición Deluxe de CODE VEIN II",
+      "precioBaseUSD": 67.49,
+      "precioFinalMXN": 1363.75,
+      "precioFormateado": "$1,363.75"
+    },
+    {
       "nombre": "Call of Duty®: Black Ops 7 - Edición Bóveda",
       "precioBaseUSD": 64.99,
       "precioFinalMXN": 1313.24,
@@ -63,6 +75,12 @@
     },
     {
       "nombre": "MX vs ATV Legends - 2025 Ultimate Edition",
+      "precioBaseUSD": 59.99,
+      "precioFinalMXN": 1212.2,
+      "precioFormateado": "$1,212.20"
+    },
+    {
+      "nombre": "Sid Meier's Civilization® VII Edición Deluxe",
       "precioBaseUSD": 59.99,
       "precioFinalMXN": 1212.2,
       "precioFormateado": "$1,212.20"
@@ -416,13 +434,13 @@
       "precioFormateado": "$565.59"
     },
     {
-      "nombre": "Call of Duty®: Modern Warfare® III - Paquete Multigeneración",
+      "nombre": "HITMAN World of Assassination",
       "precioBaseUSD": 27.99,
       "precioFinalMXN": 565.59,
       "precioFormateado": "$565.59"
     },
     {
-      "nombre": "HITMAN World of Assassination",
+      "nombre": "Call of Duty®: Modern Warfare® III - Paquete Multigeneración",
       "precioBaseUSD": 27.99,
       "precioFinalMXN": 565.59,
       "precioFormateado": "$565.59"
@@ -458,13 +476,13 @@
       "precioFormateado": "$555.48"
     },
     {
-      "nombre": "LOLLIPOP CHAINSAW RePOP",
+      "nombre": "Sniper Elite: Resistance Deluxe Edition PS4™ & PS5™",
       "precioBaseUSD": 26.99,
       "precioFinalMXN": 545.38,
       "precioFormateado": "$545.38"
     },
     {
-      "nombre": "Sniper Elite: Resistance Deluxe Edition PS4™ & PS5™",
+      "nombre": "LOLLIPOP CHAINSAW RePOP",
       "precioBaseUSD": 26.99,
       "precioFinalMXN": 545.38,
       "precioFormateado": "$545.38"
@@ -501,12 +519,6 @@
     },
     {
       "nombre": "Dead Rising Deluxe Remaster",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 504.97,
-      "precioFormateado": "$504.97"
-    },
-    {
-      "nombre": "Mount & Blade II: Bannerlord",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 504.97,
       "precioFormateado": "$504.97"
@@ -752,13 +764,13 @@
       "precioFormateado": "$363.52"
     },
     {
-      "nombre": "Dying Light 2 Stay Human: Digital Extras Edition PS5",
+      "nombre": "Wobbly Life",
       "precioBaseUSD": 17.49,
       "precioFinalMXN": 353.42,
       "precioFormateado": "$353.42"
     },
     {
-      "nombre": "Wobbly Life",
+      "nombre": "Dying Light 2 Stay Human: Digital Extras Edition PS5",
       "precioBaseUSD": 17.49,
       "precioFinalMXN": 353.42,
       "precioFormateado": "$353.42"
@@ -1016,13 +1028,13 @@
       "precioFormateado": "$201.87"
     },
     {
-      "nombre": "Battlefield™ V Definitive Edition",
+      "nombre": "Terraria – PlayStation®4 Edition",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 201.87,
       "precioFormateado": "$201.87"
     },
     {
-      "nombre": "Terraria – PlayStation®4 Edition",
+      "nombre": "Battlefield™ V Definitive Edition",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 201.87,
       "precioFormateado": "$201.87"
@@ -1035,12 +1047,6 @@
     },
     {
       "nombre": "Borderlands Legendary Collection",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 201.87,
-      "precioFormateado": "$201.87"
-    },
-    {
-      "nombre": "Bayonetta & Vanquish 10th Anniversary Bundle",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 201.87,
       "precioFormateado": "$201.87"
@@ -1076,13 +1082,13 @@
       "precioFormateado": "$181.66"
     },
     {
-      "nombre": "Team Sonic Racing",
+      "nombre": "Gotham Knights: Deluxe",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 181.66,
       "precioFormateado": "$181.66"
     },
     {
-      "nombre": "Gotham Knights: Deluxe",
+      "nombre": "Team Sonic Racing",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 181.66,
       "precioFormateado": "$181.66"
@@ -1148,13 +1154,13 @@
       "precioFormateado": "$151.35"
     },
     {
-      "nombre": "Resident Evil 2 Extra DLC Pack",
+      "nombre": "Poppy Playtime: Capítulo 3",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 151.35,
       "precioFormateado": "$151.35"
     },
     {
-      "nombre": "Poppy Playtime: Capítulo 3",
+      "nombre": "Resident Evil 2 Extra DLC Pack",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 151.35,
       "precioFormateado": "$151.35"
@@ -1238,13 +1244,13 @@
       "precioFormateado": "$121.04"
     },
     {
-      "nombre": "Blasphemous 2 - Mea Culpa",
+      "nombre": "Human: Fall Flat PS4 & PS5",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 121.04,
       "precioFormateado": "$121.04"
     },
     {
-      "nombre": "Human: Fall Flat PS4 & PS5",
+      "nombre": "Blasphemous 2 - Mea Culpa",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 121.04,
       "precioFormateado": "$121.04"
@@ -1359,12 +1365,6 @@
     },
     {
       "nombre": "MK1: Ghostface",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 80.62,
-      "precioFormateado": "$80.62"
-    },
-    {
-      "nombre": "Danganronpa 1•2 Reload",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 80.62,
       "precioFormateado": "$80.62"
