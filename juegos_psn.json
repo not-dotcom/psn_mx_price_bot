@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T03:44:49.871Z",
+  "lastUpdated": "2026-04-19T05:02:07.894Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -296,12 +296,6 @@
       "precioFormateado": "$707.03"
     },
     {
-      "nombre": "Senua’s Saga: Hellblade II Edición Deluxe",
-      "precioBaseUSD": 34.99,
-      "precioFinalMXN": 707.03,
-      "precioFormateado": "$707.03"
-    },
-    {
       "nombre": "Warhammer 40,000: Space Marine 2 - 1-Year Anniversary Edition",
       "precioBaseUSD": 34.99,
       "precioFinalMXN": 707.03,
@@ -309,6 +303,12 @@
     },
     {
       "nombre": "Metaphor: ReFantazio, PS4 & PS5",
+      "precioBaseUSD": 34.99,
+      "precioFinalMXN": 707.03,
+      "precioFormateado": "$707.03"
+    },
+    {
+      "nombre": "Senua’s Saga: Hellblade II Edición Deluxe",
       "precioBaseUSD": 34.99,
       "precioFinalMXN": 707.03,
       "precioFormateado": "$707.03"
@@ -1058,6 +1058,12 @@
       "precioFormateado": "$201.87"
     },
     {
+      "nombre": "Persona 4 Golden",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 201.87,
+      "precioFormateado": "$201.87"
+    },
+    {
       "nombre": "Blasphemous 2",
       "precioBaseUSD": 9.89,
       "precioFinalMXN": 199.84,
@@ -1125,12 +1131,6 @@
     },
     {
       "nombre": "Kingdom Come: Deliverance Royal Edition",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 161.45,
-      "precioFormateado": "$161.45"
-    },
-    {
-      "nombre": "Battlefield 4™ Premium Edition",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 161.45,
       "precioFormateado": "$161.45"
