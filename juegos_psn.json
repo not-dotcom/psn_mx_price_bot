@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T01:10:14.173Z",
+  "lastUpdated": "2026-04-19T02:19:33.809Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -170,12 +170,6 @@
       "precioFormateado": "$969.72"
     },
     {
-      "nombre": "RIDE 6",
-      "precioBaseUSD": 47.99,
-      "precioFinalMXN": 969.72,
-      "precioFormateado": "$969.72"
-    },
-    {
       "nombre": "Cronos: The New Dawn",
       "precioBaseUSD": 45.49,
       "precioFinalMXN": 919.2,
@@ -326,6 +320,12 @@
       "precioFormateado": "$707.03"
     },
     {
+      "nombre": "Yakuza 0 Director's Cut PS5",
+      "precioBaseUSD": 34.99,
+      "precioFinalMXN": 707.03,
+      "precioFormateado": "$707.03"
+    },
+    {
       "nombre": "Street Fighter™ 6 - Year 1 Ultimate Pass",
       "precioBaseUSD": 32.49,
       "precioFinalMXN": 656.52,
@@ -428,13 +428,13 @@
       "precioFormateado": "$565.59"
     },
     {
-      "nombre": "HITMAN World of Assassination",
+      "nombre": "Call of Duty®: Modern Warfare® III - Paquete Multigeneración",
       "precioBaseUSD": 27.99,
       "precioFinalMXN": 565.59,
       "precioFormateado": "$565.59"
     },
     {
-      "nombre": "Call of Duty®: Modern Warfare® III - Paquete Multigeneración",
+      "nombre": "HITMAN World of Assassination",
       "precioBaseUSD": 27.99,
       "precioFinalMXN": 565.59,
       "precioFormateado": "$565.59"
@@ -459,12 +459,6 @@
     },
     {
       "nombre": "Alien: Rogue Incursion Evolved Edition Deluxe",
-      "precioBaseUSD": 27.99,
-      "precioFinalMXN": 565.59,
-      "precioFormateado": "$565.59"
-    },
-    {
-      "nombre": "Azure Striker Gunvolt Trilogy Enhanced",
       "precioBaseUSD": 27.99,
       "precioFinalMXN": 565.59,
       "precioFormateado": "$565.59"
@@ -746,19 +740,25 @@
       "precioFormateado": "$399.89"
     },
     {
+      "nombre": "Street Fighter™ 6 - Year 1 Character Pass",
+      "precioBaseUSD": 19.49,
+      "precioFinalMXN": 393.83,
+      "precioFormateado": "$393.83"
+    },
+    {
       "nombre": "REMATCH",
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 363.52,
       "precioFormateado": "$363.52"
     },
     {
-      "nombre": "Dying Light 2 Stay Human: Digital Extras Edition PS5",
+      "nombre": "Wobbly Life",
       "precioBaseUSD": 17.49,
       "precioFinalMXN": 353.42,
       "precioFormateado": "$353.42"
     },
     {
-      "nombre": "Wobbly Life",
+      "nombre": "Dying Light 2 Stay Human: Digital Extras Edition PS5",
       "precioBaseUSD": 17.49,
       "precioFinalMXN": 353.42,
       "precioFormateado": "$353.42"
@@ -824,13 +824,13 @@
       "precioFormateado": "$302.90"
     },
     {
-      "nombre": "Sniper Elite: Resistance PS4™ & PS5™",
+      "nombre": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles PS4 & PS5",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 302.9,
       "precioFormateado": "$302.90"
     },
     {
-      "nombre": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles PS4 & PS5",
+      "nombre": "Sniper Elite: Resistance PS4™ & PS5™",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 302.9,
       "precioFormateado": "$302.90"
@@ -1016,12 +1016,6 @@
       "precioFormateado": "$201.87"
     },
     {
-      "nombre": "THE KING OF FIGHTERS XV Edición Deluxe PS4 & PS5",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 201.87,
-      "precioFormateado": "$201.87"
-    },
-    {
       "nombre": "Assetto Corsa Competizione",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 201.87,
@@ -1029,6 +1023,12 @@
     },
     {
       "nombre": "Terraria – PlayStation®4 Edition",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 201.87,
+      "precioFormateado": "$201.87"
+    },
+    {
+      "nombre": "THE KING OF FIGHTERS XV Edición Deluxe PS4 & PS5",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 201.87,
       "precioFormateado": "$201.87"
@@ -1125,6 +1125,12 @@
     },
     {
       "nombre": "Kingdom Come: Deliverance Royal Edition",
+      "precioBaseUSD": 7.99,
+      "precioFinalMXN": 161.45,
+      "precioFormateado": "$161.45"
+    },
+    {
+      "nombre": "Battlefield 4™ Premium Edition",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 161.45,
       "precioFormateado": "$161.45"
@@ -1359,12 +1365,6 @@
     },
     {
       "nombre": "MK1: Ghostface",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 80.62,
-      "precioFormateado": "$80.62"
-    },
-    {
-      "nombre": "Danganronpa 1•2 Reload",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 80.62,
       "precioFormateado": "$80.62"
