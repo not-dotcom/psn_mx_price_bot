@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T02:19:17.083Z",
+  "lastUpdated": "2026-04-20T03:45:36.403Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -122,6 +122,12 @@
       "precioFormateado": "$1,131.38"
     },
     {
+      "nombre": "Dying Light: The Beast Restored Land Deluxe Edition",
+      "precioBaseUSD": 52.49,
+      "precioFinalMXN": 1060.65,
+      "precioFormateado": "$1,060.65"
+    },
+    {
       "nombre": "Edición Deluxe de DRAGON BALL: Sparking! ZERO",
       "precioBaseUSD": 49.99,
       "precioFinalMXN": 1010.13,
@@ -140,13 +146,13 @@
       "precioFormateado": "$969.72"
     },
     {
-      "nombre": "ARC Raiders - Deluxe Edition",
+      "nombre": "Clair Obscur: Expedition 33 – Deluxe Edition",
       "precioBaseUSD": 47.99,
       "precioFinalMXN": 969.72,
       "precioFormateado": "$969.72"
     },
     {
-      "nombre": "Clair Obscur: Expedition 33 – Deluxe Edition",
+      "nombre": "ARC Raiders - Deluxe Edition",
       "precioBaseUSD": 47.99,
       "precioFinalMXN": 969.72,
       "precioFormateado": "$969.72"
@@ -194,12 +200,6 @@
       "precioFormateado": "$848.48"
     },
     {
-      "nombre": "Avowed Edición Premium",
-      "precioBaseUSD": 41.99,
-      "precioFinalMXN": 848.48,
-      "precioFormateado": "$848.48"
-    },
-    {
       "nombre": "God of War Ragnarök Edición Digital Deluxe",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 808.07,
@@ -240,12 +240,6 @@
       "precioBaseUSD": 39.04,
       "precioFinalMXN": 788.87,
       "precioFormateado": "$788.87"
-    },
-    {
-      "nombre": "Vampire: The Masquerade® - Bloodlines™ 2",
-      "precioBaseUSD": 38.99,
-      "precioFinalMXN": 787.86,
-      "precioFormateado": "$787.86"
     },
     {
       "nombre": "Monster Hunter Wilds",
@@ -290,13 +284,13 @@
       "precioFormateado": "$707.03"
     },
     {
-      "nombre": "Warhammer 40,000: Space Marine 2 - 1-Year Anniversary Edition",
+      "nombre": "Metaphor: ReFantazio, PS4 & PS5",
       "precioBaseUSD": 34.99,
       "precioFinalMXN": 707.03,
       "precioFormateado": "$707.03"
     },
     {
-      "nombre": "Metaphor: ReFantazio, PS4 & PS5",
+      "nombre": "Warhammer 40,000: Space Marine 2 - 1-Year Anniversary Edition",
       "precioBaseUSD": 34.99,
       "precioFinalMXN": 707.03,
       "precioFormateado": "$707.03"
@@ -362,6 +356,12 @@
       "precioFormateado": "$606.00"
     },
     {
+      "nombre": "PAYDAY 3: Year 1 Edition",
+      "precioBaseUSD": 29.99,
+      "precioFinalMXN": 606,
+      "precioFormateado": "$606.00"
+    },
+    {
       "nombre": "JoJo's Bizarre Adventure: All-Star Battle R Ultimate Edition",
       "precioBaseUSD": 29.74,
       "precioFinalMXN": 600.95,
@@ -386,13 +386,13 @@
       "precioFormateado": "$593.88"
     },
     {
-      "nombre": "Ratchet & Clank: Una dimensión aparte",
+      "nombre": "La ascensión del Ronin™",
       "precioBaseUSD": 29.39,
       "precioFinalMXN": 593.88,
       "precioFormateado": "$593.88"
     },
     {
-      "nombre": "La ascensión del Ronin™",
+      "nombre": "Ratchet & Clank: Una dimensión aparte",
       "precioBaseUSD": 29.39,
       "precioFinalMXN": 593.88,
       "precioFormateado": "$593.88"
@@ -423,12 +423,6 @@
     },
     {
       "nombre": "Little Nightmares III PS4 y PS5",
-      "precioBaseUSD": 27.99,
-      "precioFinalMXN": 565.59,
-      "precioFormateado": "$565.59"
-    },
-    {
-      "nombre": "TEKKEN 8 Advanced Edition",
       "precioBaseUSD": 27.99,
       "precioFinalMXN": 565.59,
       "precioFormateado": "$565.59"
@@ -476,10 +470,10 @@
       "precioFormateado": "$545.38"
     },
     {
-      "nombre": "Fernbus Coach Simulator",
-      "precioBaseUSD": 26.79,
-      "precioFinalMXN": 541.34,
-      "precioFormateado": "$541.34"
+      "nombre": "The Persona Collection",
+      "precioBaseUSD": 26.99,
+      "precioFinalMXN": 545.38,
+      "precioFormateado": "$545.38"
     },
     {
       "nombre": "Hello Kitty Island Adventure",
@@ -530,13 +524,13 @@
       "precioFormateado": "$484.76"
     },
     {
-      "nombre": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS PS4 y PS5",
+      "nombre": "Tom Clancy’s Ghost Recon Wildlands Ultimate Edition",
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 484.76,
       "precioFormateado": "$484.76"
     },
     {
-      "nombre": "Tom Clancy’s Ghost Recon Wildlands Ultimate Edition",
+      "nombre": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS PS4 y PS5",
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 484.76,
       "precioFormateado": "$484.76"
@@ -596,13 +590,13 @@
       "precioFormateado": "$431.82"
     },
     {
-      "nombre": "Horizon Zero Dawn™ remasterizado",
-      "precioBaseUSD": 20.99,
-      "precioFinalMXN": 424.14,
-      "precioFormateado": "$424.14"
+      "nombre": "PowerWash Simulator 2",
+      "precioBaseUSD": 21.24,
+      "precioFinalMXN": 429.19,
+      "precioFormateado": "$429.19"
     },
     {
-      "nombre": "Sonic Frontiers Edición digital deluxe PS4 & PS5",
+      "nombre": "Horizon Zero Dawn™ remasterizado",
       "precioBaseUSD": 20.99,
       "precioFinalMXN": 424.14,
       "precioFormateado": "$424.14"
@@ -693,6 +687,12 @@
     },
     {
       "nombre": "KINGDOM HEARTS HD 1.5 +2.5 ReMIX",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 403.93,
+      "precioFormateado": "$403.93"
+    },
+    {
+      "nombre": "Expansión Desde las Cenizas de Avatar: Frontiers of Pandora™",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 403.93,
       "precioFormateado": "$403.93"
@@ -842,12 +842,6 @@
       "precioFormateado": "$302.90"
     },
     {
-      "nombre": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 302.9,
-      "precioFormateado": "$302.90"
-    },
-    {
       "nombre": "Ready or Not: Mission Pass",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 302.9,
@@ -932,6 +926,12 @@
       "precioFormateado": "$242.28"
     },
     {
+      "nombre": "Marvel vs. Capcom: Infinite - Deluxe Edition",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 242.28,
+      "precioFormateado": "$242.28"
+    },
+    {
       "nombre": "Blasphemous + Blasphemous 2 Bundle",
       "precioBaseUSD": 11.24,
       "precioFinalMXN": 227.12,
@@ -998,19 +998,13 @@
       "precioFormateado": "$201.87"
     },
     {
-      "nombre": "Sifu",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 201.87,
-      "precioFormateado": "$201.87"
-    },
-    {
       "nombre": "Poppy Playtime: Capítulo 4",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 201.87,
       "precioFormateado": "$201.87"
     },
     {
-      "nombre": "Assetto Corsa Competizione",
+      "nombre": "Sifu",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 201.87,
       "precioFormateado": "$201.87"
@@ -1029,6 +1023,12 @@
     },
     {
       "nombre": "Battlefield™ V Definitive Edition",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 201.87,
+      "precioFormateado": "$201.87"
+    },
+    {
+      "nombre": "Assetto Corsa Competizione",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 201.87,
       "precioFormateado": "$201.87"
@@ -1136,6 +1136,12 @@
       "precioFormateado": "$161.45"
     },
     {
+      "nombre": "Battlefield 4™ Premium Edition",
+      "precioBaseUSD": 7.99,
+      "precioFinalMXN": 161.45,
+      "precioFormateado": "$161.45"
+    },
+    {
       "nombre": "Poppy Playtime: Capítulo 3",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 151.35,
@@ -1160,12 +1166,6 @@
       "precioFormateado": "$151.35"
     },
     {
-      "nombre": "Poppy Playtime: Capítulo 3",
-      "precioBaseUSD": 7.49,
-      "precioFinalMXN": 151.35,
-      "precioFormateado": "$151.35"
-    },
-    {
       "nombre": "RESIDENT EVIL 7 biohazard Season Pass",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 151.35,
@@ -1173,6 +1173,12 @@
     },
     {
       "nombre": "Resident Evil 2 Extra DLC Pack",
+      "precioBaseUSD": 7.49,
+      "precioFinalMXN": 151.35,
+      "precioFormateado": "$151.35"
+    },
+    {
+      "nombre": "Poppy Playtime: Capítulo 3",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 151.35,
       "precioFormateado": "$151.35"
@@ -1257,12 +1263,6 @@
     },
     {
       "nombre": "Blasphemous 2 - Mea Culpa",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 121.04,
-      "precioFormateado": "$121.04"
-    },
-    {
-      "nombre": "Human: Fall Flat PS4 & PS5",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 121.04,
       "precioFormateado": "$121.04"
