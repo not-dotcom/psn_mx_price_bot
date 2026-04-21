@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T00:30:29.066Z",
+  "lastUpdated": "2026-04-21T01:08:29.034Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -66,12 +66,6 @@
       "precioBaseUSD": 63.99,
       "precioFinalMXN": 1302.73,
       "precioFormateado": "$1,302.73"
-    },
-    {
-      "nombre": "MX vs ATV Legends - 2025 Ultimate Edition",
-      "precioBaseUSD": 59.99,
-      "precioFinalMXN": 1221.3,
-      "precioFormateado": "$1,221.30"
     },
     {
       "nombre": "Sid Meier's Civilization® VII Edición Deluxe",
@@ -446,12 +440,6 @@
       "precioFormateado": "$569.83"
     },
     {
-      "nombre": "Days Gone",
-      "precioBaseUSD": 27.59,
-      "precioFinalMXN": 561.69,
-      "precioFormateado": "$561.69"
-    },
-    {
       "nombre": "Rust Console Edition",
       "precioBaseUSD": 27.49,
       "precioFinalMXN": 559.65,
@@ -500,13 +488,13 @@
       "precioFormateado": "$508.76"
     },
     {
-      "nombre": "Dead Rising Deluxe Remaster",
+      "nombre": "Mount & Blade II: Bannerlord",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 508.76,
       "precioFormateado": "$508.76"
     },
     {
-      "nombre": "Mount & Blade II: Bannerlord",
+      "nombre": "Dead Rising Deluxe Remaster",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 508.76,
       "precioFormateado": "$508.76"
@@ -522,6 +510,12 @@
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 508.76,
       "precioFormateado": "$508.76"
+    },
+    {
+      "nombre": "Jujutsu Kaisen Cursed Clash Edición de lujo PS4 y PS5",
+      "precioBaseUSD": 24.79,
+      "precioFinalMXN": 504.68,
+      "precioFormateado": "$504.68"
     },
     {
       "nombre": "No Man's Sky PS4 & PS5",
@@ -680,13 +674,13 @@
       "precioFormateado": "$406.96"
     },
     {
-      "nombre": "SnowRunner - 1-Year Anniversary Edition",
+      "nombre": "KINGDOM HEARTS HD 1.5 +2.5 ReMIX",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 406.96,
       "precioFormateado": "$406.96"
     },
     {
-      "nombre": "KINGDOM HEARTS HD 1.5 +2.5 ReMIX",
+      "nombre": "SnowRunner - 1-Year Anniversary Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 406.96,
       "precioFormateado": "$406.96"
@@ -968,13 +962,13 @@
       "precioFormateado": "$203.38"
     },
     {
-      "nombre": "The Witcher 3: Wild Hunt – Complete Edition",
+      "nombre": "Poppy Playtime: Capítulo 4",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 203.38,
       "precioFormateado": "$203.38"
     },
     {
-      "nombre": "Poppy Playtime: Capítulo 4",
+      "nombre": "The Witcher 3: Wild Hunt – Complete Edition",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 203.38,
       "precioFormateado": "$203.38"
@@ -1101,6 +1095,12 @@
     },
     {
       "nombre": "Team Sonic Racing",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 183.02,
+      "precioFormateado": "$183.02"
+    },
+    {
+      "nombre": "The Crew® 2",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 183.02,
       "precioFormateado": "$183.02"
@@ -1280,13 +1280,13 @@
       "precioFormateado": "$101.59"
     },
     {
-      "nombre": "STAR WARS™ Battlefront™ II",
+      "nombre": "Resident Evil 3 Nemesis",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.59,
       "precioFormateado": "$101.59"
     },
     {
-      "nombre": "Resident Evil 3 Nemesis",
+      "nombre": "STAR WARS™ Battlefront™ II",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.59,
       "precioFormateado": "$101.59"
@@ -1298,13 +1298,13 @@
       "precioFormateado": "$101.59"
     },
     {
-      "nombre": "LEGO® Marvel™ Super Heroes",
+      "nombre": "Poppy Playtime: Capítulo 2",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.59,
       "precioFormateado": "$101.59"
     },
     {
-      "nombre": "Poppy Playtime: Capítulo 2",
+      "nombre": "LEGO® Marvel™ Super Heroes",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.59,
       "precioFormateado": "$101.59"
@@ -1340,13 +1340,13 @@
       "precioFormateado": "$91.41"
     },
     {
-      "nombre": "Rise of the Tomb Raider: 20º aniversario",
+      "nombre": "Metro Redux",
       "precioBaseUSD": 4.49,
       "precioFinalMXN": 91.41,
       "precioFormateado": "$91.41"
     },
     {
-      "nombre": "Metro Redux",
+      "nombre": "Rise of the Tomb Raider: 20º aniversario",
       "precioBaseUSD": 4.49,
       "precioFinalMXN": 91.41,
       "precioFormateado": "$91.41"
