@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T03:42:49.632Z",
+  "lastUpdated": "2026-04-21T05:00:38.231Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -146,13 +146,13 @@
       "precioFormateado": "$977.00"
     },
     {
-      "nombre": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition",
+      "nombre": "Killing Floor 3 Elite Nightfall Edition",
       "precioBaseUSD": 47.99,
       "precioFinalMXN": 977,
       "precioFormateado": "$977.00"
     },
     {
-      "nombre": "Killing Floor 3 Elite Nightfall Edition",
+      "nombre": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition",
       "precioBaseUSD": 47.99,
       "precioFinalMXN": 977,
       "precioFormateado": "$977.00"
@@ -177,12 +177,6 @@
     },
     {
       "nombre": "METAL GEAR SOLID: MASTER COLLECTION Vol.1 PS4 & PS5",
-      "precioBaseUSD": 41.99,
-      "precioFinalMXN": 854.85,
-      "precioFormateado": "$854.85"
-    },
-    {
-      "nombre": "Age of Empires IV: Anniversary Deluxe Edition",
       "precioBaseUSD": 41.99,
       "precioFinalMXN": 854.85,
       "precioFormateado": "$854.85"
@@ -584,12 +578,6 @@
       "precioFormateado": "$457.86"
     },
     {
-      "nombre": "Sniper Elite 5 Complete Edition",
-      "precioBaseUSD": 21.99,
-      "precioFinalMXN": 447.68,
-      "precioFormateado": "$447.68"
-    },
-    {
       "nombre": "Dying Light Collection",
       "precioBaseUSD": 21.37,
       "precioFinalMXN": 435.06,
@@ -656,13 +644,13 @@
       "precioFormateado": "$406.96"
     },
     {
-      "nombre": "EA SPORTS™ Madden NFL 26 Edición Deluxe",
+      "nombre": "Guilty Gear: Strive",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 406.96,
       "precioFormateado": "$406.96"
     },
     {
-      "nombre": "Guilty Gear: Strive",
+      "nombre": "EA SPORTS™ Madden NFL 26 Edición Deluxe",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 406.96,
       "precioFormateado": "$406.96"
@@ -681,6 +669,18 @@
     },
     {
       "nombre": "KINGDOM HEARTS HD 1.5 +2.5 ReMIX",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 406.96,
+      "precioFormateado": "$406.96"
+    },
+    {
+      "nombre": "Battlefield™ 2042 Elite Edition para PS4 y PS5",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 406.96,
+      "precioFormateado": "$406.96"
+    },
+    {
+      "nombre": "Life is Strange: Double Exposure",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 406.96,
       "precioFormateado": "$406.96"
@@ -728,13 +728,13 @@
       "precioFormateado": "$402.89"
     },
     {
-      "nombre": "Call of Duty®: Infinite Warfare",
+      "nombre": "Call of Duty®: Black Ops Cold War - Edición Estándar",
       "precioBaseUSD": 19.79,
       "precioFinalMXN": 402.89,
       "precioFormateado": "$402.89"
     },
     {
-      "nombre": "Call of Duty®: Black Ops Cold War - Edición Estándar",
+      "nombre": "Call of Duty®: Infinite Warfare",
       "precioBaseUSD": 19.79,
       "precioFinalMXN": 402.89,
       "precioFormateado": "$402.89"
@@ -794,6 +794,12 @@
       "precioFormateado": "$325.53"
     },
     {
+      "nombre": "Los Sims™ 4 ¡A Trabajar!",
+      "precioBaseUSD": 15.99,
+      "precioFinalMXN": 325.53,
+      "precioFormateado": "$325.53"
+    },
+    {
       "nombre": "God of War Digital Deluxe Edition",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 305.17,
@@ -830,6 +836,12 @@
       "precioFormateado": "$305.17"
     },
     {
+      "nombre": "TEKKEN 7 - edición originales",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 305.17,
+      "precioFormateado": "$305.17"
+    },
+    {
       "nombre": "Assassin’s Creed® Origins Gold Edition",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 305.17,
@@ -842,19 +854,25 @@
       "precioFormateado": "$305.17"
     },
     {
+      "nombre": "Captain Tsubasa: Rise of New Champions - Ultimate Edition",
+      "precioBaseUSD": 14.39,
+      "precioFinalMXN": 292.96,
+      "precioFormateado": "$292.96"
+    },
+    {
       "nombre": "Phasmophobia",
       "precioBaseUSD": 13.99,
       "precioFinalMXN": 284.81,
       "precioFormateado": "$284.81"
     },
     {
-      "nombre": "LEGO® Star Wars™: La Saga de Skywalker Edición Deluxe PS4 & PS5",
+      "nombre": "Taxi Life: A City Driving Simulator",
       "precioBaseUSD": 13.99,
       "precioFinalMXN": 284.81,
       "precioFormateado": "$284.81"
     },
     {
-      "nombre": "Taxi Life: A City Driving Simulator",
+      "nombre": "LEGO® Star Wars™: La Saga de Skywalker Edición Deluxe PS4 & PS5",
       "precioBaseUSD": 13.99,
       "precioFinalMXN": 284.81,
       "precioFormateado": "$284.81"
@@ -1100,12 +1118,6 @@
       "precioFormateado": "$183.02"
     },
     {
-      "nombre": "Gotham Knights: Deluxe",
-      "precioBaseUSD": 8.99,
-      "precioFinalMXN": 183.02,
-      "precioFormateado": "$183.02"
-    },
-    {
       "nombre": "RESIDENT EVIL 7 biohazard",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 162.66,
@@ -1131,12 +1143,6 @@
     },
     {
       "nombre": "Kingdom Come: Deliverance Royal Edition",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 162.66,
-      "precioFormateado": "$162.66"
-    },
-    {
-      "nombre": "Battlefield 4™ Premium Edition",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 162.66,
       "precioFormateado": "$162.66"
@@ -1392,12 +1398,6 @@
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 60.87,
       "precioFormateado": "$60.87"
-    },
-    {
-      "nombre": "INSIDE",
-      "precioBaseUSD": 2.49,
-      "precioFinalMXN": 50.69,
-      "precioFormateado": "$50.69"
     },
     {
       "nombre": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
