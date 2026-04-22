@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T00:27:00.018Z",
+  "lastUpdated": "2026-04-22T01:04:59.862Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -24,12 +24,6 @@
       "precioBaseUSD": 77.99,
       "precioFinalMXN": 1583.98,
       "precioFormateado": "$1,583.98"
-    },
-    {
-      "nombre": "Battlefield™ 6 Phantom Edition",
-      "precioBaseUSD": 74.99,
-      "precioFinalMXN": 1523.05,
-      "precioFormateado": "$1,523.05"
     },
     {
       "nombre": "Indiana Jones y el Gran Círculo Edición Prémium",
@@ -380,12 +374,6 @@
       "precioFormateado": "$596.91"
     },
     {
-      "nombre": "Returnal",
-      "precioBaseUSD": 29.39,
-      "precioFinalMXN": 596.91,
-      "precioFormateado": "$596.91"
-    },
-    {
       "nombre": "Call of Duty®: Modern Warfare® II - Lote Multigeneración",
       "precioBaseUSD": 27.99,
       "precioFinalMXN": 568.48,
@@ -426,12 +414,6 @@
       "precioBaseUSD": 27.99,
       "precioFinalMXN": 568.48,
       "precioFormateado": "$568.48"
-    },
-    {
-      "nombre": "Days Gone",
-      "precioBaseUSD": 27.59,
-      "precioFinalMXN": 560.35,
-      "precioFormateado": "$560.35"
     },
     {
       "nombre": "Rust Console Edition",
@@ -567,6 +549,12 @@
     },
     {
       "nombre": "River City Girls 2: Double Dragon DLC Bundle",
+      "precioBaseUSD": 22.49,
+      "precioFinalMXN": 456.77,
+      "precioFormateado": "$456.77"
+    },
+    {
+      "nombre": "TopSpin 2K25 Edición Deluxe",
       "precioBaseUSD": 22.49,
       "precioFinalMXN": 456.77,
       "precioFormateado": "$456.77"
@@ -1106,13 +1094,13 @@
       "precioFormateado": "$182.59"
     },
     {
-      "nombre": "The Crew® 2",
+      "nombre": "Team Sonic Racing",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 182.59,
       "precioFormateado": "$182.59"
     },
     {
-      "nombre": "Team Sonic Racing",
+      "nombre": "The Crew® 2",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 182.59,
       "precioFormateado": "$182.59"
@@ -1143,6 +1131,12 @@
     },
     {
       "nombre": "Kingdom Come: Deliverance Royal Edition",
+      "precioBaseUSD": 7.99,
+      "precioFinalMXN": 162.28,
+      "precioFormateado": "$162.28"
+    },
+    {
+      "nombre": "Battlefield 4™ Premium Edition",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 162.28,
       "precioFormateado": "$162.28"
@@ -1286,13 +1280,13 @@
       "precioFormateado": "$101.35"
     },
     {
-      "nombre": "Resident Evil 3 Nemesis",
+      "nombre": "STAR WARS™ Battlefront™ II",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.35,
       "precioFormateado": "$101.35"
     },
     {
-      "nombre": "STAR WARS™ Battlefront™ II",
+      "nombre": "Resident Evil 3 Nemesis",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.35,
       "precioFormateado": "$101.35"
@@ -1304,13 +1298,13 @@
       "precioFormateado": "$101.35"
     },
     {
-      "nombre": "LEGO® Marvel™ Super Heroes",
+      "nombre": "Poppy Playtime: Capítulo 2",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.35,
       "precioFormateado": "$101.35"
     },
     {
-      "nombre": "Poppy Playtime: Capítulo 2",
+      "nombre": "LEGO® Marvel™ Super Heroes",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.35,
       "precioFormateado": "$101.35"
@@ -1371,6 +1365,12 @@
     },
     {
       "nombre": "MK1: Ghostface",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 81.04,
+      "precioFormateado": "$81.04"
+    },
+    {
+      "nombre": "Danganronpa 1•2 Reload",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.04,
       "precioFormateado": "$81.04"
