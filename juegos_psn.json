@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T03:55:52.755Z",
+  "lastUpdated": "2026-04-22T04:58:57.898Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -200,13 +200,13 @@
       "precioFormateado": "$812.20"
     },
     {
-      "nombre": "Lote de Red Dead Redemption (PS4 y PS5) y Red Dead Redemption 2 (PS4)",
+      "nombre": "Hell is Us - Deluxe Edition",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 812.2,
       "precioFormateado": "$812.20"
     },
     {
-      "nombre": "Hell is Us - Deluxe Edition",
+      "nombre": "Lote de Red Dead Redemption (PS4 y PS5) y Red Dead Redemption 2 (PS4)",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 812.2,
       "precioFormateado": "$812.20"
@@ -260,12 +260,6 @@
       "precioFormateado": "$761.42"
     },
     {
-      "nombre": "Paquete MVP de EA SPORTS™ (Madden NFL 26 Edición Deluxe y College Football 26 Edición Deluxe)",
-      "precioBaseUSD": 37.49,
-      "precioFinalMXN": 761.42,
-      "precioFormateado": "$761.42"
-    },
-    {
       "nombre": "F1® 25 Iconic Edition",
       "precioBaseUSD": 35.99,
       "precioFinalMXN": 730.96,
@@ -273,6 +267,12 @@
     },
     {
       "nombre": "WUCHANG: Fallen Feathers",
+      "precioBaseUSD": 34.99,
+      "precioFinalMXN": 710.65,
+      "precioFormateado": "$710.65"
+    },
+    {
+      "nombre": "Senua’s Saga: Hellblade II Edición Deluxe",
       "precioBaseUSD": 34.99,
       "precioFinalMXN": 710.65,
       "precioFormateado": "$710.65"
@@ -290,12 +290,6 @@
       "precioFormateado": "$710.65"
     },
     {
-      "nombre": "Senua’s Saga: Hellblade II Edición Deluxe",
-      "precioBaseUSD": 34.99,
-      "precioFinalMXN": 710.65,
-      "precioFormateado": "$710.65"
-    },
-    {
       "nombre": "Yakuza 0 Director's Cut PS5",
       "precioBaseUSD": 34.99,
       "precioFinalMXN": 710.65,
@@ -306,12 +300,6 @@
       "precioBaseUSD": 32.99,
       "precioFinalMXN": 670.03,
       "precioFormateado": "$670.03"
-    },
-    {
-      "nombre": "Street Fighter™ 6 - Year 1 Ultimate Pass",
-      "precioBaseUSD": 32.49,
-      "precioFinalMXN": 659.87,
-      "precioFormateado": "$659.87"
     },
     {
       "nombre": "Farming Simulator 25",
@@ -345,6 +333,12 @@
     },
     {
       "nombre": "Mega Man 30th Anniversary Bundle",
+      "precioBaseUSD": 29.99,
+      "precioFinalMXN": 609.1,
+      "precioFormateado": "$609.10"
+    },
+    {
+      "nombre": "Until Dawn™",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 609.1,
       "precioFormateado": "$609.10"
@@ -422,6 +416,12 @@
       "precioFormateado": "$568.48"
     },
     {
+      "nombre": "TEKKEN 8 Advanced Edition",
+      "precioBaseUSD": 27.99,
+      "precioFinalMXN": 568.48,
+      "precioFormateado": "$568.48"
+    },
+    {
       "nombre": "Rust Console Edition",
       "precioBaseUSD": 27.49,
       "precioFinalMXN": 558.32,
@@ -446,13 +446,13 @@
       "precioFormateado": "$548.17"
     },
     {
-      "nombre": "Hello Kitty Island Adventure",
+      "nombre": "Capcom Fighting Collection 2",
       "precioBaseUSD": 25.99,
       "precioFinalMXN": 527.86,
       "precioFormateado": "$527.86"
     },
     {
-      "nombre": "Capcom Fighting Collection 2",
+      "nombre": "Hello Kitty Island Adventure",
       "precioBaseUSD": 25.99,
       "precioFinalMXN": 527.86,
       "precioFormateado": "$527.86"
@@ -488,12 +488,6 @@
       "precioFormateado": "$507.55"
     },
     {
-      "nombre": "Jujutsu Kaisen Cursed Clash Edición de lujo PS4 y PS5",
-      "precioBaseUSD": 24.79,
-      "precioFinalMXN": 503.48,
-      "precioFormateado": "$503.48"
-    },
-    {
       "nombre": "No Man's Sky PS4 & PS5",
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 487.24,
@@ -513,12 +507,6 @@
     },
     {
       "nombre": "MARVEL Cosmic Invasion",
-      "precioBaseUSD": 23.99,
-      "precioFinalMXN": 487.24,
-      "precioFormateado": "$487.24"
-    },
-    {
-      "nombre": "Street Fighter™ 6 - Year 2 Character Pass",
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 487.24,
       "precioFormateado": "$487.24"
@@ -614,19 +602,13 @@
       "precioFormateado": "$406.00"
     },
     {
-      "nombre": "Call of Duty®: Modern Warfare® Remastered",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 406,
-      "precioFormateado": "$406.00"
-    },
-    {
       "nombre": "Grounded PS4® & PS5®",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 406,
       "precioFormateado": "$406.00"
     },
     {
-      "nombre": "EA SPORTS™ Madden NFL 26 Edición Deluxe",
+      "nombre": "Call of Duty®: Modern Warfare® Remastered",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 406,
       "precioFormateado": "$406.00"
@@ -657,6 +639,12 @@
     },
     {
       "nombre": "Battlefield™ 2042 Elite Edition para PS4 y PS5",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 406,
+      "precioFormateado": "$406.00"
+    },
+    {
+      "nombre": "EA SPORTS™ Madden NFL 26 Edición Deluxe",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 406,
       "precioFormateado": "$406.00"
@@ -812,13 +800,13 @@
       "precioFormateado": "$304.45"
     },
     {
-      "nombre": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles PS4 & PS5",
+      "nombre": "Assassin’s Creed® Origins Gold Edition",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 304.45,
       "precioFormateado": "$304.45"
     },
     {
-      "nombre": "Assassin’s Creed® Origins Gold Edition",
+      "nombre": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles PS4 & PS5",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 304.45,
       "precioFormateado": "$304.45"
@@ -846,6 +834,12 @@
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 304.45,
       "precioFormateado": "$304.45"
+    },
+    {
+      "nombre": "ONE PIECE ODYSSEY PS4 & PS5",
+      "precioBaseUSD": 14.79,
+      "precioFinalMXN": 300.38,
+      "precioFormateado": "$300.38"
     },
     {
       "nombre": "Captain Tsubasa: Rise of New Champions - Ultimate Edition",
@@ -1058,13 +1052,19 @@
       "precioFormateado": "$202.90"
     },
     {
+      "nombre": "Persona 4 Golden",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 202.9,
+      "precioFormateado": "$202.90"
+    },
+    {
       "nombre": "FINAL FANTASY X/X-2 HD Remaster",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 202.9,
       "precioFormateado": "$202.90"
     },
     {
-      "nombre": "Persona 4 Golden",
+      "nombre": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 202.9,
       "precioFormateado": "$202.90"
@@ -1106,6 +1106,12 @@
       "precioFormateado": "$182.59"
     },
     {
+      "nombre": "Gotham Knights: Deluxe",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 182.59,
+      "precioFormateado": "$182.59"
+    },
+    {
       "nombre": "The Crew® 2",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 182.59,
@@ -1142,13 +1148,13 @@
       "precioFormateado": "$162.28"
     },
     {
-      "nombre": "Battlefield 4™ Premium Edition",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 162.28,
-      "precioFormateado": "$162.28"
+      "nombre": "Poppy Playtime: Capítulo 3",
+      "precioBaseUSD": 7.49,
+      "precioFinalMXN": 152.12,
+      "precioFormateado": "$152.12"
     },
     {
-      "nombre": "Poppy Playtime: Capítulo 3",
+      "nombre": "Watch Dogs 2",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 152.12,
       "precioFormateado": "$152.12"
@@ -1161,12 +1167,6 @@
     },
     {
       "nombre": "Assassin's Creed Unity",
-      "precioBaseUSD": 7.49,
-      "precioFinalMXN": 152.12,
-      "precioFormateado": "$152.12"
-    },
-    {
-      "nombre": "Watch Dogs 2",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 152.12,
       "precioFormateado": "$152.12"
@@ -1406,13 +1406,13 @@
       "precioFormateado": "$45.49"
     },
     {
-      "nombre": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
+      "nombre": "THE KING OF FIGHTERS ’97 GLOBAL MATCH",
       "precioBaseUSD": 2.24,
       "precioFinalMXN": 45.49,
       "precioFormateado": "$45.49"
     },
     {
-      "nombre": "THE KING OF FIGHTERS ’97 GLOBAL MATCH",
+      "nombre": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
       "precioBaseUSD": 2.24,
       "precioFinalMXN": 45.49,
       "precioFormateado": "$45.49"
