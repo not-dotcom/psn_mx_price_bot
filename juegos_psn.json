@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T23:46:59.161Z",
+  "lastUpdated": "2026-04-23T00:32:42.129Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -117,12 +117,6 @@
     },
     {
       "nombre": "Nioh 3",
-      "precioBaseUSD": 55.99,
-      "precioFinalMXN": 1137.86,
-      "precioFormateado": "$1,137.86"
-    },
-    {
-      "nombre": "Farming Simulator 25: Year 1 Bundle",
       "precioBaseUSD": 55.99,
       "precioFinalMXN": 1137.86,
       "precioFormateado": "$1,137.86"
@@ -572,12 +566,6 @@
       "precioFormateado": "$487.54"
     },
     {
-      "nombre": "Tom Clancy’s Ghost Recon Wildlands Ultimate Edition",
-      "precioBaseUSD": 23.99,
-      "precioFinalMXN": 487.54,
-      "precioFormateado": "$487.54"
-    },
-    {
       "nombre": "MARVEL Cosmic Invasion",
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 487.54,
@@ -716,6 +704,12 @@
       "precioFormateado": "$406.25"
     },
     {
+      "nombre": "Street Fighter™ V: Champion Edition + Season 5 Premium Pass Bundle",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 406.25,
+      "precioFormateado": "$406.25"
+    },
+    {
       "nombre": "Grand Theft Auto V (PS4™ y PS5™)",
       "precioBaseUSD": 19.79,
       "precioFinalMXN": 402.18,
@@ -759,6 +753,12 @@
     },
     {
       "nombre": "Crash Bandicoot™ 4: It’s About Time",
+      "precioBaseUSD": 19.79,
+      "precioFinalMXN": 402.18,
+      "precioFormateado": "$402.18"
+    },
+    {
+      "nombre": "Gold Edition de Call of Duty®: Advanced Warfare",
       "precioBaseUSD": 19.79,
       "precioFinalMXN": 402.18,
       "precioFormateado": "$402.18"
@@ -968,18 +968,6 @@
       "precioFormateado": "$228.43"
     },
     {
-      "nombre": "Gravity Circuit Deluxe",
-      "precioBaseUSD": 11.24,
-      "precioFinalMXN": 228.43,
-      "precioFormateado": "$228.43"
-    },
-    {
-      "nombre": "Trepang2",
-      "precioBaseUSD": 10.19,
-      "precioFinalMXN": 207.09,
-      "precioFormateado": "$207.09"
-    },
-    {
       "nombre": "RESIDENT EVIL 2",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 203.02,
@@ -1089,6 +1077,12 @@
     },
     {
       "nombre": "Tom Clancy's Ghost Recon® Breakpoint Year 1 Pass",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 203.02,
+      "precioFormateado": "$203.02"
+    },
+    {
+      "nombre": "Street Fighter V: Champion Edition",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 203.02,
       "precioFormateado": "$203.02"
@@ -1221,6 +1215,12 @@
     },
     {
       "nombre": "Hades",
+      "precioBaseUSD": 6.24,
+      "precioFinalMXN": 126.81,
+      "precioFormateado": "$126.81"
+    },
+    {
+      "nombre": "Blasphemous",
       "precioBaseUSD": 6.24,
       "precioFinalMXN": 126.81,
       "precioFormateado": "$126.81"
