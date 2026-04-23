@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T04:32:09.486Z",
+  "lastUpdated": "2026-04-23T05:46:55.934Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -92,12 +92,6 @@
       "precioFormateado": "$1,229.32"
     },
     {
-      "nombre": "Monster Hunter Wilds: edición deluxe prémium",
-      "precioBaseUSD": 60.49,
-      "precioFinalMXN": 1229.32,
-      "precioFormateado": "$1,229.32"
-    },
-    {
       "nombre": "Edición Estándar WWE 2K26",
       "precioBaseUSD": 59.49,
       "precioFinalMXN": 1208.99,
@@ -158,12 +152,6 @@
       "precioFormateado": "$1,005.77"
     },
     {
-      "nombre": "DYNASTY WARRIORS: ORIGINS",
-      "precioBaseUSD": 48.99,
-      "precioFinalMXN": 995.61,
-      "precioFormateado": "$995.61"
-    },
-    {
       "nombre": "Forza Horizon 5 Deluxe Edition",
       "precioBaseUSD": 47.99,
       "precioFinalMXN": 975.28,
@@ -212,7 +200,19 @@
       "precioFormateado": "$914.31"
     },
     {
+      "nombre": "DARK SOULS™ III - Deluxe Edition",
+      "precioBaseUSD": 42.49,
+      "precioFinalMXN": 863.51,
+      "precioFormateado": "$863.51"
+    },
+    {
       "nombre": "Jurassic World Evolution 3",
+      "precioBaseUSD": 41.99,
+      "precioFinalMXN": 853.35,
+      "precioFormateado": "$853.35"
+    },
+    {
+      "nombre": "METAL GEAR SOLID Δ: SNAKE EATER",
       "precioBaseUSD": 41.99,
       "precioFinalMXN": 853.35,
       "precioFormateado": "$853.35"
@@ -500,6 +500,12 @@
       "precioFormateado": "$568.83"
     },
     {
+      "nombre": "Persona 3 Reload Edición digital deluxe para PS4 & PS5",
+      "precioBaseUSD": 27.99,
+      "precioFinalMXN": 568.83,
+      "precioFormateado": "$568.83"
+    },
+    {
       "nombre": "Five Nights at Freddy's: Security Breach",
       "precioBaseUSD": 27.99,
       "precioFinalMXN": 568.83,
@@ -585,12 +591,6 @@
     },
     {
       "nombre": "Edición Deluxe de STAR WARS Jedi: Survivor™",
-      "precioBaseUSD": 22.49,
-      "precioFinalMXN": 457.06,
-      "precioFormateado": "$457.06"
-    },
-    {
-      "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami Ultimate Edition",
       "precioBaseUSD": 22.49,
       "precioFinalMXN": 457.06,
       "precioFormateado": "$457.06"
@@ -801,12 +801,6 @@
     },
     {
       "nombre": "Dead Space - Edición Digital Deluxe",
-      "precioBaseUSD": 15.99,
-      "precioFinalMXN": 324.96,
-      "precioFormateado": "$324.96"
-    },
-    {
-      "nombre": "Hollow Knight: Silksong",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 324.96,
       "precioFormateado": "$324.96"
@@ -1166,13 +1160,13 @@
       "precioFormateado": "$152.22"
     },
     {
-      "nombre": "Watch Dogs 2",
+      "nombre": "Ultimate Marvel vs. Capcom 3",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 152.22,
       "precioFormateado": "$152.22"
     },
     {
-      "nombre": "Ultimate Marvel vs. Capcom 3",
+      "nombre": "Watch Dogs 2",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 152.22,
       "precioFormateado": "$152.22"
@@ -1203,12 +1197,6 @@
     },
     {
       "nombre": "Resident Evil Revelations 1 & 2 Bundle",
-      "precioBaseUSD": 7.49,
-      "precioFinalMXN": 152.22,
-      "precioFormateado": "$152.22"
-    },
-    {
-      "nombre": "Resident Evil 4: Ticket de mejora exclusiva de arma x5 (A)",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 152.22,
       "precioFormateado": "$152.22"
@@ -1310,6 +1298,12 @@
       "precioFormateado": "$121.73"
     },
     {
+      "nombre": "Mafia II: Definitive Edition",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 121.73,
+      "precioFormateado": "$121.73"
+    },
+    {
       "nombre": "Poppy Playtime: Capítulo 2",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.41,
@@ -1334,6 +1328,12 @@
       "precioFormateado": "$101.41"
     },
     {
+      "nombre": "Mortal Kombat X",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 101.41,
+      "precioFormateado": "$101.41"
+    },
+    {
       "nombre": "Resident Evil 2",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.41,
@@ -1352,16 +1352,16 @@
       "precioFormateado": "$101.41"
     },
     {
-      "nombre": "Mortal Kombat X",
+      "nombre": "La Tierra Media™: Sombras de Mordor™ - Edición Juego del Año",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.41,
       "precioFormateado": "$101.41"
     },
     {
-      "nombre": "La Tierra Media™: Sombras de Mordor™ - Edición Juego del Año",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 101.41,
-      "precioFormateado": "$101.41"
+      "nombre": "Metro Exodus",
+      "precioBaseUSD": 4.49,
+      "precioFinalMXN": 91.25,
+      "precioFormateado": "$91.25"
     },
     {
       "nombre": "Castle Crashers Remastered",
