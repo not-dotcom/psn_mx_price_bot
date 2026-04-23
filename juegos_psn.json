@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T10:32:47.998Z",
+  "lastUpdated": "2026-04-23T11:27:19.167Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -830,6 +830,12 @@
       "precioFormateado": "$304.64"
     },
     {
+      "nombre": "EA SPORTS™ Madden NFL 26",
+      "precioBaseUSD": 13.99,
+      "precioFinalMXN": 284.31,
+      "precioFormateado": "$284.31"
+    },
+    {
       "nombre": "Spyro™ Reignited Trilogy",
       "precioBaseUSD": 13.99,
       "precioFinalMXN": 284.31,
@@ -1428,12 +1434,6 @@
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 50.6,
       "precioFormateado": "$50.60"
-    },
-    {
-      "nombre": "Electrician Simulator",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.44,
-      "precioFormateado": "$40.44"
     },
     {
       "nombre": "Super Meat Boy",
