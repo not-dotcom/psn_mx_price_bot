@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T04:33:24.806Z",
+  "lastUpdated": "2026-04-24T05:49:51.057Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -81,12 +81,6 @@
     },
     {
       "nombre": "Nioh 3",
-      "precioBaseUSD": 55.99,
-      "precioFinalMXN": 1139.95,
-      "precioFormateado": "$1,139.95"
-    },
-    {
-      "nombre": "FATAL FRAME II: Crimson Butterfly REMAKE Digital Deluxe Edition",
       "precioBaseUSD": 55.99,
       "precioFinalMXN": 1139.95,
       "precioFormateado": "$1,139.95"
@@ -626,12 +620,6 @@
       "precioFormateado": "$406.99"
     },
     {
-      "nombre": "CRISIS CORE –FINAL FANTASY VII– REUNION PS4 & PS5",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 406.99,
-      "precioFormateado": "$406.99"
-    },
-    {
       "nombre": "MediEvil - Digital Deluxe",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 406.99,
@@ -710,6 +698,12 @@
       "precioFormateado": "$398.85"
     },
     {
+      "nombre": "Tomb Raider I-VI Remastered",
+      "precioBaseUSD": 19.24,
+      "precioFinalMXN": 391.72,
+      "precioFormateado": "$391.72"
+    },
+    {
       "nombre": "TEKKEN 7 - edición definitiva",
       "precioBaseUSD": 19.19,
       "precioFinalMXN": 390.71,
@@ -747,12 +741,6 @@
     },
     {
       "nombre": "Life is Strange: True Colors PS4 & PS5",
-      "precioBaseUSD": 17.99,
-      "precioFinalMXN": 366.27,
-      "precioFormateado": "$366.27"
-    },
-    {
-      "nombre": "Crash Team Rumble™ - Edición Estándar",
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 366.27,
       "precioFormateado": "$366.27"
@@ -831,6 +819,12 @@
     },
     {
       "nombre": "Paquete Little Nightmares I y II PS4 & PS5",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 305.19,
+      "precioFormateado": "$305.19"
+    },
+    {
+      "nombre": "Evil West",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 305.19,
       "precioFormateado": "$305.19"
@@ -1371,6 +1365,12 @@
     },
     {
       "nombre": "Firewatch",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 81.24,
+      "precioFormateado": "$81.24"
+    },
+    {
+      "nombre": "ACA NEOGEO METAL SLUG 5",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.24,
       "precioFormateado": "$81.24"
