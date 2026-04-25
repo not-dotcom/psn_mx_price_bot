@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T23:46:10.164Z",
+  "lastUpdated": "2026-04-25T00:28:44.710Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -429,6 +429,12 @@
     },
     {
       "nombre": "SAMURAI WARRIORS 4",
+      "precioBaseUSD": 29.99,
+      "precioFinalMXN": 611.86,
+      "precioFormateado": "$611.86"
+    },
+    {
+      "nombre": "Two Point Museum: Edición Explorador",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 611.86,
       "precioFormateado": "$611.86"
@@ -1262,12 +1268,6 @@
       "precioFormateado": "$130.37"
     },
     {
-      "nombre": "Blasphemous",
-      "precioBaseUSD": 6.24,
-      "precioFinalMXN": 127.31,
-      "precioFormateado": "$127.31"
-    },
-    {
       "nombre": "Achilles: Legends Untold",
       "precioBaseUSD": 6.24,
       "precioFinalMXN": 127.31,
@@ -1358,6 +1358,12 @@
       "precioFormateado": "$81.40"
     },
     {
+      "nombre": "METAL SLUG XX",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 81.4,
+      "precioFormateado": "$81.40"
+    },
+    {
       "nombre": "ACA NEOGEO METAL SLUG 3",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.4,
@@ -1419,12 +1425,6 @@
     },
     {
       "nombre": "DRAGON BALL FighterZ - Gogeta (SS4)",
-      "precioBaseUSD": 2.49,
-      "precioFinalMXN": 50.8,
-      "precioFormateado": "$50.80"
-    },
-    {
-      "nombre": "DRAGON BALL FighterZ - Gogeta (SSG)",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 50.8,
       "precioFormateado": "$50.80"
