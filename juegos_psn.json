@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T00:31:43.616Z",
+  "lastUpdated": "2026-04-27T01:36:45.558Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -60,6 +60,12 @@
       "precioBaseUSD": 67.49,
       "precioFinalMXN": 1376.94,
       "precioFormateado": "$1,376.94"
+    },
+    {
+      "nombre": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada Edición Ultimate (PS4)",
+      "precioBaseUSD": 65.99,
+      "precioFinalMXN": 1346.34,
+      "precioFormateado": "$1,346.34"
     },
     {
       "nombre": "DYNASTY WARRIORS: ORIGINS Digital Deluxe Edition",
@@ -182,7 +188,7 @@
       "precioFormateado": "$979.10"
     },
     {
-      "nombre": "Disgaea 7: Vows of the Virtueless",
+      "nombre": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada Edición Digital Deluxe (PS4 & PS5)",
       "precioBaseUSD": 47.99,
       "precioFinalMXN": 979.1,
       "precioFormateado": "$979.10"
@@ -218,6 +224,12 @@
       "precioFormateado": "$917.89"
     },
     {
+      "nombre": "War Thunder - MiG-21 Bison",
+      "precioBaseUSD": 44.99,
+      "precioFinalMXN": 917.89,
+      "precioFormateado": "$917.89"
+    },
+    {
       "nombre": "V Rising Legacy of Castlevania Edition",
       "precioBaseUSD": 43.99,
       "precioFinalMXN": 897.49,
@@ -248,25 +260,25 @@
       "precioFormateado": "$856.69"
     },
     {
-      "nombre": "War Thunder - Senrai Maidens: Elsa Pack",
-      "precioBaseUSD": 41.99,
-      "precioFinalMXN": 856.69,
-      "precioFormateado": "$856.69"
-    },
-    {
       "nombre": "War Thunder - Senrai Maidens: Kate Pack",
       "precioBaseUSD": 41.99,
       "precioFinalMXN": 856.69,
       "precioFormateado": "$856.69"
     },
     {
-      "nombre": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada (PS4 & PS5)",
+      "nombre": "War Thunder - Senrai Maidens: Elsa Pack",
       "precioBaseUSD": 41.99,
       "precioFinalMXN": 856.69,
       "precioFormateado": "$856.69"
     },
     {
       "nombre": "Yakuza Kiwami 3 & Dark Ties para PS4 y PS5",
+      "precioBaseUSD": 41.99,
+      "precioFinalMXN": 856.69,
+      "precioFormateado": "$856.69"
+    },
+    {
+      "nombre": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada (PS4 & PS5)",
       "precioBaseUSD": 41.99,
       "precioFinalMXN": 856.69,
       "precioFormateado": "$856.69"
@@ -351,6 +363,12 @@
     },
     {
       "nombre": "Dead Rising Deluxe Remaster Digital Deluxe",
+      "precioBaseUSD": 35.99,
+      "precioFinalMXN": 734.28,
+      "precioFormateado": "$734.28"
+    },
+    {
+      "nombre": "War Thunder - Su-25K",
       "precioBaseUSD": 35.99,
       "precioFinalMXN": 734.28,
       "precioFormateado": "$734.28"
@@ -518,12 +536,6 @@
       "precioFormateado": "$509.85"
     },
     {
-      "nombre": "FINAL FANTASY VII REMAKE Digital Deluxe Edition",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 509.85,
-      "precioFormateado": "$509.85"
-    },
-    {
       "nombre": "Unicorn Overlord Monarch Edition para PS4 y PS5",
       "precioBaseUSD": 24.49,
       "precioFinalMXN": 499.65,
@@ -620,13 +632,13 @@
       "precioFormateado": "$407.84"
     },
     {
-      "nombre": "Pase de temporada 2 de DRAGON BALL Z: KAKAROT",
+      "nombre": "Street Fighter™ V: Champion Edition + Season 5 Premium Pass Bundle",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 407.84,
       "precioFormateado": "$407.84"
     },
     {
-      "nombre": "Street Fighter™ V: Champion Edition + Season 5 Premium Pass Bundle",
+      "nombre": "Pase de temporada 2 de DRAGON BALL Z: KAKAROT",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 407.84,
       "precioFormateado": "$407.84"
@@ -746,13 +758,13 @@
       "precioFormateado": "$367.04"
     },
     {
-      "nombre": "Persona®5 Royal Ultimate Edition",
+      "nombre": "Tom Clancy's The Division 2 - Gold Edition",
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 367.04,
       "precioFormateado": "$367.04"
     },
     {
-      "nombre": "Tom Clancy's The Division 2 - Gold Edition",
+      "nombre": "Persona®5 Royal Ultimate Edition",
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 367.04,
       "precioFormateado": "$367.04"
@@ -807,12 +819,6 @@
     },
     {
       "nombre": "Assassin's Creed Odyssey: Deluxe Edition",
-      "precioBaseUSD": 15.99,
-      "precioFinalMXN": 326.23,
-      "precioFormateado": "$326.23"
-    },
-    {
-      "nombre": "SNK VS. CAPCOM SVC CHAOS",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 326.23,
       "precioFormateado": "$326.23"
@@ -968,13 +974,13 @@
       "precioFormateado": "$244.62"
     },
     {
-      "nombre": "Little Nightmares II Edición Deluxe PS4 & PS5",
+      "nombre": "Battlefield™ V",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 244.62,
       "precioFormateado": "$244.62"
     },
     {
-      "nombre": "Battlefield™ V",
+      "nombre": "Little Nightmares II Edición Deluxe PS4 & PS5",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 244.62,
       "precioFormateado": "$244.62"
@@ -1082,12 +1088,6 @@
       "precioFormateado": "$203.82"
     },
     {
-      "nombre": "The Last Guardian",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 203.82,
-      "precioFormateado": "$203.82"
-    },
-    {
       "nombre": "Street Fighter 30th Anniversary Collection",
       "precioBaseUSD": 9.89,
       "precioFinalMXN": 201.78,
@@ -1166,13 +1166,13 @@
       "precioFormateado": "$178.32"
     },
     {
-      "nombre": "Alien: Isolation - THE COLLECTION",
+      "nombre": "Colección Life is Strange remasterizada",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 163.01,
       "precioFormateado": "$163.01"
     },
     {
-      "nombre": "Colección Life is Strange remasterizada",
+      "nombre": "Alien: Isolation - THE COLLECTION",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 163.01,
       "precioFormateado": "$163.01"
@@ -1346,6 +1346,12 @@
       "precioFormateado": "$101.81"
     },
     {
+      "nombre": "Dino Crisis",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 101.81,
+      "precioFormateado": "$101.81"
+    },
+    {
       "nombre": "Alan Wake Remastered",
       "precioBaseUSD": 4.49,
       "precioFinalMXN": 91.61,
@@ -1412,25 +1418,19 @@
       "precioFormateado": "$69.16"
     },
     {
-      "nombre": "METAL SLUG 3",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 61,
-      "precioFormateado": "$61.00"
-    },
-    {
       "nombre": "Las Tortugas Ninja: El destino de Splinter",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 61,
       "precioFormateado": "$61.00"
     },
     {
-      "nombre": "THE HOUSE OF THE DEAD: Remake",
-      "precioBaseUSD": 2.49,
-      "precioFinalMXN": 50.8,
-      "precioFormateado": "$50.80"
+      "nombre": "METAL SLUG 3",
+      "precioBaseUSD": 2.99,
+      "precioFinalMXN": 61,
+      "precioFormateado": "$61.00"
     },
     {
-      "nombre": "DRAGON BALL FighterZ - Gogeta (SSG)",
+      "nombre": "THE HOUSE OF THE DEAD: Remake",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 50.8,
       "precioFormateado": "$50.80"
