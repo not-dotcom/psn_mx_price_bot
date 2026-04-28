@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T00:34:36.198Z",
+  "lastUpdated": "2026-04-28T01:36:47.625Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -368,12 +368,6 @@
       "precioFormateado": "$732.88"
     },
     {
-      "nombre": "War Thunder - Su-25K",
-      "precioBaseUSD": 35.99,
-      "precioFinalMXN": 732.88,
-      "precioFormateado": "$732.88"
-    },
-    {
       "nombre": "Mortal Kombat: Legacy Kollection PS4 & PS5",
       "precioBaseUSD": 34.99,
       "precioFinalMXN": 712.52,
@@ -638,7 +632,7 @@
       "precioFormateado": "$407.07"
     },
     {
-      "nombre": "Pase de temporada 2 de DRAGON BALL Z: KAKAROT",
+      "nombre": "Assassin's Creed Valhalla: Deluxe Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 407.07,
       "precioFormateado": "$407.07"
@@ -650,7 +644,7 @@
       "precioFormateado": "$407.07"
     },
     {
-      "nombre": "Assassin's Creed Valhalla: Deluxe Edition",
+      "nombre": "Pase de temporada 2 de DRAGON BALL Z: KAKAROT",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 407.07,
       "precioFormateado": "$407.07"
@@ -962,13 +956,13 @@
       "precioFormateado": "$244.16"
     },
     {
-      "nombre": "Little Nightmares II Edición Deluxe PS4 & PS5",
+      "nombre": "Battlefield™ V",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 244.16,
       "precioFormateado": "$244.16"
     },
     {
-      "nombre": "Battlefield™ V",
+      "nombre": "Little Nightmares II Edición Deluxe PS4 & PS5",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 244.16,
       "precioFormateado": "$244.16"
@@ -1034,12 +1028,6 @@
       "precioFormateado": "$203.43"
     },
     {
-      "nombre": "Star Wars: Tales from the Galaxy's Edge - Enhanced Edition",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 203.43,
-      "precioFormateado": "$203.43"
-    },
-    {
       "nombre": "Scorn",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 203.43,
@@ -1047,6 +1035,12 @@
     },
     {
       "nombre": "Gravity Rush™ 2",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 203.43,
+      "precioFormateado": "$203.43"
+    },
+    {
+      "nombre": "Star Wars: Tales from the Galaxy's Edge - Enhanced Edition",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 203.43,
       "precioFormateado": "$203.43"
@@ -1160,13 +1154,13 @@
       "precioFormateado": "$177.98"
     },
     {
-      "nombre": "Colección Life is Strange remasterizada",
+      "nombre": "Alien: Isolation - THE COLLECTION",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 162.7,
       "precioFormateado": "$162.70"
     },
     {
-      "nombre": "Alien: Isolation - THE COLLECTION",
+      "nombre": "Colección Life is Strange remasterizada",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 162.7,
       "precioFormateado": "$162.70"
@@ -1323,6 +1317,12 @@
     },
     {
       "nombre": "Need for Speed™ Rivals: Edición Completa",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 121.98,
+      "precioFormateado": "$121.98"
+    },
+    {
+      "nombre": "Don't Starve Together: Console Edition",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 121.98,
       "precioFormateado": "$121.98"
