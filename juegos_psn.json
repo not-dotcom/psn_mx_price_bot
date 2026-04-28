@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T06:03:53.322Z",
+  "lastUpdated": "2026-04-28T07:22:22.177Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -530,12 +530,6 @@
       "precioFormateado": "$508.88"
     },
     {
-      "nombre": "Paquete Playoff de EA SPORTS™ (Madden NFL 26 Edición Estándar y College Football 26 Edición Estándar)",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 508.88,
-      "precioFormateado": "$508.88"
-    },
-    {
       "nombre": "Edición digital Deluxe de Shin Megami Tensei V: Vengeance",
       "precioBaseUSD": 24.49,
       "precioFinalMXN": 498.7,
@@ -558,6 +552,18 @@
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 488.52,
       "precioFormateado": "$488.52"
+    },
+    {
+      "nombre": "OCTOPATH TRAVELER PS4＆PS5",
+      "precioBaseUSD": 23.99,
+      "precioFinalMXN": 488.52,
+      "precioFormateado": "$488.52"
+    },
+    {
+      "nombre": "Hell Let Loose - Ultimate Edition",
+      "precioBaseUSD": 23.79,
+      "precioFinalMXN": 484.45,
+      "precioFormateado": "$484.45"
     },
     {
       "nombre": "Legacy of Kain: Defiance Remastered - Deluxe Edition",
@@ -860,19 +866,7 @@
       "precioFormateado": "$293.03"
     },
     {
-      "nombre": "EA SPORTS™ Madden NFL 26",
-      "precioBaseUSD": 13.99,
-      "precioFinalMXN": 284.88,
-      "precioFormateado": "$284.88"
-    },
-    {
       "nombre": "Spyro™ Reignited Trilogy",
-      "precioBaseUSD": 13.99,
-      "precioFinalMXN": 284.88,
-      "precioFormateado": "$284.88"
-    },
-    {
-      "nombre": "EA SPORTS™ College Football 26",
       "precioBaseUSD": 13.99,
       "precioFinalMXN": 284.88,
       "precioFormateado": "$284.88"
@@ -1317,6 +1311,12 @@
     },
     {
       "nombre": "Need for Speed™ Rivals: Edición Completa",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 121.98,
+      "precioFormateado": "$121.98"
+    },
+    {
+      "nombre": "WATCH_DOGS™ COMPLETE EDITION",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 121.98,
       "precioFormateado": "$121.98"
