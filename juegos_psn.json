@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T03:07:25.597Z",
+  "lastUpdated": "2026-04-28T04:42:38.602Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -314,13 +314,13 @@
       "precioFormateado": "$814.33"
     },
     {
-      "nombre": "Código Violeta",
+      "nombre": "Aces of Thunder - Deluxe Edition",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 814.33,
       "precioFormateado": "$814.33"
     },
     {
-      "nombre": "Aces of Thunder - Deluxe Edition",
+      "nombre": "Código Violeta",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 814.33,
       "precioFormateado": "$814.33"
@@ -356,13 +356,13 @@
       "precioFormateado": "$732.88"
     },
     {
-      "nombre": "Wo Long: Fallen Dynasty Complete Edition (PS4 & PS5)",
+      "nombre": "Dead Rising Deluxe Remaster Digital Deluxe",
       "precioBaseUSD": 35.99,
       "precioFinalMXN": 732.88,
       "precioFormateado": "$732.88"
     },
     {
-      "nombre": "Dead Rising Deluxe Remaster Digital Deluxe",
+      "nombre": "Wo Long: Fallen Dynasty Complete Edition (PS4 & PS5)",
       "precioBaseUSD": 35.99,
       "precioFinalMXN": 732.88,
       "precioFormateado": "$732.88"
@@ -380,13 +380,13 @@
       "precioFormateado": "$712.52"
     },
     {
-      "nombre": "Edición dorada de Star Wars Outlaws",
+      "nombre": "Just Dance 2026 Edition - Edición Deluxe",
       "precioBaseUSD": 32.99,
       "precioFinalMXN": 671.79,
       "precioFormateado": "$671.79"
     },
     {
-      "nombre": "Just Dance 2026 Edition - Edición Deluxe",
+      "nombre": "Edición dorada de Star Wars Outlaws",
       "precioBaseUSD": 32.99,
       "precioFinalMXN": 671.79,
       "precioFormateado": "$671.79"
@@ -656,12 +656,6 @@
       "precioFormateado": "$407.07"
     },
     {
-      "nombre": "SHINOBI: Art of Vengeance Digital Deluxe Edition (PS4 y PS5)",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 407.07,
-      "precioFormateado": "$407.07"
-    },
-    {
       "nombre": "Contra: Operation Galuga PS4 & PS5",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 407.07,
@@ -669,6 +663,12 @@
     },
     {
       "nombre": "World War Z: Aftermath Deluxe Edition",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 407.07,
+      "precioFormateado": "$407.07"
+    },
+    {
+      "nombre": "SHINOBI: Art of Vengeance Digital Deluxe Edition (PS4 y PS5)",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 407.07,
       "precioFormateado": "$407.07"
@@ -776,12 +776,6 @@
       "precioFormateado": "$356.16"
     },
     {
-      "nombre": "Monster Hunter Rise + Sunbreak Deluxe",
-      "precioBaseUSD": 17.49,
-      "precioFinalMXN": 356.16,
-      "precioFormateado": "$356.16"
-    },
-    {
       "nombre": "THE HOUSE OF THE DEAD 2: Remake",
       "precioBaseUSD": 16.74,
       "precioFinalMXN": 340.88,
@@ -795,12 +789,6 @@
     },
     {
       "nombre": "LEGO® Star Wars™: La Saga De Skywalker (Edición galáctica)",
-      "precioBaseUSD": 15.99,
-      "precioFinalMXN": 325.61,
-      "precioFormateado": "$325.61"
-    },
-    {
-      "nombre": "Digital Deluxe edic. maestra de Monster Hunter World: Iceborne",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 325.61,
       "precioFormateado": "$325.61"
@@ -836,13 +824,13 @@
       "precioFormateado": "$305.25"
     },
     {
-      "nombre": "Resident Evil Village Gold Edition PS4 & PS5",
+      "nombre": "UFC™ 5 Edición Definitiva",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 305.25,
       "precioFormateado": "$305.25"
     },
     {
-      "nombre": "UFC™ 5 Edición Definitiva",
+      "nombre": "Resident Evil Village Gold Edition PS4 & PS5",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 305.25,
       "precioFormateado": "$305.25"
@@ -1184,13 +1172,7 @@
       "precioFormateado": "$162.70"
     },
     {
-      "nombre": "Mega Man X Legacy Collection",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 162.7,
-      "precioFormateado": "$162.70"
-    },
-    {
-      "nombre": "BioShock Remastered",
+      "nombre": "Plants vs. Zombies™: La Batalla de Neighborville",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 162.7,
       "precioFormateado": "$162.70"
@@ -1202,13 +1184,25 @@
       "precioFormateado": "$162.70"
     },
     {
-      "nombre": "Pase de temporada de Assassin's Creed Odyssey",
+      "nombre": "BioShock Remastered",
+      "precioBaseUSD": 7.99,
+      "precioFinalMXN": 162.7,
+      "precioFormateado": "$162.70"
+    },
+    {
+      "nombre": "Mega Man X Legacy Collection",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 162.7,
       "precioFormateado": "$162.70"
     },
     {
       "nombre": "Mega Man X Legacy Collection 2",
+      "precioBaseUSD": 7.99,
+      "precioFinalMXN": 162.7,
+      "precioFormateado": "$162.70"
+    },
+    {
+      "nombre": "Pase de temporada de Assassin's Creed Odyssey",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 162.7,
       "precioFormateado": "$162.70"
@@ -1245,6 +1239,12 @@
     },
     {
       "nombre": "Far Cry® Primal",
+      "precioBaseUSD": 7.49,
+      "precioFinalMXN": 152.52,
+      "precioFormateado": "$152.52"
+    },
+    {
+      "nombre": "Need for Speed™ Edición Deluxe",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 152.52,
       "precioFormateado": "$152.52"
