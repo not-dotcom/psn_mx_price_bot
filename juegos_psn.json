@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T03:07:00.486Z",
+  "lastUpdated": "2026-04-29T04:40:18.325Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -494,13 +494,13 @@
       "precioFormateado": "$552.79"
     },
     {
-      "nombre": "STAR WARS™ Battlefront Classic Collection",
+      "nombre": "Lote de juego Spyro™ + Crash Remastered",
       "precioBaseUSD": 26.24,
       "precioFinalMXN": 537.43,
       "precioFormateado": "$537.43"
     },
     {
-      "nombre": "Lote de juego Spyro™ + Crash Remastered",
+      "nombre": "STAR WARS™ Battlefront Classic Collection",
       "precioBaseUSD": 26.24,
       "precioFinalMXN": 537.43,
       "precioFormateado": "$537.43"
@@ -710,6 +710,12 @@
       "precioFormateado": "$405.33"
     },
     {
+      "nombre": "Monster Hunter Stories Collection",
+      "precioBaseUSD": 19.79,
+      "precioFinalMXN": 405.33,
+      "precioFormateado": "$405.33"
+    },
+    {
       "nombre": "JoJo's Bizarre Adventure: All-Star Battle R Edición Deluxe PS4 y PS5",
       "precioBaseUSD": 19.59,
       "precioFinalMXN": 401.23,
@@ -788,12 +794,6 @@
       "precioFormateado": "$327.50"
     },
     {
-      "nombre": "Fallout 4: Game of the Year Edition",
-      "precioBaseUSD": 15.99,
-      "precioFinalMXN": 327.5,
-      "precioFormateado": "$327.50"
-    },
-    {
       "nombre": "SUPER BOMBERMAN COLLECTION",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 327.5,
@@ -801,6 +801,12 @@
     },
     {
       "nombre": "Digital Deluxe edic. maestra de Monster Hunter World: Iceborne",
+      "precioBaseUSD": 15.99,
+      "precioFinalMXN": 327.5,
+      "precioFormateado": "$327.50"
+    },
+    {
+      "nombre": "Fallout 4: Game of the Year Edition",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 327.5,
       "precioFormateado": "$327.50"
@@ -818,13 +824,13 @@
       "precioFormateado": "$307.01"
     },
     {
-      "nombre": "Resident Evil Village Gold Edition PS4 & PS5",
+      "nombre": "UFC™ 5 Edición Definitiva",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 307.01,
       "precioFormateado": "$307.01"
     },
     {
-      "nombre": "UFC™ 5 Edición Definitiva",
+      "nombre": "Resident Evil Village Gold Edition PS4 & PS5",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 307.01,
       "precioFormateado": "$307.01"
@@ -1046,12 +1052,6 @@
       "precioFormateado": "$204.61"
     },
     {
-      "nombre": "Predator: Hunting Grounds",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 204.61,
-      "precioFormateado": "$204.61"
-    },
-    {
       "nombre": "Street Fighter 30th Anniversary Collection",
       "precioBaseUSD": 9.89,
       "precioFinalMXN": 202.56,
@@ -1154,13 +1154,13 @@
       "precioFormateado": "$163.65"
     },
     {
-      "nombre": "BioShock Infinite: The Complete Edition",
+      "nombre": "BioShock Remastered",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 163.65,
       "precioFormateado": "$163.65"
     },
     {
-      "nombre": "BioShock Remastered",
+      "nombre": "BioShock Infinite: The Complete Edition",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 163.65,
       "precioFormateado": "$163.65"
@@ -1173,12 +1173,6 @@
     },
     {
       "nombre": "Mega Man X Legacy Collection 2",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 163.65,
-      "precioFormateado": "$163.65"
-    },
-    {
-      "nombre": "Pase de temporada de Assassin's Creed Odyssey",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 163.65,
       "precioFormateado": "$163.65"
@@ -1335,6 +1329,12 @@
     },
     {
       "nombre": "Dino Crisis",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.2,
+      "precioFormateado": "$102.20"
+    },
+    {
+      "nombre": "LEGO® Batman™ 3: Más Allá de Gotham",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.2,
       "precioFormateado": "$102.20"
