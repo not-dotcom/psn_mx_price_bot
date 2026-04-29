@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T01:37:37.109Z",
+  "lastUpdated": "2026-04-29T03:07:00.486Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -680,12 +680,6 @@
       "precioFormateado": "$409.42"
     },
     {
-      "nombre": "World War Z: Aftermath Deluxe Edition",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 409.42,
-      "precioFormateado": "$409.42"
-    },
-    {
       "nombre": "Crash Bandicoot™ 4: It’s About Time",
       "precioBaseUSD": 19.79,
       "precioFinalMXN": 405.33,
@@ -824,13 +818,13 @@
       "precioFormateado": "$307.01"
     },
     {
-      "nombre": "UFC™ 5 Edición Definitiva",
+      "nombre": "Resident Evil Village Gold Edition PS4 & PS5",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 307.01,
       "precioFormateado": "$307.01"
     },
     {
-      "nombre": "Resident Evil Village Gold Edition PS4 & PS5",
+      "nombre": "UFC™ 5 Edición Definitiva",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 307.01,
       "precioFormateado": "$307.01"
@@ -950,12 +944,6 @@
       "precioFormateado": "$245.57"
     },
     {
-      "nombre": "The Quarry - Edición Deluxe para PS4™ y PS5™",
-      "precioBaseUSD": 11.99,
-      "precioFinalMXN": 245.57,
-      "precioFormateado": "$245.57"
-    },
-    {
       "nombre": "Assassin's Creed Origins: Deluxe Edition",
       "precioBaseUSD": 10.49,
       "precioFinalMXN": 214.85,
@@ -1010,12 +998,6 @@
       "precioFormateado": "$204.61"
     },
     {
-      "nombre": "Scorn",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 204.61,
-      "precioFormateado": "$204.61"
-    },
-    {
       "nombre": "ONE PIECE: PIRATE WARRIORS 4 PS4 y PS5",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.61,
@@ -1023,6 +1005,12 @@
     },
     {
       "nombre": "Gravity Rush™ 2",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.61,
+      "precioFormateado": "$204.61"
+    },
+    {
+      "nombre": "Scorn",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.61,
       "precioFormateado": "$204.61"
@@ -1316,6 +1304,12 @@
       "precioFormateado": "$122.68"
     },
     {
+      "nombre": "Don't Starve Together: Console Edition",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 122.68,
+      "precioFormateado": "$122.68"
+    },
+    {
       "nombre": "Mortal Kombat X",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.2,
@@ -1419,6 +1413,12 @@
     },
     {
       "nombre": "Las Tortugas Ninja: El destino de Splinter",
+      "precioBaseUSD": 2.99,
+      "precioFinalMXN": 61.24,
+      "precioFormateado": "$61.24"
+    },
+    {
+      "nombre": "Assassin's Creed® Origins – The Curse of the Pharaohs",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 61.24,
       "precioFormateado": "$61.24"
