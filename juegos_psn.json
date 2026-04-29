@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T00:35:38.254Z",
+  "lastUpdated": "2026-04-29T01:37:37.109Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -230,12 +230,6 @@
       "precioFormateado": "$921.45"
     },
     {
-      "nombre": "War Thunder - MiG-21 Bison",
-      "precioBaseUSD": 44.99,
-      "precioFinalMXN": 921.45,
-      "precioFormateado": "$921.45"
-    },
-    {
       "nombre": "V Rising Legacy of Castlevania Edition",
       "precioBaseUSD": 43.99,
       "precioFinalMXN": 900.97,
@@ -266,7 +260,7 @@
       "precioFormateado": "$860.01"
     },
     {
-      "nombre": "War Thunder - Senrai Maidens: Kate Pack",
+      "nombre": "Yakuza Kiwami 3 & Dark Ties para PS4 y PS5",
       "precioBaseUSD": 41.99,
       "precioFinalMXN": 860.01,
       "precioFormateado": "$860.01"
@@ -278,13 +272,19 @@
       "precioFormateado": "$860.01"
     },
     {
-      "nombre": "Yakuza Kiwami 3 & Dark Ties para PS4 y PS5",
+      "nombre": "War Thunder - Senrai Maidens: Kate Pack",
       "precioBaseUSD": 41.99,
       "precioFinalMXN": 860.01,
       "precioFormateado": "$860.01"
     },
     {
       "nombre": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada (PS4 & PS5)",
+      "precioBaseUSD": 41.99,
+      "precioFinalMXN": 860.01,
+      "precioFormateado": "$860.01"
+    },
+    {
+      "nombre": "War Thunder - Mirage F1C-200",
       "precioBaseUSD": 41.99,
       "precioFinalMXN": 860.01,
       "precioFormateado": "$860.01"
@@ -380,13 +380,13 @@
       "precioFormateado": "$716.64"
     },
     {
-      "nombre": "Just Dance 2026 Edition - Edición Deluxe",
+      "nombre": "Edición dorada de Star Wars Outlaws",
       "precioBaseUSD": 32.99,
       "precioFinalMXN": 675.68,
       "precioFormateado": "$675.68"
     },
     {
-      "nombre": "Edición dorada de Star Wars Outlaws",
+      "nombre": "Just Dance 2026 Edition - Edición Deluxe",
       "precioBaseUSD": 32.99,
       "precioFinalMXN": 675.68,
       "precioFormateado": "$675.68"
@@ -560,12 +560,6 @@
       "precioFormateado": "$491.35"
     },
     {
-      "nombre": "Hell Let Loose - Ultimate Edition",
-      "precioBaseUSD": 23.79,
-      "precioFinalMXN": 487.25,
-      "precioFormateado": "$487.25"
-    },
-    {
       "nombre": "Legacy of Kain: Defiance Remastered - Deluxe Edition",
       "precioBaseUSD": 22.49,
       "precioFinalMXN": 460.62,
@@ -638,13 +632,13 @@
       "precioFormateado": "$409.42"
     },
     {
-      "nombre": "Assassin's Creed Valhalla: Deluxe Edition",
+      "nombre": "Street Fighter™ V: Champion Edition + Season 5 Premium Pass Bundle",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 409.42,
       "precioFormateado": "$409.42"
     },
     {
-      "nombre": "Street Fighter™ V: Champion Edition + Season 5 Premium Pass Bundle",
+      "nombre": "Assassin's Creed Valhalla: Deluxe Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 409.42,
       "precioFormateado": "$409.42"
@@ -896,13 +890,13 @@
       "precioFormateado": "$276.29"
     },
     {
-      "nombre": "FOR HONOR – Ultimate Edition",
+      "nombre": "Tomb Raider IV-VI Remastered PS4 & PS5",
       "precioBaseUSD": 13.49,
       "precioFinalMXN": 276.29,
       "precioFormateado": "$276.29"
     },
     {
-      "nombre": "Tomb Raider IV-VI Remastered PS4 & PS5",
+      "nombre": "FOR HONOR – Ultimate Edition",
       "precioBaseUSD": 13.49,
       "precioFinalMXN": 276.29,
       "precioFormateado": "$276.29"
@@ -1028,13 +1022,13 @@
       "precioFormateado": "$204.61"
     },
     {
-      "nombre": "Star Wars: Tales from the Galaxy's Edge - Enhanced Edition",
+      "nombre": "Gravity Rush™ 2",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.61,
       "precioFormateado": "$204.61"
     },
     {
-      "nombre": "Gravity Rush™ 2",
+      "nombre": "Star Wars: Tales from the Galaxy's Edge - Enhanced Edition",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.61,
       "precioFormateado": "$204.61"
@@ -1341,6 +1335,12 @@
     },
     {
       "nombre": "Titanfall™ 2 Standard Edition",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.2,
+      "precioFormateado": "$102.20"
+    },
+    {
+      "nombre": "Dino Crisis",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.2,
       "precioFormateado": "$102.20"
