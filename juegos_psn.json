@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T01:37:23.223Z",
+  "lastUpdated": "2026-04-30T03:07:31.728Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -230,12 +230,6 @@
       "precioFormateado": "$918.45"
     },
     {
-      "nombre": "V Rising Legacy of Castlevania Edition",
-      "precioBaseUSD": 43.99,
-      "precioFinalMXN": 898.04,
-      "precioFormateado": "$898.04"
-    },
-    {
       "nombre": "DARK SOULS™ III - Deluxe Edition",
       "precioBaseUSD": 42.49,
       "precioFinalMXN": 867.42,
@@ -314,6 +308,12 @@
       "precioFormateado": "$816.38"
     },
     {
+      "nombre": "Tokyo Xtreme Racer",
+      "precioBaseUSD": 39.99,
+      "precioFinalMXN": 816.38,
+      "precioFormateado": "$816.38"
+    },
+    {
       "nombre": "Aces of Thunder - Deluxe Edition",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 816.38,
@@ -321,12 +321,6 @@
     },
     {
       "nombre": "Código Violeta",
-      "precioBaseUSD": 39.99,
-      "precioFinalMXN": 816.38,
-      "precioFormateado": "$816.38"
-    },
-    {
-      "nombre": "Tokyo Xtreme Racer",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 816.38,
       "precioFormateado": "$816.38"
@@ -476,13 +470,13 @@
       "precioFormateado": "$571.40"
     },
     {
-      "nombre": "Persona 3 Reload Edición digital deluxe para PS4 & PS5",
+      "nombre": "Bob Esponja: Titanes de la Marea",
       "precioBaseUSD": 27.99,
       "precioFinalMXN": 571.4,
       "precioFormateado": "$571.40"
     },
     {
-      "nombre": "Bob Esponja: Titanes de la Marea",
+      "nombre": "Persona 3 Reload Edición digital deluxe para PS4 & PS5",
       "precioBaseUSD": 27.99,
       "precioFinalMXN": 571.4,
       "precioFormateado": "$571.40"
@@ -494,13 +488,13 @@
       "precioFormateado": "$550.99"
     },
     {
-      "nombre": "Lote de juego Spyro™ + Crash Remastered",
+      "nombre": "STAR WARS™ Battlefront Classic Collection",
       "precioBaseUSD": 26.24,
       "precioFinalMXN": 535.68,
       "precioFormateado": "$535.68"
     },
     {
-      "nombre": "STAR WARS™ Battlefront Classic Collection",
+      "nombre": "Lote de juego Spyro™ + Crash Remastered",
       "precioBaseUSD": 26.24,
       "precioFinalMXN": 535.68,
       "precioFormateado": "$535.68"
@@ -549,6 +543,12 @@
     },
     {
       "nombre": "REMATCH - PRO EDITION",
+      "precioBaseUSD": 23.99,
+      "precioFinalMXN": 489.75,
+      "precioFormateado": "$489.75"
+    },
+    {
+      "nombre": "Zombie Army VR",
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 489.75,
       "precioFormateado": "$489.75"
@@ -944,6 +944,12 @@
       "precioFormateado": "$244.77"
     },
     {
+      "nombre": "The Quarry - Edición Deluxe para PS4™ y PS5™",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 244.77,
+      "precioFormateado": "$244.77"
+    },
+    {
       "nombre": "Assassin's Creed Origins: Deluxe Edition",
       "precioBaseUSD": 10.49,
       "precioFinalMXN": 214.15,
@@ -1022,25 +1028,25 @@
       "precioFormateado": "$203.94"
     },
     {
-      "nombre": "Mejora a la VERSIÓN DEL DIRECTOR de Ghost of Tsushima",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 203.94,
-      "precioFormateado": "$203.94"
-    },
-    {
       "nombre": "TEKKEN 7",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 203.94,
       "precioFormateado": "$203.94"
     },
     {
-      "nombre": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
+      "nombre": "Mejora a la VERSIÓN DEL DIRECTOR de Ghost of Tsushima",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 203.94,
       "precioFormateado": "$203.94"
     },
     {
       "nombre": "The Last Guardian",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 203.94,
+      "precioFormateado": "$203.94"
+    },
+    {
+      "nombre": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 203.94,
       "precioFormateado": "$203.94"
@@ -1208,12 +1214,6 @@
       "precioFormateado": "$152.91"
     },
     {
-      "nombre": "Need for Speed™ Edición Deluxe",
-      "precioBaseUSD": 7.49,
-      "precioFinalMXN": 152.91,
-      "precioFormateado": "$152.91"
-    },
-    {
       "nombre": "La Tierra Media™: Paquete de las Sombras",
       "precioBaseUSD": 6.99,
       "precioFinalMXN": 142.7,
@@ -1286,13 +1286,13 @@
       "precioFormateado": "$122.28"
     },
     {
-      "nombre": "WATCH_DOGS™ COMPLETE EDITION",
+      "nombre": "Don't Starve Together: Console Edition",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.28,
       "precioFormateado": "$122.28"
     },
     {
-      "nombre": "Don't Starve Together: Console Edition",
+      "nombre": "WATCH_DOGS™ COMPLETE EDITION",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.28,
       "precioFormateado": "$122.28"
@@ -1388,13 +1388,13 @@
       "precioFormateado": "$81.45"
     },
     {
-      "nombre": "ACA NEOGEO METAL SLUG 2",
+      "nombre": "Dead by Daylight: Tokyo Ghoul",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.45,
       "precioFormateado": "$81.45"
     },
     {
-      "nombre": "Dead by Daylight: Tokyo Ghoul",
+      "nombre": "ACA NEOGEO METAL SLUG 2",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.45,
       "precioFormateado": "$81.45"
