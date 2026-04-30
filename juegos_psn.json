@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T06:02:36.457Z",
+  "lastUpdated": "2026-04-30T07:20:15.546Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -674,6 +674,12 @@
       "precioFormateado": "$408.09"
     },
     {
+      "nombre": "World War Z: Aftermath Deluxe Edition",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 408.09,
+      "precioFormateado": "$408.09"
+    },
+    {
       "nombre": "Crash Bandicoot™ 4: It’s About Time",
       "precioBaseUSD": 19.79,
       "precioFinalMXN": 404.01,
@@ -813,12 +819,6 @@
     },
     {
       "nombre": "RACCOON CITY EDITION",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 306.01,
-      "precioFormateado": "$306.01"
-    },
-    {
-      "nombre": "UFC™ 5 Edición Definitiva",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 306.01,
       "precioFormateado": "$306.01"
