@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T06:04:01.852Z",
+  "lastUpdated": "2026-05-01T07:20:05.355Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -212,12 +212,6 @@
       "precioFormateado": "$924.56"
     },
     {
-      "nombre": "Atelier Dusk Trilogy Deluxe Pack",
-      "precioBaseUSD": 44.99,
-      "precioFinalMXN": 924.56,
-      "precioFormateado": "$924.56"
-    },
-    {
       "nombre": "DARK SOULS™ III - Deluxe Edition",
       "precioBaseUSD": 42.49,
       "precioFinalMXN": 873.18,
@@ -356,10 +350,10 @@
       "precioFormateado": "$739.61"
     },
     {
-      "nombre": "War Thunder - Su-25K",
-      "precioBaseUSD": 35.99,
-      "precioFinalMXN": 739.61,
-      "precioFormateado": "$739.61"
+      "nombre": "Split Fiction",
+      "precioBaseUSD": 34.99,
+      "precioFinalMXN": 719.06,
+      "precioFormateado": "$719.06"
     },
     {
       "nombre": "Mortal Kombat: Legacy Kollection PS4 & PS5",
@@ -872,6 +866,12 @@
       "precioFormateado": "$295.72"
     },
     {
+      "nombre": "It Takes Two para PS4™ y PS5™",
+      "precioBaseUSD": 13.99,
+      "precioFinalMXN": 287.5,
+      "precioFormateado": "$287.50"
+    },
+    {
       "nombre": "Spyro™ Reignited Trilogy",
       "precioBaseUSD": 13.99,
       "precioFinalMXN": 287.5,
@@ -1076,12 +1076,6 @@
       "precioFormateado": "$203.24"
     },
     {
-      "nombre": "Las Tortugas Ninja: El destino de Splinter - Paquete completo de personajes descargables",
-      "precioBaseUSD": 9.79,
-      "precioFinalMXN": 201.19,
-      "precioFormateado": "$201.19"
-    },
-    {
       "nombre": "JoJo's Bizarre Adventure: Eyes of Heaven Bundle",
       "precioBaseUSD": 9.59,
       "precioFinalMXN": 197.08,
@@ -1119,6 +1113,12 @@
     },
     {
       "nombre": "SAMURAI SHODOWN",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 184.75,
+      "precioFormateado": "$184.75"
+    },
+    {
+      "nombre": "A Way Out",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 184.75,
       "precioFormateado": "$184.75"
