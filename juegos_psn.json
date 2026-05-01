@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T23:48:04.087Z",
+  "lastUpdated": "2026-05-01T00:37:36.834Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -512,6 +512,12 @@
       "precioFormateado": "$513.55"
     },
     {
+      "nombre": "FAR CRY®6 Gold Edition PS4 & PS5",
+      "precioBaseUSD": 24.99,
+      "precioFinalMXN": 513.55,
+      "precioFormateado": "$513.55"
+    },
+    {
       "nombre": "Edición digital Deluxe de Shin Megami Tensei V: Vengeance",
       "precioBaseUSD": 24.49,
       "precioFinalMXN": 503.28,
@@ -668,13 +674,7 @@
       "precioFormateado": "$410.80"
     },
     {
-      "nombre": "Far Cry® 6 Deluxe Edition",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 410.8,
-      "precioFormateado": "$410.80"
-    },
-    {
-      "nombre": "World War Z: Aftermath Deluxe Edition",
+      "nombre": "Starship Troopers: Ultimate Bug War!",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
