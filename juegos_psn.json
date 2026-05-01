@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T00:37:36.834Z",
+  "lastUpdated": "2026-05-01T01:37:40.698Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -170,12 +170,6 @@
       "precioFormateado": "$986.21"
     },
     {
-      "nombre": "War Thunder - F-16A Netz Pack",
-      "precioBaseUSD": 47.99,
-      "precioFinalMXN": 986.21,
-      "precioFormateado": "$986.21"
-    },
-    {
       "nombre": "Marathon - Edición Deluxe",
       "precioBaseUSD": 47.99,
       "precioFinalMXN": 986.21,
@@ -248,7 +242,7 @@
       "precioFormateado": "$862.91"
     },
     {
-      "nombre": "War Thunder - Senrai Maidens: Maria Pack",
+      "nombre": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada (PS4 & PS5)",
       "precioBaseUSD": 41.99,
       "precioFinalMXN": 862.91,
       "precioFormateado": "$862.91"
@@ -260,7 +254,7 @@
       "precioFormateado": "$862.91"
     },
     {
-      "nombre": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada (PS4 & PS5)",
+      "nombre": "War Thunder - Senrai Maidens: Maria Pack",
       "precioBaseUSD": 41.99,
       "precioFinalMXN": 862.91,
       "precioFormateado": "$862.91"
@@ -345,6 +339,18 @@
     },
     {
       "nombre": "Wo Long: Fallen Dynasty Complete Edition (PS4 & PS5)",
+      "precioBaseUSD": 35.99,
+      "precioFinalMXN": 739.61,
+      "precioFormateado": "$739.61"
+    },
+    {
+      "nombre": "War Thunder - Leopard",
+      "precioBaseUSD": 35.99,
+      "precioFinalMXN": 739.61,
+      "precioFormateado": "$739.61"
+    },
+    {
+      "nombre": "War Thunder - Su-25K",
       "precioBaseUSD": 35.99,
       "precioFinalMXN": 739.61,
       "precioFormateado": "$739.61"
@@ -668,13 +674,7 @@
       "precioFormateado": "$410.80"
     },
     {
-      "nombre": "Starship Troopers: Ultimate Bug War!",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 410.8,
-      "precioFormateado": "$410.80"
-    },
-    {
-      "nombre": "Starship Troopers: Ultimate Bug War!",
+      "nombre": "Far Cry® 6 Deluxe Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
@@ -1148,13 +1148,13 @@
       "precioFormateado": "$164.20"
     },
     {
-      "nombre": "Pase FighterZ 3 de DRAGON BALL FighterZ",
+      "nombre": "Plants vs. Zombies™: La Batalla de Neighborville",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 164.2,
       "precioFormateado": "$164.20"
     },
     {
-      "nombre": "Plants vs. Zombies™: La Batalla de Neighborville",
+      "nombre": "Pase FighterZ 3 de DRAGON BALL FighterZ",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 164.2,
       "precioFormateado": "$164.20"
@@ -1382,6 +1382,12 @@
       "precioFormateado": "$82.00"
     },
     {
+      "nombre": "ACA NEOGEO METAL SLUG 2",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 82,
+      "precioFormateado": "$82.00"
+    },
+    {
       "nombre": "ACA NEOGEO METAL SLUG 3",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 82,
@@ -1389,12 +1395,6 @@
     },
     {
       "nombre": "Dead by Daylight: Tokyo Ghoul",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 82,
-      "precioFormateado": "$82.00"
-    },
-    {
-      "nombre": "ACA NEOGEO METAL SLUG 2",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 82,
       "precioFormateado": "$82.00"
