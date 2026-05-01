@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T01:37:40.698Z",
+  "lastUpdated": "2026-05-01T03:07:17.538Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -207,6 +207,12 @@
     },
     {
       "nombre": "War Thunder - F-20 Tigershark Pack",
+      "precioBaseUSD": 44.99,
+      "precioFinalMXN": 924.56,
+      "precioFormateado": "$924.56"
+    },
+    {
+      "nombre": "Atelier Dusk Trilogy Deluxe Pack",
       "precioBaseUSD": 44.99,
       "precioFinalMXN": 924.56,
       "precioFormateado": "$924.56"
@@ -632,13 +638,13 @@
       "precioFormateado": "$410.80"
     },
     {
-      "nombre": "Assassin's Creed Valhalla: Deluxe Edition",
+      "nombre": "Street Fighter™ V: Champion Edition + Season 5 Premium Pass Bundle",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
     },
     {
-      "nombre": "Street Fighter™ V: Champion Edition + Season 5 Premium Pass Bundle",
+      "nombre": "Assassin's Creed Valhalla: Deluxe Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
@@ -674,7 +680,19 @@
       "precioFormateado": "$410.80"
     },
     {
+      "nombre": "World War Z: Aftermath Deluxe Edition",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 410.8,
+      "precioFormateado": "$410.80"
+    },
+    {
       "nombre": "Far Cry® 6 Deluxe Edition",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 410.8,
+      "precioFormateado": "$410.80"
+    },
+    {
+      "nombre": "Prince of Persia™: The Lost Crown - Complete Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
@@ -776,6 +794,12 @@
       "precioFormateado": "$359.43"
     },
     {
+      "nombre": "Edición Digital Deluxe de Persona® 5 Strikers",
+      "precioBaseUSD": 17.49,
+      "precioFinalMXN": 359.43,
+      "precioFormateado": "$359.43"
+    },
+    {
       "nombre": "THE HOUSE OF THE DEAD 2: Remake",
       "precioBaseUSD": 16.74,
       "precioFinalMXN": 344.01,
@@ -843,6 +867,12 @@
     },
     {
       "nombre": "Evil West",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 308.05,
+      "precioFormateado": "$308.05"
+    },
+    {
+      "nombre": "Gold Edition de South Park™: The Fractured but Whole™",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 308.05,
       "precioFormateado": "$308.05"
@@ -956,12 +986,6 @@
       "precioFormateado": "$215.57"
     },
     {
-      "nombre": "Far Cry® 4 Gold Edition",
-      "precioBaseUSD": 10.49,
-      "precioFinalMXN": 215.57,
-      "precioFormateado": "$215.57"
-    },
-    {
       "nombre": "God of War",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 205.3,
@@ -1004,7 +1028,7 @@
       "precioFormateado": "$205.30"
     },
     {
-      "nombre": "ONE PIECE: PIRATE WARRIORS 4 PS4 y PS5",
+      "nombre": "Scorn",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 205.3,
       "precioFormateado": "$205.30"
@@ -1016,7 +1040,7 @@
       "precioFormateado": "$205.30"
     },
     {
-      "nombre": "Scorn",
+      "nombre": "ONE PIECE: PIRATE WARRIORS 4 PS4 y PS5",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 205.3,
       "precioFormateado": "$205.30"
@@ -1028,13 +1052,13 @@
       "precioFormateado": "$205.30"
     },
     {
-      "nombre": "TEKKEN 7",
+      "nombre": "Mejora a la VERSIÓN DEL DIRECTOR de Ghost of Tsushima",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 205.3,
       "precioFormateado": "$205.30"
     },
     {
-      "nombre": "Mejora a la VERSIÓN DEL DIRECTOR de Ghost of Tsushima",
+      "nombre": "TEKKEN 7",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 205.3,
       "precioFormateado": "$205.30"
@@ -1047,12 +1071,6 @@
     },
     {
       "nombre": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 205.3,
-      "precioFormateado": "$205.30"
-    },
-    {
-      "nombre": "Pase de temporada de Assassin's Creed® Valhalla",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 205.3,
       "precioFormateado": "$205.30"
@@ -1382,19 +1400,13 @@
       "precioFormateado": "$82.00"
     },
     {
-      "nombre": "ACA NEOGEO METAL SLUG 2",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 82,
-      "precioFormateado": "$82.00"
-    },
-    {
       "nombre": "ACA NEOGEO METAL SLUG 3",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 82,
       "precioFormateado": "$82.00"
     },
     {
-      "nombre": "Dead by Daylight: Tokyo Ghoul",
+      "nombre": "ACA NEOGEO METAL SLUG 2",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 82,
       "precioFormateado": "$82.00"
@@ -1418,19 +1430,7 @@
       "precioFormateado": "$61.45"
     },
     {
-      "nombre": "Assassin's Creed® Origins – The Curse of the Pharaohs",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 61.45,
-      "precioFormateado": "$61.45"
-    },
-    {
       "nombre": "THE HOUSE OF THE DEAD: Remake",
-      "precioBaseUSD": 2.49,
-      "precioFinalMXN": 51.17,
-      "precioFormateado": "$51.17"
-    },
-    {
-      "nombre": "DRAGON BALL FighterZ - Gogeta (SSG)",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 51.17,
       "precioFormateado": "$51.17"
