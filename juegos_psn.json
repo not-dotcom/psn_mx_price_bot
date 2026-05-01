@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T04:47:36.210Z",
+  "lastUpdated": "2026-05-01T06:04:01.852Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -222,12 +222,6 @@
       "precioBaseUSD": 42.49,
       "precioFinalMXN": 873.18,
       "precioFormateado": "$873.18"
-    },
-    {
-      "nombre": "METAL GEAR SOLID Δ: SNAKE EATER",
-      "precioBaseUSD": 41.99,
-      "precioFinalMXN": 862.91,
-      "precioFormateado": "$862.91"
     },
     {
       "nombre": "METAL GEAR SOLID Δ: SNAKE EATER",
@@ -1263,6 +1257,12 @@
     },
     {
       "nombre": "UNCHARTED The Nathan Drake Collection",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 123.1,
+      "precioFormateado": "$123.10"
+    },
+    {
+      "nombre": "Need for Speed™ Heat",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 123.1,
       "precioFormateado": "$123.10"
