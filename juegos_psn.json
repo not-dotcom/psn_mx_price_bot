@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T10:03:10.076Z",
+  "lastUpdated": "2026-05-01T10:56:38.191Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -524,6 +524,18 @@
       "precioFormateado": "$513.55"
     },
     {
+      "nombre": "inKONBINI: One Store. Many Stories",
+      "precioBaseUSD": 24.99,
+      "precioFinalMXN": 513.55,
+      "precioFormateado": "$513.55"
+    },
+    {
+      "nombre": "Outer Wilds",
+      "precioBaseUSD": 24.99,
+      "precioFinalMXN": 513.55,
+      "precioFormateado": "$513.55"
+    },
+    {
       "nombre": "Destiny 2: Año de la Profecía",
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 493,
@@ -663,6 +675,12 @@
     },
     {
       "nombre": "World War Z: Aftermath Deluxe Edition",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 410.8,
+      "precioFormateado": "$410.80"
+    },
+    {
+      "nombre": "Adorable Adventures",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
@@ -1244,12 +1262,6 @@
       "precioFormateado": "$128.23"
     },
     {
-      "nombre": "Achilles: Legends Untold",
-      "precioBaseUSD": 6.24,
-      "precioFinalMXN": 128.23,
-      "precioFormateado": "$128.23"
-    },
-    {
       "nombre": "Alan Wake 2 Deluxe Upgrade",
       "precioBaseUSD": 6,
       "precioFinalMXN": 123.3,
@@ -1304,12 +1316,6 @@
       "precioFormateado": "$123.10"
     },
     {
-      "nombre": "Don't Starve Together: Console Edition",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 123.1,
-      "precioFormateado": "$123.10"
-    },
-    {
       "nombre": "Mortal Kombat X",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.55,
@@ -1344,12 +1350,6 @@
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.55,
       "precioFormateado": "$102.55"
-    },
-    {
-      "nombre": "eFootball™: Lamine Yamal Edition 2026",
-      "precioBaseUSD": 4.79,
-      "precioFinalMXN": 98.44,
-      "precioFormateado": "$98.44"
     },
     {
       "nombre": "Alan Wake Remastered",
