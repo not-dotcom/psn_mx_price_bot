@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T01:36:07.184Z",
+  "lastUpdated": "2026-05-02T03:05:53.909Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -284,13 +284,13 @@
       "precioFormateado": "$821.81"
     },
     {
-      "nombre": "FATAL FRAME II: Crimson Butterfly REMAKE",
+      "nombre": "SILENT HILL 2 Deluxe Edition",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 821.81,
       "precioFormateado": "$821.81"
     },
     {
-      "nombre": "SILENT HILL 2 Deluxe Edition",
+      "nombre": "FATAL FRAME II: Crimson Butterfly REMAKE",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 821.81,
       "precioFormateado": "$821.81"
@@ -302,13 +302,13 @@
       "precioFormateado": "$821.81"
     },
     {
-      "nombre": "Aces of Thunder - Deluxe Edition",
+      "nombre": "Tokyo Xtreme Racer",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 821.81,
       "precioFormateado": "$821.81"
     },
     {
-      "nombre": "Tokyo Xtreme Racer",
+      "nombre": "Aces of Thunder - Deluxe Edition",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 821.81,
       "precioFormateado": "$821.81"
@@ -393,12 +393,6 @@
     },
     {
       "nombre": "Marathon - Edición Estándar",
-      "precioBaseUSD": 31.99,
-      "precioFinalMXN": 657.4,
-      "precioFormateado": "$657.40"
-    },
-    {
-      "nombre": "MAVRIX by Matt Jones",
       "precioBaseUSD": 31.99,
       "precioFinalMXN": 657.4,
       "precioFormateado": "$657.40"
@@ -536,12 +530,6 @@
       "precioFormateado": "$513.55"
     },
     {
-      "nombre": "Outer Wilds",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 513.55,
-      "precioFormateado": "$513.55"
-    },
-    {
       "nombre": "Destiny 2: Año de la Profecía",
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 493,
@@ -596,6 +584,12 @@
       "precioFormateado": "$431.35"
     },
     {
+      "nombre": "SONIC SUPERSTARS - Edición digital Deluxe en colaboración con LEGO® PS4 y PS5",
+      "precioBaseUSD": 20.99,
+      "precioFinalMXN": 431.35,
+      "precioFormateado": "$431.35"
+    },
+    {
       "nombre": "Resident Evil 4 Gold Edition PS4 y PS5",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
@@ -627,6 +621,12 @@
     },
     {
       "nombre": "SONIC X SHADOW GENERATIONS PS4 & PS5",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 410.8,
+      "precioFormateado": "$410.80"
+    },
+    {
+      "nombre": "Adorable Adventures",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
@@ -674,25 +674,13 @@
       "precioFormateado": "$410.80"
     },
     {
-      "nombre": "World War Z: Aftermath Deluxe Edition",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 410.8,
-      "precioFormateado": "$410.80"
-    },
-    {
       "nombre": "Far Cry® 6 Deluxe Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
     },
     {
-      "nombre": "Adorable Adventures",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 410.8,
-      "precioFormateado": "$410.80"
-    },
-    {
-      "nombre": "World War Z: Aftermath Deluxe Edition",
+      "nombre": "Prince of Persia™: The Lost Crown - Complete Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
@@ -842,6 +830,12 @@
       "precioFormateado": "$328.60"
     },
     {
+      "nombre": "Tony Hawk's™ Pro Skater™ 1 + 2",
+      "precioBaseUSD": 15.99,
+      "precioFinalMXN": 328.6,
+      "precioFormateado": "$328.60"
+    },
+    {
       "nombre": "RACCOON CITY EDITION",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 308.05,
@@ -867,12 +861,6 @@
     },
     {
       "nombre": "Evil West",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 308.05,
-      "precioFormateado": "$308.05"
-    },
-    {
-      "nombre": "Gold Edition de South Park™: The Fractured but Whole™",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 308.05,
       "precioFormateado": "$308.05"
@@ -1034,13 +1022,13 @@
       "precioFormateado": "$205.30"
     },
     {
-      "nombre": "Scorn",
+      "nombre": "Gravity Rush™ 2",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 205.3,
       "precioFormateado": "$205.30"
     },
     {
-      "nombre": "Gravity Rush™ 2",
+      "nombre": "Scorn",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 205.3,
       "precioFormateado": "$205.30"
@@ -1064,13 +1052,13 @@
       "precioFormateado": "$205.30"
     },
     {
-      "nombre": "Mejora a la VERSIÓN DEL DIRECTOR de Ghost of Tsushima",
+      "nombre": "The Last Guardian",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 205.3,
       "precioFormateado": "$205.30"
     },
     {
-      "nombre": "The Last Guardian",
+      "nombre": "Mejora a la VERSIÓN DEL DIRECTOR de Ghost of Tsushima",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 205.3,
       "precioFormateado": "$205.30"
@@ -1262,6 +1250,12 @@
       "precioFormateado": "$128.23"
     },
     {
+      "nombre": "Achilles: Legends Untold",
+      "precioBaseUSD": 6.24,
+      "precioFinalMXN": 128.23,
+      "precioFormateado": "$128.23"
+    },
+    {
       "nombre": "Alan Wake 2 Deluxe Upgrade",
       "precioBaseUSD": 6,
       "precioFinalMXN": 123.3,
@@ -1407,6 +1401,12 @@
     },
     {
       "nombre": "ACA NEOGEO METAL SLUG 5",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 82,
+      "precioFormateado": "$82.00"
+    },
+    {
+      "nombre": "The Crew Motorfest | Pack de coches triple Porsche",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 82,
       "precioFormateado": "$82.00"
