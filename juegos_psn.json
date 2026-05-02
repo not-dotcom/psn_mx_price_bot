@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-05-02T03:05:53.909Z",
+  "lastUpdated": "2026-05-02T04:34:12.772Z",
   "juegos": [
+    {
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon - Ultimate Edition",
+      "precioBaseUSD": 135.99,
+      "precioFinalMXN": 2794.64,
+      "precioFormateado": "$2,794.64"
+    },
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
       "precioBaseUSD": 110.49,
@@ -21,12 +27,6 @@
     },
     {
       "nombre": "Edición Deluxe de Digimon Story Time Stranger",
-      "precioBaseUSD": 79.99,
-      "precioFinalMXN": 1643.82,
-      "precioFormateado": "$1,643.82"
-    },
-    {
-      "nombre": "11000 Zen de Neverwinter",
       "precioBaseUSD": 79.99,
       "precioFinalMXN": 1643.82,
       "precioFormateado": "$1,643.82"
@@ -80,16 +80,22 @@
       "precioFormateado": "$1,232.81"
     },
     {
+      "nombre": "Paquete doble Digital Deluxe FINAL FANTASY VII REMAKE & REBIRTH",
+      "precioBaseUSD": 59.99,
+      "precioFinalMXN": 1232.81,
+      "precioFormateado": "$1,232.81"
+    },
+    {
       "nombre": "Age of Empires II + Age of Mythology Premium Edition Bundle",
       "precioBaseUSD": 59.99,
       "precioFinalMXN": 1232.81,
       "precioFormateado": "$1,232.81"
     },
     {
-      "nombre": "Paquete doble Digital Deluxe FINAL FANTASY VII REMAKE & REBIRTH",
-      "precioBaseUSD": 59.99,
-      "precioFinalMXN": 1232.81,
-      "precioFormateado": "$1,232.81"
+      "nombre": "Atelier Mysterious Trilogy Deluxe Pack",
+      "precioBaseUSD": 58.49,
+      "precioFinalMXN": 1201.99,
+      "precioFormateado": "$1,201.99"
     },
     {
       "nombre": "Atelier Sophie 2: The Alchemist of the Mysterious Dream Ultimate Edition",
@@ -213,6 +219,12 @@
     },
     {
       "nombre": "War Thunder - F-20 Tigershark Pack",
+      "precioBaseUSD": 44.99,
+      "precioFinalMXN": 924.56,
+      "precioFormateado": "$924.56"
+    },
+    {
+      "nombre": "Anno 117: Pax Romana",
       "precioBaseUSD": 44.99,
       "precioFinalMXN": 924.56,
       "precioFormateado": "$924.56"
@@ -404,13 +416,13 @@
       "precioFormateado": "$618.36"
     },
     {
-      "nombre": "DARK SOULS™ III",
+      "nombre": "The Last of Us Part II Digital Deluxe Edition",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 616.3,
       "precioFormateado": "$616.30"
     },
     {
-      "nombre": "The Last of Us Part II Digital Deluxe Edition",
+      "nombre": "DARK SOULS™ III",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 616.3,
       "precioFormateado": "$616.30"
@@ -435,12 +447,6 @@
     },
     {
       "nombre": "Capcom Fighting Collection 1 + 2 Bundle",
-      "precioBaseUSD": 29.99,
-      "precioFinalMXN": 616.3,
-      "precioFormateado": "$616.30"
-    },
-    {
-      "nombre": "Kunitsu-Gami: Path of the Goddess PS4 & PS5",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 616.3,
       "precioFormateado": "$616.30"
@@ -560,10 +566,10 @@
       "precioFormateado": "$493.00"
     },
     {
-      "nombre": "Legacy of Kain: Defiance Remastered - Deluxe Edition",
-      "precioBaseUSD": 22.49,
-      "precioFinalMXN": 462.18,
-      "precioFormateado": "$462.18"
+      "nombre": "Pack Onimusha 1+2",
+      "precioBaseUSD": 23.39,
+      "precioFinalMXN": 480.67,
+      "precioFormateado": "$480.67"
     },
     {
       "nombre": "Crash™ Team Racing Nitro-Fueled - Edición Nitros Oxide",
@@ -579,12 +585,6 @@
     },
     {
       "nombre": "Hellblade: Senua’s Sacrifice",
-      "precioBaseUSD": 20.99,
-      "precioFinalMXN": 431.35,
-      "precioFormateado": "$431.35"
-    },
-    {
-      "nombre": "SONIC SUPERSTARS - Edición digital Deluxe en colaboración con LEGO® PS4 y PS5",
       "precioBaseUSD": 20.99,
       "precioFinalMXN": 431.35,
       "precioFormateado": "$431.35"
@@ -632,13 +632,13 @@
       "precioFormateado": "$410.80"
     },
     {
-      "nombre": "Horizon Zero Dawn: Complete Edition",
+      "nombre": "Assassin's Creed® Odyssey Edición Gold",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
     },
     {
-      "nombre": "Assassin's Creed® Odyssey Edición Gold",
+      "nombre": "Horizon Zero Dawn: Complete Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
@@ -674,19 +674,13 @@
       "precioFormateado": "$410.80"
     },
     {
-      "nombre": "Far Cry® 6 Deluxe Edition",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 410.8,
-      "precioFormateado": "$410.80"
-    },
-    {
-      "nombre": "Prince of Persia™: The Lost Crown - Complete Edition",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 410.8,
-      "precioFormateado": "$410.80"
-    },
-    {
       "nombre": "SHINOBI: Art of Vengeance Digital Deluxe Edition (PS4 y PS5)",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 410.8,
+      "precioFormateado": "$410.80"
+    },
+    {
+      "nombre": "Far Cry® 6 Deluxe Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
@@ -825,12 +819,6 @@
     },
     {
       "nombre": "Assassin's Creed Odyssey: Deluxe Edition",
-      "precioBaseUSD": 15.99,
-      "precioFinalMXN": 328.6,
-      "precioFormateado": "$328.60"
-    },
-    {
-      "nombre": "Tony Hawk's™ Pro Skater™ 1 + 2",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 328.6,
       "precioFormateado": "$328.60"
@@ -1034,6 +1022,12 @@
       "precioFormateado": "$205.30"
     },
     {
+      "nombre": "TEKKEN 7",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 205.3,
+      "precioFormateado": "$205.30"
+    },
+    {
       "nombre": "ONE PIECE: PIRATE WARRIORS 4 PS4 y PS5",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 205.3,
@@ -1041,12 +1035,6 @@
     },
     {
       "nombre": "Star Wars: Tales from the Galaxy's Edge - Enhanced Edition",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 205.3,
-      "precioFormateado": "$205.30"
-    },
-    {
-      "nombre": "TEKKEN 7",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 205.3,
       "precioFormateado": "$205.30"
@@ -1310,6 +1298,12 @@
       "precioFormateado": "$123.10"
     },
     {
+      "nombre": "Mortal Kombat 11 Paquete de Kombate",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 123.1,
+      "precioFormateado": "$123.10"
+    },
+    {
       "nombre": "Mortal Kombat X",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.55,
@@ -1334,16 +1328,22 @@
       "precioFormateado": "$102.55"
     },
     {
+      "nombre": "LEGO® Batman™ 3: Más Allá de Gotham",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.55,
+      "precioFormateado": "$102.55"
+    },
+    {
       "nombre": "Dino Crisis",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.55,
       "precioFormateado": "$102.55"
     },
     {
-      "nombre": "LEGO® Batman™ 3: Más Allá de Gotham",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 102.55,
-      "precioFormateado": "$102.55"
+      "nombre": "eFootball™: Lamine Yamal Edition 2026",
+      "precioBaseUSD": 4.79,
+      "precioFinalMXN": 98.44,
+      "precioFormateado": "$98.44"
     },
     {
       "nombre": "Alan Wake Remastered",
