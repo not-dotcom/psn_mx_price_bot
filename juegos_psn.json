@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T00:37:14.948Z",
+  "lastUpdated": "2026-05-02T01:36:07.184Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -170,6 +170,12 @@
       "precioFormateado": "$986.21"
     },
     {
+      "nombre": "Rune Factory: Guardians of Azuma",
+      "precioBaseUSD": 47.99,
+      "precioFinalMXN": 986.21,
+      "precioFormateado": "$986.21"
+    },
+    {
       "nombre": "Marathon - Edición Deluxe",
       "precioBaseUSD": 47.99,
       "precioFinalMXN": 986.21,
@@ -242,6 +248,12 @@
       "precioFormateado": "$862.91"
     },
     {
+      "nombre": "War Thunder - Senrai Maidens: Maria Pack",
+      "precioBaseUSD": 41.99,
+      "precioFinalMXN": 862.91,
+      "precioFormateado": "$862.91"
+    },
+    {
       "nombre": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada (PS4 & PS5)",
       "precioBaseUSD": 41.99,
       "precioFinalMXN": 862.91,
@@ -249,12 +261,6 @@
     },
     {
       "nombre": "War Thunder - Senrai Maidens: Kate Pack",
-      "precioBaseUSD": 41.99,
-      "precioFinalMXN": 862.91,
-      "precioFormateado": "$862.91"
-    },
-    {
-      "nombre": "War Thunder - Senrai Maidens: Maria Pack",
       "precioBaseUSD": 41.99,
       "precioFinalMXN": 862.91,
       "precioFormateado": "$862.91"
@@ -518,13 +524,13 @@
       "precioFormateado": "$513.55"
     },
     {
-      "nombre": "Teardown: Ultimate Edition",
+      "nombre": "inKONBINI: One Store. Many Stories",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 513.55,
       "precioFormateado": "$513.55"
     },
     {
-      "nombre": "inKONBINI: One Store. Many Stories",
+      "nombre": "Teardown: Ultimate Edition",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 513.55,
       "precioFormateado": "$513.55"
@@ -564,12 +570,6 @@
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 493,
       "precioFormateado": "$493.00"
-    },
-    {
-      "nombre": "Pack Onimusha 1+2",
-      "precioBaseUSD": 23.39,
-      "precioFinalMXN": 480.67,
-      "precioFormateado": "$480.67"
     },
     {
       "nombre": "Legacy of Kain: Defiance Remastered - Deluxe Edition",
@@ -920,13 +920,13 @@
       "precioFormateado": "$277.22"
     },
     {
-      "nombre": "Tomb Raider IV-VI Remastered PS4 & PS5",
+      "nombre": "FOR HONOR – Ultimate Edition",
       "precioBaseUSD": 13.49,
       "precioFinalMXN": 277.22,
       "precioFormateado": "$277.22"
     },
     {
-      "nombre": "FOR HONOR – Ultimate Edition",
+      "nombre": "Tomb Raider IV-VI Remastered PS4 & PS5",
       "precioBaseUSD": 13.49,
       "precioFinalMXN": 277.22,
       "precioFormateado": "$277.22"
@@ -1124,6 +1124,12 @@
       "precioFormateado": "$184.75"
     },
     {
+      "nombre": "A Way Out",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 184.75,
+      "precioFormateado": "$184.75"
+    },
+    {
       "nombre": "CODE VEIN",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 184.75,
@@ -1131,12 +1137,6 @@
     },
     {
       "nombre": "SAMURAI SHODOWN",
-      "precioBaseUSD": 8.99,
-      "precioFinalMXN": 184.75,
-      "precioFormateado": "$184.75"
-    },
-    {
-      "nombre": "A Way Out",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 184.75,
       "precioFormateado": "$184.75"
@@ -1394,6 +1394,12 @@
       "precioFormateado": "$82.00"
     },
     {
+      "nombre": "ACA NEOGEO METAL SLUG 2",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 82,
+      "precioFormateado": "$82.00"
+    },
+    {
       "nombre": "ACA NEOGEO METAL SLUG 3",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 82,
@@ -1401,12 +1407,6 @@
     },
     {
       "nombre": "ACA NEOGEO METAL SLUG 5",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 82,
-      "precioFormateado": "$82.00"
-    },
-    {
-      "nombre": "ACA NEOGEO METAL SLUG 2",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 82,
       "precioFormateado": "$82.00"
