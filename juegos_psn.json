@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T23:47:55.277Z",
+  "lastUpdated": "2026-05-02T00:37:14.948Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -680,6 +680,12 @@
       "precioFormateado": "$410.80"
     },
     {
+      "nombre": "Far Cry® 6 Deluxe Edition",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 410.8,
+      "precioFormateado": "$410.80"
+    },
+    {
       "nombre": "Adorable Adventures",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
@@ -687,12 +693,6 @@
     },
     {
       "nombre": "World War Z: Aftermath Deluxe Edition",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 410.8,
-      "precioFormateado": "$410.80"
-    },
-    {
-      "nombre": "Far Cry® 6 Deluxe Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
