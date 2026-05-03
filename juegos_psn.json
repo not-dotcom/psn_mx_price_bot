@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T00:35:11.454Z",
+  "lastUpdated": "2026-05-03T01:36:23.267Z",
   "juegos": [
     {
       "nombre": "The Legend of Heroes: Trails beyond the Horizon - Ultimate Edition",
@@ -200,12 +200,6 @@
       "precioFormateado": "$986.21"
     },
     {
-      "nombre": "The Legend of Heroes: Trails into Reverie",
-      "precioBaseUSD": 47.99,
-      "precioFinalMXN": 986.21,
-      "precioFormateado": "$986.21"
-    },
-    {
       "nombre": "HITMAN World of Assassination - Deluxe Edition",
       "precioBaseUSD": 44.99,
       "precioFinalMXN": 924.56,
@@ -254,7 +248,7 @@
       "precioFormateado": "$862.91"
     },
     {
-      "nombre": "War Thunder - Senrai Maidens: Elsa Pack",
+      "nombre": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada (PS4 & PS5)",
       "precioBaseUSD": 41.99,
       "precioFinalMXN": 862.91,
       "precioFormateado": "$862.91"
@@ -266,19 +260,19 @@
       "precioFormateado": "$862.91"
     },
     {
-      "nombre": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada (PS4 & PS5)",
+      "nombre": "War Thunder - Mirage F1C-200",
+      "precioBaseUSD": 41.99,
+      "precioFinalMXN": 862.91,
+      "precioFormateado": "$862.91"
+    },
+    {
+      "nombre": "War Thunder - Senrai Maidens: Elsa Pack",
       "precioBaseUSD": 41.99,
       "precioFinalMXN": 862.91,
       "precioFormateado": "$862.91"
     },
     {
       "nombre": "War Thunder - Senrai Maidens: Kate Pack",
-      "precioBaseUSD": 41.99,
-      "precioFinalMXN": 862.91,
-      "precioFormateado": "$862.91"
-    },
-    {
-      "nombre": "War Thunder - Mirage F1C-200",
       "precioBaseUSD": 41.99,
       "precioFinalMXN": 862.91,
       "precioFormateado": "$862.91"
@@ -440,13 +434,13 @@
       "precioFormateado": "$616.30"
     },
     {
-      "nombre": "PAC-MAN WORLD 2 Re-PAC – Édition Deluxe PS4 y PS5",
+      "nombre": "Capcom Fighting Collection 1 + 2 Bundle",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 616.3,
       "precioFormateado": "$616.30"
     },
     {
-      "nombre": "Capcom Fighting Collection 1 + 2 Bundle",
+      "nombre": "PAC-MAN WORLD 2 Re-PAC – Édition Deluxe PS4 y PS5",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 616.3,
       "precioFormateado": "$616.30"
@@ -554,7 +548,7 @@
       "precioFormateado": "$493.00"
     },
     {
-      "nombre": "OCTOPATH TRAVELER PS4＆PS5",
+      "nombre": "Edición del paquete Cross-gen de STAR WARS™ Jedi",
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 493,
       "precioFormateado": "$493.00"
@@ -656,13 +650,13 @@
       "precioFormateado": "$410.80"
     },
     {
-      "nombre": "Pase de temporada 2 de DRAGON BALL Z: KAKAROT",
+      "nombre": "Contra: Operation Galuga PS4 & PS5",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
     },
     {
-      "nombre": "Contra: Operation Galuga PS4 & PS5",
+      "nombre": "Pase de temporada 2 de DRAGON BALL Z: KAKAROT",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
@@ -896,13 +890,13 @@
       "precioFormateado": "$277.22"
     },
     {
-      "nombre": "FOR HONOR – Ultimate Edition",
+      "nombre": "Tomb Raider IV-VI Remastered PS4 & PS5",
       "precioBaseUSD": 13.49,
       "precioFinalMXN": 277.22,
       "precioFormateado": "$277.22"
     },
     {
-      "nombre": "Tomb Raider IV-VI Remastered PS4 & PS5",
+      "nombre": "FOR HONOR – Ultimate Edition",
       "precioBaseUSD": 13.49,
       "precioFinalMXN": 277.22,
       "precioFormateado": "$277.22"
@@ -1047,6 +1041,12 @@
     },
     {
       "nombre": "Mejora a la VERSIÓN DEL DIRECTOR de Ghost of Tsushima",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 205.3,
+      "precioFormateado": "$205.30"
+    },
+    {
+      "nombre": "Star Wars: Tales from the Galaxy's Edge - Enhanced Edition",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 205.3,
       "precioFormateado": "$205.30"
