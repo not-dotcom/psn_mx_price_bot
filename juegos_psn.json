@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T03:07:02.858Z",
+  "lastUpdated": "2026-05-03T04:45:30.292Z",
   "juegos": [
     {
       "nombre": "The Legend of Heroes: Trails beyond the Horizon - Ultimate Edition",
@@ -278,12 +278,6 @@
       "precioFormateado": "$821.81"
     },
     {
-      "nombre": "Código Violeta",
-      "precioBaseUSD": 39.99,
-      "precioFinalMXN": 821.81,
-      "precioFormateado": "$821.81"
-    },
-    {
       "nombre": "Aces of Thunder - Deluxe Edition",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 821.81,
@@ -291,6 +285,12 @@
     },
     {
       "nombre": "Tokyo Xtreme Racer",
+      "precioBaseUSD": 39.99,
+      "precioFinalMXN": 821.81,
+      "precioFormateado": "$821.81"
+    },
+    {
+      "nombre": "The Dark Pictures Anthology : Season One PS4™ & PS5™",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 821.81,
       "precioFormateado": "$821.81"
@@ -464,13 +464,13 @@
       "precioFormateado": "$554.65"
     },
     {
-      "nombre": "STAR WARS™ Battlefront Classic Collection",
+      "nombre": "Lote de juego Spyro™ + Crash Remastered",
       "precioBaseUSD": 26.24,
       "precioFinalMXN": 539.24,
       "precioFormateado": "$539.24"
     },
     {
-      "nombre": "Lote de juego Spyro™ + Crash Remastered",
+      "nombre": "STAR WARS™ Battlefront Classic Collection",
       "precioBaseUSD": 26.24,
       "precioFinalMXN": 539.24,
       "precioFormateado": "$539.24"
@@ -536,22 +536,22 @@
       "precioFormateado": "$493.00"
     },
     {
-      "nombre": "OCTOPATH TRAVELER PS4＆PS5",
-      "precioBaseUSD": 23.99,
-      "precioFinalMXN": 493,
-      "precioFormateado": "$493.00"
-    },
-    {
       "nombre": "Zombie Army 4: Dead War Complete Edition",
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 493,
       "precioFormateado": "$493.00"
     },
     {
-      "nombre": "Pack Onimusha 1+2",
-      "precioBaseUSD": 23.39,
-      "precioFinalMXN": 480.67,
-      "precioFormateado": "$480.67"
+      "nombre": "OCTOPATH TRAVELER PS4＆PS5",
+      "precioBaseUSD": 23.99,
+      "precioFinalMXN": 493,
+      "precioFormateado": "$493.00"
+    },
+    {
+      "nombre": "Hell Let Loose - Ultimate Edition",
+      "precioBaseUSD": 23.79,
+      "precioFinalMXN": 488.89,
+      "precioFormateado": "$488.89"
     },
     {
       "nombre": "Crash™ Team Racing Nitro-Fueled - Edición Nitros Oxide",
@@ -650,13 +650,19 @@
       "precioFormateado": "$410.80"
     },
     {
+      "nombre": "CRISIS CORE –FINAL FANTASY VII– REUNION PS4 & PS5",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 410.8,
+      "precioFormateado": "$410.80"
+    },
+    {
       "nombre": "Pase de temporada 2 de DRAGON BALL Z: KAKAROT",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
     },
     {
-      "nombre": "CRISIS CORE –FINAL FANTASY VII– REUNION PS4 & PS5",
+      "nombre": "SHINOBI: Art of Vengeance Digital Deluxe Edition (PS4 y PS5)",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
@@ -668,7 +674,7 @@
       "precioFormateado": "$410.80"
     },
     {
-      "nombre": "SHINOBI: Art of Vengeance Digital Deluxe Edition (PS4 y PS5)",
+      "nombre": "World War Z: Aftermath Deluxe Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
@@ -776,6 +782,12 @@
       "precioFormateado": "$359.43"
     },
     {
+      "nombre": "Monster Hunter Rise + Sunbreak Deluxe",
+      "precioBaseUSD": 17.49,
+      "precioFinalMXN": 359.43,
+      "precioFormateado": "$359.43"
+    },
+    {
       "nombre": "THE HOUSE OF THE DEAD 2: Remake",
       "precioBaseUSD": 16.74,
       "precioFinalMXN": 344.01,
@@ -794,25 +806,19 @@
       "precioFormateado": "$328.60"
     },
     {
-      "nombre": "Digital Deluxe edic. maestra de Monster Hunter World: Iceborne",
-      "precioBaseUSD": 15.99,
-      "precioFinalMXN": 328.6,
-      "precioFormateado": "$328.60"
-    },
-    {
       "nombre": "SUPER BOMBERMAN COLLECTION",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 328.6,
       "precioFormateado": "$328.60"
     },
     {
-      "nombre": "Fallout 4: Game of the Year Edition",
+      "nombre": "Digital Deluxe edic. maestra de Monster Hunter World: Iceborne",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 328.6,
       "precioFormateado": "$328.60"
     },
     {
-      "nombre": "Assassin's Creed Odyssey: Deluxe Edition",
+      "nombre": "Fallout 4: Game of the Year Edition",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 328.6,
       "precioFormateado": "$328.60"
@@ -836,13 +842,13 @@
       "precioFormateado": "$308.05"
     },
     {
-      "nombre": "Five Hearts Under One Roof",
+      "nombre": "Evil West",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 308.05,
       "precioFormateado": "$308.05"
     },
     {
-      "nombre": "Evil West",
+      "nombre": "Five Hearts Under One Roof",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 308.05,
       "precioFormateado": "$308.05"
@@ -1286,25 +1292,19 @@
       "precioFormateado": "$123.10"
     },
     {
-      "nombre": "Need for Speed™ Rivals: Edición Completa",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 123.1,
-      "precioFormateado": "$123.10"
-    },
-    {
       "nombre": "WATCH_DOGS™ COMPLETE EDITION",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 123.1,
       "precioFormateado": "$123.10"
     },
     {
-      "nombre": "Mortal Kombat 11 Paquete de Kombate",
+      "nombre": "Need for Speed™ Rivals: Edición Completa",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 123.1,
       "precioFormateado": "$123.10"
     },
     {
-      "nombre": "Don't Starve Together: Console Edition",
+      "nombre": "Mortal Kombat 11 Paquete de Kombate",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 123.1,
       "precioFormateado": "$123.10"
