@@ -2,12 +2,22 @@ name: Actualizar Precios PSN
 on:
   schedule:
     - cron: '0,30 * * * *' # 
+
+concurrency:
+  group: update-prices-main
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout del código
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Instalar Node.js
         uses: actions/setup-node@v4
@@ -22,22 +32,20 @@ jobs:
       - name: Ejecutar Scraper
         run: node scraper_psn.js
 
-      - name: Guardar cambios (Commit)
+      - name: Guardar y subir cambios
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
-          git add juegos_psn.json
-          git commit -m "Actualización automática de precios: $(date)" || echo "No hay cambios"
-          git push
 
-          # ... (todo lo anterior igual hasta el git push)
-      - name: Guardar cambios (Commit)
-        run: |
-          git config --global user.name "GitHub Action Bot"
-          git config --global user.email "actions@github.com"
           git add juegos_psn.json
-          git commit -m "Actualización automática de precios: $(date)" || echo "No hay cambios"
-          git push
+          if git diff --cached --quiet; then
+            echo "No hay cambios para commit"
+            exit 0
+          fi
+
+          git commit -m "Actualización automática de precios: $(date -u)"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin HEAD:"${GITHUB_REF_NAME}"
 
       - name: Trigger GitHub Pages Deploy
         run: |
