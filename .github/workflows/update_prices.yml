@@ -1,7 +1,8 @@
 name: Actualizar Precios PSN
 on:
+workflow_dispatch:
   schedule:
-    - cron: '0,30 * * * *' # 
+    - cron: "0,30 * * * *" #
 
 concurrency:
   group: update-prices-main
@@ -22,7 +23,7 @@ jobs:
       - name: Instalar Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
       - name: Instalar dependencias
         run: |
