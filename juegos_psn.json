@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T05:59:56.639Z",
+  "lastUpdated": "2026-05-05T07:03:21.427Z",
   "juegos": [
     {
       "nombre": "The Legend of Heroes: Trails beyond the Horizon - Ultimate Edition",
@@ -480,12 +480,6 @@
       "precioBaseUSD": 35.99,
       "precioFinalMXN": 738.55,
       "precioFormateado": "$738.55"
-    },
-    {
-      "nombre": "Split Fiction",
-      "precioBaseUSD": 34.99,
-      "precioFinalMXN": 718.03,
-      "precioFormateado": "$718.03"
     },
     {
       "nombre": "Mortal Kombat: Legacy Kollection PS4 & PS5",
@@ -969,12 +963,6 @@
     },
     {
       "nombre": "Destiny 2: Año de la Profecía",
-      "precioBaseUSD": 23.99,
-      "precioFinalMXN": 492.3,
-      "precioFormateado": "$492.30"
-    },
-    {
-      "nombre": "Edición del paquete Cross-gen de STAR WARS™ Jedi",
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 492.3,
       "precioFormateado": "$492.30"
@@ -2192,12 +2180,6 @@
       "precioFormateado": "$292.84"
     },
     {
-      "nombre": "It Takes Two para PS4™ y PS5™",
-      "precioBaseUSD": 13.99,
-      "precioFinalMXN": 287.09,
-      "precioFormateado": "$287.09"
-    },
-    {
       "nombre": "Spyro™ Reignited Trilogy",
       "precioBaseUSD": 13.99,
       "precioFinalMXN": 287.09,
@@ -3411,12 +3393,6 @@
     },
     {
       "nombre": "Far Cry 5",
-      "precioBaseUSD": 8.99,
-      "precioFinalMXN": 184.48,
-      "precioFormateado": "$184.48"
-    },
-    {
-      "nombre": "A Way Out",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 184.48,
       "precioFormateado": "$184.48"
@@ -8583,6 +8559,30 @@
     },
     {
       "nombre": "Capcom Arcade 2nd Stadium: Black Tiger",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.32,
+      "precioFormateado": "$20.32"
+    },
+    {
+      "nombre": "Capcom Arcade 2nd Stadium: Gan Sumoku",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.32,
+      "precioFormateado": "$20.32"
+    },
+    {
+      "nombre": "Capcom Arcade 2nd Stadium: Hyper Dyne Side Arms",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.32,
+      "precioFormateado": "$20.32"
+    },
+    {
+      "nombre": "Capcom Arcade 2nd Stadium: Last Duel",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.32,
+      "precioFormateado": "$20.32"
+    },
+    {
+      "nombre": "Capcom Arcade 2nd Stadium: Pnickies",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.32,
       "precioFormateado": "$20.32"
