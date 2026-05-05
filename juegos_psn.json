@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T04:38:11.610Z",
+  "lastUpdated": "2026-05-05T05:59:56.639Z",
   "juegos": [
     {
       "nombre": "The Legend of Heroes: Trails beyond the Horizon - Ultimate Edition",
@@ -170,13 +170,13 @@
       "precioFormateado": "$984.81"
     },
     {
-      "nombre": "War Thunder - F-16A Netz Pack",
+      "nombre": "Marathon - Edición Deluxe",
       "precioBaseUSD": 47.99,
       "precioFinalMXN": 984.81,
       "precioFormateado": "$984.81"
     },
     {
-      "nombre": "Marathon - Edición Deluxe",
+      "nombre": "War Thunder - F-16A Netz Pack",
       "precioBaseUSD": 47.99,
       "precioFinalMXN": 984.81,
       "precioFormateado": "$984.81"
@@ -392,12 +392,6 @@
       "precioFormateado": "$820.64"
     },
     {
-      "nombre": "The Tomb Raider & Soul Reaver Remastered Bundle",
-      "precioBaseUSD": 39.99,
-      "precioFinalMXN": 820.64,
-      "precioFormateado": "$820.64"
-    },
-    {
       "nombre": "Gran Turismo® 7 Edición Digital Deluxe de 25.° Aniversario",
       "precioBaseUSD": 39.59,
       "precioFinalMXN": 812.43,
@@ -602,13 +596,13 @@
       "precioFormateado": "$615.43"
     },
     {
-      "nombre": "PAC-MAN WORLD 2 Re-PAC – Édition Deluxe PS4 y PS5",
+      "nombre": "Capcom Fighting Collection 1 + 2 Bundle",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 615.43,
       "precioFormateado": "$615.43"
     },
     {
-      "nombre": "Capcom Fighting Collection 1 + 2 Bundle",
+      "nombre": "PAC-MAN WORLD 2 Re-PAC – Édition Deluxe PS4 y PS5",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 615.43,
       "precioFormateado": "$615.43"
@@ -1023,6 +1017,12 @@
     },
     {
       "nombre": "Trails beyond the Horizon - Deluxe Service Pack",
+      "precioBaseUSD": 23.99,
+      "precioFinalMXN": 492.3,
+      "precioFormateado": "$492.30"
+    },
+    {
+      "nombre": "Wo Long: Fallen Dynasty (PS4 & PS5)",
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 492.3,
       "precioFormateado": "$492.30"
@@ -1506,6 +1506,12 @@
       "precioBaseUSD": 19.19,
       "precioFinalMXN": 393.8,
       "precioFormateado": "$393.80"
+    },
+    {
+      "nombre": "Accidents will Happen - Dangerous Driving Crash Mode Bundle",
+      "precioBaseUSD": 18.99,
+      "precioFinalMXN": 389.7,
+      "precioFormateado": "$389.70"
     },
     {
       "nombre": "Ecchi Secrets: Complete Edition",
@@ -2211,12 +2217,6 @@
     },
     {
       "nombre": "Edición digital deluxe de Lost Judgment PS4 & PS5",
-      "precioBaseUSD": 13.99,
-      "precioFinalMXN": 287.09,
-      "precioFormateado": "$287.09"
-    },
-    {
-      "nombre": "System Shock",
       "precioBaseUSD": 13.99,
       "precioFinalMXN": 287.09,
       "precioFormateado": "$287.09"
@@ -4142,12 +4142,6 @@
       "precioFormateado": "$153.70"
     },
     {
-      "nombre": "Two Point Campus",
-      "precioBaseUSD": 7.49,
-      "precioFinalMXN": 153.7,
-      "precioFormateado": "$153.70"
-    },
-    {
       "nombre": "Gord - Deluxe Edition",
       "precioBaseUSD": 7.39,
       "precioFinalMXN": 151.65,
@@ -4473,12 +4467,6 @@
     },
     {
       "nombre": "Vanquish",
-      "precioBaseUSD": 6.24,
-      "precioFinalMXN": 128.05,
-      "precioFormateado": "$128.05"
-    },
-    {
-      "nombre": "La fiebre del oro (Gold Mining Simulator)",
       "precioBaseUSD": 6.24,
       "precioFinalMXN": 128.05,
       "precioFormateado": "$128.05"
@@ -4880,12 +4868,6 @@
       "precioFormateado": "$122.92"
     },
     {
-      "nombre": "The Talos Principle: Deluxe Edition",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.92,
-      "precioFormateado": "$122.92"
-    },
-    {
       "nombre": "Demoniaca: Everlasting Night PS4 & PS5",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.92,
@@ -4893,6 +4875,12 @@
     },
     {
       "nombre": "Quest Hunter",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 122.92,
+      "precioFormateado": "$122.92"
+    },
+    {
+      "nombre": "The Talos Principle: Deluxe Edition",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.92,
       "precioFormateado": "$122.92"
@@ -5607,12 +5595,6 @@
     },
     {
       "nombre": "Deep Rock Galactic - Supporter II Upgrade",
-      "precioBaseUSD": 4.49,
-      "precioFinalMXN": 92.14,
-      "precioFormateado": "$92.14"
-    },
-    {
-      "nombre": "Gimmick! SPECIAL EDITION",
       "precioBaseUSD": 4.49,
       "precioFinalMXN": 92.14,
       "precioFormateado": "$92.14"
@@ -7568,6 +7550,12 @@
       "precioFormateado": "$40.84"
     },
     {
+      "nombre": "Dreamfall Chapters",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.84,
+      "precioFormateado": "$40.84"
+    },
+    {
       "nombre": "Electronic Super Joy 2",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.84,
@@ -8031,18 +8019,6 @@
     },
     {
       "nombre": "Melty Blood: Type Lumina \"Conde de Montecristo Anuncios de asalto\"",
-      "precioBaseUSD": 1.49,
-      "precioFinalMXN": 30.58,
-      "precioFormateado": "$30.58"
-    },
-    {
-      "nombre": "Melty Blood: Type Lumina - Mash Round Announcements",
-      "precioBaseUSD": 1.49,
-      "precioFinalMXN": 30.58,
-      "precioFormateado": "$30.58"
-    },
-    {
-      "nombre": "Melty Blood: Type Lumina - Neco-Arc Round Announcements",
       "precioBaseUSD": 1.49,
       "precioFinalMXN": 30.58,
       "precioFormateado": "$30.58"
@@ -8583,6 +8559,30 @@
     },
     {
       "nombre": "BLACK CLOVER: QUARTET KNIGHTS Film Set Bundle",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.32,
+      "precioFormateado": "$20.32"
+    },
+    {
+      "nombre": "Capcom Arcade 2nd Stadium: A.K.A Block Block",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.32,
+      "precioFormateado": "$20.32"
+    },
+    {
+      "nombre": "Capcom Arcade 2nd Stadium: A.K.A Magic Sword",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.32,
+      "precioFormateado": "$20.32"
+    },
+    {
+      "nombre": "Capcom Arcade 2nd Stadium: A.K.A The King of Dragons",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.32,
+      "precioFormateado": "$20.32"
+    },
+    {
+      "nombre": "Capcom Arcade 2nd Stadium: Black Tiger",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.32,
       "precioFormateado": "$20.32"
