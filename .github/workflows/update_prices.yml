@@ -34,8 +34,16 @@ jobs:
 
       - name: Guardar y subir cambios
         run: |
+          set -e
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
+
+          BRANCH="${GITHUB_REF_NAME:-main}"
+          echo "Rama objetivo: ${BRANCH}"
+
+          git fetch origin "${BRANCH}"
+          git checkout "${BRANCH}"
+          git rebase "origin/${BRANCH}"
 
           git add juegos_psn.json
           if git diff --cached --quiet; then
@@ -44,8 +52,21 @@ jobs:
           fi
 
           git commit -m "Actualización automática de precios: $(date -u)"
-          git pull --rebase origin "${GITHUB_REF_NAME}"
-          git push origin HEAD:"${GITHUB_REF_NAME}"
+
+          for intento in 1 2 3; do
+            echo "Intento de push ${intento}/3"
+            if git push origin HEAD:"${BRANCH}"; then
+              echo "Push exitoso"
+              exit 0
+            fi
+
+            echo "Push rechazado, reintentando con rebase..."
+            git fetch origin "${BRANCH}"
+            git rebase "origin/${BRANCH}"
+          done
+
+          echo "No se pudo hacer push tras 3 intentos"
+          exit 1
 
       - name: Trigger GitHub Pages Deploy
         run: |
