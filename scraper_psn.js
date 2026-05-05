@@ -123,7 +123,7 @@ const URL_PAGINA = [
   "https://store.playstation.com/es-mx/category/3f772501-f6f8-49b7-abac-874a88ca4897/57?storeDisplayClassification=FULL_GAME,PREMIUM_EDITION,GAME_BUNDLE",
   "https://store.playstation.com/es-mx/category/3f772501-f6f8-49b7-abac-874a88ca4897/58?storeDisplayClassification=FULL_GAME,PREMIUM_EDITION,GAME_BUNDLE",
   "https://store.playstation.com/es-mx/category/3f772501-f6f8-49b7-abac-874a88ca4897/59?storeDisplayClassification=FULL_GAME,PREMIUM_EDITION,GAME_BUNDLE",
-  "https://store.playstation.com/es-mx/category/3f772501-f6f8-49b7-abac-874a88ca4897/60?storeDisplayClassification=FULL_GAME,PREMIUM_EDITION,GAME_BUNDLE",  
+  "https://store.playstation.com/es-mx/category/3f772501-f6f8-49b7-abac-874a88ca4897/60?storeDisplayClassification=FULL_GAME,PREMIUM_EDITION,GAME_BUNDLE",
 
   // Puedes dejar las demás páginas aquí
 ];
@@ -153,6 +153,11 @@ async function buscarTodos() {
   await browser.close();
 
   catalogoCompleto.sort((a, b) => b.precioFinalMXN - a.precioFinalMXN);
+  //Eliminamos duplicados por nombre (en caso de que existan)
+  function estaRepetido(juego, index, self) {
+    return index === self.findIndex((j) => j.nombre === juego.nombre);
+  }
+  catalogoCompleto = catalogoCompleto.filter(estaRepetido);
 
   const output = {
     lastUpdated: new Date().toISOString(),
