@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T23:51:27.331Z",
+  "lastUpdated": "2026-05-06T00:50:22.957Z",
   "juegos": [
     {
       "nombre": "The Legend of Heroes: Trails beyond the Horizon - Ultimate Edition",
@@ -908,13 +908,13 @@
       "precioFormateado": "$511.40"
     },
     {
-      "nombre": "Outer Wilds",
+      "nombre": "FAR CRY®6 Gold Edition PS4 & PS5",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 511.4,
       "precioFormateado": "$511.40"
     },
     {
-      "nombre": "FAR CRY®6 Gold Edition PS4 & PS5",
+      "nombre": "Outer Wilds",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 511.4,
       "precioFormateado": "$511.40"
@@ -1076,13 +1076,13 @@
       "precioFormateado": "$474.56"
     },
     {
-      "nombre": "TRAIL OUT",
+      "nombre": "Legacy of Kain: Defiance Remastered - Deluxe Edition",
       "precioBaseUSD": 22.49,
       "precioFinalMXN": 460.24,
       "precioFormateado": "$460.24"
     },
     {
-      "nombre": "Legacy of Kain: Defiance Remastered - Deluxe Edition",
+      "nombre": "TRAIL OUT",
       "precioBaseUSD": 22.49,
       "precioFinalMXN": 460.24,
       "precioFormateado": "$460.24"
@@ -1244,13 +1244,13 @@
       "precioFormateado": "$409.08"
     },
     {
-      "nombre": "Far Cry® 6 Deluxe Edition",
+      "nombre": "Contra: Operation Galuga PS4 & PS5",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 409.08,
       "precioFormateado": "$409.08"
     },
     {
-      "nombre": "Contra: Operation Galuga PS4 & PS5",
+      "nombre": "Far Cry® 6 Deluxe Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 409.08,
       "precioFormateado": "$409.08"
@@ -4778,12 +4778,6 @@
       "precioFormateado": "$122.58"
     },
     {
-      "nombre": "Trine 4: The Nightmare Prince",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.58,
-      "precioFormateado": "$122.58"
-    },
-    {
       "nombre": "7 Days to Die - Conjunto de armadura del desierto",
       "precioBaseUSD": 5.84,
       "precioFinalMXN": 119.51,
@@ -5948,12 +5942,6 @@
       "precioFormateado": "$76.54"
     },
     {
-      "nombre": "Through the Darkest of Times",
-      "precioBaseUSD": 3.74,
-      "precioFinalMXN": 76.54,
-      "precioFormateado": "$76.54"
-    },
-    {
       "nombre": "Trail Out – DLC – Moto Rush",
       "precioBaseUSD": 3.74,
       "precioFinalMXN": 76.54,
@@ -6674,6 +6662,12 @@
       "precioFormateado": "$50.96"
     },
     {
+      "nombre": "KUUKIYOMI: Consider It!",
+      "precioBaseUSD": 2.49,
+      "precioFinalMXN": 50.96,
+      "precioFormateado": "$50.96"
+    },
+    {
       "nombre": "STAR WARS: Jedi Starfighter",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 50.96,
@@ -6693,12 +6687,6 @@
     },
     {
       "nombre": "ACE COMBAT™7: SKIES UNKNOWN – MiG-35D Super Fulcrum Set",
-      "precioBaseUSD": 2.49,
-      "precioFinalMXN": 50.96,
-      "precioFormateado": "$50.96"
-    },
-    {
-      "nombre": "KUUKIYOMI: Consider It!",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 50.96,
       "precioFormateado": "$50.96"
@@ -7652,6 +7640,12 @@
       "precioFormateado": "$30.49"
     },
     {
+      "nombre": "Crossbars",
+      "precioBaseUSD": 1.49,
+      "precioFinalMXN": 30.49,
+      "precioFormateado": "$30.49"
+    },
+    {
       "nombre": "Set de modo de gestión de Yakuza: Like a Dragon",
       "precioBaseUSD": 1.49,
       "precioFinalMXN": 30.49,
@@ -7665,12 +7659,6 @@
     },
     {
       "nombre": "ACE COMBAT™7: SKIES UNKNOWN - F-4E Phantom II + 3 Skins",
-      "precioBaseUSD": 1.49,
-      "precioFinalMXN": 30.49,
-      "precioFormateado": "$30.49"
-    },
-    {
-      "nombre": "Crossbars",
       "precioBaseUSD": 1.49,
       "precioFinalMXN": 30.49,
       "precioFormateado": "$30.49"
@@ -8024,13 +8012,13 @@
       "precioFormateado": "$20.26"
     },
     {
-      "nombre": "Capcom Arcade Stadium：STREET FIGHTER II - The World Warrior -",
+      "nombre": "Capcom Arcade 2nd Stadium: Super Puzzle Fighter II Turbo",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.26,
       "precioFormateado": "$20.26"
     },
     {
-      "nombre": "Capcom Arcade 2nd Stadium: Super Puzzle Fighter II Turbo",
+      "nombre": "Capcom Arcade Stadium：STREET FIGHTER II - The World Warrior -",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.26,
       "precioFormateado": "$20.26"
@@ -8078,13 +8066,13 @@
       "precioFormateado": "$20.26"
     },
     {
-      "nombre": "Capcom Arcade 2nd Stadium: Mega Man: The Power Battle",
+      "nombre": "Capcom Arcade Stadium：STREET FIGHTER II' - Hyper Fighting -",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.26,
       "precioFormateado": "$20.26"
     },
     {
-      "nombre": "Capcom Arcade Stadium：STREET FIGHTER II' - Hyper Fighting -",
+      "nombre": "Capcom Arcade 2nd Stadium: Mega Man: The Power Battle",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.26,
       "precioFormateado": "$20.26"
@@ -8103,6 +8091,18 @@
     },
     {
       "nombre": "Capcom Arcade Stadium：CAPTAIN COMMANDO",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.26,
+      "precioFormateado": "$20.26"
+    },
+    {
+      "nombre": "Capcom Arcade Stadium：FINAL FIGHT",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.26,
+      "precioFormateado": "$20.26"
+    },
+    {
+      "nombre": "Capcom Arcade Stadium：Ghouls 'n Ghosts",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.26,
       "precioFormateado": "$20.26"
@@ -8132,12 +8132,6 @@
       "precioFormateado": "$20.26"
     },
     {
-      "nombre": "Capcom Arcade Stadium：FINAL FIGHT",
-      "precioBaseUSD": 0.99,
-      "precioFinalMXN": 20.26,
-      "precioFormateado": "$20.26"
-    },
-    {
       "nombre": "Capcom Arcade 2nd Stadium: Night Warriors: Darkstalkers' Revenge",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.26,
@@ -8150,19 +8144,7 @@
       "precioFormateado": "$20.26"
     },
     {
-      "nombre": "Capcom Arcade Stadium：SUPER STREET FIGHTER IITURBO",
-      "precioBaseUSD": 0.99,
-      "precioFinalMXN": 20.26,
-      "precioFormateado": "$20.26"
-    },
-    {
       "nombre": "Contenido Extra Tripulación Prescindible de Alien: Isolation",
-      "precioBaseUSD": 0.99,
-      "precioFinalMXN": 20.26,
-      "precioFormateado": "$20.26"
-    },
-    {
-      "nombre": "Capcom Arcade Stadium：Ghouls 'n Ghosts",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.26,
       "precioFormateado": "$20.26"
@@ -8181,6 +8163,12 @@
     },
     {
       "nombre": "Capcom Arcade 2nd Stadium: Street Fighter Alpha: Warriors' Dreams",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.26,
+      "precioFormateado": "$20.26"
+    },
+    {
+      "nombre": "Capcom Arcade Stadium：SUPER STREET FIGHTER IITURBO",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.26,
       "precioFormateado": "$20.26"
@@ -8313,6 +8301,18 @@
     },
     {
       "nombre": "Capcom Arcade 2nd Stadium: Pnickies",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.26,
+      "precioFormateado": "$20.26"
+    },
+    {
+      "nombre": "Capcom Arcade 2nd Stadium: Rally 2011 LED Storm",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.26,
+      "precioFormateado": "$20.26"
+    },
+    {
+      "nombre": "Capcom Arcade 2nd Stadium: Saturday Night Slam Masters",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.26,
       "precioFormateado": "$20.26"
