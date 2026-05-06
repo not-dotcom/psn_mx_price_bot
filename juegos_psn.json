@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T04:45:23.334Z",
+  "lastUpdated": "2026-05-06T06:07:15.954Z",
   "juegos": [
     {
       "nombre": "The Legend of Heroes: Trails beyond the Horizon - Ultimate Edition",
@@ -3158,6 +3158,12 @@
       "precioFormateado": "$204.44"
     },
     {
+      "nombre": "Rally Arcade Classics",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.44,
+      "precioFormateado": "$204.44"
+    },
+    {
       "nombre": "Summer Games Challenge",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.44,
@@ -4748,6 +4754,12 @@
       "precioFormateado": "$122.58"
     },
     {
+      "nombre": "The Talos Principle: Deluxe Edition",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 122.58,
+      "precioFormateado": "$122.58"
+    },
+    {
       "nombre": "Demoniaca: Everlasting Night PS4 & PS5",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.58,
@@ -4760,7 +4772,7 @@
       "precioFormateado": "$122.58"
     },
     {
-      "nombre": "The Talos Principle: Deluxe Edition",
+      "nombre": "D-Day Enhanced - Gold Edition",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.58,
       "precioFormateado": "$122.58"
@@ -4773,12 +4785,6 @@
     },
     {
       "nombre": "Phantom Doctrine",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.58,
-      "precioFormateado": "$122.58"
-    },
-    {
-      "nombre": "D-Day Enhanced - Gold Edition",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.58,
       "precioFormateado": "$122.58"
@@ -7461,12 +7467,6 @@
     },
     {
       "nombre": "Crazy Cats vs. Crazy Cyborgs PS4® & PS5®",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.72,
-      "precioFormateado": "$40.72"
-    },
-    {
-      "nombre": "D-Day Enhanced",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.72,
       "precioFormateado": "$40.72"
