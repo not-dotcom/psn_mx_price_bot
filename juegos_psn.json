@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T10:47:13.672Z",
+  "lastUpdated": "2026-05-07T11:42:57.117Z",
   "juegos": [
     {
       "nombre": "Brigandine Abyss",
@@ -51,6 +51,12 @@
     },
     {
       "nombre": "Outer Wilds",
+      "precioBaseUSD": 24.99,
+      "precioFinalMXN": 506.16,
+      "precioFormateado": "$506.16"
+    },
+    {
+      "nombre": "Planet of Lana II - Supporter Edition",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 506.16,
       "precioFormateado": "$506.16"
@@ -140,6 +146,12 @@
       "precioFormateado": "$364.38"
     },
     {
+      "nombre": "Strange Antiquities",
+      "precioBaseUSD": 17.99,
+      "precioFinalMXN": 364.38,
+      "precioFormateado": "$364.38"
+    },
+    {
       "nombre": "Star Fire: Eternal Cycle",
       "precioBaseUSD": 16.99,
       "precioFinalMXN": 344.12,
@@ -176,10 +188,34 @@
       "precioFormateado": "$303.61"
     },
     {
+      "nombre": "PixelJunk™ Shooter Ultimate",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 303.61,
+      "precioFormateado": "$303.61"
+    },
+    {
+      "nombre": "Shopping Mall Girl: Complete Edition",
+      "precioBaseUSD": 13.99,
+      "precioFinalMXN": 283.36,
+      "precioFormateado": "$283.36"
+    },
+    {
       "nombre": "Greedland",
       "precioBaseUSD": 12.99,
       "precioFinalMXN": 263.1,
       "precioFormateado": "$263.10"
+    },
+    {
+      "nombre": "Rail Rescue: Puzzle Lines - Complete Edition",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 242.85,
+      "precioFormateado": "$242.85"
+    },
+    {
+      "nombre": "Shopping Mall Girl & DIY Fashion Star",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 242.85,
+      "precioFormateado": "$242.85"
     },
     {
       "nombre": "Save My Scrap",
@@ -206,76 +242,16 @@
       "precioFormateado": "$202.34"
     },
     {
-      "nombre": "Decollate Decoration",
-      "precioBaseUSD": 8.99,
-      "precioFinalMXN": 182.09,
-      "precioFormateado": "$182.09"
-    },
-    {
-      "nombre": "Onyx Fashion Pack",
-      "precioBaseUSD": 6.99,
-      "precioFinalMXN": 141.58,
-      "precioFormateado": "$141.58"
-    },
-    {
-      "nombre": "2XKO PS+ Benefit Bundle Y1S1",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "3on3 FreeStyle - Paquete adicional de PlayStation®Plus 2026 (mayo)",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Actualización de FINAL FANTASY VII REMAKE para la versión de PS4™",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "Planet of Lana II - Supporter Edition",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 506.16,
-      "precioFormateado": "$506.16"
-    },
-    {
-      "nombre": "Strange Antiquities",
-      "precioBaseUSD": 17.99,
-      "precioFinalMXN": 364.38,
-      "precioFormateado": "$364.38"
-    },
-    {
-      "nombre": "PixelJunk™ Shooter Ultimate",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 303.61,
-      "precioFormateado": "$303.61"
-    },
-    {
-      "nombre": "Shopping Mall Girl: Complete Edition",
-      "precioBaseUSD": 13.99,
-      "precioFinalMXN": 283.36,
-      "precioFormateado": "$283.36"
-    },
-    {
-      "nombre": "Rail Rescue: Puzzle Lines - Complete Edition",
-      "precioBaseUSD": 11.99,
-      "precioFinalMXN": 242.85,
-      "precioFormateado": "$242.85"
-    },
-    {
-      "nombre": "Shopping Mall Girl & DIY Fashion Star",
-      "precioBaseUSD": 11.99,
-      "precioFinalMXN": 242.85,
-      "precioFormateado": "$242.85"
-    },
-    {
       "nombre": "Rail Rescue: Puzzle Lines & Mini Trains",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 202.34,
       "precioFormateado": "$202.34"
+    },
+    {
+      "nombre": "Decollate Decoration",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 182.09,
+      "precioFormateado": "$182.09"
     },
     {
       "nombre": "Parking Jam & Thief Puzzle",
@@ -296,6 +272,12 @@
       "precioFormateado": "$161.83"
     },
     {
+      "nombre": "Onyx Fashion Pack",
+      "precioBaseUSD": 6.99,
+      "precioFinalMXN": 141.58,
+      "precioFormateado": "$141.58"
+    },
+    {
       "nombre": "Parking Jam: Complete Edition",
       "precioBaseUSD": 6.99,
       "precioFinalMXN": 141.58,
@@ -308,340 +290,22 @@
       "precioFormateado": "$101.07"
     },
     {
-      "nombre": "Paquete del Guía Espacial",
+      "nombre": "2XKO PS+ Benefit Bundle Y1S1",
       "precioBaseUSD": 0,
       "precioFinalMXN": 0,
       "precioFormateado": "$0.00"
     },
     {
-      "nombre": "Paquete de PlayStation®Plus The First Descendant, temporada 3, episodio 3: La verdad, al descubierto 2",
+      "nombre": "3on3 FreeStyle - Paquete adicional de PlayStation®Plus 2026 (mayo)",
       "precioBaseUSD": 0,
       "precioFinalMXN": 0,
       "precioFormateado": "$0.00"
     },
     {
-      "nombre": "Paquete de primavera de Sky: Niños de la Luz",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Paquete de RWBY Plus para Paladins",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Paquete gratuito exclusivo de HAWKEN para PlayStation®Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Paquete para miembros de PlayStation®Plus de NTE",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Paquete refrescante de SMITE",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Paraiso Island Carnivale Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Path of Exile: Paquete 18 - PlayStation Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "[PlayStation®4] Yu-Gi-Oh! MASTER DUEL Paquete de 50 Tiquets",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "[PlayStation®5] Yu-Gi-Oh! MASTER DUEL Paquete de 50 Tiquets",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Predecessor - Lote Invasión del Abismo",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Promoción de Genshin Impact para PlayStation®Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Promoción de Infinity Nikki para PlayStation®Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Promoción de Tower of Fantasy para PlayStation®Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "PS Plus RB4 Pre-Order DLC Bundle",
+      "nombre": "Actualización de FINAL FANTASY VII REMAKE para la versión de PS4™",
       "precioBaseUSD": null,
       "precioFinalMXN": null,
       "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "Puzzle Quest 3: Monthly PS Plus Shard Bundle",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Puzzle Quest 3 - Paquete de héroe Aventurero Cerúleo",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Rainbow Six Siege: paquete PlayStation® Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Recompensa de PlayStation®Plus para FINAL FANTASY XIV: Free Destination con Aetheryte adicional (Abril - Junio)",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Regalos exclusivos PlayStation®Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Roblox Capitán Bristlejaw",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Rocket League® - PlayStation®Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Rogue Company: Paquete de suministros invernal",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Roller Champions™ PlayStation®Plus Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "skate.™ Play Pack de PlayStation®Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Star Trek Online Both Worlds Cobalt Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Star Trek Online – Cobalt Phaser Pistol Pack exclusivo de Unraveled",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Star Trek Online Incursion Cobalt Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Star Trek Online – Pack exclusivo Cobalt Multibarrel Phaser Pistol",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Star Trek Online Unleashed Cobalt Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Star Trek Online Unparalleled Cobalt Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Suministros adicionales de Battle Islands: Commanders",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Summer PlayStation®Plus Pack (PS4)",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Summer PlayStation®Plus Pack (PS5)",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Super Animal Royale: PlayStation Plus Pack 2 (PS4)",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "Super Animal Royale: PlayStation Plus Pack 2 (PS5)",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "Super Animal Royale - PlayStation Plus Pack (PS4)",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "Super Animal Royale - PlayStation Plus Pack (PS5)",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "Super Animal Royale: Season 10 - PlayStation®Plus Pack",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "Super Animal Royale: Season 9 - PlayStation®Plus Pack",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "SUPER ANIMAL ROYALE - Spring 2026 PlayStation®Plus Pack (PS5)",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Super Animal Royale - Spring PlayStation®Plus Pack (PS4)",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "Super Animal Royale - Spring PlayStation®Plus Pack (PS5)",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "Super Animal Royale: Temporada 4 - Paquete de PlayStation®Plus",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "Super Animal Royale: Temporada 5 - Paquete de PlayStation®Plus",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "Super Animal Royale: Temporada 6 - Paquete de PlayStation®Plus",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "Super Animal Royale: Temporada 7 - Paquete de PlayStation®Plus",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "Super Animal Royale: Temporada 8 - Paquete de PlayStation®Plus",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "SUPER ANIMAL ROYALE - Winter 2025 PlayStation®Plus Pack (PS4)",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "SUPER ANIMAL ROYALE - Winter 2025 PlayStation®Plus Pack (PS5)",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "Yerba Buena",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 506.16,
-      "precioFormateado": "$506.16"
-    },
-    {
-      "nombre": "What Remains of Edith Finch",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 404.89,
-      "precioFormateado": "$404.89"
-    },
-    {
-      "nombre": "Switchblade: Paquete V.I.P. 1 de PlayStation®Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "The Dark Pictures Anthology: Man of Medan PS4 & PS5",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "THE TAG-ALONG OBSESSION",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 506.16,
-      "precioFormateado": "$506.16"
     },
     {
       "nombre": "Arcadegeddon 1,000 ARCoins(PS4™)",
@@ -654,12 +318,6 @@
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.07,
       "precioFormateado": "$101.07"
-    },
-    {
-      "nombre": "Tsugunohi -The Chamber of Phantom Name-",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 80.82,
-      "precioFormateado": "$80.82"
     },
     {
       "nombre": "Apex Legends™: pack de juego de PlayStation®Plus",
@@ -1034,6 +692,348 @@
       "precioFormateado": "$0.00"
     },
     {
+      "nombre": "Paquete del Guía Espacial",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Paquete de PlayStation®Plus The First Descendant, temporada 3, episodio 3: La verdad, al descubierto 2",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Paquete de primavera de Sky: Niños de la Luz",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Paquete de RWBY Plus para Paladins",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Paquete gratuito exclusivo de HAWKEN para PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Paquete para miembros de PlayStation®Plus de NTE",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Paquete refrescante de SMITE",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Paraiso Island Carnivale Pack",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Path of Exile: Paquete 18 - PlayStation Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "[PlayStation®4] Yu-Gi-Oh! MASTER DUEL Paquete de 50 Tiquets",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "[PlayStation®5] Yu-Gi-Oh! MASTER DUEL Paquete de 50 Tiquets",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Predecessor - Lote Invasión del Abismo",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Promoción de Genshin Impact para PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Promoción de Infinity Nikki para PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Promoción de Tower of Fantasy para PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "PS Plus RB4 Pre-Order DLC Bundle",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "Puzzle Quest 3: Monthly PS Plus Shard Bundle",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Puzzle Quest 3 - Paquete de héroe Aventurero Cerúleo",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Rainbow Six Siege: paquete PlayStation® Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Recompensa de PlayStation®Plus para FINAL FANTASY XIV: Free Destination con Aetheryte adicional (Abril - Junio)",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Regalos exclusivos PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Roblox Capitán Bristlejaw",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Rocket League® - PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Rogue Company: Paquete de suministros invernal",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Roller Champions™ PlayStation®Plus Pack",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "skate.™ Play Pack de PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Star Trek Online Both Worlds Cobalt Pack",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Star Trek Online – Cobalt Phaser Pistol Pack exclusivo de Unraveled",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Star Trek Online Incursion Cobalt Pack",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Star Trek Online – Pack exclusivo Cobalt Multibarrel Phaser Pistol",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Star Trek Online Unleashed Cobalt Pack",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Star Trek Online Unparalleled Cobalt Pack",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Suministros adicionales de Battle Islands: Commanders",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Summer PlayStation®Plus Pack (PS4)",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Summer PlayStation®Plus Pack (PS5)",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Super Animal Royale: PlayStation Plus Pack 2 (PS4)",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "Super Animal Royale: PlayStation Plus Pack 2 (PS5)",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "Super Animal Royale - PlayStation Plus Pack (PS4)",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "Super Animal Royale - PlayStation Plus Pack (PS5)",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "Super Animal Royale: Season 10 - PlayStation®Plus Pack",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "Super Animal Royale: Season 9 - PlayStation®Plus Pack",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "SUPER ANIMAL ROYALE - Spring 2026 PlayStation®Plus Pack (PS5)",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Super Animal Royale - Spring PlayStation®Plus Pack (PS4)",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "Super Animal Royale - Spring PlayStation®Plus Pack (PS5)",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "Super Animal Royale: Temporada 4 - Paquete de PlayStation®Plus",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "Super Animal Royale: Temporada 5 - Paquete de PlayStation®Plus",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "Super Animal Royale: Temporada 6 - Paquete de PlayStation®Plus",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "Super Animal Royale: Temporada 7 - Paquete de PlayStation®Plus",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "Super Animal Royale: Temporada 8 - Paquete de PlayStation®Plus",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "SUPER ANIMAL ROYALE - Winter 2025 PlayStation®Plus Pack (PS4)",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "SUPER ANIMAL ROYALE - Winter 2025 PlayStation®Plus Pack (PS5)",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "THE TAG-ALONG OBSESSION",
+      "precioBaseUSD": 24.99,
+      "precioFinalMXN": 506.16,
+      "precioFormateado": "$506.16"
+    },
+    {
+      "nombre": "What Remains of Edith Finch",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 404.89,
+      "precioFormateado": "$404.89"
+    },
+    {
+      "nombre": "Switchblade: Paquete V.I.P. 1 de PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "The Dark Pictures Anthology: Man of Medan PS4 & PS5",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "Yerba Buena",
+      "precioBaseUSD": 24.99,
+      "precioFinalMXN": 506.16,
+      "precioFormateado": "$506.16"
+    },
+    {
+      "nombre": "Tsugunohi -The Chamber of Phantom Name-",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 80.82,
+      "precioFormateado": "$80.82"
+    },
+    {
       "nombre": "THE FINALS - Glow and Behold Set",
       "precioBaseUSD": 0,
       "precioFinalMXN": 0,
@@ -1179,6 +1179,18 @@
     },
     {
       "nombre": "Pirates: Treasure Hunters - PlayStation Plus Pack",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Stumble Guys - Lote Aurora Shinobino - PS4™",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Stumble Guys - Lote Aurora Shinobino - PS5™",
       "precioBaseUSD": 0,
       "precioFinalMXN": 0,
       "precioFormateado": "$0.00"
