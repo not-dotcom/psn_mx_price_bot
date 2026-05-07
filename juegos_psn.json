@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T04:46:42.394Z",
+  "lastUpdated": "2026-05-07T06:08:25.177Z",
   "juegos": [
     {
       "nombre": "The Legend of Heroes: Trails beyond the Horizon - Ultimate Edition",
@@ -369,12 +369,6 @@
     },
     {
       "nombre": "Aces of Thunder - Deluxe Edition",
-      "precioBaseUSD": 39.99,
-      "precioFinalMXN": 809.97,
-      "precioFormateado": "$809.97"
-    },
-    {
-      "nombre": "5300 Zen de Neverwinter",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 809.97,
       "precioFormateado": "$809.97"
@@ -800,6 +794,12 @@
       "precioFormateado": "$546.67"
     },
     {
+      "nombre": "Crusader Kings III: Tours & Tournaments",
+      "precioBaseUSD": 26.99,
+      "precioFinalMXN": 546.67,
+      "precioFormateado": "$546.67"
+    },
+    {
       "nombre": "Pase de temporada de Atelier Yumia",
       "precioBaseUSD": 26.99,
       "precioFinalMXN": 546.67,
@@ -1094,13 +1094,13 @@
       "precioFormateado": "$425.14"
     },
     {
-      "nombre": "MELTY BLOOD: TYPE LUMINA - Deluxe Edition",
+      "nombre": "Forspoken",
       "precioBaseUSD": 20.99,
       "precioFinalMXN": 425.14,
       "precioFormateado": "$425.14"
     },
     {
-      "nombre": "Forspoken",
+      "nombre": "MELTY BLOOD: TYPE LUMINA - Deluxe Edition",
       "precioBaseUSD": 20.99,
       "precioFinalMXN": 425.14,
       "precioFormateado": "$425.14"
@@ -1790,12 +1790,6 @@
       "precioFormateado": "$323.87"
     },
     {
-      "nombre": "STRANGER OF PARADISE FINAL FANTASY ORIGIN PS4 & PS5",
-      "precioBaseUSD": 15.99,
-      "precioFinalMXN": 323.87,
-      "precioFormateado": "$323.87"
-    },
-    {
       "nombre": "Big Hops",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 323.87,
@@ -1815,6 +1809,12 @@
     },
     {
       "nombre": "Planet of Lana II",
+      "precioBaseUSD": 15.99,
+      "precioFinalMXN": 323.87,
+      "precioFormateado": "$323.87"
+    },
+    {
+      "nombre": "STRANGER OF PARADISE FINAL FANTASY ORIGIN PS4 & PS5",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 323.87,
       "precioFormateado": "$323.87"
@@ -1946,6 +1946,12 @@
       "precioFormateado": "$303.61"
     },
     {
+      "nombre": "Age of Mythology: Retold - Premium Upgrade",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 303.61,
+      "precioFormateado": "$303.61"
+    },
+    {
       "nombre": "OUTRIDERS COMPLETE EDITION",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 303.61,
@@ -1953,12 +1959,6 @@
     },
     {
       "nombre": "Far Cry® 6 Game of the Year Upgrade Pass",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 303.61,
-      "precioFormateado": "$303.61"
-    },
-    {
-      "nombre": "Age of Mythology: Retold - Premium Upgrade",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 303.61,
       "precioFormateado": "$303.61"
@@ -1982,12 +1982,6 @@
       "precioFormateado": "$303.61"
     },
     {
-      "nombre": "Dangerous Driving",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 303.61,
-      "precioFormateado": "$303.61"
-    },
-    {
       "nombre": "STAR WARS™: Dark Forces Remaster",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 303.61,
@@ -1995,6 +1989,12 @@
     },
     {
       "nombre": "MELTY BLOOD: TYPE LUMINA",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 303.61,
+      "precioFormateado": "$303.61"
+    },
+    {
+      "nombre": "Dangerous Driving",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 303.61,
       "precioFormateado": "$303.61"
@@ -2121,12 +2121,6 @@
     },
     {
       "nombre": "Enlisted - Sd.Kfz. 251/1 Squad",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 303.61,
-      "precioFormateado": "$303.61"
-    },
-    {
-      "nombre": "Wo Long: Fallen Dynasty Pase de Temporada",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 303.61,
       "precioFormateado": "$303.61"
@@ -2511,6 +2505,12 @@
     },
     {
       "nombre": "The Witness",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 242.85,
+      "precioFormateado": "$242.85"
+    },
+    {
+      "nombre": "Age of Wonders 4: Ways of War",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 242.85,
       "precioFormateado": "$242.85"
@@ -3884,6 +3884,12 @@
       "precioFormateado": "$156.77"
     },
     {
+      "nombre": "Injection π23 'No Name, No Number' - Complete Edition",
+      "precioBaseUSD": 7.69,
+      "precioFinalMXN": 155.76,
+      "precioFormateado": "$155.76"
+    },
+    {
       "nombre": "Platinum Animemania",
       "precioBaseUSD": 7.69,
       "precioFinalMXN": 155.76,
@@ -4106,7 +4112,13 @@
       "precioFormateado": "$145.63"
     },
     {
-      "nombre": "Ages of Mages: the Last Keeper",
+      "nombre": "Wo Long: Fallen Dynasty Batalla de Zhongyuan",
+      "precioBaseUSD": 7.19,
+      "precioFinalMXN": 145.63,
+      "precioFormateado": "$145.63"
+    },
+    {
+      "nombre": "Wo Long: Fallen Dynasty Conquistador de Jiangdong",
       "precioBaseUSD": 7.19,
       "precioFinalMXN": 145.63,
       "precioFormateado": "$145.63"
@@ -4118,13 +4130,7 @@
       "precioFormateado": "$145.63"
     },
     {
-      "nombre": "Wo Long: Fallen Dynasty Batalla de Zhongyuan",
-      "precioBaseUSD": 7.19,
-      "precioFinalMXN": 145.63,
-      "precioFormateado": "$145.63"
-    },
-    {
-      "nombre": "Wo Long: Fallen Dynasty Conquistador de Jiangdong",
+      "nombre": "Ages of Mages: the Last Keeper",
       "precioBaseUSD": 7.19,
       "precioFinalMXN": 145.63,
       "precioFormateado": "$145.63"
@@ -4646,12 +4652,6 @@
       "precioFormateado": "$121.32"
     },
     {
-      "nombre": "Lemon Cake",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 121.32,
-      "precioFormateado": "$121.32"
-    },
-    {
       "nombre": "Little Noah: Scion of Paradise",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 121.32,
@@ -4730,6 +4730,12 @@
       "precioFormateado": "$121.32"
     },
     {
+      "nombre": "The Talos Principle: Deluxe Edition",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 121.32,
+      "precioFormateado": "$121.32"
+    },
+    {
       "nombre": "BOSSGAME: The Final Boss Is My Heart",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 121.32,
@@ -4737,12 +4743,6 @@
     },
     {
       "nombre": "Christmas Mutilator",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 121.32,
-      "precioFormateado": "$121.32"
-    },
-    {
-      "nombre": "The Talos Principle: Deluxe Edition",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 121.32,
       "precioFormateado": "$121.32"
@@ -6044,13 +6044,13 @@
       "precioFormateado": "$70.69"
     },
     {
-      "nombre": "Hunt: Showdown 1896 - Ronin",
+      "nombre": "HITMAN 3 - The Undying Pack",
       "precioBaseUSD": 3.49,
       "precioFinalMXN": 70.69,
       "precioFormateado": "$70.69"
     },
     {
-      "nombre": "HITMAN 3 - The Undying Pack",
+      "nombre": "Hunt: Showdown 1896 - Ronin",
       "precioBaseUSD": 3.49,
       "precioFinalMXN": 70.69,
       "precioFormateado": "$70.69"
@@ -6278,13 +6278,13 @@
       "precioFormateado": "$60.56"
     },
     {
-      "nombre": "Pure Farming 2018",
+      "nombre": "Windbound",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 60.56,
       "precioFormateado": "$60.56"
     },
     {
-      "nombre": "Windbound",
+      "nombre": "Pure Farming 2018",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 60.56,
       "precioFormateado": "$60.56"
@@ -6309,6 +6309,12 @@
     },
     {
       "nombre": "Airoheart",
+      "precioBaseUSD": 2.99,
+      "precioFinalMXN": 60.56,
+      "precioFormateado": "$60.56"
+    },
+    {
+      "nombre": "Ashigaru: El último shogun",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 60.56,
       "precioFormateado": "$60.56"
@@ -6501,12 +6507,6 @@
     },
     {
       "nombre": "Itorah",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 60.56,
-      "precioFormateado": "$60.56"
-    },
-    {
-      "nombre": "Ashigaru: El último shogun",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 60.56,
       "precioFormateado": "$60.56"
@@ -6740,6 +6740,12 @@
       "precioFormateado": "$50.43"
     },
     {
+      "nombre": "STAR WARS Rebel Assault II - The Hidden Empire",
+      "precioBaseUSD": 2.49,
+      "precioFinalMXN": 50.43,
+      "precioFormateado": "$50.43"
+    },
+    {
       "nombre": "ACE COMBAT™7: SKIES UNKNOWN - ADF-11F Raven Set",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 50.43,
@@ -6759,12 +6765,6 @@
     },
     {
       "nombre": "STAR WARS: Jedi Starfighter",
-      "precioBaseUSD": 2.49,
-      "precioFinalMXN": 50.43,
-      "precioFormateado": "$50.43"
-    },
-    {
-      "nombre": "STAR WARS Rebel Assault II - The Hidden Empire",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 50.43,
       "precioFormateado": "$50.43"
@@ -7748,6 +7748,12 @@
       "precioFormateado": "$30.18"
     },
     {
+      "nombre": "Contenido adicional: \"Saber Round Announcements\"",
+      "precioBaseUSD": 1.49,
+      "precioFinalMXN": 30.18,
+      "precioFormateado": "$30.18"
+    },
+    {
       "nombre": "Hot Tentacles Shooter PS4 & PS5",
       "precioBaseUSD": 1.49,
       "precioFinalMXN": 30.18,
@@ -8313,12 +8319,6 @@
     },
     {
       "nombre": "Capcom Arcade 2nd Stadium: Black Tiger",
-      "precioBaseUSD": 0.99,
-      "precioFinalMXN": 20.05,
-      "precioFormateado": "$20.05"
-    },
-    {
-      "nombre": "Capcom Arcade 2nd Stadium: Eco Fighters",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.05,
       "precioFormateado": "$20.05"
