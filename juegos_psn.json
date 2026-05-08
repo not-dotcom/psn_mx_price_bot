@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T05:00:58.412Z",
+  "lastUpdated": "2026-05-08T06:11:41.595Z",
   "juegos": [
     {
       "nombre": "Brigandine Abyss",
@@ -662,6 +662,12 @@
       "precioFormateado": "$0.00"
     },
     {
+      "nombre": "Pack limitado de [FaaastPenguin] PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
       "nombre": "Paladins Viktor soldado + colección de aspecto",
       "precioBaseUSD": 0,
       "precioFinalMXN": 0,
@@ -1028,10 +1034,10 @@
       "precioFormateado": "$NaN"
     },
     {
-      "nombre": "Akuma Rise Special Edition",
-      "precioBaseUSD": 39.99,
-      "precioFinalMXN": 807.26,
-      "precioFormateado": "$807.26"
+      "nombre": "What Remains of Edith Finch",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 403.53,
+      "precioFormateado": "$403.53"
     },
     {
       "nombre": "Switchblade: Paquete V.I.P. 1 de PlayStation®Plus",
@@ -1046,6 +1052,12 @@
       "precioFormateado": "$NaN"
     },
     {
+      "nombre": "Akuma Rise Special Edition",
+      "precioBaseUSD": 39.99,
+      "precioFinalMXN": 807.26,
+      "precioFormateado": "$807.26"
+    },
+    {
       "nombre": "THE TAG-ALONG OBSESSION",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 504.46,
@@ -1056,12 +1068,6 @@
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 504.46,
       "precioFormateado": "$504.46"
-    },
-    {
-      "nombre": "What Remains of Edith Finch",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 403.53,
-      "precioFormateado": "$403.53"
     },
     {
       "nombre": "Tsugunohi -The Chamber of Phantom Name-",
@@ -1209,12 +1215,6 @@
     },
     {
       "nombre": "Worms Rumble - PlayStation®Plus Exclusive Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Pack limitado de [FaaastPenguin] PlayStation®Plus",
       "precioBaseUSD": 0,
       "precioFinalMXN": 0,
       "precioFormateado": "$0.00"
