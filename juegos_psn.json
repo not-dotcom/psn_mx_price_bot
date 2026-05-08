@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T02:08:25.394Z",
+  "lastUpdated": "2026-05-08T03:38:31.569Z",
   "juegos": [
     {
       "nombre": "Brigandine Abyss",
@@ -1142,6 +1142,12 @@
       "precioFormateado": "$NaN"
     },
     {
+      "nombre": "Wizard101 - Set «El Vástago de Bartolomé»",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
       "nombre": "World of Tanks Modern Armor: Recuperación rápida",
       "precioBaseUSD": 0,
       "precioFinalMXN": 0,
@@ -1203,12 +1209,6 @@
     },
     {
       "nombre": "Stumble Guys - Lote Aurora Shinobino - PS5™",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Wizard101 - Set «El Vástago de Bartolomé»",
       "precioBaseUSD": 0,
       "precioFinalMXN": 0,
       "precioFormateado": "$0.00"
