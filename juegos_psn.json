@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T03:38:31.569Z",
+  "lastUpdated": "2026-05-08T05:00:58.412Z",
   "juegos": [
     {
       "nombre": "Brigandine Abyss",
@@ -81,6 +81,12 @@
     },
     {
       "nombre": "Necrophosis: Full Consciousness",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 403.53,
+      "precioFormateado": "$403.53"
+    },
+    {
+      "nombre": "Akuma Rise",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 403.53,
       "precioFormateado": "$403.53"
@@ -375,6 +381,12 @@
     },
     {
       "nombre": "Crossout - Plus Free Starter Pack",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Crossout — Vial",
       "precioBaseUSD": 0,
       "precioFinalMXN": 0,
       "precioFormateado": "$0.00"
@@ -890,6 +902,18 @@
       "precioFormateado": "$0.00"
     },
     {
+      "nombre": "Stumble Guys - Lote Aurora Shinobino - PS4™",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Stumble Guys - Lote Aurora Shinobino - PS5™",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
       "nombre": "Suministros adicionales de Battle Islands: Commanders",
       "precioBaseUSD": 0,
       "precioFinalMXN": 0,
@@ -1004,22 +1028,10 @@
       "precioFormateado": "$NaN"
     },
     {
-      "nombre": "Yerba Buena",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 504.46,
-      "precioFormateado": "$504.46"
-    },
-    {
-      "nombre": "What Remains of Edith Finch",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 403.53,
-      "precioFormateado": "$403.53"
-    },
-    {
-      "nombre": "Tsugunohi -The Chamber of Phantom Name-",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 80.54,
-      "precioFormateado": "$80.54"
+      "nombre": "Akuma Rise Special Edition",
+      "precioBaseUSD": 39.99,
+      "precioFinalMXN": 807.26,
+      "precioFormateado": "$807.26"
     },
     {
       "nombre": "Switchblade: Paquete V.I.P. 1 de PlayStation®Plus",
@@ -1038,6 +1050,24 @@
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 504.46,
       "precioFormateado": "$504.46"
+    },
+    {
+      "nombre": "Yerba Buena",
+      "precioBaseUSD": 24.99,
+      "precioFinalMXN": 504.46,
+      "precioFormateado": "$504.46"
+    },
+    {
+      "nombre": "What Remains of Edith Finch",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 403.53,
+      "precioFormateado": "$403.53"
+    },
+    {
+      "nombre": "Tsugunohi -The Chamber of Phantom Name-",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 80.54,
+      "precioFormateado": "$80.54"
     },
     {
       "nombre": "THE FINALS - Glow and Behold Set",
@@ -1184,12 +1214,6 @@
       "precioFormateado": "$0.00"
     },
     {
-      "nombre": "Crossout — Vial",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
       "nombre": "Pack limitado de [FaaastPenguin] PlayStation®Plus",
       "precioBaseUSD": 0,
       "precioFinalMXN": 0,
@@ -1197,18 +1221,6 @@
     },
     {
       "nombre": "Pirates: Treasure Hunters - PlayStation Plus Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Stumble Guys - Lote Aurora Shinobino - PS4™",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Stumble Guys - Lote Aurora Shinobino - PS5™",
       "precioBaseUSD": 0,
       "precioFinalMXN": 0,
       "precioFormateado": "$0.00"
