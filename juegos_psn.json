@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T01:18:31.671Z",
+  "lastUpdated": "2026-05-09T02:07:05.392Z",
   "juegos": [
     {
       "nombre": "Brigandine Abyss",
@@ -74,6 +74,12 @@
       "precioFormateado": "$404.33"
     },
     {
+      "nombre": "Bubsy 4D",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 404.33,
+      "precioFormateado": "$404.33"
+    },
+    {
       "nombre": "Necrophosis: Full Consciousness",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 404.33,
@@ -93,12 +99,6 @@
     },
     {
       "nombre": "Arcadegeddon 5,000 ARCoins(PS5™)",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 404.33,
-      "precioFormateado": "$404.33"
-    },
-    {
-      "nombre": "Bubsy 4D",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 404.33,
       "precioFormateado": "$404.33"
@@ -278,6 +278,18 @@
       "precioFormateado": "$141.38"
     },
     {
+      "nombre": "Arcadegeddon 1,000 ARCoins(PS4™)",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 100.93,
+      "precioFormateado": "$100.93"
+    },
+    {
+      "nombre": "Arcadegeddon 1,000 ARCoins(PS5™)",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 100.93,
+      "precioFormateado": "$100.93"
+    },
+    {
       "nombre": "Parking Jam",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 100.93,
@@ -300,18 +312,6 @@
       "precioBaseUSD": null,
       "precioFinalMXN": null,
       "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "Arcadegeddon 1,000 ARCoins(PS4™)",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 100.93,
-      "precioFormateado": "$100.93"
-    },
-    {
-      "nombre": "Arcadegeddon 1,000 ARCoins(PS5™)",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 100.93,
-      "precioFormateado": "$100.93"
     },
     {
       "nombre": "Apex Legends™: pack de juego de PlayStation®Plus",
