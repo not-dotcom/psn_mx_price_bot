@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T03:40:43.824Z",
+  "lastUpdated": "2026-05-10T05:14:19.324Z",
   "juegos": [
     {
       "nombre": "Brigandine Abyss",
@@ -164,6 +164,12 @@
       "precioFormateado": "$242.52"
     },
     {
+      "nombre": "Save My Scrap",
+      "precioBaseUSD": 10.99,
+      "precioFinalMXN": 222.29,
+      "precioFormateado": "$222.29"
+    },
+    {
       "nombre": "Parking Jam & Thief Puzzle",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 161.61,
@@ -174,12 +180,6 @@
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 161.61,
       "precioFormateado": "$161.61"
-    },
-    {
-      "nombre": "Parking Jam: Complete Edition",
-      "precioBaseUSD": 6.99,
-      "precioFinalMXN": 141.38,
-      "precioFormateado": "$141.38"
     },
     {
       "nombre": "Parking Jam",
@@ -608,12 +608,6 @@
       "precioFormateado": "$222.29"
     },
     {
-      "nombre": "Save My Scrap",
-      "precioBaseUSD": 10.99,
-      "precioFinalMXN": 222.29,
-      "precioFormateado": "$222.29"
-    },
-    {
       "nombre": "Hacked: The Streamer",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 202.06,
@@ -642,6 +636,12 @@
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 181.84,
       "precioFormateado": "$181.84"
+    },
+    {
+      "nombre": "Parking Jam: Complete Edition",
+      "precioBaseUSD": 6.99,
+      "precioFinalMXN": 141.38,
+      "precioFormateado": "$141.38"
     },
     {
       "nombre": "Onyx Fashion Pack",
