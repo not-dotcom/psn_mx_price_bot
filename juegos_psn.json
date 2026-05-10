@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T00:15:20.477Z",
+  "lastUpdated": "2026-05-10T01:22:03.309Z",
   "juegos": [
     {
       "nombre": "Brigandine Abyss",
@@ -20,6 +20,24 @@
       "precioFormateado": "$606.59"
     },
     {
+      "nombre": "King of Tokyo",
+      "precioBaseUSD": 29.99,
+      "precioFinalMXN": 606.59,
+      "precioFormateado": "$606.59"
+    },
+    {
+      "nombre": "Nickelodeon Extreme Tennis: Next!",
+      "precioBaseUSD": 29.99,
+      "precioFinalMXN": 606.59,
+      "precioFormateado": "$606.59"
+    },
+    {
+      "nombre": "NITRO GEN OMEGA",
+      "precioBaseUSD": 29.99,
+      "precioFinalMXN": 606.59,
+      "precioFormateado": "$606.59"
+    },
+    {
       "nombre": "inKONBINI: One Store. Many Stories Digital Deluxe Edition",
       "precioBaseUSD": 27.49,
       "precioFinalMXN": 556.03,
@@ -32,13 +50,13 @@
       "precioFormateado": "$505.46"
     },
     {
-      "nombre": "Outer Wilds",
+      "nombre": "Planet of Lana II - Supporter Edition",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 505.46,
       "precioFormateado": "$505.46"
     },
     {
-      "nombre": "Planet of Lana II - Supporter Edition",
+      "nombre": "Outer Wilds",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 505.46,
       "precioFormateado": "$505.46"
@@ -98,6 +116,30 @@
       "precioFormateado": "$404.33"
     },
     {
+      "nombre": "Love Too Easily 2: Summer Pocha",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 404.33,
+      "precioFormateado": "$404.33"
+    },
+    {
+      "nombre": "Pack Marea tóxica - Battlefield™ 6 y REDSEC",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 404.33,
+      "precioFormateado": "$404.33"
+    },
+    {
+      "nombre": "Paq. Inicio de Nanite Systems",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 404.33,
+      "precioFormateado": "$404.33"
+    },
+    {
+      "nombre": "SEGA FOOTBALL CLUB CHAMPIONS – Paquete exclusivo PlayStation®Plus",
+      "precioBaseUSD": 19.49,
+      "precioFinalMXN": 394.21,
+      "precioFormateado": "$394.21"
+    },
+    {
       "nombre": "Coffee Talk Tokyo - Deluxe Edition",
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 363.87,
@@ -105,6 +147,12 @@
     },
     {
       "nombre": "Elementallis",
+      "precioBaseUSD": 17.99,
+      "precioFinalMXN": 363.87,
+      "precioFormateado": "$363.87"
+    },
+    {
+      "nombre": "Strange Antiquities",
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 363.87,
       "precioFormateado": "$363.87"
@@ -132,120 +180,6 @@
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 303.19,
       "precioFormateado": "$303.19"
-    },
-    {
-      "nombre": "Two Point Museum: Arte-Factos",
-      "precioBaseUSD": 10.99,
-      "precioFinalMXN": 222.29,
-      "precioFormateado": "$222.29"
-    },
-    {
-      "nombre": "Save My Scrap",
-      "precioBaseUSD": 10.99,
-      "precioFinalMXN": 222.29,
-      "precioFormateado": "$222.29"
-    },
-    {
-      "nombre": "Hacked: The Streamer",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 202.06,
-      "precioFormateado": "$202.06"
-    },
-    {
-      "nombre": "Arcadegeddon 2,250 ARCoins(PS4™)",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 202.06,
-      "precioFormateado": "$202.06"
-    },
-    {
-      "nombre": "Arcadegeddon 2,250 ARCoins(PS5™)",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 202.06,
-      "precioFormateado": "$202.06"
-    },
-    {
-      "nombre": "Decollate Decoration",
-      "precioBaseUSD": 8.99,
-      "precioFinalMXN": 181.84,
-      "precioFormateado": "$181.84"
-    },
-    {
-      "nombre": "Arcadegeddon 1,000 ARCoins(PS4™)",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 100.93,
-      "precioFormateado": "$100.93"
-    },
-    {
-      "nombre": "Arcadegeddon 1,000 ARCoins(PS5™)",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 100.93,
-      "precioFormateado": "$100.93"
-    },
-    {
-      "nombre": "2XKO PS+ Benefit Bundle Y1S1",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "3on3 FreeStyle - Paquete adicional de PlayStation®Plus 2026 (mayo)",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Actualización de FINAL FANTASY VII REMAKE para la versión de PS4™",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "King of Tokyo",
-      "precioBaseUSD": 29.99,
-      "precioFinalMXN": 606.59,
-      "precioFormateado": "$606.59"
-    },
-    {
-      "nombre": "Nickelodeon Extreme Tennis: Next!",
-      "precioBaseUSD": 29.99,
-      "precioFinalMXN": 606.59,
-      "precioFormateado": "$606.59"
-    },
-    {
-      "nombre": "NITRO GEN OMEGA",
-      "precioBaseUSD": 29.99,
-      "precioFinalMXN": 606.59,
-      "precioFormateado": "$606.59"
-    },
-    {
-      "nombre": "Love Too Easily 2: Summer Pocha",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 404.33,
-      "precioFormateado": "$404.33"
-    },
-    {
-      "nombre": "Pack Marea tóxica - Battlefield™ 6 y REDSEC",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 404.33,
-      "precioFormateado": "$404.33"
-    },
-    {
-      "nombre": "Paq. Inicio de Nanite Systems",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 404.33,
-      "precioFormateado": "$404.33"
-    },
-    {
-      "nombre": "SEGA FOOTBALL CLUB CHAMPIONS – Paquete exclusivo PlayStation®Plus",
-      "precioBaseUSD": 19.49,
-      "precioFinalMXN": 394.21,
-      "precioFormateado": "$394.21"
-    },
-    {
-      "nombre": "Strange Antiquities",
-      "precioBaseUSD": 17.99,
-      "precioFinalMXN": 363.87,
-      "precioFormateado": "$363.87"
     },
     {
       "nombre": "Gravity Heroes",
@@ -284,10 +218,46 @@
       "precioFormateado": "$242.52"
     },
     {
+      "nombre": "Two Point Museum: Arte-Factos",
+      "precioBaseUSD": 10.99,
+      "precioFinalMXN": 222.29,
+      "precioFormateado": "$222.29"
+    },
+    {
+      "nombre": "Save My Scrap",
+      "precioBaseUSD": 10.99,
+      "precioFinalMXN": 222.29,
+      "precioFormateado": "$222.29"
+    },
+    {
+      "nombre": "Hacked: The Streamer",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 202.06,
+      "precioFormateado": "$202.06"
+    },
+    {
+      "nombre": "Arcadegeddon 2,250 ARCoins(PS4™)",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 202.06,
+      "precioFormateado": "$202.06"
+    },
+    {
+      "nombre": "Arcadegeddon 2,250 ARCoins(PS5™)",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 202.06,
+      "precioFormateado": "$202.06"
+    },
+    {
       "nombre": "Little Things",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 202.06,
       "precioFormateado": "$202.06"
+    },
+    {
+      "nombre": "Decollate Decoration",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 181.84,
+      "precioFormateado": "$181.84"
     },
     {
       "nombre": "Parking Jam & Thief Puzzle",
@@ -314,10 +284,40 @@
       "precioFormateado": "$141.38"
     },
     {
+      "nombre": "Arcadegeddon 1,000 ARCoins(PS4™)",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 100.93,
+      "precioFormateado": "$100.93"
+    },
+    {
+      "nombre": "Arcadegeddon 1,000 ARCoins(PS5™)",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 100.93,
+      "precioFormateado": "$100.93"
+    },
+    {
       "nombre": "Parking Jam",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 100.93,
       "precioFormateado": "$100.93"
+    },
+    {
+      "nombre": "2XKO PS+ Benefit Bundle Y1S1",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "3on3 FreeStyle - Paquete adicional de PlayStation®Plus 2026 (mayo)",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Actualización de FINAL FANTASY VII REMAKE para la versión de PS4™",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
     },
     {
       "nombre": "Apex Legends™: pack de juego de PlayStation®Plus",
