@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T01:22:36.153Z",
+  "lastUpdated": "2026-05-11T02:09:09.634Z",
   "juegos": [
     {
       "nombre": "Brigandine Abyss",
@@ -572,6 +572,12 @@
       "precioFormateado": "$343.65"
     },
     {
+      "nombre": "Hydroneer",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 303.19,
+      "precioFormateado": "$303.19"
+    },
+    {
       "nombre": "Wax Heads",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 303.19,
@@ -591,12 +597,6 @@
     },
     {
       "nombre": "Gravity Heroes",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 303.19,
-      "precioFormateado": "$303.19"
-    },
-    {
-      "nombre": "Hydroneer",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 303.19,
       "precioFormateado": "$303.19"
