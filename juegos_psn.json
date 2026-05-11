@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T02:09:09.634Z",
+  "lastUpdated": "2026-05-11T03:43:12.711Z",
   "juegos": [
     {
       "nombre": "Brigandine Abyss",
@@ -20,13 +20,13 @@
       "precioFormateado": "$606.59"
     },
     {
-      "nombre": "King of Tokyo",
+      "nombre": "Nickelodeon Extreme Tennis: Next!",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 606.59,
       "precioFormateado": "$606.59"
     },
     {
-      "nombre": "Nickelodeon Extreme Tennis: Next!",
+      "nombre": "King of Tokyo",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 606.59,
       "precioFormateado": "$606.59"
@@ -44,12 +44,6 @@
       "precioFormateado": "$556.03"
     },
     {
-      "nombre": "Outer Wilds",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 505.46,
-      "precioFormateado": "$505.46"
-    },
-    {
       "nombre": "inKONBINI: One Store. Many Stories",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 505.46,
@@ -57,6 +51,12 @@
     },
     {
       "nombre": "Planet of Lana II - Supporter Edition",
+      "precioBaseUSD": 24.99,
+      "precioFinalMXN": 505.46,
+      "precioFormateado": "$505.46"
+    },
+    {
+      "nombre": "Outer Wilds",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 505.46,
       "precioFormateado": "$505.46"
