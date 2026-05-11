@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T23:48:58.663Z",
+  "lastUpdated": "2026-05-11T01:22:36.153Z",
   "juegos": [
     {
       "nombre": "Brigandine Abyss",
@@ -140,12 +140,6 @@
       "precioFormateado": "$394.21"
     },
     {
-      "nombre": "Strange Antiquities",
-      "precioBaseUSD": 17.99,
-      "precioFinalMXN": 363.87,
-      "precioFormateado": "$363.87"
-    },
-    {
       "nombre": "PixelJunk™ Shooter Ultimate",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 303.19,
@@ -186,6 +180,12 @@
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 100.93,
       "precioFormateado": "$100.93"
+    },
+    {
+      "nombre": "Paquete de bonificación Matón de Spellbreak para PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
     },
     {
       "nombre": "Paquete de compensación de PS Plus",
@@ -555,6 +555,12 @@
     },
     {
       "nombre": "Coffee Talk Tokyo - Deluxe Edition",
+      "precioBaseUSD": 17.99,
+      "precioFinalMXN": 363.87,
+      "precioFormateado": "$363.87"
+    },
+    {
+      "nombre": "Strange Antiquities",
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 363.87,
       "precioFormateado": "$363.87"
@@ -1047,12 +1053,6 @@
     },
     {
       "nombre": "Paquete de bonificación",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Paquete de bonificación Matón de Spellbreak para PlayStation®Plus",
       "precioBaseUSD": 0,
       "precioFinalMXN": 0,
       "precioFormateado": "$0.00"
