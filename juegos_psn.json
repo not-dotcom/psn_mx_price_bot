@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T05:12:03.335Z",
+  "lastUpdated": "2026-05-12T06:33:33.851Z",
   "juegos": [
     {
       "nombre": "Brigandine Abyss",
@@ -27,12 +27,6 @@
     },
     {
       "nombre": "King of Tokyo",
-      "precioBaseUSD": 29.99,
-      "precioFinalMXN": 606,
-      "precioFormateado": "$606.00"
-    },
-    {
-      "nombre": "NITRO GEN OMEGA",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 606,
       "precioFormateado": "$606.00"
@@ -1022,6 +1016,18 @@
       "precioFormateado": "$NaN"
     },
     {
+      "nombre": "THE TAG-ALONG OBSESSION",
+      "precioBaseUSD": 24.99,
+      "precioFinalMXN": 504.97,
+      "precioFormateado": "$504.97"
+    },
+    {
+      "nombre": "What Remains of Edith Finch",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 403.93,
+      "precioFormateado": "$403.93"
+    },
+    {
       "nombre": "Switchblade: Paquete V.I.P. 1 de PlayStation®Plus",
       "precioBaseUSD": 0,
       "precioFinalMXN": 0,
@@ -1034,22 +1040,10 @@
       "precioFormateado": "$NaN"
     },
     {
-      "nombre": "THE TAG-ALONG OBSESSION",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 504.97,
-      "precioFormateado": "$504.97"
-    },
-    {
       "nombre": "Yerba Buena",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 504.97,
       "precioFormateado": "$504.97"
-    },
-    {
-      "nombre": "What Remains of Edith Finch",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 403.93,
-      "precioFormateado": "$403.93"
     },
     {
       "nombre": "THE FINALS - Glow and Behold Set",
