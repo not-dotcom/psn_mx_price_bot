@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T08:52:56.897Z",
+  "lastUpdated": "2026-05-12T09:52:33.731Z",
   "juegos": [
     {
       "nombre": "Brigandine Abyss",
@@ -111,6 +111,12 @@
     },
     {
       "nombre": "Love Too Easily 2: Summer Pocha",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 403.93,
+      "precioFormateado": "$403.93"
+    },
+    {
+      "nombre": "Pack Busca y destruye - Battlefield™ 6 y REDSEC",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 403.93,
       "precioFormateado": "$403.93"
@@ -1016,18 +1022,6 @@
       "precioFormateado": "$NaN"
     },
     {
-      "nombre": "THE TAG-ALONG OBSESSION",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 504.97,
-      "precioFormateado": "$504.97"
-    },
-    {
-      "nombre": "What Remains of Edith Finch",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 403.93,
-      "precioFormateado": "$403.93"
-    },
-    {
       "nombre": "Switchblade: Paquete V.I.P. 1 de PlayStation®Plus",
       "precioBaseUSD": 0,
       "precioFinalMXN": 0,
@@ -1040,10 +1034,22 @@
       "precioFormateado": "$NaN"
     },
     {
+      "nombre": "THE TAG-ALONG OBSESSION",
+      "precioBaseUSD": 24.99,
+      "precioFinalMXN": 504.97,
+      "precioFormateado": "$504.97"
+    },
+    {
       "nombre": "Yerba Buena",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 504.97,
       "precioFormateado": "$504.97"
+    },
+    {
+      "nombre": "What Remains of Edith Finch",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 403.93,
+      "precioFormateado": "$403.93"
     },
     {
       "nombre": "THE FINALS - Glow and Behold Set",
