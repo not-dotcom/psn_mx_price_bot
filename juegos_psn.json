@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T07:38:20.722Z",
+  "lastUpdated": "2026-05-13T09:12:16.832Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -4208,6 +4208,12 @@
       "precioFormateado": "$212.31"
     },
     {
+      "nombre": "Classic Racers Elite",
+      "precioBaseUSD": 10.49,
+      "precioFinalMXN": 212.31,
+      "precioFormateado": "$212.31"
+    },
+    {
       "nombre": "Comfy Corners: Unpack and Decorate",
       "precioBaseUSD": 10.49,
       "precioFinalMXN": 212.31,
@@ -4467,12 +4473,6 @@
     },
     {
       "nombre": "Bubble Ghost Remake",
-      "precioBaseUSD": 8.99,
-      "precioFinalMXN": 181.95,
-      "precioFormateado": "$181.95"
-    },
-    {
-      "nombre": "Classic Racers Elite",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 181.95,
       "precioFormateado": "$181.95"
