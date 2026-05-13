@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T02:09:36.461Z",
+  "lastUpdated": "2026-05-13T03:41:41.802Z",
   "juegos": [
     {
       "nombre": "Brigandine Abyss",
@@ -140,66 +140,6 @@
       "precioFormateado": "$394.46"
     },
     {
-      "nombre": "Elementallis",
-      "precioBaseUSD": 17.99,
-      "precioFinalMXN": 364.1,
-      "precioFormateado": "$364.10"
-    },
-    {
-      "nombre": "Coffee Talk Tokyo - Deluxe Edition",
-      "precioBaseUSD": 17.99,
-      "precioFinalMXN": 364.1,
-      "precioFormateado": "$364.10"
-    },
-    {
-      "nombre": "Strange Antiquities",
-      "precioBaseUSD": 17.99,
-      "precioFinalMXN": 364.1,
-      "precioFormateado": "$364.10"
-    },
-    {
-      "nombre": "Hollowbody",
-      "precioBaseUSD": 16.99,
-      "precioFinalMXN": 343.86,
-      "precioFormateado": "$343.86"
-    },
-    {
-      "nombre": "Star Fire: Eternal Cycle",
-      "precioBaseUSD": 16.99,
-      "precioFinalMXN": 343.86,
-      "precioFormateado": "$343.86"
-    },
-    {
-      "nombre": "Hydroneer",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 303.38,
-      "precioFormateado": "$303.38"
-    },
-    {
-      "nombre": "Dungeon Clawler",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 303.38,
-      "precioFormateado": "$303.38"
-    },
-    {
-      "nombre": "Wax Heads",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 303.38,
-      "precioFormateado": "$303.38"
-    },
-    {
-      "nombre": "Coffee Talk Tokyo",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 303.38,
-      "precioFormateado": "$303.38"
-    },
-    {
-      "nombre": "Gravity Heroes",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 303.38,
-      "precioFormateado": "$303.38"
-    },
-    {
       "nombre": "PixelJunk™ Shooter Ultimate",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 303.38,
@@ -212,460 +152,16 @@
       "precioFormateado": "$283.14"
     },
     {
-      "nombre": "Greedland",
-      "precioBaseUSD": 12.99,
-      "precioFinalMXN": 262.9,
-      "precioFormateado": "$262.90"
-    },
-    {
       "nombre": "Shopping Mall Girl & DIY Fashion Star",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 242.67,
       "precioFormateado": "$242.67"
     },
     {
-      "nombre": "Save My Scrap",
-      "precioBaseUSD": 10.99,
-      "precioFinalMXN": 222.43,
-      "precioFormateado": "$222.43"
-    },
-    {
-      "nombre": "Two Point Museum: Arte-Factos",
-      "precioBaseUSD": 10.99,
-      "precioFinalMXN": 222.43,
-      "precioFormateado": "$222.43"
-    },
-    {
-      "nombre": "Hacked: The Streamer",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 202.19,
-      "precioFormateado": "$202.19"
-    },
-    {
-      "nombre": "Arcadegeddon 2,250 ARCoins(PS4™)",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 202.19,
-      "precioFormateado": "$202.19"
-    },
-    {
-      "nombre": "Arcadegeddon 2,250 ARCoins(PS5™)",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 202.19,
-      "precioFormateado": "$202.19"
-    },
-    {
-      "nombre": "Little Things",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 202.19,
-      "precioFormateado": "$202.19"
-    },
-    {
-      "nombre": "Parking Jam & Thief Puzzle",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 161.71,
-      "precioFormateado": "$161.71"
-    },
-    {
       "nombre": "Shopping Mall Girl",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 161.71,
       "precioFormateado": "$161.71"
-    },
-    {
-      "nombre": "Parking Jam: Complete Edition",
-      "precioBaseUSD": 6.99,
-      "precioFinalMXN": 141.47,
-      "precioFormateado": "$141.47"
-    },
-    {
-      "nombre": "Onyx Fashion Pack",
-      "precioBaseUSD": 6.99,
-      "precioFinalMXN": 141.47,
-      "precioFormateado": "$141.47"
-    },
-    {
-      "nombre": "Parking Jam",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 100.99,
-      "precioFormateado": "$100.99"
-    },
-    {
-      "nombre": "Arcadegeddon 1,000 ARCoins(PS4™)",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 100.99,
-      "precioFormateado": "$100.99"
-    },
-    {
-      "nombre": "Arcadegeddon 1,000 ARCoins(PS5™)",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 100.99,
-      "precioFormateado": "$100.99"
-    },
-    {
-      "nombre": "Tsugunohi -The Chamber of Phantom Name-",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 80.75,
-      "precioFormateado": "$80.75"
-    },
-    {
-      "nombre": "2XKO PS+ Benefit Bundle Y1S1",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "3on3 FreeStyle - Paquete adicional de PlayStation®Plus 2026 (mayo)",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Actualización de FINAL FANTASY VII REMAKE para la versión de PS4™",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "Apex Legends™: pack de juego de PlayStation®Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Asphalt Legends - Paquete de primavera exclusivo de PlayStation®Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Blacklight PlayStation®Plus Paquete",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Bleach: Brave Souls - ★5 Summons Ticket Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Brawlhalla - Bonus Pack 23",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Call of Duty®: Warzone™ - Paquete PlayStation®Plus 6",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Century: Age of Ashes - Paquete Estanque de Elulin",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Crossout - Plus Free Starter Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Crossout — Vial",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Darwin Project - PlayStation®Plus Blue Ninja Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Darwin Project - PlayStation®Plus Kronos Red Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Deceit 2 - Monkey King Bundle",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Delta Force - PlayStation®Plus Pack S9",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Disney Speedstorm - Pack exclusivo de PlayStation®Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "DRAGON BALL GEKISHIN SQUADRA - PlayStation®Plus Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "DRAGON QUEST BUILDERS 2 - Receta de retrato legendario",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "DRAGON QUEST BUILDERS 2 - Recetas luminarios baja resolución",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "DRAGON QUEST HEROES: Fandangoos",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "DUCKSIDE: First Flight Starter Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Dungeon Defenders II - PS Plus Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "eFootball™ PlayStation®Plus Member Bonus (March - June)",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Eternal Kingdom Battle Peak - Bono PlayStation®Plus \"Gacha Ticket x100\"",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Fall Guys: Pack de Caos tierno de PlayStation®Plus (PS4 y PS5)",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Fallout Shelter: Paquete de PlayStation®Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Farming Simulator 17 - Massey Ferguson 8737 Black Duals",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Feverdream: Rainbow Chaser - Black Rose & Be Mine",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Feverdream: Rainbow Chaser - Candy Cane & Ice Rink",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Feverdream: Rainbow Chaser - Disco Ball & Disco Floor",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Feverdream: Rainbow Chaser - Egg Basket",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Feverdream: Rainbow Chaser - Glass Pumpkin",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Feverdream: Rainbow Chaser - May Pole",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Feverdream: Rainbow Chaser - Pi Pie",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Feverdream: Rainbow Chaser - Suncatcher & Stained Glass Rainbow",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Feverdream: Rainbow Chaser - Zen Rake & Autumn Leaves",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Fortnite: paquete Estilo retrowave",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Four Kings Casino - PS Plus Gratis - Paquete de Inicio",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Gems of War: paquete de inicio PS Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Gems of War: paquete de inicio PS Plus Espíritu de dragón",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Hacha de káiser (Dragon Quest XI)",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Harry Potter: Campeones de quidditch - Apariencia de escoba Saeta de Fuego Suprema",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Honkai: Star Rail - Descuento en PlayStation®Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "KuKu4",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Lote de armadura de Cruzado cerúleo",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Lote exclusivo n.º 1 de PUBG - PlayStation®Plus 2026",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Mae la Saqueadora",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Marathon - Paquete Digital de PlayStation®Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Marvel Rivals: Lote del primer trimestre de 2026",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "MLB® The Show™ 25 paquete de lanzamiento (juego no incluido)",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Montón gratis de PlayStation®Plus exclusivo",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "MY HERO ULTRA RUMBLE - PlayStation®Plus Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "NARAKA: BLADEPOINT – Regalo de S20 para PlayStation®Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Neverwinter Planar Preserver’s Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Oferta de PlayStation®Plus de Wuthering Waves",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Overwatch - Paquete de bonificación de Moira Venus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Pack de ÍCONOS de PlayStation®Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Pack limitado de [FaaastPenguin] PlayStation®Plus",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Paladins Viktor soldado + colección de aspecto",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
     },
     {
       "nombre": "Paquete Astro Azul",
@@ -1028,10 +524,532 @@
       "precioFormateado": "$NaN"
     },
     {
+      "nombre": "The Boys",
+      "precioBaseUSD": 29.99,
+      "precioFinalMXN": 606.97,
+      "precioFormateado": "$606.97"
+    },
+    {
       "nombre": "THE TAG-ALONG OBSESSION",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 505.77,
       "precioFormateado": "$505.77"
+    },
+    {
+      "nombre": "What Remains of Edith Finch",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 404.58,
+      "precioFormateado": "$404.58"
+    },
+    {
+      "nombre": "Elementallis",
+      "precioBaseUSD": 17.99,
+      "precioFinalMXN": 364.1,
+      "precioFormateado": "$364.10"
+    },
+    {
+      "nombre": "Coffee Talk Tokyo - Deluxe Edition",
+      "precioBaseUSD": 17.99,
+      "precioFinalMXN": 364.1,
+      "precioFormateado": "$364.10"
+    },
+    {
+      "nombre": "Strange Antiquities",
+      "precioBaseUSD": 17.99,
+      "precioFinalMXN": 364.1,
+      "precioFormateado": "$364.10"
+    },
+    {
+      "nombre": "Hollowbody",
+      "precioBaseUSD": 16.99,
+      "precioFinalMXN": 343.86,
+      "precioFormateado": "$343.86"
+    },
+    {
+      "nombre": "Star Fire: Eternal Cycle",
+      "precioBaseUSD": 16.99,
+      "precioFinalMXN": 343.86,
+      "precioFormateado": "$343.86"
+    },
+    {
+      "nombre": "Hydroneer",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 303.38,
+      "precioFormateado": "$303.38"
+    },
+    {
+      "nombre": "Dungeon Clawler",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 303.38,
+      "precioFormateado": "$303.38"
+    },
+    {
+      "nombre": "Wax Heads",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 303.38,
+      "precioFormateado": "$303.38"
+    },
+    {
+      "nombre": "Coffee Talk Tokyo",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 303.38,
+      "precioFormateado": "$303.38"
+    },
+    {
+      "nombre": "Gravity Heroes",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 303.38,
+      "precioFormateado": "$303.38"
+    },
+    {
+      "nombre": "Greedland",
+      "precioBaseUSD": 12.99,
+      "precioFinalMXN": 262.9,
+      "precioFormateado": "$262.90"
+    },
+    {
+      "nombre": "Save My Scrap",
+      "precioBaseUSD": 10.99,
+      "precioFinalMXN": 222.43,
+      "precioFormateado": "$222.43"
+    },
+    {
+      "nombre": "Two Point Museum: Arte-Factos",
+      "precioBaseUSD": 10.99,
+      "precioFinalMXN": 222.43,
+      "precioFormateado": "$222.43"
+    },
+    {
+      "nombre": "Hacked: The Streamer",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 202.19,
+      "precioFormateado": "$202.19"
+    },
+    {
+      "nombre": "Arcadegeddon 2,250 ARCoins(PS4™)",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 202.19,
+      "precioFormateado": "$202.19"
+    },
+    {
+      "nombre": "Arcadegeddon 2,250 ARCoins(PS5™)",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 202.19,
+      "precioFormateado": "$202.19"
+    },
+    {
+      "nombre": "Little Things",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 202.19,
+      "precioFormateado": "$202.19"
+    },
+    {
+      "nombre": "Parking Jam & Thief Puzzle",
+      "precioBaseUSD": 7.99,
+      "precioFinalMXN": 161.71,
+      "precioFormateado": "$161.71"
+    },
+    {
+      "nombre": "Parking Jam: Complete Edition",
+      "precioBaseUSD": 6.99,
+      "precioFinalMXN": 141.47,
+      "precioFormateado": "$141.47"
+    },
+    {
+      "nombre": "Onyx Fashion Pack",
+      "precioBaseUSD": 6.99,
+      "precioFinalMXN": 141.47,
+      "precioFormateado": "$141.47"
+    },
+    {
+      "nombre": "Parking Jam",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 100.99,
+      "precioFormateado": "$100.99"
+    },
+    {
+      "nombre": "Arcadegeddon 1,000 ARCoins(PS4™)",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 100.99,
+      "precioFormateado": "$100.99"
+    },
+    {
+      "nombre": "Arcadegeddon 1,000 ARCoins(PS5™)",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 100.99,
+      "precioFormateado": "$100.99"
+    },
+    {
+      "nombre": "Tsugunohi -The Chamber of Phantom Name-",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 80.75,
+      "precioFormateado": "$80.75"
+    },
+    {
+      "nombre": "2XKO PS+ Benefit Bundle Y1S1",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "2XKO PS+ Benefit Bundle Y1S2",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "3on3 FreeStyle - Paquete adicional de PlayStation®Plus 2026 (mayo)",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Actualización de FINAL FANTASY VII REMAKE para la versión de PS4™",
+      "precioBaseUSD": null,
+      "precioFinalMXN": null,
+      "precioFormateado": "$NaN"
+    },
+    {
+      "nombre": "Apex Legends™: pack de juego de PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Asphalt Legends - Paquete de primavera exclusivo de PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Blacklight PlayStation®Plus Paquete",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Bleach: Brave Souls - ★5 Summons Ticket Pack",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Brawlhalla - Bonus Pack 23",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Call of Duty®: Warzone™ - Paquete PlayStation®Plus 6",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Century: Age of Ashes - Paquete Estanque de Elulin",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Crossout - Plus Free Starter Pack",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Crossout — Vial",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Darwin Project - PlayStation®Plus Blue Ninja Pack",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Darwin Project - PlayStation®Plus Kronos Red Pack",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Deceit 2 - Monkey King Bundle",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Delta Force - PlayStation®Plus Pack S9",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Disney Speedstorm - Pack exclusivo de PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "DRAGON BALL GEKISHIN SQUADRA - PlayStation®Plus Pack",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "DRAGON QUEST BUILDERS 2 - Receta de retrato legendario",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "DRAGON QUEST BUILDERS 2 - Recetas luminarios baja resolución",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "DRAGON QUEST HEROES: Fandangoos",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "DUCKSIDE: First Flight Starter Pack",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Dungeon Defenders II - PS Plus Pack",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "eFootball™ PlayStation®Plus Member Bonus (March - June)",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Eternal Kingdom Battle Peak - Bono PlayStation®Plus \"Gacha Ticket x100\"",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Fall Guys: Pack de Caos tierno de PlayStation®Plus (PS4 y PS5)",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Fallout Shelter: Paquete de PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Farming Simulator 17 - Massey Ferguson 8737 Black Duals",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Feverdream: Rainbow Chaser - Black Rose & Be Mine",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Feverdream: Rainbow Chaser - Candy Cane & Ice Rink",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Feverdream: Rainbow Chaser - Disco Ball & Disco Floor",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Feverdream: Rainbow Chaser - Egg Basket",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Feverdream: Rainbow Chaser - Glass Pumpkin",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Feverdream: Rainbow Chaser - May Pole",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Feverdream: Rainbow Chaser - Pi Pie",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Feverdream: Rainbow Chaser - Suncatcher & Stained Glass Rainbow",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Feverdream: Rainbow Chaser - Zen Rake & Autumn Leaves",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Fortnite: paquete Estilo retrowave",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Four Kings Casino - PS Plus Gratis - Paquete de Inicio",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Gems of War: paquete de inicio PS Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Gems of War: paquete de inicio PS Plus Espíritu de dragón",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Hacha de káiser (Dragon Quest XI)",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Harry Potter: Campeones de quidditch - Apariencia de escoba Saeta de Fuego Suprema",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Honkai: Star Rail - Descuento en PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "KuKu4",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Lote de armadura de Cruzado cerúleo",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Lote exclusivo n.º 1 de PUBG - PlayStation®Plus 2026",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Mae la Saqueadora",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Marathon - Paquete Digital de PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Marvel Rivals: Lote del primer trimestre de 2026",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "MLB® The Show™ 25 paquete de lanzamiento (juego no incluido)",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Montón gratis de PlayStation®Plus exclusivo",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "MY HERO ULTRA RUMBLE - PlayStation®Plus Pack",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "NARAKA: BLADEPOINT – Regalo de S20 para PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Neverwinter Planar Preserver’s Pack",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Oferta de PlayStation®Plus de Wuthering Waves",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Overwatch - Paquete de bonificación de Moira Venus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Pack de ÍCONOS de PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Pack limitado de [FaaastPenguin] PlayStation®Plus",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
+    },
+    {
+      "nombre": "Paladins Viktor soldado + colección de aspecto",
+      "precioBaseUSD": 0,
+      "precioFinalMXN": 0,
+      "precioFormateado": "$0.00"
     },
     {
       "nombre": "Switchblade: Paquete V.I.P. 1 de PlayStation®Plus",
@@ -1046,22 +1064,10 @@
       "precioFormateado": "$NaN"
     },
     {
-      "nombre": "The Boys",
-      "precioBaseUSD": 29.99,
-      "precioFinalMXN": 606.97,
-      "precioFormateado": "$606.97"
-    },
-    {
       "nombre": "Yerba Buena",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 505.77,
       "precioFormateado": "$505.77"
-    },
-    {
-      "nombre": "What Remains of Edith Finch",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 404.58,
-      "precioFormateado": "$404.58"
     },
     {
       "nombre": "THE FINALS - Glow and Behold Set",
@@ -1203,12 +1209,6 @@
     },
     {
       "nombre": "Worms Rumble - PlayStation®Plus Exclusive Pack",
-      "precioBaseUSD": 0,
-      "precioFinalMXN": 0,
-      "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "2XKO PS+ Benefit Bundle Y1S2",
       "precioBaseUSD": 0,
       "precioFinalMXN": 0,
       "precioFormateado": "$0.00"
