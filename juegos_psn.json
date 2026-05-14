@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T04:31:52.035Z",
+  "lastUpdated": "2026-05-14T07:35:12.678Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -87,6 +87,12 @@
     },
     {
       "nombre": "Clair Obscur: Expedition 33 – Deluxe Edition",
+      "precioBaseUSD": 47.99,
+      "precioFinalMXN": 969.92,
+      "precioFormateado": "$969.92"
+    },
+    {
+      "nombre": "REANIMAL – Digital Deluxe Edition",
       "precioBaseUSD": 47.99,
       "precioFinalMXN": 969.92,
       "precioFormateado": "$969.92"
@@ -494,12 +500,6 @@
       "precioFormateado": "$363.59"
     },
     {
-      "nombre": "Dawn of Man + Planetbase",
-      "precioBaseUSD": 17.99,
-      "precioFinalMXN": 363.59,
-      "precioFormateado": "$363.59"
-    },
-    {
       "nombre": "DARIUSBURST: Another Chronicle EX+",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 323.17,
@@ -525,12 +525,6 @@
     },
     {
       "nombre": "Date with Devils",
-      "precioBaseUSD": 7.49,
-      "precioFinalMXN": 151.38,
-      "precioFormateado": "$151.38"
-    },
-    {
-      "nombre": "Dating Stories - Ultimate Dating Pack",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 151.38,
       "precioFormateado": "$151.38"
@@ -638,6 +632,12 @@
       "precioFormateado": "$40.22"
     },
     {
+      "nombre": "Cube KaBAAM: Cryptic Trail",
+      "precioBaseUSD": 1.86,
+      "precioFinalMXN": 37.59,
+      "precioFormateado": "$37.59"
+    },
+    {
       "nombre": "Cubic Figures",
       "precioBaseUSD": 1.59,
       "precioFinalMXN": 32.14,
@@ -686,10 +686,10 @@
       "precioFormateado": "$30.11"
     },
     {
-      "nombre": "Dating Stories - Nurse Joy",
-      "precioBaseUSD": 1.49,
-      "precioFinalMXN": 30.11,
-      "precioFormateado": "$30.11"
+      "nombre": "CubicBan",
+      "precioBaseUSD": 1.19,
+      "precioFinalMXN": 24.05,
+      "precioFormateado": "$24.05"
     },
     {
       "nombre": "Cubic Light",
@@ -1604,6 +1604,12 @@
       "precioFormateado": "$363.59"
     },
     {
+      "nombre": "Dawn of Man + Planetbase",
+      "precioBaseUSD": 17.99,
+      "precioFinalMXN": 363.59,
+      "precioFormateado": "$363.59"
+    },
+    {
       "nombre": "Wobbly Life",
       "precioBaseUSD": 17.49,
       "precioFinalMXN": 353.49,
@@ -1791,6 +1797,12 @@
     },
     {
       "nombre": "Stubs™ (24 000) para MLB® The Show™ 26",
+      "precioBaseUSD": 15.99,
+      "precioFinalMXN": 323.17,
+      "precioFormateado": "$323.17"
+    },
+    {
+      "nombre": "Terrifier: The ARTcade Game",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 323.17,
       "precioFormateado": "$323.17"
@@ -2240,13 +2252,13 @@
       "precioFormateado": "$252.43"
     },
     {
-      "nombre": "Dawn of Man",
+      "nombre": "Marvel's Midnight Suns | Pase de Temporada para PS5™",
       "precioBaseUSD": 12.49,
       "precioFinalMXN": 252.43,
       "precioFormateado": "$252.43"
     },
     {
-      "nombre": "Marvel's Midnight Suns | Pase de Temporada para PS5™",
+      "nombre": "Dawn of Man",
       "precioBaseUSD": 12.49,
       "precioFinalMXN": 252.43,
       "precioFormateado": "$252.43"
@@ -2301,6 +2313,12 @@
     },
     {
       "nombre": "Lote del contenido descargable New York - Tom Clancy's The Division 2",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 242.33,
+      "precioFormateado": "$242.33"
+    },
+    {
+      "nombre": "Watch Dogs 2 - Gold Edition",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 242.33,
       "precioFormateado": "$242.33"
@@ -2451,12 +2469,6 @@
     },
     {
       "nombre": "Deadside: Supporter Edition",
-      "precioBaseUSD": 11.99,
-      "precioFinalMXN": 242.33,
-      "precioFormateado": "$242.33"
-    },
-    {
-      "nombre": "Doors: Paradox",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 242.33,
       "precioFormateado": "$242.33"
@@ -3128,6 +3140,12 @@
       "precioFormateado": "$181.70"
     },
     {
+      "nombre": "Back 4 Blood: Edición Deluxe PS4 & PS5",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 181.7,
+      "precioFormateado": "$181.70"
+    },
+    {
       "nombre": "BloodRayne 2: ReVamped",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 181.7,
@@ -3440,12 +3458,6 @@
       "precioFormateado": "$161.49"
     },
     {
-      "nombre": "Dordogne",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 161.49,
-      "precioFormateado": "$161.49"
-    },
-    {
       "nombre": "Insomnis All in 1 Pack",
       "precioBaseUSD": 7.79,
       "precioFinalMXN": 157.44,
@@ -3639,6 +3651,12 @@
     },
     {
       "nombre": "Clive 'N' Wrench",
+      "precioBaseUSD": 7.49,
+      "precioFinalMXN": 151.38,
+      "precioFormateado": "$151.38"
+    },
+    {
+      "nombre": "Dating Stories - Ultimate Dating Pack",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 151.38,
       "precioFormateado": "$151.38"
@@ -5085,6 +5103,12 @@
     },
     {
       "nombre": "Celebrities Hacked - All Girls Photo Packs",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 80.64,
+      "precioFormateado": "$80.64"
+    },
+    {
+      "nombre": "Chess Battle",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 80.64,
       "precioFormateado": "$80.64"
@@ -6596,12 +6620,6 @@
       "precioFormateado": "$37.79"
     },
     {
-      "nombre": "Cube KaBAAM: Cryptic Trail",
-      "precioBaseUSD": 1.86,
-      "precioFinalMXN": 37.59,
-      "precioFormateado": "$37.59"
-    },
-    {
       "nombre": "Amazing Breaker",
       "precioBaseUSD": 1.83,
       "precioFinalMXN": 36.99,
@@ -6914,6 +6932,12 @@
       "precioFormateado": "$30.11"
     },
     {
+      "nombre": "Dating Stories - Nurse Joy",
+      "precioBaseUSD": 1.49,
+      "precioFinalMXN": 30.11,
+      "precioFormateado": "$30.11"
+    },
+    {
       "nombre": "Dead Age",
       "precioBaseUSD": 1.49,
       "precioFinalMXN": 30.11,
@@ -7065,12 +7089,6 @@
     },
     {
       "nombre": "Colorium",
-      "precioBaseUSD": 1.19,
-      "precioFinalMXN": 24.05,
-      "precioFormateado": "$24.05"
-    },
-    {
-      "nombre": "CubicBan",
       "precioBaseUSD": 1.19,
       "precioFinalMXN": 24.05,
       "precioFormateado": "$24.05"
