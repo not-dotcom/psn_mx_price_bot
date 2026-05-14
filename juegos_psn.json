@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T15:09:49.823Z",
+  "lastUpdated": "2026-05-14T17:22:51.027Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -176,6 +176,12 @@
       "precioFormateado": "$807.10"
     },
     {
+      "nombre": "Akuma Rise Special Edition",
+      "precioBaseUSD": 39.99,
+      "precioFinalMXN": 807.1,
+      "precioFormateado": "$807.10"
+    },
+    {
       "nombre": "Little Nightmares III Edición Deluxe PS4 y PS5",
       "precioBaseUSD": 39.59,
       "precioFinalMXN": 799.03,
@@ -296,6 +302,18 @@
       "precioFormateado": "$161.26"
     },
     {
+      "nombre": "AKIBA'S TRIP: Hellbound & Debriefed",
+      "precioBaseUSD": 7.99,
+      "precioFinalMXN": 161.26,
+      "precioFormateado": "$161.26"
+    },
+    {
+      "nombre": "AKIBA'S TRIP: Undead & Undressed",
+      "precioBaseUSD": 7.99,
+      "precioFinalMXN": 161.26,
+      "precioFormateado": "$161.26"
+    },
+    {
       "nombre": "After Wave: Downfall",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 151.17,
@@ -356,12 +374,6 @@
       "precioFormateado": "$100.71"
     },
     {
-      "nombre": "Accident",
-      "precioBaseUSD": 4.49,
-      "precioFinalMXN": 90.62,
-      "precioFormateado": "$90.62"
-    },
-    {
       "nombre": "Adrian's Tale",
       "precioBaseUSD": 4.49,
       "precioFinalMXN": 90.62,
@@ -380,18 +392,6 @@
       "precioFormateado": "$90.62"
     },
     {
-      "nombre": "Ace of Seafood",
-      "precioBaseUSD": 4.19,
-      "precioFinalMXN": 84.57,
-      "precioFormateado": "$84.57"
-    },
-    {
-      "nombre": "Adventurous Slime PS4® & PS5®",
-      "precioBaseUSD": 4.19,
-      "precioFinalMXN": 84.57,
-      "precioFormateado": "$84.57"
-    },
-    {
       "nombre": "Agents of Mayhem",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 80.53,
@@ -404,28 +404,10 @@
       "precioFormateado": "$75.48"
     },
     {
-      "nombre": "Aidan In Danger",
-      "precioBaseUSD": 3.49,
-      "precioFinalMXN": 70.44,
-      "precioFormateado": "$70.44"
-    },
-    {
       "nombre": "Aces of the Luftwaffe - Squadron",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 60.35,
       "precioFormateado": "$60.35"
-    },
-    {
-      "nombre": "Aerial_Knight's We Never Yield",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 60.35,
-      "precioFormateado": "$60.35"
-    },
-    {
-      "nombre": "A Fight for Life",
-      "precioBaseUSD": 1.59,
-      "precioFinalMXN": 32.09,
-      "precioFormateado": "$32.09"
     },
     {
       "nombre": "Aces of the Luftwaffe",
@@ -438,12 +420,6 @@
       "precioBaseUSD": null,
       "precioFinalMXN": null,
       "precioFormateado": "$NaN"
-    },
-    {
-      "nombre": "Akuma Rise Special Edition",
-      "precioBaseUSD": 39.99,
-      "precioFinalMXN": 807.1,
-      "precioFormateado": "$807.10"
     },
     {
       "nombre": "Call of Duty®: Advanced Warfare - Edición Digital Pro",
@@ -489,6 +465,12 @@
     },
     {
       "nombre": "Darius Cozmic Collection Console",
+      "precioBaseUSD": 17.99,
+      "precioFinalMXN": 363.09,
+      "precioFormateado": "$363.09"
+    },
+    {
+      "nombre": "Dawn of Man + Planetbase",
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 363.09,
       "precioFormateado": "$363.09"
@@ -632,6 +614,12 @@
       "precioFormateado": "$40.16"
     },
     {
+      "nombre": "DayD: Through Time",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.16,
+      "precioFormateado": "$40.16"
+    },
+    {
       "nombre": "Cubic Figures",
       "precioBaseUSD": 1.59,
       "precioFinalMXN": 32.09,
@@ -684,12 +672,6 @@
       "precioBaseUSD": 1.49,
       "precioFinalMXN": 30.07,
       "precioFormateado": "$30.07"
-    },
-    {
-      "nombre": "CubicBan",
-      "precioBaseUSD": 1.19,
-      "precioFinalMXN": 24.02,
-      "precioFormateado": "$24.02"
     },
     {
       "nombre": "Cubic Light",
@@ -1005,12 +987,6 @@
     },
     {
       "nombre": "Nickelodeon Extreme Tennis: Next!",
-      "precioBaseUSD": 29.99,
-      "precioFinalMXN": 605.28,
-      "precioFormateado": "$605.28"
-    },
-    {
-      "nombre": "Winx Club: The Magic is Back",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 605.28,
       "precioFormateado": "$605.28"
@@ -1580,12 +1556,6 @@
       "precioFormateado": "$363.09"
     },
     {
-      "nombre": "Strange Antiquities",
-      "precioBaseUSD": 17.99,
-      "precioFinalMXN": 363.09,
-      "precioFormateado": "$363.09"
-    },
-    {
       "nombre": "The Talos Principle: Reawakened",
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 363.09,
@@ -1599,12 +1569,6 @@
     },
     {
       "nombre": "Colección de 5 juegos en 1: MyRummy® + 4 en raya + Backgammon + Damas + Molino",
-      "precioBaseUSD": 17.99,
-      "precioFinalMXN": 363.09,
-      "precioFormateado": "$363.09"
-    },
-    {
-      "nombre": "Dawn of Man + Planetbase",
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 363.09,
       "precioFormateado": "$363.09"
@@ -1965,12 +1929,6 @@
     },
     {
       "nombre": "Dragon Ball Xenoverse 2 - Super Pass",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 302.54,
-      "precioFormateado": "$302.54"
-    },
-    {
-      "nombre": "Dungeon Clawler",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 302.54,
       "precioFormateado": "$302.54"
@@ -2475,6 +2433,12 @@
     },
     {
       "nombre": "Doors: Paradox",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 241.99,
+      "precioFormateado": "$241.99"
+    },
+    {
+      "nombre": "Dorfromantik",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 241.99,
       "precioFormateado": "$241.99"
@@ -3416,18 +3380,6 @@
       "precioFormateado": "$161.26"
     },
     {
-      "nombre": "AKIBA'S TRIP: Hellbound & Debriefed",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 161.26,
-      "precioFormateado": "$161.26"
-    },
-    {
-      "nombre": "AKIBA'S TRIP: Undead & Undressed",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 161.26,
-      "precioFormateado": "$161.26"
-    },
-    {
       "nombre": "Angry Video Game Nerd I & II Deluxe",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 161.26,
@@ -3459,6 +3411,12 @@
     },
     {
       "nombre": "Countless Army",
+      "precioBaseUSD": 7.99,
+      "precioFinalMXN": 161.26,
+      "precioFormateado": "$161.26"
+    },
+    {
+      "nombre": "Dordogne",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 161.26,
       "precioFormateado": "$161.26"
@@ -3573,6 +3531,12 @@
     },
     {
       "nombre": "Alvastia Chronicles",
+      "precioBaseUSD": 7.49,
+      "precioFinalMXN": 151.17,
+      "precioFormateado": "$151.17"
+    },
+    {
+      "nombre": "Hello Neighbor Hide and Seek",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 151.17,
       "precioFormateado": "$151.17"
@@ -4724,6 +4688,12 @@
       "precioFormateado": "$90.62"
     },
     {
+      "nombre": "Accident",
+      "precioBaseUSD": 4.49,
+      "precioFinalMXN": 90.62,
+      "precioFormateado": "$90.62"
+    },
+    {
       "nombre": "Aquarist",
       "precioBaseUSD": 4.49,
       "precioFinalMXN": 90.62,
@@ -4827,6 +4797,18 @@
     },
     {
       "nombre": "DEAD OR SCHOOL",
+      "precioBaseUSD": 4.19,
+      "precioFinalMXN": 84.57,
+      "precioFormateado": "$84.57"
+    },
+    {
+      "nombre": "Ace of Seafood",
+      "precioBaseUSD": 4.19,
+      "precioFinalMXN": 84.57,
+      "precioFormateado": "$84.57"
+    },
+    {
+      "nombre": "Adventurous Slime PS4® & PS5®",
       "precioBaseUSD": 4.19,
       "precioFinalMXN": 84.57,
       "precioFormateado": "$84.57"
@@ -5342,6 +5324,12 @@
       "precioFormateado": "$70.44"
     },
     {
+      "nombre": "Aidan In Danger",
+      "precioBaseUSD": 3.49,
+      "precioFinalMXN": 70.44,
+      "precioFormateado": "$70.44"
+    },
+    {
       "nombre": "A Painter's Tale: Curon, 1950",
       "precioBaseUSD": 3.49,
       "precioFinalMXN": 70.44,
@@ -5709,6 +5697,12 @@
     },
     {
       "nombre": "Totally Reliable Delivery Service",
+      "precioBaseUSD": 2.99,
+      "precioFinalMXN": 60.35,
+      "precioFormateado": "$60.35"
+    },
+    {
+      "nombre": "Aerial_Knight's We Never Yield",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 60.35,
       "precioFormateado": "$60.35"
@@ -6554,12 +6548,6 @@
       "precioFormateado": "$40.16"
     },
     {
-      "nombre": "DayD: Through Time",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.16,
-      "precioFormateado": "$40.16"
-    },
-    {
       "nombre": "Dead Age II",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.16,
@@ -6681,6 +6669,12 @@
     },
     {
       "nombre": "Emily Wants to Play Too (Emily también quiere jugar)",
+      "precioBaseUSD": 1.59,
+      "precioFinalMXN": 32.09,
+      "precioFormateado": "$32.09"
+    },
+    {
+      "nombre": "A Fight for Life",
       "precioBaseUSD": 1.59,
       "precioFinalMXN": 32.09,
       "precioFormateado": "$32.09"
@@ -7083,6 +7077,12 @@
     },
     {
       "nombre": "Colorium",
+      "precioBaseUSD": 1.19,
+      "precioFinalMXN": 24.02,
+      "precioFormateado": "$24.02"
+    },
+    {
+      "nombre": "CubicBan",
       "precioBaseUSD": 1.19,
       "precioFinalMXN": 24.02,
       "precioFormateado": "$24.02"
