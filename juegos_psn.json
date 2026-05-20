@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T04:49:21.022Z",
+  "lastUpdated": "2026-05-20T08:29:58.627Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -57,6 +57,12 @@
     },
     {
       "nombre": "Lies of P: Overture Bundle",
+      "precioBaseUSD": 58.49,
+      "precioFinalMXN": 1190.23,
+      "precioFormateado": "$1,190.23"
+    },
+    {
+      "nombre": "Warhammer 40,000: Space Marine 2 - 2-Year Anniversary Edition",
       "precioBaseUSD": 58.49,
       "precioFinalMXN": 1190.23,
       "precioFormateado": "$1,190.23"
@@ -428,6 +434,12 @@
       "precioFormateado": "$610.28"
     },
     {
+      "nombre": "Warhammer 40,000: Space Marine 2 - Season Pass 2",
+      "precioBaseUSD": 29.99,
+      "precioFinalMXN": 610.28,
+      "precioFormateado": "$610.28"
+    },
+    {
       "nombre": "NHL 26 Edición Deluxe PS5",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 610.28,
@@ -632,13 +644,13 @@
       "precioFormateado": "$508.53"
     },
     {
-      "nombre": "Call of the Elder Gods",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 508.53,
-      "precioFormateado": "$508.53"
+      "nombre": "Call of Duty®: Black Ops Cold War- Lote Multigeneración PS4™ & PS5®",
+      "precioBaseUSD": 24.49,
+      "precioFinalMXN": 498.35,
+      "precioFormateado": "$498.35"
     },
     {
-      "nombre": "Call of Duty®: Black Ops Cold War- Lote Multigeneración PS4™ & PS5®",
+      "nombre": "Warhammer 40,000: Space Marine 2",
       "precioBaseUSD": 24.49,
       "precioFinalMXN": 498.35,
       "precioFormateado": "$498.35"
@@ -825,12 +837,6 @@
     },
     {
       "nombre": "Jujutsu Kaisen Cursed Clash Edición de lujo PS4 y PS5",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 406.78,
-      "precioFormateado": "$406.78"
-    },
-    {
-      "nombre": "MOTORSLICE",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 406.78,
       "precioFormateado": "$406.78"
@@ -1779,18 +1785,6 @@
     },
     {
       "nombre": "Jotunnslayer: Hordes of Hel",
-      "precioBaseUSD": 12.99,
-      "precioFinalMXN": 264.34,
-      "precioFormateado": "$264.34"
-    },
-    {
-      "nombre": "Adore",
-      "precioBaseUSD": 12.99,
-      "precioFinalMXN": 264.34,
-      "precioFormateado": "$264.34"
-    },
-    {
-      "nombre": "Adventure of Samsara",
       "precioBaseUSD": 12.99,
       "precioFinalMXN": 264.34,
       "precioFormateado": "$264.34"
@@ -2960,12 +2954,6 @@
       "precioFormateado": "$162.59"
     },
     {
-      "nombre": "Burnhouse Lane",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 162.59,
-      "precioFormateado": "$162.59"
-    },
-    {
       "nombre": "Like a Dragon: Infinite Wealth - Paquete de vacaciones de maestro PS4 y PS5",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 162.59,
@@ -3122,12 +3110,6 @@
       "precioFormateado": "$162.59"
     },
     {
-      "nombre": "Aabs Animals",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 162.59,
-      "precioFormateado": "$162.59"
-    },
-    {
       "nombre": "Insomnis All in 1 Pack",
       "precioBaseUSD": 7.79,
       "precioFinalMXN": 158.52,
@@ -3254,6 +3236,18 @@
       "precioFormateado": "$152.42"
     },
     {
+      "nombre": "Warhammer 40,000: Space Marine 2 - Dark Angels Chapter Pack",
+      "precioBaseUSD": 7.49,
+      "precioFinalMXN": 152.42,
+      "precioFormateado": "$152.42"
+    },
+    {
+      "nombre": "Warhammer 40,000: Space Marine 2 - Space Wolves Chapter Pack",
+      "precioBaseUSD": 7.49,
+      "precioFinalMXN": 152.42,
+      "precioFormateado": "$152.42"
+    },
+    {
       "nombre": "Bat Boy",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 152.42,
@@ -3375,6 +3369,12 @@
     },
     {
       "nombre": "Dating Stories - Ultimate Dating Pack",
+      "precioBaseUSD": 7.49,
+      "precioFinalMXN": 152.42,
+      "precioFormateado": "$152.42"
+    },
+    {
+      "nombre": "Warhammer 40,000: Space Marine 2 - White Scars Chapter Pack",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 152.42,
       "precioFormateado": "$152.42"
@@ -3584,18 +3584,6 @@
       "precioFormateado": "$142.24"
     },
     {
-      "nombre": "Adventures of Pip",
-      "precioBaseUSD": 6.99,
-      "precioFinalMXN": 142.24,
-      "precioFormateado": "$142.24"
-    },
-    {
-      "nombre": "Without a Dawn",
-      "precioBaseUSD": 6.79,
-      "precioFinalMXN": 138.17,
-      "precioFormateado": "$138.17"
-    },
-    {
       "nombre": "Banner of the Maid",
       "precioBaseUSD": 6.79,
       "precioFinalMXN": 138.17,
@@ -3603,6 +3591,12 @@
     },
     {
       "nombre": "Fantasy Strike — Core Pack",
+      "precioBaseUSD": 6.79,
+      "precioFinalMXN": 138.17,
+      "precioFormateado": "$138.17"
+    },
+    {
+      "nombre": "Without a Dawn",
       "precioBaseUSD": 6.79,
       "precioFinalMXN": 138.17,
       "precioFormateado": "$138.17"
@@ -3675,6 +3669,12 @@
     },
     {
       "nombre": "Brotato & Abyssal Terrors DLC - Bundle - PS4 & PS5",
+      "precioBaseUSD": 6.39,
+      "precioFinalMXN": 130.03,
+      "precioFormateado": "$130.03"
+    },
+    {
+      "nombre": "Warhammer 40,000: Space Marine 2 - Raven Guard Champion Pack",
       "precioBaseUSD": 6.39,
       "precioFinalMXN": 130.03,
       "precioFormateado": "$130.03"
@@ -3842,6 +3842,18 @@
       "precioFormateado": "$121.89"
     },
     {
+      "nombre": "Warhammer 40,000: Space Marine 2 - Black Templars Champion Pack",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 121.89,
+      "precioFormateado": "$121.89"
+    },
+    {
+      "nombre": "Warhammer 40,000: Space Marine 2 - Blood Angels Champion Pack",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 121.89,
+      "precioFormateado": "$121.89"
+    },
+    {
       "nombre": "Vigor - Path to Vengeance",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 121.89,
@@ -3873,6 +3885,12 @@
     },
     {
       "nombre": "Pumpkin Jack",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 121.89,
+      "precioFormateado": "$121.89"
+    },
+    {
+      "nombre": "Warhammer 40,000: Space Marine 2 - Ultramarines Champion Pack",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 121.89,
       "precioFormateado": "$121.89"
@@ -4023,6 +4041,12 @@
     },
     {
       "nombre": "Fantasy Beauties - All Girls Photo Packs",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 121.89,
+      "precioFormateado": "$121.89"
+    },
+    {
+      "nombre": "Warhammer 40,000: Space Marine 2 - Imperial Fists Champion Pack",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 121.89,
       "precioFormateado": "$121.89"
@@ -4184,13 +4208,13 @@
       "precioFormateado": "$101.54"
     },
     {
-      "nombre": "DRAGON BALL XENOVERSE 2 - Legend Patrol",
+      "nombre": "Death's Door",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.54,
       "precioFormateado": "$101.54"
     },
     {
-      "nombre": "Death's Door",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Legend Patrol",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.54,
       "precioFormateado": "$101.54"
@@ -4250,6 +4274,12 @@
       "precioFormateado": "$101.54"
     },
     {
+      "nombre": "Super Mega Baseball™ 4",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 101.54,
+      "precioFormateado": "$101.54"
+    },
+    {
       "nombre": "The Messenger",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.54,
@@ -4269,12 +4299,6 @@
     },
     {
       "nombre": "Tribes of Midgard PS4 & PS5",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 101.54,
-      "precioFormateado": "$101.54"
-    },
-    {
-      "nombre": "Super Mega Baseball™ 4",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.54,
       "precioFormateado": "$101.54"
@@ -4742,24 +4766,6 @@
       "precioFormateado": "$91.37"
     },
     {
-      "nombre": "A Boy and His Blob Retro Collection",
-      "precioBaseUSD": 4.49,
-      "precioFinalMXN": 91.37,
-      "precioFormateado": "$91.37"
-    },
-    {
-      "nombre": "Accident",
-      "precioBaseUSD": 4.49,
-      "precioFinalMXN": 91.37,
-      "precioFormateado": "$91.37"
-    },
-    {
-      "nombre": "Adrian's Tale",
-      "precioBaseUSD": 4.49,
-      "precioFinalMXN": 91.37,
-      "precioFormateado": "$91.37"
-    },
-    {
       "nombre": "Jump Challenge!",
       "precioBaseUSD": 4.41,
       "precioFinalMXN": 89.74,
@@ -4868,12 +4874,6 @@
       "precioFormateado": "$85.26"
     },
     {
-      "nombre": "Adventurous Slime PS4® & PS5®",
-      "precioBaseUSD": 4.19,
-      "precioFinalMXN": 85.26,
-      "precioFormateado": "$85.26"
-    },
-    {
       "nombre": "Five Nights at Freddy's: Sister Location",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.19,
@@ -4917,6 +4917,12 @@
     },
     {
       "nombre": "Vigor - The Grim Reaper",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 81.19,
+      "precioFormateado": "$81.19"
+    },
+    {
+      "nombre": "Warhammer 40,000: Space Marine 2 - Carcharodons Cosmetic Pack",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.19,
       "precioFormateado": "$81.19"
@@ -5048,6 +5054,12 @@
       "precioFormateado": "$81.19"
     },
     {
+      "nombre": "Warhammer 40,000: Boltgun - Forges of Corruption Expansion",
+      "precioBaseUSD": 3.89,
+      "precioFinalMXN": 79.16,
+      "precioFormateado": "$79.16"
+    },
+    {
       "nombre": "The Stairwell",
       "precioBaseUSD": 3.89,
       "precioFinalMXN": 79.16,
@@ -5120,6 +5132,12 @@
       "precioFormateado": "$76.11"
     },
     {
+      "nombre": "Warhammer 40,000: Space Marine 2 - Ultramarines Cosmetic Pack",
+      "precioBaseUSD": 3.74,
+      "precioFinalMXN": 76.11,
+      "precioFormateado": "$76.11"
+    },
+    {
       "nombre": "Kill It With Fire",
       "precioBaseUSD": 3.74,
       "precioFinalMXN": 76.11,
@@ -5127,6 +5145,24 @@
     },
     {
       "nombre": "SpiderHeck",
+      "precioBaseUSD": 3.74,
+      "precioFinalMXN": 76.11,
+      "precioFormateado": "$76.11"
+    },
+    {
+      "nombre": "Warhammer 40,000: Space Marine 2 - Imperial Fists Cosmetic Pack",
+      "precioBaseUSD": 3.74,
+      "precioFinalMXN": 76.11,
+      "precioFormateado": "$76.11"
+    },
+    {
+      "nombre": "Warhammer 40,000: Space Marine 2 - Blood Angels Cosmetic Pack",
+      "precioBaseUSD": 3.74,
+      "precioFinalMXN": 76.11,
+      "precioFormateado": "$76.11"
+    },
+    {
+      "nombre": "Warhammer 40,000: Space Marine 2 - Salamanders Cosmetic Pack",
       "precioBaseUSD": 3.74,
       "precioFinalMXN": 76.11,
       "precioFormateado": "$76.11"
@@ -5186,7 +5222,7 @@
       "precioFormateado": "$76.11"
     },
     {
-      "nombre": "Aces of the Luftwaffe Squadron - Nebelgeschwader",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Raven Guard Cosmetic Pack",
       "precioBaseUSD": 3.74,
       "precioFinalMXN": 76.11,
       "precioFormateado": "$76.11"
@@ -5492,6 +5528,12 @@
       "precioFormateado": "$60.84"
     },
     {
+      "nombre": "Devil May Cry 5 - Taunt Trio",
+      "precioBaseUSD": 2.99,
+      "precioFinalMXN": 60.84,
+      "precioFormateado": "$60.84"
+    },
+    {
       "nombre": "Dollmare",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 60.84,
@@ -5505,12 +5547,6 @@
     },
     {
       "nombre": "Titan Souls",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 60.84,
-      "precioFormateado": "$60.84"
-    },
-    {
-      "nombre": "Devil May Cry 5 - Taunt Trio",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 60.84,
       "precioFormateado": "$60.84"
@@ -5936,13 +5972,13 @@
       "precioFormateado": "$50.67"
     },
     {
-      "nombre": "Hotline Miami",
+      "nombre": "Pathologic 2 - The Marble Nest",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 50.67,
       "precioFormateado": "$50.67"
     },
     {
-      "nombre": "Pathologic 2 - The Marble Nest",
+      "nombre": "Hotline Miami",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 50.67,
       "precioFormateado": "$50.67"
@@ -6278,13 +6314,13 @@
       "precioFormateado": "$40.50"
     },
     {
-      "nombre": "DS:CS – Hacker’s Memory - Paquete Alphamon y Gallantmon",
+      "nombre": "Heads Up! Phones Down Edition",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.5,
       "precioFormateado": "$40.50"
     },
     {
-      "nombre": "Heads Up! Phones Down Edition",
+      "nombre": "DS:CS – Hacker’s Memory - Paquete Alphamon y Gallantmon",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.5,
       "precioFormateado": "$40.50"
@@ -6788,12 +6824,6 @@
       "precioFormateado": "$30.32"
     },
     {
-      "nombre": "Bilmo",
-      "precioBaseUSD": 1.39,
-      "precioFinalMXN": 28.29,
-      "precioFormateado": "$28.29"
-    },
-    {
       "nombre": "Pack de ladrillos encantadores",
       "precioBaseUSD": 1.39,
       "precioFinalMXN": 28.29,
@@ -6951,12 +6981,6 @@
     },
     {
       "nombre": "Super Star Shooter 16",
-      "precioBaseUSD": 1.09,
-      "precioFinalMXN": 22.18,
-      "precioFormateado": "$22.18"
-    },
-    {
-      "nombre": "A Bibelot: Prototo",
       "precioBaseUSD": 1.09,
       "precioFinalMXN": 22.18,
       "precioFormateado": "$22.18"
@@ -7286,12 +7310,6 @@
       "precioFormateado": "$20.15"
     },
     {
-      "nombre": "Aces of the Luftwaffe",
-      "precioBaseUSD": 0.99,
-      "precioFinalMXN": 20.15,
-      "precioFormateado": "$20.15"
-    },
-    {
       "nombre": "Beauty Clicker 2",
       "precioBaseUSD": 0.96,
       "precioFinalMXN": 19.54,
@@ -7460,12 +7478,6 @@
       "precioFormateado": "$16.08"
     },
     {
-      "nombre": "Pixicharm - Betty's Brawl",
-      "precioBaseUSD": 0.79,
-      "precioFinalMXN": 16.08,
-      "precioFormateado": "$16.08"
-    },
-    {
       "nombre": "Pixicharm - Meowbolt",
       "precioBaseUSD": 0.79,
       "precioFinalMXN": 16.08,
@@ -7479,6 +7491,12 @@
     },
     {
       "nombre": "Pixicharm - Astral Escape",
+      "precioBaseUSD": 0.79,
+      "precioFinalMXN": 16.08,
+      "precioFormateado": "$16.08"
+    },
+    {
+      "nombre": "Pixicharm - Betty's Brawl",
       "precioBaseUSD": 0.79,
       "precioFinalMXN": 16.08,
       "precioFormateado": "$16.08"
@@ -7980,12 +7998,6 @@
       "precioBaseUSD": 0,
       "precioFinalMXN": 0,
       "precioFormateado": "$0.00"
-    },
-    {
-      "nombre": "Actualización de FINAL FANTASY VII REMAKE para la versión de PS4™",
-      "precioBaseUSD": null,
-      "precioFinalMXN": null,
-      "precioFormateado": "$NaN"
     }
   ]
 }
