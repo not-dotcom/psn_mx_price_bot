@@ -152,12 +152,24 @@ async function buscarTodos() {
 
   await browser.close();
 
-  catalogoCompleto.sort((a, b) => b.precioFinalMXN - a.precioFinalMXN);
-  //Eliminamos duplicados por nombre (en caso de que existan)
-  function estaRepetido(juego, index, self) {
-    return index === self.findIndex((j) => j.nombre === juego.nombre);
-  }
-  catalogoCompleto = catalogoCompleto.filter(estaRepetido);
+  // Filtrar precios inválidos
+catalogoCompleto = catalogoCompleto.filter(
+  (j) => typeof j.precioFinalMXN === "number" && !isNaN(j.precioFinalMXN) && j.precioFinalMXN > 0
+);
+
+// Ordenar por precio, con nombre como desempate
+catalogoCompleto.sort((a, b) => {
+  const diff = b.precioFinalMXN - a.precioFinalMXN;
+  if (diff !== 0) return diff;
+  return a.nombre.localeCompare(b.nombre, "es");
+});
+
+// Eliminar duplicados por nombre
+catalogoCompleto = catalogoCompleto.filter(
+  (juego, index, self) =>
+    index === self.findIndex((j) => j.nombre === juego.nombre)
+);
+
 
   const output = {
     lastUpdated: new Date().toISOString(),
