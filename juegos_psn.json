@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T18:10:43.506Z",
+  "lastUpdated": "2026-05-28T22:42:11.723Z",
   "juegos": [
     {
       "nombre": "Age of Wonders 4: Collector’s Bundle",
@@ -1707,6 +1707,12 @@
     },
     {
       "nombre": "Big Helmet Heroes",
+      "precioBaseUSD": 12.49,
+      "precioFinalMXN": 254.83,
+      "precioFormateado": "$254.83"
+    },
+    {
+      "nombre": "Blueberry",
       "precioBaseUSD": 12.49,
       "precioFinalMXN": 254.83,
       "precioFormateado": "$254.83"
@@ -4754,6 +4760,12 @@
       "precioFormateado": "$81.41"
     },
     {
+      "nombre": "CONTROL Ultimate Edition",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 81.41,
+      "precioFormateado": "$81.41"
+    },
+    {
       "nombre": "Cooking Simulator - Pizza",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.41,
@@ -4773,12 +4785,6 @@
     },
     {
       "nombre": "Dead Rising Deluxe Remaster - Trajes y música: Pack centro comercial Willamette Parkview",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 81.41,
-      "precioFormateado": "$81.41"
-    },
-    {
-      "nombre": "Dead Rising Deluxe Remaster - Trajes y música: Pack luchadores de Capcom",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.41,
       "precioFormateado": "$81.41"
