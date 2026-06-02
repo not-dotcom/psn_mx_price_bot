@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T20:43:34.771Z",
+  "lastUpdated": "2026-06-02T23:01:31.968Z",
   "juegos": [
     {
       "nombre": "Microsoft Flight Simulator 2024 -  Aviator Edition",
@@ -494,7 +494,7 @@
       "precioFormateado": "$811.01"
     },
     {
-      "nombre": "Garten of Banban Bundle: 0 + 1 + 2 + 3 + 4 + 6 + 7 + 8",
+      "nombre": "Marathon - Edición Estándar",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 811.01,
       "precioFormateado": "$811.01"
@@ -1281,12 +1281,6 @@
     },
     {
       "nombre": "Little Nightmares III PS4 y PS5",
-      "precioBaseUSD": 27.99,
-      "precioFinalMXN": 567.65,
-      "precioFormateado": "$567.65"
-    },
-    {
-      "nombre": "Marathon - Edición Estándar",
       "precioBaseUSD": 27.99,
       "precioFinalMXN": 567.65,
       "precioFormateado": "$567.65"
@@ -6363,6 +6357,12 @@
     },
     {
       "nombre": "Chef Life - A Restaurant Simulator",
+      "precioBaseUSD": 7.99,
+      "precioFinalMXN": 162.04,
+      "precioFormateado": "$162.04"
+    },
+    {
+      "nombre": "Chess Infinity",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 162.04,
       "precioFormateado": "$162.04"
