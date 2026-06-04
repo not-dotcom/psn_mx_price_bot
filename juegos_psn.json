@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T23:04:57.103Z",
+  "lastUpdated": "2026-06-04T03:34:45.582Z",
   "juegos": [
     {
       "nombre": "Microsoft Flight Simulator 2024 -  Aviator Edition",
@@ -291,6 +291,12 @@
     },
     {
       "nombre": "STORY OF SEASONS: Grand Bazaar",
+      "precioBaseUSD": 49.99,
+      "precioFinalMXN": 1014.29,
+      "precioFormateado": "$1,014.29"
+    },
+    {
+      "nombre": "THEATRHYTHM FINAL BAR LINE Premium Digital Deluxe Edition",
       "precioBaseUSD": 49.99,
       "precioFinalMXN": 1014.29,
       "precioFormateado": "$1,014.29"
@@ -2444,6 +2450,12 @@
       "precioFormateado": "$405.59"
     },
     {
+      "nombre": "Train Sim World® 6: Schnellfahrstrecke Kassel - Würzburg",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 405.59,
+      "precioFormateado": "$405.59"
+    },
+    {
       "nombre": "Unrailed 2: Back on Track",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 405.59,
@@ -2874,12 +2886,6 @@
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 365.01,
       "precioFormateado": "$365.01"
-    },
-    {
-      "nombre": "Season Pass",
-      "precioBaseUSD": 17.59,
-      "precioFinalMXN": 356.9,
-      "precioFormateado": "$356.90"
     },
     {
       "nombre": "Becastled",
@@ -3525,6 +3531,12 @@
     },
     {
       "nombre": "Mount & Blade II: Bannerlord - Digital Deluxe",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 304.14,
+      "precioFormateado": "$304.14"
+    },
+    {
+      "nombre": "No More Heroes 3 Deluxe Edition PS5",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 304.14,
       "precioFormateado": "$304.14"
@@ -4742,12 +4754,6 @@
       "precioFormateado": "$228.06"
     },
     {
-      "nombre": "Rain World",
-      "precioBaseUSD": 11.24,
-      "precioFinalMXN": 228.06,
-      "precioFormateado": "$228.06"
-    },
-    {
       "nombre": "Warhammer 40,000: Boltgun - Forges of Corruption Edition",
       "precioBaseUSD": 11.24,
       "precioFinalMXN": 228.06,
@@ -4887,12 +4893,6 @@
     },
     {
       "nombre": "STAR WARS Jedi: Survivor™",
-      "precioBaseUSD": 10.49,
-      "precioFinalMXN": 212.84,
-      "precioFormateado": "$212.84"
-    },
-    {
-      "nombre": "The Game of Life 2 - Paquete de la vida deluxe",
       "precioBaseUSD": 10.49,
       "precioFinalMXN": 212.84,
       "precioFormateado": "$212.84"
@@ -5648,12 +5648,6 @@
       "precioFormateado": "$202.70"
     },
     {
-      "nombre": "to a T",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 202.7,
-      "precioFormateado": "$202.70"
-    },
-    {
       "nombre": "Tom Clancy's Rainbow Six® Siege: Elite Edition",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 202.7,
@@ -5763,6 +5757,12 @@
     },
     {
       "nombre": "Mega Man 11",
+      "precioBaseUSD": 9.89,
+      "precioFinalMXN": 200.67,
+      "precioFormateado": "$200.67"
+    },
+    {
+      "nombre": "Park Beyond",
       "precioBaseUSD": 9.89,
       "precioFinalMXN": 200.67,
       "precioFormateado": "$200.67"
@@ -6260,6 +6260,12 @@
       "precioFormateado": "$182.41"
     },
     {
+      "nombre": "Train Sim World® 6: Hauptstrecke Munchen - Augsburg",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 182.41,
+      "precioFormateado": "$182.41"
+    },
+    {
       "nombre": "Untitled Goose Game",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 182.41,
@@ -6308,19 +6314,7 @@
       "precioFormateado": "$177.33"
     },
     {
-      "nombre": "Pase de personaje de Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
-      "precioBaseUSD": 8.74,
-      "precioFinalMXN": 177.33,
-      "precioFormateado": "$177.33"
-    },
-    {
       "nombre": "Still Wakes the Deep",
-      "precioBaseUSD": 8.74,
-      "precioFinalMXN": 177.33,
-      "precioFormateado": "$177.33"
-    },
-    {
-      "nombre": "Zombie Army 4: Season Pass Three",
       "precioBaseUSD": 8.74,
       "precioFinalMXN": 177.33,
       "precioFormateado": "$177.33"
@@ -6537,12 +6531,6 @@
     },
     {
       "nombre": "Jurassic World Evolution 2: Expansión Dominio Malta",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 162.12,
-      "precioFormateado": "$162.12"
-    },
-    {
-      "nombre": "Jurassic World Evolution 2: Expansión Dominion BioSyn",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 162.12,
       "precioFormateado": "$162.12"
@@ -7550,12 +7538,6 @@
       "precioFormateado": "$113.42"
     },
     {
-      "nombre": "DRAGON BALL XENOVERSE 2 - Dragon Ball DAIMA Pack",
-      "precioBaseUSD": 5.59,
-      "precioFinalMXN": 113.42,
-      "precioFormateado": "$113.42"
-    },
-    {
       "nombre": "Suicide Squad: Kill the Justice League",
       "precioBaseUSD": 5.59,
       "precioFinalMXN": 113.42,
@@ -7959,6 +7941,12 @@
     },
     {
       "nombre": "Wobbledogs Console Edition",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 101.25,
+      "precioFormateado": "$101.25"
+    },
+    {
+      "nombre": "Worms™ Battlegrounds",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.25,
       "precioFormateado": "$101.25"
