@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T16:14:13.568Z",
+  "lastUpdated": "2026-06-07T19:17:17.197Z",
   "juegos": [
     {
       "nombre": "Microsoft Flight Simulator 2024 -  Aviator Edition",
@@ -680,6 +680,12 @@
       "precioFormateado": "$709.10"
     },
     {
+      "nombre": "Hellblade II: Senua’s Saga Edición Deluxe",
+      "precioBaseUSD": 34.99,
+      "precioFinalMXN": 709.1,
+      "precioFormateado": "$709.10"
+    },
+    {
       "nombre": "Mafia: El Viejo Continente",
       "precioBaseUSD": 34.99,
       "precioFinalMXN": 709.1,
@@ -687,12 +693,6 @@
     },
     {
       "nombre": "Metaphor: ReFantazio, PS4 & PS5",
-      "precioBaseUSD": 34.99,
-      "precioFinalMXN": 709.1,
-      "precioFormateado": "$709.10"
-    },
-    {
-      "nombre": "Senua’s Saga: Hellblade II Edición Deluxe",
       "precioBaseUSD": 34.99,
       "precioFinalMXN": 709.1,
       "precioFormateado": "$709.10"
