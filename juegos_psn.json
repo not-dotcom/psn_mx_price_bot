@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T07:08:40.400Z",
+  "lastUpdated": "2026-06-10T12:20:08.703Z",
   "juegos": [
     {
       "nombre": "Age of Wonders 4: Collector’s Bundle",
@@ -3062,6 +3062,12 @@
       "precioFormateado": "$213.94"
     },
     {
+      "nombre": "Need for Speed™ Unbound",
+      "precioBaseUSD": 10.49,
+      "precioFinalMXN": 213.94,
+      "precioFormateado": "$213.94"
+    },
+    {
       "nombre": "OFC - Ultimate Fighting Club",
       "precioBaseUSD": 10.49,
       "precioFinalMXN": 213.94,
@@ -3968,6 +3974,12 @@
       "precioFormateado": "$183.35"
     },
     {
+      "nombre": "Marvel's Guardians of the Galaxy para PS4 y PS5",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 183.35,
+      "precioFormateado": "$183.35"
+    },
+    {
       "nombre": "Max Payne®",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 183.35,
@@ -4437,6 +4449,12 @@
     },
     {
       "nombre": "RESIDENT EVIL 7 biohazard",
+      "precioBaseUSD": 7.99,
+      "precioFinalMXN": 162.96,
+      "precioFormateado": "$162.96"
+    },
+    {
+      "nombre": "STAR WARS Jedi: La Orden caída™",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 162.96,
       "precioFormateado": "$162.96"
