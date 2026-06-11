@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T20:17:06.513Z",
+  "lastUpdated": "2026-06-11T22:51:09.072Z",
   "juegos": [
     {
       "nombre": "Edición Deluxe de Digimon Story Time Stranger",
@@ -3866,6 +3866,12 @@
       "precioFormateado": "$81.42"
     },
     {
+      "nombre": "Arcade Double Game Bundle",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 81.42,
+      "precioFormateado": "$81.42"
+    },
+    {
       "nombre": "Balthazar's Dream",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.42,
@@ -4452,12 +4458,6 @@
       "precioBaseUSD": 3.24,
       "precioFinalMXN": 66.12,
       "precioFormateado": "$66.12"
-    },
-    {
-      "nombre": "Arcade Double Game Bundle",
-      "precioBaseUSD": 3.19,
-      "precioFinalMXN": 65.1,
-      "precioFormateado": "$65.10"
     },
     {
       "nombre": "Cozy Basket",
