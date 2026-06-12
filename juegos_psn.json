@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T20:06:17.483Z",
+  "lastUpdated": "2026-06-12T22:24:39.471Z",
   "juegos": [
     {
       "nombre": "Edición Deluxe de Digimon Story Time Stranger",
@@ -1922,6 +1922,12 @@
       "precioFormateado": "$183.73"
     },
     {
+      "nombre": "A-RED Walking Robot",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 181.71,
+      "precioFormateado": "$181.71"
+    },
+    {
       "nombre": "Aery - Flow of Time",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 181.71,
@@ -2706,12 +2712,6 @@
       "precioBaseUSD": 6.99,
       "precioFinalMXN": 141.28,
       "precioFormateado": "$141.28"
-    },
-    {
-      "nombre": "A-RED Walking Robot",
-      "precioBaseUSD": 6.74,
-      "precioFinalMXN": 136.23,
-      "precioFormateado": "$136.23"
     },
     {
       "nombre": "Battle Brothers – Warriors of the North",
