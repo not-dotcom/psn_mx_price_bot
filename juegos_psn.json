@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T22:24:39.471Z",
+  "lastUpdated": "2026-06-13T02:55:28.714Z",
   "juegos": [
     {
       "nombre": "Edición Deluxe de Digimon Story Time Stranger",
@@ -468,6 +468,12 @@
       "precioBaseUSD": 22.49,
       "precioFinalMXN": 454.57,
       "precioFormateado": "$454.57"
+    },
+    {
+      "nombre": "MARVEL MaXimum Collection",
+      "precioBaseUSD": 21.24,
+      "precioFinalMXN": 429.31,
+      "precioFormateado": "$429.31"
     },
     {
       "nombre": "cyubeVR",
@@ -3284,12 +3290,6 @@
       "precioFormateado": "$112.99"
     },
     {
-      "nombre": "Gnomes and Knights",
-      "precioBaseUSD": 5.59,
-      "precioFinalMXN": 112.99,
-      "precioFormateado": "$112.99"
-    },
-    {
       "nombre": "Pulmón de acero",
       "precioBaseUSD": 5.59,
       "precioFinalMXN": 112.99,
@@ -3609,6 +3609,12 @@
     },
     {
       "nombre": "GAZZLERS",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 100.86,
+      "precioFormateado": "$100.86"
+    },
+    {
+      "nombre": "Geo IQ World Master",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 100.86,
       "precioFormateado": "$100.86"
@@ -4581,6 +4587,12 @@
     },
     {
       "nombre": "Deep Space Shooter",
+      "precioBaseUSD": 3.24,
+      "precioFinalMXN": 65.49,
+      "precioFormateado": "$65.49"
+    },
+    {
+      "nombre": "The Surge - The Good, the Bad and the Augmented Expansion",
       "precioBaseUSD": 3.24,
       "precioFinalMXN": 65.49,
       "precioFormateado": "$65.49"
