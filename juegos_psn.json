@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T00:50:03.284Z",
+  "lastUpdated": "2026-06-15T04:35:33.432Z",
   "juegos": [
     {
       "nombre": "Edición Deluxe de Digimon Story Time Stranger",
@@ -2534,6 +2534,12 @@
       "precioFormateado": "$151.39"
     },
     {
+      "nombre": "Jak 3",
+      "precioBaseUSD": 7.49,
+      "precioFinalMXN": 151.39,
+      "precioFormateado": "$151.39"
+    },
+    {
       "nombre": "Moving Out 2",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 151.39,
@@ -2739,12 +2745,6 @@
     },
     {
       "nombre": "Genesis Alpha One Deluxe Edition",
-      "precioBaseUSD": 6.59,
-      "precioFinalMXN": 133.2,
-      "precioFormateado": "$133.20"
-    },
-    {
-      "nombre": "Gleylancer and Gynoug: Classic Shmups Pack PS4™ & PS5®",
       "precioBaseUSD": 6.59,
       "precioFinalMXN": 133.2,
       "precioFormateado": "$133.20"
@@ -3645,6 +3645,12 @@
     },
     {
       "nombre": "MY HERO ONE'S JUSTICE",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 100.86,
+      "precioFormateado": "$100.86"
+    },
+    {
+      "nombre": "Neon Abyss",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 100.86,
       "precioFormateado": "$100.86"
@@ -6369,12 +6375,6 @@
     },
     {
       "nombre": "Galaxy Champions TV",
-      "precioBaseUSD": 1.39,
-      "precioFinalMXN": 28.09,
-      "precioFormateado": "$28.09"
-    },
-    {
-      "nombre": "Glam's Incredible Run: Escape from Dukha",
       "precioBaseUSD": 1.39,
       "precioFinalMXN": 28.09,
       "precioFormateado": "$28.09"
