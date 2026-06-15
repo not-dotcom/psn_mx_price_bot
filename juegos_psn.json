@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T21:31:35.097Z",
+  "lastUpdated": "2026-06-15T00:50:03.284Z",
   "juegos": [
     {
       "nombre": "Edición Deluxe de Digimon Story Time Stranger",
@@ -729,12 +729,6 @@
     },
     {
       "nombre": "Cultist Simulator: Anthology Edition",
-      "precioBaseUSD": 17.99,
-      "precioFinalMXN": 363.62,
-      "precioFormateado": "$363.62"
-    },
-    {
-      "nombre": "Gloomy Eyes - Deluxe Edition",
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 363.62,
       "precioFormateado": "$363.62"
@@ -2223,6 +2217,12 @@
     },
     {
       "nombre": "Garden Simulator",
+      "precioBaseUSD": 8.09,
+      "precioFinalMXN": 163.52,
+      "precioFormateado": "$163.52"
+    },
+    {
+      "nombre": "Need for Speed™ Rivals: Edición Completa",
       "precioBaseUSD": 8.09,
       "precioFinalMXN": 163.52,
       "precioFormateado": "$163.52"
@@ -4334,6 +4334,12 @@
       "precioFormateado": "$75.59"
     },
     {
+      "nombre": "Zombies Ate My Neighbors and Ghoul Patrol",
+      "precioBaseUSD": 3.74,
+      "precioFinalMXN": 75.59,
+      "precioFormateado": "$75.59"
+    },
+    {
       "nombre": "4 Game Attack Bundle",
       "precioBaseUSD": 3.59,
       "precioFinalMXN": 72.56,
@@ -5901,12 +5907,6 @@
     },
     {
       "nombre": "Flying Soldiers (Game + Avatar Pack)",
-      "precioBaseUSD": 1.79,
-      "precioFinalMXN": 36.18,
-      "precioFormateado": "$36.18"
-    },
-    {
-      "nombre": "Gnomdom",
       "precioBaseUSD": 1.79,
       "precioFinalMXN": 36.18,
       "precioFormateado": "$36.18"
