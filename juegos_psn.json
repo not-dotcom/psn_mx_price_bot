@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T04:36:01.824Z",
+  "lastUpdated": "2026-06-16T08:00:04.288Z",
   "juegos": [
     {
       "nombre": "Edición Deluxe de Digimon Story Time Stranger",
@@ -15,12 +15,6 @@
     },
     {
       "nombre": "ANOMALITH Digital Deluxe Edition",
-      "precioBaseUSD": 69.99,
-      "precioFinalMXN": 1413.6,
-      "precioFormateado": "$1,413.60"
-    },
-    {
-      "nombre": "Destiny 2: La colección",
       "precioBaseUSD": 69.99,
       "precioFinalMXN": 1413.6,
       "precioFormateado": "$1,413.60"
@@ -171,6 +165,12 @@
     },
     {
       "nombre": "AEW: Fight Forever - Ultimate Edition",
+      "precioBaseUSD": 34.99,
+      "precioFinalMXN": 706.7,
+      "precioFormateado": "$706.70"
+    },
+    {
+      "nombre": "Dead by Daylight: Edición Gold",
       "precioBaseUSD": 34.99,
       "precioFinalMXN": 706.7,
       "precioFormateado": "$706.70"
@@ -860,12 +860,6 @@
       "precioFormateado": "$322.95"
     },
     {
-      "nombre": "Ghost Parade",
-      "precioBaseUSD": 15.99,
-      "precioFinalMXN": 322.95,
-      "precioFormateado": "$322.95"
-    },
-    {
       "nombre": "Pase de temporada de Star Wars Outlaws",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 322.95,
@@ -999,18 +993,6 @@
     },
     {
       "nombre": "Fortuna Magus",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 302.75,
-      "precioFormateado": "$302.75"
-    },
-    {
-      "nombre": "GBVSR: pase de personajes deluxe parte 1",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 302.75,
-      "precioFormateado": "$302.75"
-    },
-    {
-      "nombre": "Ghosts of Tabor",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 302.75,
       "precioFormateado": "$302.75"
@@ -1164,12 +1146,6 @@
       "precioBaseUSD": 13.49,
       "precioFinalMXN": 272.46,
       "precioFormateado": "$272.46"
-    },
-    {
-      "nombre": "GBVSR: pase de personajes deluxe parte 2",
-      "precioBaseUSD": 13.29,
-      "precioFinalMXN": 268.42,
-      "precioFormateado": "$268.42"
     },
     {
       "nombre": "ARC SEED",
@@ -1365,12 +1341,6 @@
     },
     {
       "nombre": "FOCUS on YOU",
-      "precioBaseUSD": 11.99,
-      "precioFinalMXN": 242.16,
-      "precioFormateado": "$242.16"
-    },
-    {
-      "nombre": "Gex Trilogy",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 242.16,
       "precioFormateado": "$242.16"
@@ -1634,6 +1604,36 @@
       "precioFormateado": "$201.77"
     },
     {
+      "nombre": "Dead by Daylight: lote Cuentos macabros",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 201.77,
+      "precioFormateado": "$201.77"
+    },
+    {
+      "nombre": "Dead by Daylight: Lote de Caza infinita",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 201.77,
+      "precioFormateado": "$201.77"
+    },
+    {
+      "nombre": "Dead by Daylight: Lote de expansión de escape",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 201.77,
+      "precioFormateado": "$201.77"
+    },
+    {
+      "nombre": "Dead by Daylight: Lote de expansión de terror",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 201.77,
+      "precioFormateado": "$201.77"
+    },
+    {
+      "nombre": "Dead by Daylight: lote Viejas heridas",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 201.77,
+      "precioFormateado": "$201.77"
+    },
+    {
       "nombre": "Demeo Battles",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 201.77,
@@ -1845,12 +1845,6 @@
     },
     {
       "nombre": "Endling - Extinction is Forever",
-      "precioBaseUSD": 9.89,
-      "precioFinalMXN": 199.75,
-      "precioFormateado": "$199.75"
-    },
-    {
-      "nombre": "Ghostbusters: The Video Game Remastered",
       "precioBaseUSD": 9.89,
       "precioFinalMXN": 199.75,
       "precioFormateado": "$199.75"
@@ -2108,12 +2102,6 @@
       "precioFormateado": "$177.53"
     },
     {
-      "nombre": "Gems & Glory DLC + Mini Machines DLC",
-      "precioBaseUSD": 8.79,
-      "precioFinalMXN": 177.53,
-      "precioFormateado": "$177.53"
-    },
-    {
       "nombre": "Amnesia: The Bunker",
       "precioBaseUSD": 8.74,
       "precioFinalMXN": 176.52,
@@ -2187,6 +2175,18 @@
     },
     {
       "nombre": "Aery - Recuerdos Rotos",
+      "precioBaseUSD": 8.39,
+      "precioFinalMXN": 169.45,
+      "precioFormateado": "$169.45"
+    },
+    {
+      "nombre": "Dead by Daylight: Capítulo de Resident Evil",
+      "precioBaseUSD": 8.39,
+      "precioFinalMXN": 169.45,
+      "precioFormateado": "$169.45"
+    },
+    {
+      "nombre": "Dead by Daylight: capítulo Resident Evil: PROJECT W",
       "precioBaseUSD": 8.39,
       "precioFinalMXN": 169.45,
       "precioFormateado": "$169.45"
@@ -2355,18 +2355,6 @@
     },
     {
       "nombre": "Furi",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 161.37,
-      "precioFormateado": "$161.37"
-    },
-    {
-      "nombre": "Ghostbusters: Spirits Unleashed Ecto Edition",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 161.37,
-      "precioFormateado": "$161.37"
-    },
-    {
-      "nombre": "Gigantosaurus: Dino Kart",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 161.37,
       "precioFormateado": "$161.37"
@@ -2606,12 +2594,6 @@
       "precioFormateado": "$145.22"
     },
     {
-      "nombre": "Gems & Glory DLC",
-      "precioBaseUSD": 7.19,
-      "precioFinalMXN": 145.22,
-      "precioFormateado": "$145.22"
-    },
-    {
       "nombre": "DAVE THE DIVER",
       "precioBaseUSD": 7.14,
       "precioFinalMXN": 144.21,
@@ -2742,12 +2724,6 @@
       "precioBaseUSD": 6.74,
       "precioFinalMXN": 136.13,
       "precioFormateado": "$136.13"
-    },
-    {
-      "nombre": "Genesis Alpha One Deluxe Edition",
-      "precioBaseUSD": 6.59,
-      "precioFinalMXN": 133.1,
-      "precioFormateado": "$133.10"
     },
     {
       "nombre": "Brotherhood",
@@ -3140,12 +3116,6 @@
       "precioFormateado": "$120.98"
     },
     {
-      "nombre": "GET OUT!",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 120.98,
-      "precioFormateado": "$120.98"
-    },
-    {
       "nombre": "Hotline Miami 2: Wrong Number",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 120.98,
@@ -3290,6 +3260,18 @@
       "precioFormateado": "$112.90"
     },
     {
+      "nombre": "Dead by Daylight: Sinister Grace",
+      "precioBaseUSD": 5.59,
+      "precioFinalMXN": 112.9,
+      "precioFormateado": "$112.90"
+    },
+    {
+      "nombre": "Dead by Daylight: The Walking Dead",
+      "precioBaseUSD": 5.59,
+      "precioFinalMXN": 112.9,
+      "precioFormateado": "$112.90"
+    },
+    {
       "nombre": "Pulmón de acero",
       "precioBaseUSD": 5.59,
       "precioFinalMXN": 112.9,
@@ -3303,12 +3285,6 @@
     },
     {
       "nombre": "Chess Club",
-      "precioBaseUSD": 5.49,
-      "precioFinalMXN": 110.88,
-      "precioFormateado": "$110.88"
-    },
-    {
-      "nombre": "Gas Station Simulator - Tidal Wave DLC",
       "precioBaseUSD": 5.49,
       "precioFinalMXN": 110.88,
       "precioFormateado": "$110.88"
@@ -3608,18 +3584,6 @@
       "precioFormateado": "$100.78"
     },
     {
-      "nombre": "GAZZLERS",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 100.78,
-      "precioFormateado": "$100.78"
-    },
-    {
-      "nombre": "Geo IQ World Master",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 100.78,
-      "precioFormateado": "$100.78"
-    },
-    {
       "nombre": "Hunt: Showdown 1896 - Biatatá - Still Waters Run Deep",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 100.78,
@@ -3890,12 +3854,6 @@
       "precioFormateado": "$90.69"
     },
     {
-      "nombre": "Gimmick! SPECIAL EDITION",
-      "precioBaseUSD": 4.49,
-      "precioFinalMXN": 90.69,
-      "precioFormateado": "$90.69"
-    },
-    {
       "nombre": "Shenmue I & II",
       "precioBaseUSD": 4.49,
       "precioFinalMXN": 90.69,
@@ -4118,6 +4076,66 @@
       "precioFormateado": "$80.59"
     },
     {
+      "nombre": "Dead by Daylight: A Nightmare on Elm Street™ Chapter",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 80.59,
+      "precioFormateado": "$80.59"
+    },
+    {
+      "nombre": "Dead by Daylight: capítulo All Things Wicked",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 80.59,
+      "precioFormateado": "$80.59"
+    },
+    {
+      "nombre": "Dead by Daylight: Capítulo End Transmission",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 80.59,
+      "precioFormateado": "$80.59"
+    },
+    {
+      "nombre": "Dead by Daylight: Capítulo Sadako Rising",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 80.59,
+      "precioFormateado": "$80.59"
+    },
+    {
+      "nombre": "Dead by Daylight: Capítulo SAW® PS4™ & PS5™",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 80.59,
+      "precioFormateado": "$80.59"
+    },
+    {
+      "nombre": "Dead by Daylight: Castlevania",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 80.59,
+      "precioFormateado": "$80.59"
+    },
+    {
+      "nombre": "Dead by Daylight: Doomed Course",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 80.59,
+      "precioFormateado": "$80.59"
+    },
+    {
+      "nombre": "Dead by Daylight: Dungeons & Dragons",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 80.59,
+      "precioFormateado": "$80.59"
+    },
+    {
+      "nombre": "Dead by Daylight: Silent Hill Chapter PS4™ & PS5™",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 80.59,
+      "precioFormateado": "$80.59"
+    },
+    {
+      "nombre": "Dead by Daylight: Tokyo Ghoul",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 80.59,
+      "precioFormateado": "$80.59"
+    },
+    {
       "nombre": "Dolmen",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 80.59,
@@ -4209,12 +4227,6 @@
     },
     {
       "nombre": "Funko Fusion - Universal Monsters Pack",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 80.59,
-      "precioFormateado": "$80.59"
-    },
-    {
-      "nombre": "Ghoulboy  Bundle Game + Theme",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 80.59,
       "precioFormateado": "$80.59"
@@ -4521,6 +4533,24 @@
     },
     {
       "nombre": "Dabman: When The Haters Dab Back Remastered",
+      "precioBaseUSD": 3.49,
+      "precioFinalMXN": 70.49,
+      "precioFormateado": "$70.49"
+    },
+    {
+      "nombre": "Dead by Daylight: el capítulo de Chucky",
+      "precioBaseUSD": 3.49,
+      "precioFinalMXN": 70.49,
+      "precioFormateado": "$70.49"
+    },
+    {
+      "nombre": "Dead by Daylight: Ghost Face® PS4™ & PS5™",
+      "precioBaseUSD": 3.49,
+      "precioFinalMXN": 70.49,
+      "precioFormateado": "$70.49"
+    },
+    {
+      "nombre": "Dead by Daylight: Tomb Raider",
       "precioBaseUSD": 3.49,
       "precioFinalMXN": 70.49,
       "precioFormateado": "$70.49"
@@ -4916,18 +4946,6 @@
       "precioFormateado": "$60.39"
     },
     {
-      "nombre": "Gatos en Cajas",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 60.39,
-      "precioFormateado": "$60.39"
-    },
-    {
-      "nombre": "Gimmick! 2",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 60.39,
-      "precioFormateado": "$60.39"
-    },
-    {
       "nombre": "Indiana Jones and the Staff of Kings",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 60.39,
@@ -4971,12 +4989,6 @@
     },
     {
       "nombre": "Flywrench",
-      "precioBaseUSD": 2.79,
-      "precioFinalMXN": 56.35,
-      "precioFormateado": "$56.35"
-    },
-    {
-      "nombre": "Gastro Force PS4™ & PS5®",
       "precioBaseUSD": 2.79,
       "precioFinalMXN": 56.35,
       "precioFormateado": "$56.35"
@@ -5145,6 +5157,30 @@
     },
     {
       "nombre": "Cybertrash STATYX",
+      "precioBaseUSD": 2.49,
+      "precioFinalMXN": 50.29,
+      "precioFormateado": "$50.29"
+    },
+    {
+      "nombre": "Dead by Daylight: Ash vs Evil Dead PS4™ & PS5™",
+      "precioBaseUSD": 2.49,
+      "precioFinalMXN": 50.29,
+      "precioFormateado": "$50.29"
+    },
+    {
+      "nombre": "Dead by Daylight: capítulo Alan Wake",
+      "precioBaseUSD": 2.49,
+      "precioFinalMXN": 50.29,
+      "precioFormateado": "$50.29"
+    },
+    {
+      "nombre": "Dead by Daylight: Leatherface™ PS4™ & PS5™",
+      "precioBaseUSD": 2.49,
+      "precioFinalMXN": 50.29,
+      "precioFormateado": "$50.29"
+    },
+    {
+      "nombre": "Dead by Daylight: Steady Pulse",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 50.29,
       "precioFormateado": "$50.29"
@@ -5811,12 +5847,6 @@
     },
     {
       "nombre": "Fusion Paradox",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.19,
-      "precioFormateado": "$40.19"
-    },
-    {
-      "nombre": "Girlfriend from Hell",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.19,
       "precioFormateado": "$40.19"
@@ -7083,12 +7113,6 @@
     },
     {
       "nombre": "Farmer's Dynasty Krampe Big Body 900",
-      "precioBaseUSD": 0.89,
-      "precioFinalMXN": 17.98,
-      "precioFormateado": "$17.98"
-    },
-    {
-      "nombre": "Geometric Sniper - Blood in Paris",
       "precioBaseUSD": 0.89,
       "precioFinalMXN": 17.98,
       "precioFormateado": "$17.98"
