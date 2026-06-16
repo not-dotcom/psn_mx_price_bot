@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T00:54:47.650Z",
+  "lastUpdated": "2026-06-16T04:36:01.824Z",
   "juegos": [
     {
       "nombre": "Edición Deluxe de Digimon Story Time Stranger",
@@ -4215,6 +4215,12 @@
     },
     {
       "nombre": "Ghoulboy  Bundle Game + Theme",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 80.59,
+      "precioFormateado": "$80.59"
+    },
+    {
+      "nombre": "Ultra Street Fighter IV",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 80.59,
       "precioFormateado": "$80.59"
