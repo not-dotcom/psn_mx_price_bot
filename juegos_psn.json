@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T00:49:41.964Z",
+  "lastUpdated": "2026-06-17T04:35:26.492Z",
   "juegos": [
     {
       "nombre": "Edición Deluxe de Digimon Story Time Stranger",
@@ -57,6 +57,12 @@
     },
     {
       "nombre": "Brigandine Abyss",
+      "precioBaseUSD": 49.99,
+      "precioFinalMXN": 1009.15,
+      "precioFormateado": "$1,009.15"
+    },
+    {
+      "nombre": "Dead by Daylight: 10th Anniversary Edition",
       "precioBaseUSD": 49.99,
       "precioFinalMXN": 1009.15,
       "precioFormateado": "$1,009.15"
@@ -204,6 +210,12 @@
       "precioBaseUSD": 31.99,
       "precioFinalMXN": 645.79,
       "precioFormateado": "$645.79"
+    },
+    {
+      "nombre": "Dead by Daylight: edición Jason",
+      "precioBaseUSD": 31.49,
+      "precioFinalMXN": 635.69,
+      "precioFormateado": "$635.69"
     },
     {
       "nombre": "Battle Brothers - Complete Edition",
@@ -5337,12 +5349,6 @@
     },
     {
       "nombre": "Dustoff Heli Rescue 2",
-      "precioBaseUSD": 2.39,
-      "precioFinalMXN": 48.25,
-      "precioFormateado": "$48.25"
-    },
-    {
-      "nombre": "Gas Station Simulator - Can Touch This DLC",
       "precioBaseUSD": 2.39,
       "precioFinalMXN": 48.25,
       "precioFormateado": "$48.25"
