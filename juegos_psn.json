@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T04:34:47.883Z",
+  "lastUpdated": "2026-06-18T07:43:48.768Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -279,12 +279,6 @@
     },
     {
       "nombre": "Age of Wonders 4: Starter Edition",
-      "precioBaseUSD": 35.99,
-      "precioFinalMXN": 726.86,
-      "precioFormateado": "$726.86"
-    },
-    {
-      "nombre": "Bag Fight: Deluxe Edition",
       "precioBaseUSD": 35.99,
       "precioFinalMXN": 726.86,
       "precioFormateado": "$726.86"
@@ -866,12 +860,6 @@
       "precioFormateado": "$403.72"
     },
     {
-      "nombre": "Bag Fight & Cup Heroes: Starter Bundle",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 403.72,
-      "precioFormateado": "$403.72"
-    },
-    {
       "nombre": "Bakery Bundle - Lemon Cake + Magical Bakery",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 403.72,
@@ -885,12 +873,6 @@
     },
     {
       "nombre": "Beastro",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 403.72,
-      "precioFormateado": "$403.72"
-    },
-    {
-      "nombre": "Beat The Champions",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 403.72,
       "precioFormateado": "$403.72"
@@ -1047,6 +1029,24 @@
     },
     {
       "nombre": "Builder Liquidator Bundle",
+      "precioBaseUSD": 18.74,
+      "precioFinalMXN": 378.48,
+      "precioFormateado": "$378.48"
+    },
+    {
+      "nombre": "Fernbus Coach Simulator - Bus Pack #1",
+      "precioBaseUSD": 18.74,
+      "precioFinalMXN": 378.48,
+      "precioFormateado": "$378.48"
+    },
+    {
+      "nombre": "Fernbus Coach Simulator - Bus Pack #2",
+      "precioBaseUSD": 18.74,
+      "precioFinalMXN": 378.48,
+      "precioFormateado": "$378.48"
+    },
+    {
+      "nombre": "Fernbus Coach Simulator - Bus Pack #3",
       "precioBaseUSD": 18.74,
       "precioFinalMXN": 378.48,
       "precioFormateado": "$378.48"
@@ -1587,6 +1587,12 @@
     },
     {
       "nombre": "Empire of Sin - Deluxe Edition",
+      "precioBaseUSD": 12.49,
+      "precioFinalMXN": 252.25,
+      "precioFormateado": "$252.25"
+    },
+    {
+      "nombre": "Felix the Cat PS4 & PS5",
       "precioBaseUSD": 12.49,
       "precioFinalMXN": 252.25,
       "precioFormateado": "$252.25"
@@ -4466,6 +4472,12 @@
       "precioFormateado": "$80.58"
     },
     {
+      "nombre": "Feed My Raptor VR",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 80.58,
+      "precioFormateado": "$80.58"
+    },
+    {
       "nombre": "Bit Dungeon Plus Bundle Game + Theme",
       "precioBaseUSD": 3.98,
       "precioFinalMXN": 80.38,
@@ -4557,6 +4569,12 @@
     },
     {
       "nombre": "F1®  Manager 2023: Paquete deluxe de mejoras",
+      "precioBaseUSD": 3.74,
+      "precioFinalMXN": 75.53,
+      "precioFormateado": "$75.53"
+    },
+    {
+      "nombre": "Fenix Furia",
       "precioBaseUSD": 3.74,
       "precioFinalMXN": 75.53,
       "precioFormateado": "$75.53"
