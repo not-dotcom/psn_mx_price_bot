@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T21:46:28.911Z",
+  "lastUpdated": "2026-06-19T00:54:30.299Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -86,6 +86,12 @@
       "precioFormateado": "$1,224.16"
     },
     {
+      "nombre": "Lies of P: Overture Bundle",
+      "precioBaseUSD": 58.49,
+      "precioFinalMXN": 1193.55,
+      "precioFormateado": "$1,193.55"
+    },
+    {
       "nombre": "Microsoft Flight Simulator 2024- Standard Edition",
       "precioBaseUSD": 55.99,
       "precioFinalMXN": 1142.53,
@@ -117,6 +123,12 @@
     },
     {
       "nombre": "Dead by Daylight: 10th Anniversary Edition",
+      "precioBaseUSD": 49.99,
+      "precioFinalMXN": 1020.1,
+      "precioFormateado": "$1,020.10"
+    },
+    {
+      "nombre": "Forza Horizon 5 Premium Edition",
       "precioBaseUSD": 49.99,
       "precioFinalMXN": 1020.1,
       "precioFormateado": "$1,020.10"
@@ -338,6 +350,12 @@
       "precioFormateado": "$714.01"
     },
     {
+      "nombre": "Lote Triple Juego de Crash™ + Spyro™",
+      "precioBaseUSD": 34.99,
+      "precioFinalMXN": 714.01,
+      "precioFormateado": "$714.01"
+    },
+    {
       "nombre": "City Transport Simulator 2026 - Starter Edition",
       "precioBaseUSD": 33.99,
       "precioFinalMXN": 693.6,
@@ -530,12 +548,6 @@
       "precioFormateado": "$611.98"
     },
     {
-      "nombre": "FATAL FURY: City of the Wolves - Legend Edition",
-      "precioBaseUSD": 29.99,
-      "precioFinalMXN": 611.98,
-      "precioFormateado": "$611.98"
-    },
-    {
       "nombre": "Forza Horizon 5 Standard Edition",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 611.98,
@@ -552,6 +564,12 @@
       "precioBaseUSD": 29.59,
       "precioFinalMXN": 603.81,
       "precioFormateado": "$603.81"
+    },
+    {
+      "nombre": "Marvel's Spider-Man: Miles Morales Edición Definitiva",
+      "precioBaseUSD": 29.39,
+      "precioFinalMXN": 599.73,
+      "precioFormateado": "$599.73"
     },
     {
       "nombre": "Cult of the Lamb: Woolhaven Edition",
@@ -674,12 +692,6 @@
       "precioFormateado": "$509.95"
     },
     {
-      "nombre": "Call of Duty®: Black Ops Cold War- Lote Multigeneración PS4™ & PS5®",
-      "precioBaseUSD": 24.49,
-      "precioFinalMXN": 499.74,
-      "precioFormateado": "$499.74"
-    },
-    {
       "nombre": "Assassin's Creed® Mirage Deluxe Edition",
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 489.54,
@@ -740,6 +752,18 @@
       "precioFormateado": "$489.54"
     },
     {
+      "nombre": "NieR Replicant ver.1.22474487139...",
+      "precioBaseUSD": 23.99,
+      "precioFinalMXN": 489.54,
+      "precioFormateado": "$489.54"
+    },
+    {
+      "nombre": "Visions of Mana PS4 & PS5",
+      "precioBaseUSD": 23.99,
+      "precioFinalMXN": 489.54,
+      "precioFormateado": "$489.54"
+    },
+    {
       "nombre": "Battle Brothers - DLC Bundle Pack",
       "precioBaseUSD": 23.24,
       "precioFinalMXN": 474.24,
@@ -783,6 +807,12 @@
     },
     {
       "nombre": "Edición digital Deluxe de Shin Megami Tensei V: Vengeance",
+      "precioBaseUSD": 20.99,
+      "precioFinalMXN": 428.32,
+      "precioFormateado": "$428.32"
+    },
+    {
+      "nombre": "Planet Zoo: Edición Deluxe",
       "precioBaseUSD": 20.99,
       "precioFinalMXN": 428.32,
       "precioFormateado": "$428.32"
@@ -1029,24 +1059,6 @@
     },
     {
       "nombre": "Builder Liquidator Bundle",
-      "precioBaseUSD": 18.74,
-      "precioFinalMXN": 382.41,
-      "precioFormateado": "$382.41"
-    },
-    {
-      "nombre": "Fernbus Coach Simulator - Bus Pack #1",
-      "precioBaseUSD": 18.74,
-      "precioFinalMXN": 382.41,
-      "precioFormateado": "$382.41"
-    },
-    {
-      "nombre": "Fernbus Coach Simulator - Bus Pack #2",
-      "precioBaseUSD": 18.74,
-      "precioFinalMXN": 382.41,
-      "precioFormateado": "$382.41"
-    },
-    {
-      "nombre": "Fernbus Coach Simulator - Bus Pack #3",
       "precioBaseUSD": 18.74,
       "precioFinalMXN": 382.41,
       "precioFormateado": "$382.41"
@@ -1400,13 +1412,19 @@
       "precioFormateado": "$305.89"
     },
     {
-      "nombre": "FATAL FURY: City of the Wolves",
+      "nombre": "Final Fantasy XII The Zodiac Age",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 305.89,
       "precioFormateado": "$305.89"
     },
     {
       "nombre": "Resident Evil 4 Gold Edition PS4 y PS5",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 305.89,
+      "precioFormateado": "$305.89"
+    },
+    {
+      "nombre": "Syberia - Remastered",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 305.89,
       "precioFormateado": "$305.89"
@@ -1496,6 +1514,18 @@
       "precioFormateado": "$285.48"
     },
     {
+      "nombre": "Taxi Life: A City Driving Simulator",
+      "precioBaseUSD": 13.99,
+      "precioFinalMXN": 285.48,
+      "precioFormateado": "$285.48"
+    },
+    {
+      "nombre": "Tombi! 2 Special Edition",
+      "precioBaseUSD": 13.99,
+      "precioFinalMXN": 285.48,
+      "precioFormateado": "$285.48"
+    },
+    {
       "nombre": "art of rally",
       "precioBaseUSD": 13.74,
       "precioFinalMXN": 280.38,
@@ -1530,6 +1560,18 @@
       "precioBaseUSD": 13.49,
       "precioFinalMXN": 275.28,
       "precioFormateado": "$275.28"
+    },
+    {
+      "nombre": "FOR HONOR – Ultimate Edition",
+      "precioBaseUSD": 13.49,
+      "precioFinalMXN": 275.28,
+      "precioFormateado": "$275.28"
+    },
+    {
+      "nombre": "Street Fighter™ V - Season 5 Premium Pass",
+      "precioBaseUSD": 13.19,
+      "precioFinalMXN": 269.16,
+      "precioFormateado": "$269.16"
     },
     {
       "nombre": "ARC SEED",
@@ -1587,12 +1629,6 @@
     },
     {
       "nombre": "Empire of Sin - Deluxe Edition",
-      "precioBaseUSD": 12.49,
-      "precioFinalMXN": 254.87,
-      "precioFormateado": "$254.87"
-    },
-    {
-      "nombre": "Felix the Cat PS4 & PS5",
       "precioBaseUSD": 12.49,
       "precioFinalMXN": 254.87,
       "precioFormateado": "$254.87"
@@ -1706,6 +1742,18 @@
       "precioFormateado": "$244.67"
     },
     {
+      "nombre": "Need for Speed™ Unbound Palace Edition",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 244.67,
+      "precioFormateado": "$244.67"
+    },
+    {
+      "nombre": "Sherlock Holmes - Paquete de Deducción Absoluta",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 244.67,
+      "precioFormateado": "$244.67"
+    },
+    {
       "nombre": "Date Everything! - Lavish Edition",
       "precioBaseUSD": 11.89,
       "precioFinalMXN": 242.63,
@@ -1716,12 +1764,6 @@
       "precioBaseUSD": 11.89,
       "precioFinalMXN": 242.63,
       "precioFormateado": "$242.63"
-    },
-    {
-      "nombre": "Aliens Roadside",
-      "precioBaseUSD": 11.59,
-      "precioFinalMXN": 236.51,
-      "precioFormateado": "$236.51"
     },
     {
       "nombre": "ARK: Survival Ascended",
@@ -1851,12 +1893,6 @@
     },
     {
       "nombre": "Borderlands 3: Recompensa de sangre PS4™ &  PS5™",
-      "precioBaseUSD": 10.04,
-      "precioFinalMXN": 204.88,
-      "precioFormateado": "$204.88"
-    },
-    {
-      "nombre": "FATAL FURY: CotW - Pase de temporada 1",
       "precioBaseUSD": 10.04,
       "precioFinalMXN": 204.88,
       "precioFormateado": "$204.88"
@@ -2144,13 +2180,19 @@
       "precioFormateado": "$203.86"
     },
     {
-      "nombre": "RESIDENT EVIL 7 biohazard Gold Edition",
+      "nombre": "Pase de temporada de Far Cry 6",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 203.86,
       "precioFormateado": "$203.86"
     },
     {
-      "nombre": "The Elder Scrolls V: Skyrim Special Edition - PS5 & PS4",
+      "nombre": "RESIDENT EVIL 2 Deluxe Edition",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 203.86,
+      "precioFormateado": "$203.86"
+    },
+    {
+      "nombre": "Tomb Raider: Definitive Survivor Trilogy",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 203.86,
       "precioFormateado": "$203.86"
@@ -2462,6 +2504,12 @@
       "precioFormateado": "$183.45"
     },
     {
+      "nombre": "Werewolf: The Apocalypse – Earthblood",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 183.45,
+      "precioFormateado": "$183.45"
+    },
+    {
       "nombre": "Crescent Tower",
       "precioBaseUSD": 8.79,
       "precioFinalMXN": 179.37,
@@ -2720,6 +2768,18 @@
       "precioFormateado": "$163.04"
     },
     {
+      "nombre": "FINAL FANTASY VIII Remastered",
+      "precioBaseUSD": 7.99,
+      "precioFinalMXN": 163.04,
+      "precioFormateado": "$163.04"
+    },
+    {
+      "nombre": "Plants vs. Zombies™: La Batalla de Neighborville",
+      "precioBaseUSD": 7.99,
+      "precioFinalMXN": 163.04,
+      "precioFormateado": "$163.04"
+    },
+    {
       "nombre": "Cozy Grove",
       "precioBaseUSD": 7.94,
       "precioFinalMXN": 162.02,
@@ -2888,7 +2948,7 @@
       "precioFormateado": "$152.84"
     },
     {
-      "nombre": "Fear Effect 2: Retro Helix",
+      "nombre": "SILENT HILL f - Deluxe Upgrade",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 152.84,
       "precioFormateado": "$152.84"
@@ -3458,7 +3518,19 @@
       "precioFormateado": "$122.23"
     },
     {
+      "nombre": "Mafia III: Definitive Edition",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 122.23,
+      "precioFormateado": "$122.23"
+    },
+    {
       "nombre": "Need for Speed™ Heat",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 122.23,
+      "precioFormateado": "$122.23"
+    },
+    {
+      "nombre": "UNCHARTED The Nathan Drake Collection",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.23,
       "precioFormateado": "$122.23"
@@ -3609,12 +3681,6 @@
     },
     {
       "nombre": "Conglomerate 451: Overloaded",
-      "precioBaseUSD": 5.19,
-      "precioFinalMXN": 105.91,
-      "precioFormateado": "$105.91"
-    },
-    {
-      "nombre": "Fearmonium PS4™ & PS5®",
       "precioBaseUSD": 5.19,
       "precioFinalMXN": 105.91,
       "precioFormateado": "$105.91"
@@ -3872,36 +3938,6 @@
       "precioFormateado": "$101.83"
     },
     {
-      "nombre": "Farm Together - Season 1 Bundle",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 101.83,
-      "precioFormateado": "$101.83"
-    },
-    {
-      "nombre": "Farm Together - Season 2 Bundle",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 101.83,
-      "precioFormateado": "$101.83"
-    },
-    {
-      "nombre": "Farm Together - Season 3 Bundle",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 101.83,
-      "precioFormateado": "$101.83"
-    },
-    {
-      "nombre": "Farm Together - Season 4 Bundle",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 101.83,
-      "precioFormateado": "$101.83"
-    },
-    {
-      "nombre": "Fear Effect",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 101.83,
-      "precioFormateado": "$101.83"
-    },
-    {
       "nombre": "La Tierra Media™: Sombras de Mordor™ - Edición Juego del Año",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.83,
@@ -3909,6 +3945,12 @@
     },
     {
       "nombre": "LEGO® Marvel™ Super Heroes",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 101.83,
+      "precioFormateado": "$101.83"
+    },
+    {
+      "nombre": "Tombi! Special Edition",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 101.83,
       "precioFormateado": "$101.83"
@@ -4460,19 +4502,7 @@
       "precioFormateado": "$81.42"
     },
     {
-      "nombre": "Fast Food Manager Simulator",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 81.42,
-      "precioFormateado": "$81.42"
-    },
-    {
-      "nombre": "Faye Falling PS4 & PS5",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 81.42,
-      "precioFormateado": "$81.42"
-    },
-    {
-      "nombre": "Feed My Raptor VR",
+      "nombre": "ONE PIECE: Unlimited World Red Edición Deluxe",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.42,
       "precioFormateado": "$81.42"
@@ -4569,12 +4599,6 @@
     },
     {
       "nombre": "F1®  Manager 2023: Paquete deluxe de mejoras",
-      "precioBaseUSD": 3.74,
-      "precioFinalMXN": 76.32,
-      "precioFormateado": "$76.32"
-    },
-    {
-      "nombre": "Fenix Furia",
       "precioBaseUSD": 3.74,
       "precioFinalMXN": 76.32,
       "precioFormateado": "$76.32"
@@ -4815,12 +4839,6 @@
     },
     {
       "nombre": "Energy Bundle (Energy Invasion, Energy Cycle, Energy Balance)",
-      "precioBaseUSD": 3.49,
-      "precioFinalMXN": 71.22,
-      "precioFormateado": "$71.22"
-    },
-    {
-      "nombre": "FatalZone",
       "precioBaseUSD": 3.49,
       "precioFinalMXN": 71.22,
       "precioFormateado": "$71.22"
@@ -5115,6 +5133,12 @@
     },
     {
       "nombre": "Farlands Journey",
+      "precioBaseUSD": 2.99,
+      "precioFinalMXN": 61.01,
+      "precioFormateado": "$61.01"
+    },
+    {
+      "nombre": "Metro 2033 Redux",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 61.01,
       "precioFormateado": "$61.01"
@@ -5445,6 +5469,12 @@
     },
     {
       "nombre": "FAR: Lone Sails",
+      "precioBaseUSD": 2.49,
+      "precioFinalMXN": 50.81,
+      "precioFormateado": "$50.81"
+    },
+    {
+      "nombre": "THE HOUSE OF THE DEAD: Remake",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 50.81,
       "precioFormateado": "$50.81"
@@ -6027,72 +6057,6 @@
     },
     {
       "nombre": "Farm Together - Fantasy Pack",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.61,
-      "precioFormateado": "$40.61"
-    },
-    {
-      "nombre": "Farm Together - Ginger Pack",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.61,
-      "precioFormateado": "$40.61"
-    },
-    {
-      "nombre": "Farm Together - Jalapeño Pack",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.61,
-      "precioFormateado": "$40.61"
-    },
-    {
-      "nombre": "Farm Together - Laurel Pack",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.61,
-      "precioFormateado": "$40.61"
-    },
-    {
-      "nombre": "Farm Together - Mistletoe Pack",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.61,
-      "precioFormateado": "$40.61"
-    },
-    {
-      "nombre": "Farm Together - Oregano Pack",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.61,
-      "precioFormateado": "$40.61"
-    },
-    {
-      "nombre": "Farm Together - Oxygen Pack",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.61,
-      "precioFormateado": "$40.61"
-    },
-    {
-      "nombre": "Farm Together - Paella Pack",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.61,
-      "precioFormateado": "$40.61"
-    },
-    {
-      "nombre": "Farm Together - Polar Pack",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.61,
-      "precioFormateado": "$40.61"
-    },
-    {
-      "nombre": "Farm Together - Sugarcane Pack",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.61,
-      "precioFormateado": "$40.61"
-    },
-    {
-      "nombre": "Farm Together - Wedding Pack",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.61,
-      "precioFormateado": "$40.61"
-    },
-    {
-      "nombre": "Fatal Slash",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.61,
       "precioFormateado": "$40.61"
@@ -7418,18 +7382,6 @@
       "precioFormateado": "$16.12"
     },
     {
-      "nombre": "Feed My Raptor",
-      "precioBaseUSD": 0.79,
-      "precioFinalMXN": 16.12,
-      "precioFormateado": "$16.12"
-    },
-    {
-      "nombre": "Feed my Raptor 2",
-      "precioBaseUSD": 0.79,
-      "precioFinalMXN": 16.12,
-      "precioFormateado": "$16.12"
-    },
-    {
       "nombre": "Capcom Arcade 2nd Stadium: Display Frames Set 1",
       "precioBaseUSD": 0.74,
       "precioFinalMXN": 15.1,
@@ -7575,6 +7527,12 @@
     },
     {
       "nombre": "Dodge These Balls",
+      "precioBaseUSD": 0.39,
+      "precioFinalMXN": 7.96,
+      "precioFormateado": "$7.96"
+    },
+    {
+      "nombre": "Tung Tung Tung Sahur Runner",
       "precioBaseUSD": 0.39,
       "precioFinalMXN": 7.96,
       "precioFormateado": "$7.96"
