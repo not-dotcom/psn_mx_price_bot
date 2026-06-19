@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T04:35:33.961Z",
+  "lastUpdated": "2026-06-19T07:54:56.889Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -2145,6 +2145,12 @@
     },
     {
       "nombre": "Crown Wars: The Black Prince",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 203.86,
+      "precioFormateado": "$203.86"
+    },
+    {
+      "nombre": "Cup Heroes: Champion's Starter Pack",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 203.86,
       "precioFormateado": "$203.86"
@@ -4713,12 +4719,6 @@
     },
     {
       "nombre": "Easter Double Game Bundle",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 81.42,
-      "precioFormateado": "$81.42"
-    },
-    {
-      "nombre": "Endzone - A World Apart - Distant Places",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.42,
       "precioFormateado": "$81.42"
