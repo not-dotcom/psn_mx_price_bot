@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T21:28:26.843Z",
+  "lastUpdated": "2026-06-20T00:44:56.385Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -1880,12 +1880,6 @@
       "precioFormateado": "$243.90"
     },
     {
-      "nombre": "Need for Speed™ Unbound Palace Edition",
-      "precioBaseUSD": 11.99,
-      "precioFinalMXN": 243.9,
-      "precioFormateado": "$243.90"
-    },
-    {
       "nombre": "RACCOON CITY EDITION",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 243.9,
@@ -2810,12 +2804,6 @@
       "precioFormateado": "$167.62"
     },
     {
-      "nombre": "Endzone - A World Apart",
-      "precioBaseUSD": 8.24,
-      "precioFinalMXN": 167.62,
-      "precioFormateado": "$167.62"
-    },
-    {
       "nombre": "1000 zen de Neverwinter",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 162.53,
@@ -3146,6 +3134,12 @@
       "precioFormateado": "$152.36"
     },
     {
+      "nombre": "Endzone - A World Apart",
+      "precioBaseUSD": 7.49,
+      "precioFinalMXN": 152.36,
+      "precioFormateado": "$152.36"
+    },
+    {
       "nombre": "Far Cry® Primal",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 152.36,
@@ -3159,6 +3153,12 @@
     },
     {
       "nombre": "Need for Speed™ Edición Deluxe",
+      "precioBaseUSD": 7.49,
+      "precioFinalMXN": 152.36,
+      "precioFormateado": "$152.36"
+    },
+    {
+      "nombre": "Paquete Yarny de Unravel",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 152.36,
       "precioFormateado": "$152.36"
