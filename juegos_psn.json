@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T00:44:56.385Z",
+  "lastUpdated": "2026-06-20T04:32:34.877Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -513,6 +513,12 @@
     },
     {
       "nombre": "Código Violeta",
+      "precioBaseUSD": 29.99,
+      "precioFinalMXN": 610.06,
+      "precioFormateado": "$610.06"
+    },
+    {
+      "nombre": "Cup Heroes: Diamond Hoard Bundle",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 610.06,
       "precioFormateado": "$610.06"
@@ -1880,6 +1886,12 @@
       "precioFormateado": "$243.90"
     },
     {
+      "nombre": "Need for Speed™ Unbound Palace Edition",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 243.9,
+      "precioFormateado": "$243.90"
+    },
+    {
       "nombre": "RACCOON CITY EDITION",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 243.9,
@@ -3129,12 +3141,6 @@
     },
     {
       "nombre": "El mundo según la chica",
-      "precioBaseUSD": 7.49,
-      "precioFinalMXN": 152.36,
-      "precioFormateado": "$152.36"
-    },
-    {
-      "nombre": "Endzone - A World Apart",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 152.36,
       "precioFormateado": "$152.36"
@@ -4875,6 +4881,12 @@
     },
     {
       "nombre": "Gargoyles Remastered",
+      "precioBaseUSD": 3.74,
+      "precioFinalMXN": 76.08,
+      "precioFormateado": "$76.08"
+    },
+    {
+      "nombre": "LEGO STAR WARS II:  La Trilogía Original",
       "precioBaseUSD": 3.74,
       "precioFinalMXN": 76.08,
       "precioFormateado": "$76.08"
