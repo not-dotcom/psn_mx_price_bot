@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T00:49:15.146Z",
+  "lastUpdated": "2026-06-21T04:35:30.994Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -2385,6 +2385,12 @@
     },
     {
       "nombre": "Riders Republic™ PS4 & PS5",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 203.22,
+      "precioFormateado": "$203.22"
+    },
+    {
+      "nombre": "Space Engineers PS4 & PS5",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 203.22,
       "precioFormateado": "$203.22"
