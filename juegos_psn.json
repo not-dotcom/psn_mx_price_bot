@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T00:48:53.225Z",
+  "lastUpdated": "2026-06-22T04:36:22.673Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -428,6 +428,12 @@
       "precioFormateado": "$650.75"
     },
     {
+      "nombre": "ICARUS: Console Edition",
+      "precioBaseUSD": 31.99,
+      "precioFinalMXN": 650.75,
+      "precioFormateado": "$650.75"
+    },
+    {
       "nombre": "REANIMAL",
       "precioBaseUSD": 31.99,
       "precioFinalMXN": 650.75,
@@ -543,12 +549,6 @@
     },
     {
       "nombre": "Drums Rock - Ultimate Music Edition",
-      "precioBaseUSD": 29.99,
-      "precioFinalMXN": 610.06,
-      "precioFormateado": "$610.06"
-    },
-    {
-      "nombre": "End of Abyss",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 610.06,
       "precioFormateado": "$610.06"
@@ -2294,12 +2294,6 @@
       "precioFormateado": "$203.22"
     },
     {
-      "nombre": "ENDER LILIES: Quietus of the Knights",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 203.22,
-      "precioFormateado": "$203.22"
-    },
-    {
       "nombre": "God of War III Remastered",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 203.22,
@@ -2463,12 +2457,6 @@
     },
     {
       "nombre": "Deus Ex: The Conspiracy PS4 & PS5",
-      "precioBaseUSD": 9.89,
-      "precioFinalMXN": 201.18,
-      "precioFormateado": "$201.18"
-    },
-    {
-      "nombre": "Endling - Extinction is Forever",
       "precioBaseUSD": 9.89,
       "precioFinalMXN": 201.18,
       "precioFormateado": "$201.18"
@@ -3722,12 +3710,6 @@
       "precioFormateado": "$121.85"
     },
     {
-      "nombre": "Endless Deaths",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 121.85,
-      "precioFormateado": "$121.85"
-    },
-    {
       "nombre": "Far Cry® 4",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 121.85,
@@ -3747,6 +3729,12 @@
     },
     {
       "nombre": "LEGO® DC Super-Villains",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 121.85,
+      "precioFormateado": "$121.85"
+    },
+    {
+      "nombre": "Lote del capítulo Alien de Dead by Daylight",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 121.85,
       "precioFormateado": "$121.85"
@@ -3789,6 +3777,12 @@
     },
     {
       "nombre": "Plants vs. Zombies™ Garden Warfare",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 121.85,
+      "precioFormateado": "$121.85"
+    },
+    {
+      "nombre": "South Park™: La Vara de la Verdad™",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 121.85,
       "precioFormateado": "$121.85"
@@ -5703,6 +5697,12 @@
     },
     {
       "nombre": "JoJo's Bizarre Adventure: All-Star Battle R - Risotto Nero DLC",
+      "precioBaseUSD": 2.49,
+      "precioFinalMXN": 50.65,
+      "precioFormateado": "$50.65"
+    },
+    {
+      "nombre": "STAR WARS Rebel Assault II - The Hidden Empire",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 50.65,
       "precioFormateado": "$50.65"
