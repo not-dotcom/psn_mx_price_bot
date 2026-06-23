@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T00:44:37.864Z",
+  "lastUpdated": "2026-06-23T04:27:45.763Z",
   "juegos": [
     {
       "nombre": "Edición Monday Night War de WWE 2K26",
@@ -1509,6 +1509,12 @@
     },
     {
       "nombre": "Eiyuden Chronicle: Hundred Heroes - Pase de temporada",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 304.84,
+      "precioFormateado": "$304.84"
+    },
+    {
+      "nombre": "Evil West",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 304.84,
       "precioFormateado": "$304.84"
@@ -4334,12 +4340,6 @@
       "precioFormateado": "$92.33"
     },
     {
-      "nombre": "Enchantment 2 Sun’s Tear Collector's Edition",
-      "precioBaseUSD": 4.54,
-      "precioFinalMXN": 92.33,
-      "precioFormateado": "$92.33"
-    },
-    {
       "nombre": "20XX",
       "precioBaseUSD": 4.49,
       "precioFinalMXN": 91.31,
@@ -4833,6 +4833,12 @@
     },
     {
       "nombre": "Cozy Jigsaw Puzzles",
+      "precioBaseUSD": 3.74,
+      "precioFinalMXN": 76.06,
+      "precioFormateado": "$76.06"
+    },
+    {
+      "nombre": "Dakar 18",
       "precioBaseUSD": 3.74,
       "precioFinalMXN": 76.06,
       "precioFormateado": "$76.06"
@@ -5378,7 +5384,7 @@
       "precioFormateado": "$60.80"
     },
     {
-      "nombre": "Encodya",
+      "nombre": "Indiana Jones and the Staff of Kings",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 60.8,
       "precioFormateado": "$60.80"
