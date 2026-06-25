@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T04:28:44.045Z",
+  "lastUpdated": "2026-06-25T07:15:06.888Z",
   "juegos": [
     {
       "nombre": "Microsoft Flight Simulator 2024 - Premium Deluxe Edition",
@@ -1413,12 +1413,6 @@
     },
     {
       "nombre": "Battlefield™ 2042 Elite Edition para PS4 y PS5",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 413.21,
-      "precioFormateado": "$413.21"
-    },
-    {
-      "nombre": "Beastro",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 413.21,
       "precioFormateado": "$413.21"
@@ -8211,6 +8205,12 @@
     },
     {
       "nombre": "Expansión 1 de Back 4 Blood: Túneles del terror",
+      "precioBaseUSD": 1.49,
+      "precioFinalMXN": 30.8,
+      "precioFormateado": "$30.80"
+    },
+    {
+      "nombre": "Joe Dever's Lone Wolf Console Edition",
       "precioBaseUSD": 1.49,
       "precioFinalMXN": 30.8,
       "precioFormateado": "$30.80"
