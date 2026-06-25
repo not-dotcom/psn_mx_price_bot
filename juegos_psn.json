@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T21:37:09.955Z",
+  "lastUpdated": "2026-06-25T00:44:54.511Z",
   "juegos": [
     {
       "nombre": "Microsoft Flight Simulator 2024 - Premium Deluxe Edition",
@@ -6458,12 +6458,6 @@
       "precioFormateado": "$82.48"
     },
     {
-      "nombre": "Leisure Suit Larry - Wet Dreams Don't Dry",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 82.48,
-      "precioFormateado": "$82.48"
-    },
-    {
       "nombre": "Medieval Dynasty - Echoes of Nature",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 82.48,
@@ -8193,6 +8187,12 @@
     },
     {
       "nombre": "Captain Tsubasa: Rise of New Champions - Carlos Bara Mission",
+      "precioBaseUSD": 1.49,
+      "precioFinalMXN": 30.8,
+      "precioFormateado": "$30.80"
+    },
+    {
+      "nombre": "Clunky Hero",
       "precioBaseUSD": 1.49,
       "precioFinalMXN": 30.8,
       "precioFormateado": "$30.80"
