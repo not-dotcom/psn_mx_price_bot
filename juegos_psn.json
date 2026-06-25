@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T00:44:54.511Z",
+  "lastUpdated": "2026-06-25T04:28:44.045Z",
   "juegos": [
     {
       "nombre": "Microsoft Flight Simulator 2024 - Premium Deluxe Edition",
@@ -3596,12 +3596,6 @@
       "precioFormateado": "$206.50"
     },
     {
-      "nombre": "Soccer Kid Collection (QUByte Classics)",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 206.5,
-      "precioFormateado": "$206.50"
-    },
-    {
       "nombre": "Space Engineers PS4 & PS5",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 206.5,
@@ -4011,6 +4005,12 @@
     },
     {
       "nombre": "Nickelodeon Kart Racers 3: Slime Speedway Turbo Edition",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 185.83,
+      "precioFormateado": "$185.83"
+    },
+    {
+      "nombre": "Overpass 2",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 185.83,
       "precioFormateado": "$185.83"
@@ -4689,12 +4689,6 @@
     },
     {
       "nombre": "Steelrising - Bastille Edition",
-      "precioBaseUSD": 7.49,
-      "precioFinalMXN": 154.82,
-      "precioFormateado": "$154.82"
-    },
-    {
-      "nombre": "Steelrising - Cagliostro's Secrets",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 154.82,
       "precioFormateado": "$154.82"
@@ -7532,6 +7526,12 @@
       "precioFormateado": "$51.47"
     },
     {
+      "nombre": "Entropy Survivors",
+      "precioBaseUSD": 2.49,
+      "precioFinalMXN": 51.47,
+      "precioFormateado": "$51.47"
+    },
+    {
       "nombre": "FAR: Lone Sails",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 51.47,
@@ -7575,12 +7575,6 @@
     },
     {
       "nombre": "Ride 2",
-      "precioBaseUSD": 2.49,
-      "precioFinalMXN": 51.47,
-      "precioFormateado": "$51.47"
-    },
-    {
-      "nombre": "STAR WARS Rebel Assault II - The Hidden Empire",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 51.47,
       "precioFormateado": "$51.47"
@@ -8204,6 +8198,18 @@
       "precioFormateado": "$30.80"
     },
     {
+      "nombre": "Cursed New Year",
+      "precioBaseUSD": 1.49,
+      "precioFinalMXN": 30.8,
+      "precioFormateado": "$30.80"
+    },
+    {
+      "nombre": "DEATHRUN TV",
+      "precioBaseUSD": 1.49,
+      "precioFinalMXN": 30.8,
+      "precioFormateado": "$30.80"
+    },
+    {
       "nombre": "Expansión 1 de Back 4 Blood: Túneles del terror",
       "precioBaseUSD": 1.49,
       "precioFinalMXN": 30.8,
@@ -8390,6 +8396,12 @@
       "precioFormateado": "$16.33"
     },
     {
+      "nombre": "Iron Snout",
+      "precioBaseUSD": 0.49,
+      "precioFinalMXN": 10.13,
+      "precioFormateado": "$10.13"
+    },
+    {
       "nombre": "Bombardiro Crocodilo Simulator",
       "precioBaseUSD": 0.39,
       "precioFinalMXN": 8.06,
@@ -8397,18 +8409,6 @@
     },
     {
       "nombre": "Br Br Patapim",
-      "precioBaseUSD": 0.39,
-      "precioFinalMXN": 8.06,
-      "precioFormateado": "$8.06"
-    },
-    {
-      "nombre": "Cappuccino Assassino Shooter",
-      "precioBaseUSD": 0.39,
-      "precioFinalMXN": 8.06,
-      "precioFormateado": "$8.06"
-    },
-    {
-      "nombre": "Chimpanzini Bananini",
       "precioBaseUSD": 0.39,
       "precioFinalMXN": 8.06,
       "precioFormateado": "$8.06"
