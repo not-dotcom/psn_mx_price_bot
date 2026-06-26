@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T21:36:05.393Z",
+  "lastUpdated": "2026-06-26T00:46:16.518Z",
   "juegos": [
     {
       "nombre": "Microsoft Flight Simulator 2024 - Premium Deluxe Edition",
@@ -99,12 +99,6 @@
     },
     {
       "nombre": "Borderlands 4 Edición Deluxe",
-      "precioBaseUSD": 59.99,
-      "precioFinalMXN": 1241.38,
-      "precioFormateado": "$1,241.38"
-    },
-    {
-      "nombre": "EVERSPACE™ 2 - Galactic Edition",
       "precioBaseUSD": 59.99,
       "precioFinalMXN": 1241.38,
       "precioFormateado": "$1,241.38"
@@ -944,12 +938,6 @@
       "precioFormateado": "$558.51"
     },
     {
-      "nombre": "Two Point Museum: Edición Explorador",
-      "precioBaseUSD": 26.79,
-      "precioFinalMXN": 554.37,
-      "precioFormateado": "$554.37"
-    },
-    {
       "nombre": "Lote Crash Bandicoot™: N. Sane Trilogy + CTR Nitro-Fueled",
       "precioBaseUSD": 26.24,
       "precioFinalMXN": 542.99,
@@ -1299,12 +1287,6 @@
     },
     {
       "nombre": "Jurassic World Evolution 2",
-      "precioBaseUSD": 20.99,
-      "precioFinalMXN": 434.35,
-      "precioFormateado": "$434.35"
-    },
-    {
-      "nombre": "KAMITSUBAKI CITY REGENERATE",
       "precioBaseUSD": 20.99,
       "precioFinalMXN": 434.35,
       "precioFormateado": "$434.35"
@@ -2618,12 +2600,6 @@
       "precioFormateado": "$279.15"
     },
     {
-      "nombre": "Garden Life - Garden Party Edition",
-      "precioBaseUSD": 13.49,
-      "precioFinalMXN": 279.15,
-      "precioFormateado": "$279.15"
-    },
-    {
       "nombre": "LET IT DIE: INFERNO - Edición Deluxe",
       "precioBaseUSD": 13.49,
       "precioFinalMXN": 279.15,
@@ -2949,12 +2925,6 @@
     },
     {
       "nombre": "Test Drive Unlimited Solar Crown",
-      "precioBaseUSD": 11.99,
-      "precioFinalMXN": 248.11,
-      "precioFormateado": "$248.11"
-    },
-    {
-      "nombre": "The Expanse: A Telltale Series - Deluxe Edition",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 248.11,
       "precioFormateado": "$248.11"
@@ -4292,12 +4262,6 @@
       "precioFormateado": "$165.34"
     },
     {
-      "nombre": "Ghostbusters: Spirits Unleashed Ecto Edition",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 165.34,
-      "precioFormateado": "$165.34"
-    },
-    {
       "nombre": "Hunting Simulator 2",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 165.34,
@@ -4976,12 +4940,6 @@
       "precioFormateado": "$129.13"
     },
     {
-      "nombre": "Blind Fate: Edo no Yami",
-      "precioBaseUSD": 6.24,
-      "precioFinalMXN": 129.13,
-      "precioFormateado": "$129.13"
-    },
-    {
       "nombre": "Goat Simulator: The GOATY",
       "precioBaseUSD": 6.24,
       "precioFinalMXN": 129.13,
@@ -5013,12 +4971,6 @@
     },
     {
       "nombre": "Among Ashes",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 123.95,
-      "precioFormateado": "$123.95"
-    },
-    {
-      "nombre": "Animal Doctor",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 123.95,
       "precioFormateado": "$123.95"
@@ -5073,12 +5025,6 @@
     },
     {
       "nombre": "DEMON GAZE EXTRA",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 123.95,
-      "precioFormateado": "$123.95"
-    },
-    {
-      "nombre": "DESOLATIUM",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 123.95,
       "precioFormateado": "$123.95"
@@ -5378,6 +5324,12 @@
       "precioFormateado": "$123.95"
     },
     {
+      "nombre": "Trine 4: The Nightmare Prince",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 123.95,
+      "precioFormateado": "$123.95"
+    },
+    {
       "nombre": "Trine Trilogy",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 123.95,
@@ -5412,12 +5364,6 @@
       "precioBaseUSD": 5.84,
       "precioFinalMXN": 120.85,
       "precioFormateado": "$120.85"
-    },
-    {
-      "nombre": "Army of Ruin",
-      "precioBaseUSD": 5.59,
-      "precioFinalMXN": 115.67,
-      "precioFormateado": "$115.67"
     },
     {
       "nombre": "Crimsonland",
@@ -6968,12 +6914,6 @@
       "precioFormateado": "$72.22"
     },
     {
-      "nombre": "Sushi Attack",
-      "precioBaseUSD": 3.49,
-      "precioFinalMXN": 72.22,
-      "precioFormateado": "$72.22"
-    },
-    {
       "nombre": "True Fear: Forsaken Souls - Part 1",
       "precioBaseUSD": 3.49,
       "precioFinalMXN": 72.22,
@@ -6990,12 +6930,6 @@
       "precioBaseUSD": 3.39,
       "precioFinalMXN": 70.15,
       "precioFormateado": "$70.15"
-    },
-    {
-      "nombre": "Cat Quest",
-      "precioBaseUSD": 3.24,
-      "precioFinalMXN": 67.05,
-      "precioFormateado": "$67.05"
     },
     {
       "nombre": "The Surge - The Good, the Bad and the Augmented Expansion",
@@ -7682,12 +7616,6 @@
       "precioFormateado": "$49.46"
     },
     {
-      "nombre": "Metropolis: Lux Obscura",
-      "precioBaseUSD": 2.39,
-      "precioFinalMXN": 49.46,
-      "precioFormateado": "$49.46"
-    },
-    {
       "nombre": "Orion Haste PS4™ & PS5®",
       "precioBaseUSD": 2.39,
       "precioFinalMXN": 49.46,
@@ -8222,6 +8150,12 @@
       "precioFormateado": "$30.83"
     },
     {
+      "nombre": "LEGO® Star Wars™: La Saga De Skywalker (Paquete de personajes de Vacaciones de verano)",
+      "precioBaseUSD": 1.49,
+      "precioFinalMXN": 30.83,
+      "precioFormateado": "$30.83"
+    },
+    {
       "nombre": "LEGO® Star Wars™: La Saga De Skywalker (Paquete La Guerra de los Clones)",
       "precioBaseUSD": 1.49,
       "precioFinalMXN": 30.83,
@@ -8234,7 +8168,25 @@
       "precioFormateado": "$30.83"
     },
     {
+      "nombre": "Paq. pers. LEGO® Star Wars™: El Mandaloriano - Temp. 1",
+      "precioBaseUSD": 1.49,
+      "precioFinalMXN": 30.83,
+      "precioFormateado": "$30.83"
+    },
+    {
       "nombre": "Paquete de personajes Amigos guerreros de Guacamelee! STCE",
+      "precioBaseUSD": 1.49,
+      "precioFinalMXN": 30.83,
+      "precioFormateado": "$30.83"
+    },
+    {
+      "nombre": "Riddled Corpses EX PS4 & PS5",
+      "precioBaseUSD": 1.49,
+      "precioFinalMXN": 30.83,
+      "precioFormateado": "$30.83"
+    },
+    {
+      "nombre": "Roar of Revenge",
       "precioBaseUSD": 1.49,
       "precioFinalMXN": 30.83,
       "precioFormateado": "$30.83"
@@ -8246,6 +8198,30 @@
       "precioFormateado": "$30.83"
     },
     {
+      "nombre": "Steel Rats™ Deluxe Edition",
+      "precioBaseUSD": 1.49,
+      "precioFinalMXN": 30.83,
+      "precioFormateado": "$30.83"
+    },
+    {
+      "nombre": "Tom Clancy's The Division™ Hasta el fin",
+      "precioBaseUSD": 1.49,
+      "precioFinalMXN": 30.83,
+      "precioFormateado": "$30.83"
+    },
+    {
+      "nombre": "VR Ping Pong",
+      "precioBaseUSD": 1.49,
+      "precioFinalMXN": 30.83,
+      "precioFormateado": "$30.83"
+    },
+    {
+      "nombre": "The Long Reach",
+      "precioBaseUSD": 1.44,
+      "precioFinalMXN": 29.8,
+      "precioFormateado": "$29.80"
+    },
+    {
       "nombre": "The Lost Morsel",
       "precioBaseUSD": 1.24,
       "precioFinalMXN": 25.66,
@@ -8253,6 +8229,12 @@
     },
     {
       "nombre": "DAVE THE DIVER - Ichiban's Holiday Content Pack",
+      "precioBaseUSD": 1.19,
+      "precioFinalMXN": 24.62,
+      "precioFormateado": "$24.62"
+    },
+    {
+      "nombre": "Dying Light – Lote de armadura de combate Volkan",
       "precioBaseUSD": 1.19,
       "precioFinalMXN": 24.62,
       "precioFormateado": "$24.62"
@@ -8300,6 +8282,12 @@
       "precioFormateado": "$20.49"
     },
     {
+      "nombre": "Capcom Arcade 2nd Stadium: Street Fighter",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.49,
+      "precioFormateado": "$20.49"
+    },
+    {
       "nombre": "Capcom Arcade 2nd Stadium: Street Fighter Alpha 3",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.49,
@@ -8337,6 +8325,12 @@
     },
     {
       "nombre": "Capcom Arcade Stadium：STREET FIGHTER II - The World Warrior -",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.49,
+      "precioFormateado": "$20.49"
+    },
+    {
+      "nombre": "Capcom Arcade Stadium：STREET FIGHTER II' - Hyper Fighting -",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.49,
       "precioFormateado": "$20.49"
@@ -8394,6 +8388,12 @@
       "precioBaseUSD": 0.79,
       "precioFinalMXN": 16.35,
       "precioFormateado": "$16.35"
+    },
+    {
+      "nombre": "Capcom Arcade 2nd Stadium: Special Display Frames Set",
+      "precioBaseUSD": 0.74,
+      "precioFinalMXN": 15.31,
+      "precioFormateado": "$15.31"
     },
     {
       "nombre": "Iron Snout",
