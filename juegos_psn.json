@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T04:25:32.946Z",
+  "lastUpdated": "2026-06-27T07:08:02.653Z",
   "juegos": [
     {
       "nombre": "Microsoft Flight Simulator 2024 - Premium Deluxe Edition",
@@ -206,12 +206,6 @@
       "precioFormateado": "$949.21"
     },
     {
-      "nombre": "Age of Empires IV: Anniversary Premium Edition",
-      "precioBaseUSD": 45.49,
-      "precioFinalMXN": 934.82,
-      "precioFormateado": "$934.82"
-    },
-    {
       "nombre": "ARC Raiders - Deluxe Edition",
       "precioBaseUSD": 44.99,
       "precioFinalMXN": 924.55,
@@ -387,6 +381,12 @@
     },
     {
       "nombre": "SILENT HILL 2 Deluxe Edition",
+      "precioBaseUSD": 39.99,
+      "precioFinalMXN": 821.8,
+      "precioFormateado": "$821.80"
+    },
+    {
+      "nombre": "SILENT HILL f - Deluxe Edition",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 821.8,
       "precioFormateado": "$821.80"
@@ -6248,6 +6248,12 @@
       "precioFormateado": "$76.86"
     },
     {
+      "nombre": "4 Game Attack Bundle",
+      "precioBaseUSD": 3.59,
+      "precioFinalMXN": 73.77,
+      "precioFormateado": "$73.77"
+    },
+    {
       "nombre": "Milo's Dream",
       "precioBaseUSD": 3.59,
       "precioFinalMXN": 73.77,
@@ -7017,12 +7023,6 @@
     },
     {
       "nombre": "8-Bit Armies",
-      "precioBaseUSD": 2.09,
-      "precioFinalMXN": 42.95,
-      "precioFormateado": "$42.95"
-    },
-    {
-      "nombre": "Adventures of Chris",
       "precioBaseUSD": 2.09,
       "precioFinalMXN": 42.95,
       "precioFormateado": "$42.95"
