@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T21:32:56.014Z",
+  "lastUpdated": "2026-06-27T00:43:30.974Z",
   "juegos": [
     {
       "nombre": "Microsoft Flight Simulator 2024 - Premium Deluxe Edition",
@@ -12,12 +12,6 @@
       "precioBaseUSD": 98.99,
       "precioFinalMXN": 2034.25,
       "precioFormateado": "$2,034.25"
-    },
-    {
-      "nombre": "Monster Hunter Stories 3: Twisted Reflection Premium Deluxe Edition",
-      "precioBaseUSD": 85.99,
-      "precioFinalMXN": 1767.1,
-      "precioFormateado": "$1,767.10"
     },
     {
       "nombre": "GTA Online: tarjeta Tiburón megalodonte (PS4™)",
@@ -36,12 +30,6 @@
       "precioBaseUSD": 79.99,
       "precioFinalMXN": 1643.8,
       "precioFormateado": "$1,643.80"
-    },
-    {
-      "nombre": "Monster Hunter Stories 3: Twisted Reflection Deluxe Edition",
-      "precioBaseUSD": 75.59,
-      "precioFinalMXN": 1553.38,
-      "precioFormateado": "$1,553.38"
     },
     {
       "nombre": "DRAGON QUEST - HD-2D Erdrick Trilogy Collection",
@@ -1154,12 +1142,6 @@
       "precioFormateado": "$493.00"
     },
     {
-      "nombre": "NieR Replicant ver.1.22474487139...",
-      "precioBaseUSD": 23.99,
-      "precioFinalMXN": 493,
-      "precioFormateado": "$493.00"
-    },
-    {
       "nombre": "OCTOPATH TRAVELER II PS4＆PS5",
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 493,
@@ -1586,12 +1568,6 @@
       "precioFormateado": "$410.80"
     },
     {
-      "nombre": "Pack Busca y destruye - Battlefield™ 6 y REDSEC",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 410.8,
-      "precioFormateado": "$410.80"
-    },
-    {
       "nombre": "Paquete de Juegos de Mesa Familiar - Aventureros al Tren®, Atrapa Ratones, The Game of Life 2",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
@@ -1629,12 +1605,6 @@
     },
     {
       "nombre": "Space Adventure Cobra - The Awakening",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 410.8,
-      "precioFormateado": "$410.80"
-    },
-    {
-      "nombre": "Street Fighter™ V – Capcom Pro Tour Premier Pass Complete Bundle",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
@@ -1982,12 +1952,6 @@
       "precioFormateado": "$354.28"
     },
     {
-      "nombre": "Cash Cleaner Simulator",
-      "precioBaseUSD": 16.99,
-      "precioFinalMXN": 349.15,
-      "precioFormateado": "$349.15"
-    },
-    {
       "nombre": "Street Fighter™ V: Champion Edition Upgrade Kit + Season 5 Premium Pass Bundle",
       "precioBaseUSD": 16.79,
       "precioFinalMXN": 345.04,
@@ -2198,12 +2162,6 @@
       "precioFormateado": "$308.05"
     },
     {
-      "nombre": "Far Cry® 6 Game of the Year Upgrade Pass",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 308.05,
-      "precioFormateado": "$308.05"
-    },
-    {
       "nombre": "FATAL FURY: City of the Wolves",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 308.05,
@@ -2271,12 +2229,6 @@
     },
     {
       "nombre": "MXGP 24: The Official Game",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 308.05,
-      "precioFormateado": "$308.05"
-    },
-    {
-      "nombre": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 308.05,
       "precioFormateado": "$308.05"
@@ -2367,12 +2319,6 @@
     },
     {
       "nombre": "They Are Billions",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 308.05,
-      "precioFormateado": "$308.05"
-    },
-    {
-      "nombre": "TopSpin 2K25 Edición Digital Cross-Gen",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 308.05,
       "precioFormateado": "$308.05"
@@ -5942,12 +5888,6 @@
       "precioFormateado": "$100.49"
     },
     {
-      "nombre": "Children of Morta: Complete Edition",
-      "precioBaseUSD": 4.85,
-      "precioFinalMXN": 99.67,
-      "precioFormateado": "$99.67"
-    },
-    {
       "nombre": "Cats Clean Ocean",
       "precioBaseUSD": 4.79,
       "precioFinalMXN": 98.43,
@@ -7448,12 +7388,6 @@
       "precioFormateado": "$46.03"
     },
     {
-      "nombre": "One Finger Death Punch 2",
-      "precioBaseUSD": 2.24,
-      "precioFinalMXN": 46.03,
-      "precioFormateado": "$46.03"
-    },
-    {
       "nombre": "1-2-Exquisite Word Search!",
       "precioBaseUSD": 2.09,
       "precioFinalMXN": 42.95,
@@ -8294,7 +8228,19 @@
       "precioFormateado": "$20.34"
     },
     {
+      "nombre": "Capcom Arcade Stadium：BIONIC COMMANDO",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.34,
+      "precioFormateado": "$20.34"
+    },
+    {
       "nombre": "Capcom Arcade Stadium：CAPTAIN COMMANDO",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.34,
+      "precioFormateado": "$20.34"
+    },
+    {
+      "nombre": "Capcom Arcade Stadium：CARRIER AIR WING",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.34,
       "precioFormateado": "$20.34"
@@ -8306,7 +8252,19 @@
       "precioFormateado": "$20.34"
     },
     {
+      "nombre": "Capcom Arcade Stadium：Ghosts 'n Goblins",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.34,
+      "precioFormateado": "$20.34"
+    },
+    {
       "nombre": "Capcom Arcade Stadium：Ghouls 'n Ghosts",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.34,
+      "precioFormateado": "$20.34"
+    },
+    {
+      "nombre": "Capcom Arcade Stadium：Senjo no OkamiⅡ",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.34,
       "precioFormateado": "$20.34"
@@ -8330,7 +8288,31 @@
       "precioFormateado": "$20.34"
     },
     {
+      "nombre": "Capcom Arcade Stadium：WARRIORS OF FATE",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.34,
+      "precioFormateado": "$20.34"
+    },
+    {
+      "nombre": "Criminal Expert",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.34,
+      "precioFormateado": "$20.34"
+    },
+    {
       "nombre": "Danger Scavenger",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.34,
+      "precioFormateado": "$20.34"
+    },
+    {
+      "nombre": "Escape the Glitch",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.34,
+      "precioFormateado": "$20.34"
+    },
+    {
+      "nombre": "Goetia",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.34,
       "precioFormateado": "$20.34"
