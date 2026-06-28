@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T21:26:50.135Z",
+  "lastUpdated": "2026-06-28T00:44:13.693Z",
   "juegos": [
     {
       "nombre": "Microsoft Flight Simulator 2024 - Premium Deluxe Edition",
@@ -42,12 +42,6 @@
       "precioBaseUSD": 79.99,
       "precioFinalMXN": 1643.8,
       "precioFormateado": "$1,643.80"
-    },
-    {
-      "nombre": "Monster Hunter Stories 3: Twisted Reflection Deluxe Edition",
-      "precioBaseUSD": 75.59,
-      "precioFinalMXN": 1553.38,
-      "precioFormateado": "$1,553.38"
     },
     {
       "nombre": "DRAGON QUEST - HD-2D Erdrick Trilogy Collection",
@@ -1274,12 +1268,6 @@
       "precioFormateado": "$410.80"
     },
     {
-      "nombre": "Architect Life: A House Design Simulator",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 410.8,
-      "precioFormateado": "$410.80"
-    },
-    {
       "nombre": "Assassin's Creed Valhalla: Deluxe Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
@@ -1323,12 +1311,6 @@
     },
     {
       "nombre": "DEATH STRANDING DIRECTOR’S CUT",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 410.8,
-      "precioFormateado": "$410.80"
-    },
-    {
-      "nombre": "Demeo",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 410.8,
       "precioFormateado": "$410.80"
@@ -2132,12 +2114,6 @@
       "precioFormateado": "$308.05"
     },
     {
-      "nombre": "MXGP 24: The Official Game",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 308.05,
-      "precioFormateado": "$308.05"
-    },
-    {
       "nombre": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 308.05,
@@ -2426,12 +2402,6 @@
       "precioFormateado": "$277.22"
     },
     {
-      "nombre": "LET IT DIE: INFERNO - Edición Deluxe",
-      "precioBaseUSD": 13.49,
-      "precioFinalMXN": 277.22,
-      "precioFormateado": "$277.22"
-    },
-    {
       "nombre": "Watch Dogs 1 + Watch Dogs 2 Gold Editions Bundle",
       "precioBaseUSD": 13.49,
       "precioFinalMXN": 277.22,
@@ -2478,6 +2448,12 @@
       "precioBaseUSD": 12.99,
       "precioFinalMXN": 266.95,
       "precioFormateado": "$266.95"
+    },
+    {
+      "nombre": "9th Dawn Remake",
+      "precioBaseUSD": 12.79,
+      "precioFinalMXN": 262.84,
+      "precioFormateado": "$262.84"
     },
     {
       "nombre": "Stellaris: Console Edition PS5 - Galactic Paragons",
@@ -2946,6 +2922,12 @@
       "precioBaseUSD": 10.04,
       "precioFinalMXN": 206.32,
       "precioFormateado": "$206.32"
+    },
+    {
+      "nombre": "7th Sector Collector's Edition",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 205.3,
+      "precioFormateado": "$205.30"
     },
     {
       "nombre": "Angry Birds VR: Isle of Pigs",
@@ -3428,12 +3410,6 @@
       "precioFormateado": "$203.24"
     },
     {
-      "nombre": "Endling - Extinction is Forever",
-      "precioBaseUSD": 9.89,
-      "precioFinalMXN": 203.24,
-      "precioFormateado": "$203.24"
-    },
-    {
       "nombre": "Ghostbusters: The Video Game Remastered",
       "precioBaseUSD": 9.89,
       "precioFinalMXN": 203.24,
@@ -3522,6 +3498,12 @@
       "precioBaseUSD": 9.74,
       "precioFinalMXN": 200.16,
       "precioFormateado": "$200.16"
+    },
+    {
+      "nombre": "9th Dawn III",
+      "precioBaseUSD": 9.59,
+      "precioFinalMXN": 197.08,
+      "precioFormateado": "$197.08"
     },
     {
       "nombre": "ACE COMBAT™7: SKIES UNKNOWN",
@@ -3867,6 +3849,12 @@
     },
     {
       "nombre": "4 en raya",
+      "precioBaseUSD": 7.99,
+      "precioFinalMXN": 164.2,
+      "precioFormateado": "$164.20"
+    },
+    {
+      "nombre": "7th Sector",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 164.2,
       "precioFormateado": "$164.20"
@@ -5006,6 +4994,18 @@
       "precioFormateado": "$123.10"
     },
     {
+      "nombre": "7 Days To Die - Conjunto de Armadura de Bandera Negra",
+      "precioBaseUSD": 5.84,
+      "precioFinalMXN": 120.01,
+      "precioFormateado": "$120.01"
+    },
+    {
+      "nombre": "7 Days To Die - Conjunto de Armadura de Carnicero",
+      "precioBaseUSD": 5.84,
+      "precioFinalMXN": 120.01,
+      "precioFormateado": "$120.01"
+    },
+    {
       "nombre": "7 Days To Die - Conjunto de Armadura de Saqueador Infernal",
       "precioBaseUSD": 5.84,
       "precioFinalMXN": 120.01,
@@ -5624,6 +5624,12 @@
       "precioFormateado": "$100.49"
     },
     {
+      "nombre": "60 Minutes to Extinction: Escape Room",
+      "precioBaseUSD": 4.79,
+      "precioFinalMXN": 98.43,
+      "precioFormateado": "$98.43"
+    },
+    {
       "nombre": "Cats Clean Ocean",
       "precioBaseUSD": 4.79,
       "precioFinalMXN": 98.43,
@@ -5642,12 +5648,6 @@
       "precioFormateado": "$98.43"
     },
     {
-      "nombre": "Little Strays: Havana",
-      "precioBaseUSD": 4.79,
-      "precioFinalMXN": 98.43,
-      "precioFormateado": "$98.43"
-    },
-    {
       "nombre": "Trepang2 - Bladekisser DLC",
       "precioBaseUSD": 4.79,
       "precioFinalMXN": 98.43,
@@ -5658,6 +5658,12 @@
       "precioBaseUSD": 4.79,
       "precioFinalMXN": 98.43,
       "precioFormateado": "$98.43"
+    },
+    {
+      "nombre": "7 Days To Die - Pack de sombreros festivos",
+      "precioBaseUSD": 4.54,
+      "precioFinalMXN": 93.3,
+      "precioFormateado": "$93.30"
     },
     {
       "nombre": "Hunt: Showdown 1896 - The Prodigal Daughter",
@@ -5781,6 +5787,12 @@
     },
     {
       "nombre": "23.000 cristales esenciales",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 81.99,
+      "precioFormateado": "$81.99"
+    },
+    {
+      "nombre": "500 Neverwinter Zen",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.99,
       "precioFormateado": "$81.99"
@@ -6146,12 +6158,6 @@
       "precioFormateado": "$76.86"
     },
     {
-      "nombre": "DOOM VFR",
-      "precioBaseUSD": 3.74,
-      "precioFinalMXN": 76.86,
-      "precioFormateado": "$76.86"
-    },
-    {
       "nombre": "Door Kickers: Action Squad",
       "precioBaseUSD": 3.74,
       "precioFinalMXN": 76.86,
@@ -6279,6 +6285,12 @@
     },
     {
       "nombre": "4 Avatar Aeon Attack Bundle",
+      "precioBaseUSD": 3.49,
+      "precioFinalMXN": 71.72,
+      "precioFormateado": "$71.72"
+    },
+    {
+      "nombre": "5 Avatar Valentine Revolution Bundle",
       "precioBaseUSD": 3.49,
       "precioFinalMXN": 71.72,
       "precioFormateado": "$71.72"
@@ -6537,12 +6549,6 @@
     },
     {
       "nombre": "GUNBIRD",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 61.44,
-      "precioFormateado": "$61.44"
-    },
-    {
-      "nombre": "GUNBIRD 2",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 61.44,
       "precioFormateado": "$61.44"
@@ -6824,12 +6830,6 @@
       "precioFormateado": "$51.17"
     },
     {
-      "nombre": "Don't Starve: Reign of Giants Console Edition",
-      "precioBaseUSD": 2.49,
-      "precioFinalMXN": 51.17,
-      "precioFormateado": "$51.17"
-    },
-    {
       "nombre": "DRAGON BALL FighterZ - Broly (DBS)",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 51.17,
@@ -7023,6 +7023,18 @@
     },
     {
       "nombre": "8-Bit Armies",
+      "precioBaseUSD": 2.09,
+      "precioFinalMXN": 42.95,
+      "precioFormateado": "$42.95"
+    },
+    {
+      "nombre": "8-Bit Hordes",
+      "precioBaseUSD": 2.09,
+      "precioFinalMXN": 42.95,
+      "precioFormateado": "$42.95"
+    },
+    {
+      "nombre": "8-Bit Invaders!",
       "precioBaseUSD": 2.09,
       "precioFinalMXN": 42.95,
       "precioFormateado": "$42.95"
@@ -7346,6 +7358,12 @@
       "precioFormateado": "$36.78"
     },
     {
+      "nombre": "A Bibelot: Tiret sur Will",
+      "precioBaseUSD": 1.74,
+      "precioFinalMXN": 35.76,
+      "precioFormateado": "$35.76"
+    },
+    {
       "nombre": "Anime Uni 3D: Hot Vacay",
       "precioBaseUSD": 1.74,
       "precioFinalMXN": 35.76,
@@ -7562,12 +7580,6 @@
       "precioFormateado": "$30.62"
     },
     {
-      "nombre": "Rock of Ages 2: Classic Pack",
-      "precioBaseUSD": 1.49,
-      "precioFinalMXN": 30.62,
-      "precioFormateado": "$30.62"
-    },
-    {
       "nombre": "Silverwood Bay: An Eleanor Grey Mystery",
       "precioBaseUSD": 1.49,
       "precioFinalMXN": 30.62,
@@ -7592,12 +7604,6 @@
       "precioFormateado": "$30.62"
     },
     {
-      "nombre": "The Long Reach",
-      "precioBaseUSD": 1.44,
-      "precioFinalMXN": 29.59,
-      "precioFormateado": "$29.59"
-    },
-    {
       "nombre": "Evan's Remains",
       "precioBaseUSD": 1.39,
       "precioFinalMXN": 28.56,
@@ -7620,12 +7626,6 @@
       "precioBaseUSD": 1.39,
       "precioFinalMXN": 28.56,
       "precioFormateado": "$28.56"
-    },
-    {
-      "nombre": "Cannibal Cuisine",
-      "precioBaseUSD": 1.29,
-      "precioFinalMXN": 26.51,
-      "precioFormateado": "$26.51"
     },
     {
       "nombre": "Comic Store Arcade",
@@ -7722,6 +7722,12 @@
       "precioBaseUSD": 1.04,
       "precioFinalMXN": 21.37,
       "precioFormateado": "$21.37"
+    },
+    {
+      "nombre": "Abandoned Backpack",
+      "precioBaseUSD": 0.99,
+      "precioFinalMXN": 20.34,
+      "precioFormateado": "$20.34"
     },
     {
       "nombre": "All-Star Fruit Racing",
@@ -7850,12 +7856,6 @@
       "precioFormateado": "$20.34"
     },
     {
-      "nombre": "Capcom Arcade Stadium：19XX - The War Against Destiny -",
-      "precioBaseUSD": 0.99,
-      "precioFinalMXN": 20.34,
-      "precioFormateado": "$20.34"
-    },
-    {
       "nombre": "Capcom Arcade Stadium：Battle Circuit",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.34,
@@ -7886,19 +7886,7 @@
       "precioFormateado": "$20.34"
     },
     {
-      "nombre": "Capcom Arcade Stadium：Ghosts 'n Goblins",
-      "precioBaseUSD": 0.99,
-      "precioFinalMXN": 20.34,
-      "precioFormateado": "$20.34"
-    },
-    {
       "nombre": "Capcom Arcade Stadium：Ghouls 'n Ghosts",
-      "precioBaseUSD": 0.99,
-      "precioFinalMXN": 20.34,
-      "precioFormateado": "$20.34"
-    },
-    {
-      "nombre": "Capcom Arcade Stadium：Senjo no OkamiⅡ",
       "precioBaseUSD": 0.99,
       "precioFinalMXN": 20.34,
       "precioFormateado": "$20.34"
