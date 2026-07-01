@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T21:34:52.504Z",
+  "lastUpdated": "2026-07-01T00:46:11.336Z",
   "juegos": [
     {
       "nombre": "Microsoft Flight Simulator 2024 - Premium Deluxe Edition",
@@ -3848,12 +3848,6 @@
       "precioFormateado": "$204.74"
     },
     {
-      "nombre": "RESIDENT EVIL 7 biohazard Gold Edition",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 204.74,
-      "precioFormateado": "$204.74"
-    },
-    {
       "nombre": "Resident Evil: Deluxe Origins Bundle",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.74,
@@ -4428,6 +4422,12 @@
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 184.25,
       "precioFormateado": "$184.25"
+    },
+    {
+      "nombre": "Two Point Museum: Zoomuseo",
+      "precioBaseUSD": 8.79,
+      "precioFinalMXN": 180.15,
+      "precioFormateado": "$180.15"
     },
     {
       "nombre": "Amnesia: The Bunker",
@@ -7368,12 +7368,6 @@
       "precioBaseUSD": 3.14,
       "precioFinalMXN": 64.35,
       "precioFormateado": "$64.35"
-    },
-    {
-      "nombre": "Angry Alligator",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 61.28,
-      "precioFormateado": "$61.28"
     },
     {
       "nombre": "Assassin's Creed® Origins – The Curse of the Pharaohs",
