@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T15:56:12.098Z",
+  "lastUpdated": "2026-07-07T18:43:56.446Z",
   "juegos": [
     {
       "nombre": "Brawlhalla - Collector's Pack",
@@ -228,12 +228,6 @@
       "precioBaseUSD": 31.99,
       "precioFinalMXN": 653.99,
       "precioFormateado": "$653.99"
-    },
-    {
-      "nombre": "Dead by Daylight: edición Jason",
-      "precioBaseUSD": 31.49,
-      "precioFinalMXN": 643.77,
-      "precioFormateado": "$643.77"
     },
     {
       "nombre": "The Talos Principle Ultimate Collection",
@@ -8193,6 +8187,12 @@
     },
     {
       "nombre": "LIMBO",
+      "precioBaseUSD": 1.24,
+      "precioFinalMXN": 25.35,
+      "precioFormateado": "$25.35"
+    },
+    {
+      "nombre": "The Texas Chain Saw Massacre - Ana Outfit Pack",
       "precioBaseUSD": 1.24,
       "precioFinalMXN": 25.35,
       "precioFormateado": "$25.35"
