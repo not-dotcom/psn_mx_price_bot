@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T10:13:47.108Z",
+  "lastUpdated": "2026-07-07T12:52:14.813Z",
   "juegos": [
     {
       "nombre": "Brawlhalla - Collector's Pack",
@@ -6284,6 +6284,12 @@
       "precioFormateado": "$76.72"
     },
     {
+      "nombre": "Cathedral",
+      "precioBaseUSD": 3.74,
+      "precioFinalMXN": 76.72,
+      "precioFormateado": "$76.72"
+    },
+    {
       "nombre": "Darkest Dungeon®",
       "precioBaseUSD": 3.74,
       "precioFinalMXN": 76.72,
@@ -6956,6 +6962,12 @@
       "precioFormateado": "$51.08"
     },
     {
+      "nombre": "Alwa's Awakening",
+      "precioBaseUSD": 2.49,
+      "precioFinalMXN": 51.08,
+      "precioFormateado": "$51.08"
+    },
+    {
       "nombre": "Aphrodite's Bathhouse PS4® & PS5®",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 51.08,
@@ -7191,12 +7203,6 @@
     },
     {
       "nombre": "WAIFU IMPACT",
-      "precioBaseUSD": 2.49,
-      "precioFinalMXN": 51.08,
-      "precioFormateado": "$51.08"
-    },
-    {
-      "nombre": "Waves Out!",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 51.08,
       "precioFormateado": "$51.08"
@@ -8192,18 +8198,6 @@
       "precioFormateado": "$25.44"
     },
     {
-      "nombre": "The Texas Chain Saw Massacre - Ana Outfit Pack",
-      "precioBaseUSD": 1.24,
-      "precioFinalMXN": 25.44,
-      "precioFormateado": "$25.44"
-    },
-    {
-      "nombre": "The Texas Chain Saw Massacre - Ana Outfit Pack 2",
-      "precioBaseUSD": 1.24,
-      "precioFinalMXN": 25.44,
-      "precioFormateado": "$25.44"
-    },
-    {
       "nombre": "The Texas Chain Saw Massacre - Slaughter Family Bloody Skins Pack",
       "precioBaseUSD": 1.24,
       "precioFinalMXN": 25.44,
@@ -8214,6 +8208,12 @@
       "precioBaseUSD": 1.19,
       "precioFinalMXN": 24.41,
       "precioFormateado": "$24.41"
+    },
+    {
+      "nombre": "Desbloquea todos los Modos",
+      "precioBaseUSD": 1.04,
+      "precioFinalMXN": 21.33,
+      "precioFormateado": "$21.33"
     },
     {
       "nombre": "Nump Jump",
@@ -8304,12 +8304,6 @@
       "precioBaseUSD": 0.89,
       "precioFinalMXN": 18.26,
       "precioFormateado": "$18.26"
-    },
-    {
-      "nombre": "Devil May Cry 5 - Gerbera GP01",
-      "precioBaseUSD": 0.79,
-      "precioFinalMXN": 16.21,
-      "precioFormateado": "$16.21"
     },
     {
       "nombre": "My Name is Mayo",
