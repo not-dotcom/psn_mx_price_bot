@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T21:34:34.604Z",
+  "lastUpdated": "2026-07-07T00:39:12.448Z",
   "juegos": [
     {
       "nombre": "Brawlhalla - Collector's Pack",
@@ -3726,12 +3726,6 @@
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 163.91,
       "precioFormateado": "$163.91"
-    },
-    {
-      "nombre": "Cosmophobia",
-      "precioBaseUSD": 7.96,
-      "precioFinalMXN": 163.29,
-      "precioFormateado": "$163.29"
     },
     {
       "nombre": "Bloodshed",
@@ -7851,6 +7845,12 @@
     },
     {
       "nombre": "Earth Atlantis",
+      "precioBaseUSD": 1.49,
+      "precioFinalMXN": 30.57,
+      "precioFormateado": "$30.57"
+    },
+    {
+      "nombre": "Extreme Cycling",
       "precioBaseUSD": 1.49,
       "precioFinalMXN": 30.57,
       "precioFormateado": "$30.57"
