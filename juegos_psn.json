@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T06:53:19.573Z",
+  "lastUpdated": "2026-07-08T09:51:28.450Z",
   "juegos": [
     {
       "nombre": "Brawlhalla - Collector's Pack",
@@ -54,6 +54,12 @@
       "precioBaseUSD": 49.99,
       "precioFinalMXN": 1021.98,
       "precioFormateado": "$1,021.98"
+    },
+    {
+      "nombre": "MLB® The Show™ 26",
+      "precioBaseUSD": 49.69,
+      "precioFinalMXN": 1015.84,
+      "precioFormateado": "$1,015.84"
     },
     {
       "nombre": "Yakuza Kiwami 3 & Dark Ties, edición deluxe para PS4 y PS5",
@@ -7983,12 +7989,6 @@
     },
     {
       "nombre": "Crazy Basket",
-      "precioBaseUSD": 1.84,
-      "precioFinalMXN": 37.62,
-      "precioFormateado": "$37.62"
-    },
-    {
-      "nombre": "The Backrooms Zombie Survival",
       "precioBaseUSD": 1.84,
       "precioFinalMXN": 37.62,
       "precioFormateado": "$37.62"
