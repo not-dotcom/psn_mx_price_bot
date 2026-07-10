@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T00:38:26.236Z",
+  "lastUpdated": "2026-07-10T04:24:21.653Z",
   "juegos": [
     {
       "nombre": "Brawlhalla - Collector's Pack",
@@ -50,6 +50,12 @@
       "precioFormateado": "$1,080.80"
     },
     {
+      "nombre": "Daemon X Machina: Titanic Scion - Edición digital super deluxe",
+      "precioBaseUSD": 49.99,
+      "precioFinalMXN": 1029.32,
+      "precioFormateado": "$1,029.32"
+    },
+    {
       "nombre": "MLB® The Show™ 26",
       "precioBaseUSD": 49.69,
       "precioFinalMXN": 1023.15,
@@ -86,10 +92,10 @@
       "precioFormateado": "$864.60"
     },
     {
-      "nombre": "Class of Heroes: The Ultimate Trilogy",
-      "precioBaseUSD": 40.94,
-      "precioFinalMXN": 842.98,
-      "precioFormateado": "$842.98"
+      "nombre": "Call of Duty®: Black Ops",
+      "precioBaseUSD": 39.99,
+      "precioFinalMXN": 823.42,
+      "precioFormateado": "$823.42"
     },
     {
       "nombre": "Call of Duty®: Black Ops III - Zombies Chronicles Deluxe",
@@ -240,6 +246,12 @@
       "precioBaseUSD": 31.49,
       "precioFinalMXN": 648.4,
       "precioFormateado": "$648.40"
+    },
+    {
+      "nombre": "Call of Duty®: Black Ops - Pase de Temporada",
+      "precioBaseUSD": 29.99,
+      "precioFinalMXN": 617.51,
+      "precioFormateado": "$617.51"
     },
     {
       "nombre": "DAIMA Edition",
@@ -584,12 +596,6 @@
       "precioFormateado": "$493.97"
     },
     {
-      "nombre": "Shadow Tactics - Ultimate Bundle",
-      "precioBaseUSD": 23.79,
-      "precioFinalMXN": 489.85,
-      "precioFormateado": "$489.85"
-    },
-    {
       "nombre": "cyubeVR Avatar Edition",
       "precioBaseUSD": 23.44,
       "precioFinalMXN": 482.64,
@@ -738,12 +744,6 @@
       "precioBaseUSD": 20.99,
       "precioFinalMXN": 432.2,
       "precioFormateado": "$432.20"
-    },
-    {
-      "nombre": "Darkest Dungeon II: Oblivion Edition PS4 & PS5",
-      "precioBaseUSD": 20.24,
-      "precioFinalMXN": 416.75,
-      "precioFormateado": "$416.75"
     },
     {
       "nombre": "The Precinct",
@@ -2006,12 +2006,6 @@
       "precioFormateado": "$267.47"
     },
     {
-      "nombre": "Pocket Bravery",
-      "precioBaseUSD": 12.99,
-      "precioFinalMXN": 267.47,
-      "precioFormateado": "$267.47"
-    },
-    {
       "nombre": "Poppy Playtime: Capítulo 4",
       "precioBaseUSD": 12.99,
       "precioFinalMXN": 267.47,
@@ -2835,12 +2829,6 @@
     },
     {
       "nombre": "DREDGE",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 205.7,
-      "precioFormateado": "$205.70"
-    },
-    {
-      "nombre": "Ebenezer y el Mundo Invisible",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 205.7,
       "precioFormateado": "$205.70"
@@ -4934,6 +4922,12 @@
       "precioFormateado": "$123.34"
     },
     {
+      "nombre": "Gotta Go Fast 3-in-1",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 123.34,
+      "precioFormateado": "$123.34"
+    },
+    {
       "nombre": "HappyFunland",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 123.34,
@@ -5870,6 +5864,12 @@
       "precioFormateado": "$102.75"
     },
     {
+      "nombre": "Serious Sam: Siberian Mayhem",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.75,
+      "precioFormateado": "$102.75"
+    },
+    {
       "nombre": "Sherlock Holmes Chapter One - Pase de temporada",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.75,
@@ -6632,12 +6632,6 @@
       "precioFormateado": "$77.01"
     },
     {
-      "nombre": "Aggelos",
-      "precioBaseUSD": 3.74,
-      "precioFinalMXN": 77.01,
-      "precioFormateado": "$77.01"
-    },
-    {
       "nombre": "Cat Quest II",
       "precioBaseUSD": 3.74,
       "precioFinalMXN": 77.01,
@@ -6944,12 +6938,6 @@
       "precioFormateado": "$61.57"
     },
     {
-      "nombre": "Agents of Mayhem - Total Mayhem Bundle",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 61.57,
-      "precioFormateado": "$61.57"
-    },
-    {
       "nombre": "Among Us",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 61.57,
@@ -6957,6 +6945,12 @@
     },
     {
       "nombre": "ASSAULT GUNNERS HD EDITION",
+      "precioBaseUSD": 2.99,
+      "precioFinalMXN": 61.57,
+      "precioFormateado": "$61.57"
+    },
+    {
+      "nombre": "Bad North",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 61.57,
       "precioFormateado": "$61.57"
@@ -7143,6 +7137,12 @@
     },
     {
       "nombre": "Source of Madness",
+      "precioBaseUSD": 2.99,
+      "precioFinalMXN": 61.57,
+      "precioFormateado": "$61.57"
+    },
+    {
+      "nombre": "Spacejacked",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 61.57,
       "precioFormateado": "$61.57"
@@ -7772,12 +7772,6 @@
       "precioFormateado": "$40.98"
     },
     {
-      "nombre": "Dead Age II",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.98,
-      "precioFormateado": "$40.98"
-    },
-    {
       "nombre": "Die After Sunset",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.98,
@@ -7917,6 +7911,12 @@
     },
     {
       "nombre": "Prison Architect: Psych Ward DLC",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.98,
+      "precioFormateado": "$40.98"
+    },
+    {
+      "nombre": "Road Rage",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.98,
       "precioFormateado": "$40.98"
