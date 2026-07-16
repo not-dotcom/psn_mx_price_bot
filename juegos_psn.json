@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T21:23:44.993Z",
+  "lastUpdated": "2026-07-16T00:30:49.791Z",
   "juegos": [
     {
       "nombre": "Microsoft Flight Simulator 2024 -  Aviator Edition",
@@ -4574,6 +4574,12 @@
       "precioFormateado": "$204.31"
     },
     {
+      "nombre": "Fortnite: Paquete Leyendas de verano",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.31,
+      "precioFormateado": "$204.31"
+    },
+    {
       "nombre": "Gal*Gun: Double Peace - Complete Edition",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.31,
@@ -6414,12 +6420,6 @@
       "precioBaseUSD": 7.14,
       "precioFinalMXN": 146.02,
       "precioFormateado": "$146.02"
-    },
-    {
-      "nombre": "Classified: France '44",
-      "precioBaseUSD": 6.99,
-      "precioFinalMXN": 142.95,
-      "precioFormateado": "$142.95"
     },
     {
       "nombre": "Dead Cells: Return to Castlevania",
