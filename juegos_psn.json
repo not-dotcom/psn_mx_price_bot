@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T15:35:02.480Z",
+  "lastUpdated": "2026-07-22T18:29:02.229Z",
   "juegos": [
     {
       "nombre": "Microsoft Flight Simulator 2024 -  Aviator Edition",
@@ -1443,12 +1443,6 @@
     },
     {
       "nombre": "FULL METAL SCHOOLGIRL",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 510.88,
-      "precioFormateado": "$510.88"
-    },
-    {
-      "nombre": "Hell Clock",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 510.88,
       "precioFormateado": "$510.88"
@@ -7083,6 +7077,12 @@
     },
     {
       "nombre": "South Park™: The Fractured but Whole™",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 122.46,
+      "precioFormateado": "$122.46"
+    },
+    {
+      "nombre": "Spike Volleyball",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.46,
       "precioFormateado": "$122.46"
