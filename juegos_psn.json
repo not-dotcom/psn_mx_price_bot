@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T00:31:47.772Z",
+  "lastUpdated": "2026-07-28T04:04:24.589Z",
   "juegos": [
     {
       "nombre": "Microsoft Flight Simulator 2024 -  Aviator Edition",
@@ -36,6 +36,12 @@
       "precioBaseUSD": 84.99,
       "precioFinalMXN": 1740.77,
       "precioFormateado": "$1,740.77"
+    },
+    {
+      "nombre": "Nioh 3 Digital Deluxe Edition",
+      "precioBaseUSD": 84.69,
+      "precioFinalMXN": 1734.62,
+      "precioFormateado": "$1,734.62"
     },
     {
       "nombre": "Atelier Ryza Secret Trilogy Deluxe Pack (PS4&5)",
@@ -116,6 +122,12 @@
       "precioFormateado": "$1,331.13"
     },
     {
+      "nombre": "Microsoft Flight Simulator 2024 Standard to Premium Deluxe Upgrade",
+      "precioBaseUSD": 63.99,
+      "precioFinalMXN": 1310.64,
+      "precioFormateado": "$1,310.64"
+    },
+    {
       "nombre": "Resident Evil Requiem Deluxe Edition",
       "precioBaseUSD": 63.99,
       "precioFinalMXN": 1310.64,
@@ -123,6 +135,12 @@
     },
     {
       "nombre": "Age of Empires II + Age of Mythology Premium Edition Bundle",
+      "precioBaseUSD": 59.99,
+      "precioFinalMXN": 1228.72,
+      "precioFormateado": "$1,228.72"
+    },
+    {
+      "nombre": "Black Desert: Edición Mítica",
       "precioBaseUSD": 59.99,
       "precioFinalMXN": 1228.72,
       "precioFormateado": "$1,228.72"
@@ -158,7 +176,19 @@
       "precioFormateado": "$1,216.43"
     },
     {
+      "nombre": "Lies of P: Overture Bundle",
+      "precioBaseUSD": 58.49,
+      "precioFinalMXN": 1197.99,
+      "precioFormateado": "$1,197.99"
+    },
+    {
       "nombre": "Baldur's Gate 3 - Edición digital de lujo",
+      "precioBaseUSD": 55.99,
+      "precioFinalMXN": 1146.79,
+      "precioFormateado": "$1,146.79"
+    },
+    {
+      "nombre": "INAZUMA ELEVEN: Heroes' Victory Road edición deluxe",
       "precioBaseUSD": 55.99,
       "precioFinalMXN": 1146.79,
       "precioFormateado": "$1,146.79"
@@ -272,6 +302,12 @@
       "precioFormateado": "$1,023.90"
     },
     {
+      "nombre": "THEATRHYTHM FINAL BAR LINE Premium Digital Deluxe Edition",
+      "precioBaseUSD": 49.99,
+      "precioFinalMXN": 1023.9,
+      "precioFormateado": "$1,023.90"
+    },
+    {
       "nombre": "ASTRO BOT Edición Deluxe Digital",
       "precioBaseUSD": 49.69,
       "precioFinalMXN": 1017.75,
@@ -332,19 +368,13 @@
       "precioFormateado": "$1,003.41"
     },
     {
-      "nombre": "PGA TOUR 2K25 Edición Leyenda Año 2",
-      "precioBaseUSD": 48.99,
-      "precioFinalMXN": 1003.41,
-      "precioFormateado": "$1,003.41"
-    },
-    {
       "nombre": "Jurassic World Evolution 3: Edición Deluxe",
       "precioBaseUSD": 48.74,
       "precioFinalMXN": 998.29,
       "precioFormateado": "$998.29"
     },
     {
-      "nombre": "Clair Obscur: Expedition 33 – Deluxe Edition",
+      "nombre": "Commandos: Origins",
       "precioBaseUSD": 47.99,
       "precioFinalMXN": 982.93,
       "precioFormateado": "$982.93"
@@ -357,6 +387,12 @@
     },
     {
       "nombre": "Directive 8020: Edición Digital Deluxe",
+      "precioBaseUSD": 47.99,
+      "precioFinalMXN": 982.93,
+      "precioFormateado": "$982.93"
+    },
+    {
+      "nombre": "The Legend of Heroes: Trails through Daybreak",
       "precioBaseUSD": 47.99,
       "precioFinalMXN": 982.93,
       "precioFormateado": "$982.93"
@@ -410,7 +446,7 @@
       "precioFormateado": "$921.49"
     },
     {
-      "nombre": "Crusader Kings III: Royal Edition",
+      "nombre": "Disgaea 7: Vows of the Virtueless",
       "precioBaseUSD": 44.99,
       "precioFinalMXN": 921.49,
       "precioFormateado": "$921.49"
@@ -435,6 +471,12 @@
     },
     {
       "nombre": "Sonic Racing: CrossWorlds - Edición digital Deluxe PS4 y PS5",
+      "precioBaseUSD": 44.99,
+      "precioFinalMXN": 921.49,
+      "precioFormateado": "$921.49"
+    },
+    {
+      "nombre": "Tales of Berseria Remastered Edición Deluxe",
       "precioBaseUSD": 44.99,
       "precioFinalMXN": 921.49,
       "precioFormateado": "$921.49"
@@ -524,13 +566,19 @@
       "precioFormateado": "$860.04"
     },
     {
-      "nombre": "War Thunder - RDF/LT Pack",
+      "nombre": "War Thunder - MiG-23ML",
       "precioBaseUSD": 41.99,
       "precioFinalMXN": 860.04,
       "precioFormateado": "$860.04"
     },
     {
       "nombre": "War Thunder - Su-39 Pack",
+      "precioBaseUSD": 41.99,
+      "precioFinalMXN": 860.04,
+      "precioFormateado": "$860.04"
+    },
+    {
+      "nombre": "War Thunder - T-80U-E1",
       "precioBaseUSD": 41.99,
       "precioFinalMXN": 860.04,
       "precioFormateado": "$860.04"
@@ -572,6 +620,12 @@
       "precioFormateado": "$819.08"
     },
     {
+      "nombre": "Edición digital de lujo de Returnal",
+      "precioBaseUSD": 39.99,
+      "precioFinalMXN": 819.08,
+      "precioFormateado": "$819.08"
+    },
+    {
       "nombre": "Edición Digital Deluxe de Marvel's Spider-Man 2",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 819.08,
@@ -608,7 +662,7 @@
       "precioFormateado": "$819.08"
     },
     {
-      "nombre": "Microsoft Flight Simulator 2024 Standard to Deluxe Upgrade",
+      "nombre": "Lote Triple Juego de Crash™ + Spyro™",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 819.08,
       "precioFormateado": "$819.08"
@@ -632,12 +686,6 @@
       "precioFormateado": "$819.08"
     },
     {
-      "nombre": "The Dark Pictures Anthology : Season One PS4™ & PS5™",
-      "precioBaseUSD": 39.99,
-      "precioFinalMXN": 819.08,
-      "precioFormateado": "$819.08"
-    },
-    {
       "nombre": "Trails in the Sky 1st Chapter - Edición digital Deluxe",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 819.08,
@@ -645,12 +693,6 @@
     },
     {
       "nombre": "Undisputed - Championship Edition",
-      "precioBaseUSD": 39.99,
-      "precioFinalMXN": 819.08,
-      "precioFormateado": "$819.08"
-    },
-    {
-      "nombre": "Warhammer 40,000: Rogue Trader - Voidfarer Edition",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 819.08,
       "precioFormateado": "$819.08"
@@ -740,28 +782,10 @@
       "precioFormateado": "$798.59"
     },
     {
-      "nombre": "Tainted Grail: The Fall of Avalon - Excalibur Edition",
-      "precioBaseUSD": 38.99,
-      "precioFinalMXN": 798.59,
-      "precioFormateado": "$798.59"
-    },
-    {
-      "nombre": "Vampire: The Masquerade® - Bloodlines™ 2",
-      "precioBaseUSD": 38.99,
-      "precioFinalMXN": 798.59,
-      "precioFormateado": "$798.59"
-    },
-    {
       "nombre": "War Thunder - F-5C",
       "precioBaseUSD": 38.99,
       "precioFinalMXN": 798.59,
       "precioFormateado": "$798.59"
-    },
-    {
-      "nombre": "Styx: Master of Stealth Collection",
-      "precioBaseUSD": 38.49,
-      "precioFinalMXN": 788.35,
-      "precioFormateado": "$788.35"
     },
     {
       "nombre": "Street Fighter™ 6 - Year 3 Ultimate Pass",
@@ -830,12 +854,6 @@
       "precioFormateado": "$737.15"
     },
     {
-      "nombre": "MY HERO ACADEMIA: All’s Justice",
-      "precioBaseUSD": 35.99,
-      "precioFinalMXN": 737.15,
-      "precioFormateado": "$737.15"
-    },
-    {
       "nombre": "Solasta: Lightbringers Edition",
       "precioBaseUSD": 35.99,
       "precioFinalMXN": 737.15,
@@ -849,6 +867,18 @@
     },
     {
       "nombre": "War Thunder - A-10A Thunderbolt Pack",
+      "precioBaseUSD": 35.99,
+      "precioFinalMXN": 737.15,
+      "precioFormateado": "$737.15"
+    },
+    {
+      "nombre": "War Thunder - BMD-4M Pack",
+      "precioBaseUSD": 35.99,
+      "precioFinalMXN": 737.15,
+      "precioFormateado": "$737.15"
+    },
+    {
+      "nombre": "War Thunder - Т-55АМ-1",
       "precioBaseUSD": 35.99,
       "precioFinalMXN": 737.15,
       "precioFormateado": "$737.15"
@@ -896,12 +926,6 @@
       "precioFormateado": "$716.67"
     },
     {
-      "nombre": "Screamer - Digital Deluxe Edition",
-      "precioBaseUSD": 34.99,
-      "precioFinalMXN": 716.67,
-      "precioFormateado": "$716.67"
-    },
-    {
       "nombre": "Sid Meier’s Civilization® VII",
       "precioBaseUSD": 34.99,
       "precioFinalMXN": 716.67,
@@ -930,6 +954,12 @@
       "precioBaseUSD": 34.79,
       "precioFinalMXN": 712.57,
       "precioFormateado": "$712.57"
+    },
+    {
+      "nombre": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada (PS4)",
+      "precioBaseUSD": 34.19,
+      "precioFinalMXN": 700.28,
+      "precioFormateado": "$700.28"
     },
     {
       "nombre": "Undisputed - The Championship Upgrade Pack",
@@ -1046,6 +1076,12 @@
       "precioFormateado": "$614.26"
     },
     {
+      "nombre": "Disgaea 7: Vows of the Virtueless - Season Pass",
+      "precioBaseUSD": 29.99,
+      "precioFinalMXN": 614.26,
+      "precioFormateado": "$614.26"
+    },
+    {
       "nombre": "Duskfade",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 614.26,
@@ -1112,7 +1148,19 @@
       "precioFormateado": "$614.26"
     },
     {
+      "nombre": "NBA THE RUN - Deluxe Edition Bundle",
+      "precioBaseUSD": 29.99,
+      "precioFinalMXN": 614.26,
+      "precioFormateado": "$614.26"
+    },
+    {
       "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army PS4 & PS5",
+      "precioBaseUSD": 29.99,
+      "precioFinalMXN": 614.26,
+      "precioFormateado": "$614.26"
+    },
+    {
+      "nombre": "SAND LAND PS4 y PS5",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 614.26,
       "precioFormateado": "$614.26"
@@ -1125,6 +1173,12 @@
     },
     {
       "nombre": "Tales of Berseria Remastered",
+      "precioBaseUSD": 29.99,
+      "precioFinalMXN": 614.26,
+      "precioFormateado": "$614.26"
+    },
+    {
+      "nombre": "Tales of Graces f Remastered Deluxe Edition PS4 y PS5",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 614.26,
       "precioFormateado": "$614.26"
@@ -1268,6 +1322,12 @@
       "precioFormateado": "$573.29"
     },
     {
+      "nombre": "Call of Duty®: Black Ops 6 - Paquete Multigeneración",
+      "precioBaseUSD": 27.99,
+      "precioFinalMXN": 573.29,
+      "precioFormateado": "$573.29"
+    },
+    {
       "nombre": "Cities: Skylines - Remastered",
       "precioBaseUSD": 27.99,
       "precioFinalMXN": 573.29,
@@ -1364,12 +1424,6 @@
       "precioFormateado": "$563.05"
     },
     {
-      "nombre": "Ace Attorney Anthology",
-      "precioBaseUSD": 26.99,
-      "precioFinalMXN": 552.81,
-      "precioFormateado": "$552.81"
-    },
-    {
       "nombre": "LOLLIPOP CHAINSAW RePOP",
       "precioBaseUSD": 26.99,
       "precioFinalMXN": 552.81,
@@ -1383,6 +1437,12 @@
     },
     {
       "nombre": "The Persona Collection",
+      "precioBaseUSD": 26.99,
+      "precioFinalMXN": 552.81,
+      "precioFormateado": "$552.81"
+    },
+    {
+      "nombre": "theHunter: Call of the Wild™ - Hunting Pro Pack (2025)",
       "precioBaseUSD": 26.99,
       "precioFinalMXN": 552.81,
       "precioFormateado": "$552.81"
@@ -1413,6 +1473,12 @@
     },
     {
       "nombre": "Age of Empires II: Definitive Edition - Standard Edition",
+      "precioBaseUSD": 25.99,
+      "precioFinalMXN": 532.33,
+      "precioFormateado": "$532.33"
+    },
+    {
+      "nombre": "Atelier Ryza: Ever Darkness & the Secret Hideout DX (PS4&5)",
       "precioBaseUSD": 25.99,
       "precioFinalMXN": 532.33,
       "precioFormateado": "$532.33"
@@ -1460,13 +1526,13 @@
       "precioFormateado": "$511.85"
     },
     {
-      "nombre": "Cities: Skylines - Mayor's Edition",
+      "nombre": "Dead Rising Deluxe Remaster",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 511.85,
       "precioFormateado": "$511.85"
     },
     {
-      "nombre": "Dead Rising Deluxe Remaster",
+      "nombre": "EA SPORTS™ WRC 24",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 511.85,
       "precioFormateado": "$511.85"
@@ -1478,19 +1544,13 @@
       "precioFormateado": "$511.85"
     },
     {
-      "nombre": "Hellblade II: Senua’s Saga",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 511.85,
-      "precioFormateado": "$511.85"
-    },
-    {
-      "nombre": "Jujutsu Kaisen Cursed Clash Edición definitiva PS4 y PS5",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 511.85,
-      "precioFormateado": "$511.85"
-    },
-    {
       "nombre": "Little Witch Nobeta",
+      "precioBaseUSD": 24.99,
+      "precioFinalMXN": 511.85,
+      "precioFormateado": "$511.85"
+    },
+    {
+      "nombre": "Lote Sid Meier's Civilization® VI Anthology Upgrade",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 511.85,
       "precioFormateado": "$511.85"
@@ -1503,12 +1563,6 @@
     },
     {
       "nombre": "MEGATON MUSASHI W: WIRED Standard Edition",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 511.85,
-      "precioFormateado": "$511.85"
-    },
-    {
-      "nombre": "NINJA GAIDEN 2 Black",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 511.85,
       "precioFormateado": "$511.85"
@@ -1592,6 +1646,12 @@
       "precioFormateado": "$491.36"
     },
     {
+      "nombre": "Construction Simulator - Gold Edition",
+      "precioBaseUSD": 23.99,
+      "precioFinalMXN": 491.36,
+      "precioFormateado": "$491.36"
+    },
+    {
       "nombre": "Dispatch",
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 491.36,
@@ -1605,12 +1665,6 @@
     },
     {
       "nombre": "KINGDOM HEARTS III",
-      "precioBaseUSD": 23.99,
-      "precioFinalMXN": 491.36,
-      "precioFormateado": "$491.36"
-    },
-    {
-      "nombre": "Library Of Ruina",
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 491.36,
       "precioFormateado": "$491.36"
@@ -1718,7 +1772,7 @@
       "precioFormateado": "$460.64"
     },
     {
-      "nombre": "Tropico 6 - Next Gen Edition",
+      "nombre": "TopSpin 2K25 Edición Deluxe",
       "precioBaseUSD": 22.49,
       "precioFinalMXN": 460.64,
       "precioFormateado": "$460.64"
@@ -1730,16 +1784,22 @@
       "precioFormateado": "$450.40"
     },
     {
-      "nombre": "Lost Records: Bloom & Rage",
+      "nombre": "Forever Skies Deluxe Edition",
       "precioBaseUSD": 21.99,
       "precioFinalMXN": 450.4,
       "precioFormateado": "$450.40"
     },
     {
-      "nombre": "Starfield Premium Edition Upgrade",
-      "precioBaseUSD": 21.24,
-      "precioFinalMXN": 435.04,
-      "precioFormateado": "$435.04"
+      "nombre": "inKONBINI: One Store. Many Stories Digital Deluxe Edition",
+      "precioBaseUSD": 21.99,
+      "precioFinalMXN": 450.4,
+      "precioFormateado": "$450.40"
+    },
+    {
+      "nombre": "Lost Records: Bloom & Rage",
+      "precioBaseUSD": 21.99,
+      "precioFinalMXN": 450.4,
+      "precioFormateado": "$450.40"
     },
     {
       "nombre": "Alien: Rogue Incursion Evolved Edition",
@@ -1850,13 +1910,37 @@
       "precioFormateado": "$429.92"
     },
     {
+      "nombre": "Ultimate General: Civil War",
+      "precioBaseUSD": 20.99,
+      "precioFinalMXN": 429.92,
+      "precioFormateado": "$429.92"
+    },
+    {
+      "nombre": "Warframe: Conjunto de Oraxia",
+      "precioBaseUSD": 20.99,
+      "precioFinalMXN": 429.92,
+      "precioFormateado": "$429.92"
+    },
+    {
       "nombre": "Warhammer 40,000: Space Marine 2",
       "precioBaseUSD": 20.99,
       "precioFinalMXN": 429.92,
       "precioFormateado": "$429.92"
     },
     {
+      "nombre": "Farm Together 2",
+      "precioBaseUSD": 20.79,
+      "precioFinalMXN": 425.82,
+      "precioFormateado": "$425.82"
+    },
+    {
       "nombre": "Teardown: Season Pass",
+      "precioBaseUSD": 20.09,
+      "precioFinalMXN": 411.48,
+      "precioFormateado": "$411.48"
+    },
+    {
+      "nombre": "Two Point Hospital: JUMBO Edition",
       "precioBaseUSD": 20.09,
       "precioFinalMXN": 411.48,
       "precioFormateado": "$411.48"
@@ -1916,6 +2000,12 @@
       "precioFormateado": "$409.44"
     },
     {
+      "nombre": "Demonschool",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 409.44,
+      "precioFormateado": "$409.44"
+    },
+    {
       "nombre": "DiRT Rally 2.0 - Game of the Year Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 409.44,
@@ -1952,7 +2042,7 @@
       "precioFormateado": "$409.44"
     },
     {
-      "nombre": "FINAL FANTASY VII REBIRTH",
+      "nombre": "FARCRY 6 Deluxe Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 409.44,
       "precioFormateado": "$409.44"
@@ -1977,6 +2067,12 @@
     },
     {
       "nombre": "Hatsune Miku: Project DIVA Future Tone Bundle",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 409.44,
+      "precioFormateado": "$409.44"
+    },
+    {
+      "nombre": "Hatsune Miku: VR Future Live",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 409.44,
       "precioFormateado": "$409.44"
@@ -2013,12 +2109,6 @@
     },
     {
       "nombre": "LEGO® Horizon Adventures™",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 409.44,
-      "precioFormateado": "$409.44"
-    },
-    {
-      "nombre": "Little Nightmares III PS4 y PS5",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 409.44,
       "precioFormateado": "$409.44"
@@ -2067,6 +2157,12 @@
     },
     {
       "nombre": "Marvel's Midnight Suns Edición Legendaria para PS4™",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 409.44,
+      "precioFormateado": "$409.44"
+    },
+    {
+      "nombre": "Marvel's Midnight Suns Edición Legendaria para PS5™",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 409.44,
       "precioFormateado": "$409.44"
@@ -2126,7 +2222,7 @@
       "precioFormateado": "$409.44"
     },
     {
-      "nombre": "Pure Pool Pro",
+      "nombre": "People of Note",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 409.44,
       "precioFormateado": "$409.44"
@@ -2168,12 +2264,6 @@
       "precioFormateado": "$409.44"
     },
     {
-      "nombre": "Snoopy & The Great Mystery Club",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 409.44,
-      "precioFormateado": "$409.44"
-    },
-    {
       "nombre": "SnowRunner - 1-Year Anniversary Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 409.44,
@@ -2181,6 +2271,12 @@
     },
     {
       "nombre": "SnowRunner - Year 5 Pass",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 409.44,
+      "precioFormateado": "$409.44"
+    },
+    {
+      "nombre": "Sonic Frontiers Edición digital deluxe PS4 & PS5",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 409.44,
       "precioFormateado": "$409.44"
@@ -2318,7 +2414,13 @@
       "precioFormateado": "$383.83"
     },
     {
-      "nombre": "EVERSPACE™ 2: Wrath of the Ancients",
+      "nombre": "BlazBlue Entropy Effect X",
+      "precioBaseUSD": 18.74,
+      "precioFinalMXN": 383.83,
+      "precioFormateado": "$383.83"
+    },
+    {
+      "nombre": "Diablo II: Resurrected - Reign of the Warlock",
       "precioBaseUSD": 18.74,
       "precioFinalMXN": 383.83,
       "precioFormateado": "$383.83"
@@ -2336,7 +2438,7 @@
       "precioFormateado": "$383.83"
     },
     {
-      "nombre": "Monster Hunter Wilds: Pack de complementos estéticos 4",
+      "nombre": "Monster Hunter Wilds: paquete deluxe",
       "precioBaseUSD": 18.74,
       "precioFinalMXN": 383.83,
       "precioFormateado": "$383.83"
@@ -2352,6 +2454,18 @@
       "precioBaseUSD": 18.74,
       "precioFinalMXN": 383.83,
       "precioFormateado": "$383.83"
+    },
+    {
+      "nombre": "Tourist Bus Simulator - Bus Pack #2",
+      "precioBaseUSD": 18.74,
+      "precioFinalMXN": 383.83,
+      "precioFormateado": "$383.83"
+    },
+    {
+      "nombre": "The Last Camp",
+      "precioBaseUSD": 18.19,
+      "precioFinalMXN": 372.57,
+      "precioFormateado": "$372.57"
     },
     {
       "nombre": "A Plague Tale: Requiem",
@@ -2432,6 +2546,12 @@
       "precioFormateado": "$368.47"
     },
     {
+      "nombre": "Fate/EXTELLA LINK — Digital Deluxe Edition",
+      "precioBaseUSD": 17.99,
+      "precioFinalMXN": 368.47,
+      "precioFormateado": "$368.47"
+    },
+    {
       "nombre": "Heavy Cargo - The Truck Simulator",
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 368.47,
@@ -2445,6 +2565,12 @@
     },
     {
       "nombre": "King Arthur: Knight's Tale",
+      "precioBaseUSD": 17.99,
+      "precioFinalMXN": 368.47,
+      "precioFormateado": "$368.47"
+    },
+    {
+      "nombre": "Lost Ember: Rekindled Edition",
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 368.47,
       "precioFormateado": "$368.47"
@@ -2504,6 +2630,12 @@
       "precioFormateado": "$368.47"
     },
     {
+      "nombre": "theHunter: Call of the Wild™ - Hunting Reserves Pack",
+      "precioBaseUSD": 17.99,
+      "precioFinalMXN": 368.47,
+      "precioFormateado": "$368.47"
+    },
+    {
       "nombre": "Tom Clancy's The Division 2 - Gold Edition",
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 368.47,
@@ -2514,6 +2646,18 @@
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 368.47,
       "precioFormateado": "$368.47"
+    },
+    {
+      "nombre": "Utawarerumono: Prelude to the Fallen",
+      "precioBaseUSD": 17.99,
+      "precioFinalMXN": 368.47,
+      "precioFormateado": "$368.47"
+    },
+    {
+      "nombre": "1348 - Ex Voto",
+      "precioBaseUSD": 17.49,
+      "precioFinalMXN": 358.23,
+      "precioFormateado": "$358.23"
     },
     {
       "nombre": "ANIMAL WELL",
@@ -2564,12 +2708,6 @@
       "precioFormateado": "$358.23"
     },
     {
-      "nombre": "MindsEye",
-      "precioBaseUSD": 17.49,
-      "precioFinalMXN": 358.23,
-      "precioFormateado": "$358.23"
-    },
-    {
       "nombre": "Mount & Blade II: Bannerlord - War Sails",
       "precioBaseUSD": 17.49,
       "precioFinalMXN": 358.23,
@@ -2594,13 +2732,7 @@
       "precioFormateado": "$358.23"
     },
     {
-      "nombre": "Star Wars Outlaws",
-      "precioBaseUSD": 17.49,
-      "precioFinalMXN": 358.23,
-      "precioFormateado": "$358.23"
-    },
-    {
-      "nombre": "Starship Troopers: Extermination",
+      "nombre": "Sorry We're Closed",
       "precioBaseUSD": 17.49,
       "precioFinalMXN": 358.23,
       "precioFormateado": "$358.23"
@@ -2636,10 +2768,22 @@
       "precioFormateado": "$358.23"
     },
     {
+      "nombre": "WILL: Follow The Light",
+      "precioBaseUSD": 17.49,
+      "precioFinalMXN": 358.23,
+      "precioFormateado": "$358.23"
+    },
+    {
       "nombre": "Wizard of Legend 2",
       "precioBaseUSD": 17.49,
       "precioFinalMXN": 358.23,
       "precioFormateado": "$358.23"
+    },
+    {
+      "nombre": "4PGP",
+      "precioBaseUSD": 16.99,
+      "precioFinalMXN": 347.99,
+      "precioFormateado": "$347.99"
     },
     {
       "nombre": "Raft",
@@ -2655,12 +2799,6 @@
     },
     {
       "nombre": "Monster Hunter Wilds - Pack de la Chisparranda",
-      "precioBaseUSD": 16.49,
-      "precioFinalMXN": 337.75,
-      "precioFormateado": "$337.75"
-    },
-    {
-      "nombre": "Monster Hunter Wilds - Pack del Iluminario",
       "precioBaseUSD": 16.49,
       "precioFinalMXN": 337.75,
       "precioFormateado": "$337.75"
@@ -2714,12 +2852,6 @@
       "precioFormateado": "$327.51"
     },
     {
-      "nombre": "Beat The Champions",
-      "precioBaseUSD": 15.99,
-      "precioFinalMXN": 327.51,
-      "precioFormateado": "$327.51"
-    },
-    {
       "nombre": "Borderlands 3 Super Deluxe Edition PS4™ &  PS5™",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 327.51,
@@ -2744,18 +2876,6 @@
       "precioFormateado": "$327.51"
     },
     {
-      "nombre": "DEATHLOOP Deluxe Edition",
-      "precioBaseUSD": 15.99,
-      "precioFinalMXN": 327.51,
-      "precioFormateado": "$327.51"
-    },
-    {
-      "nombre": "Dora™: Rescate de la selva",
-      "precioBaseUSD": 15.99,
-      "precioFinalMXN": 327.51,
-      "precioFormateado": "$327.51"
-    },
-    {
       "nombre": "Edición del paquete Cross-gen de STAR WARS™ Jedi",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 327.51,
@@ -2768,19 +2888,13 @@
       "precioFormateado": "$327.51"
     },
     {
-      "nombre": "Fear the Spotlight",
-      "precioBaseUSD": 15.99,
-      "precioFinalMXN": 327.51,
-      "precioFormateado": "$327.51"
-    },
-    {
       "nombre": "Five Nights at Freddy's: Help Wanted 2",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 327.51,
       "precioFormateado": "$327.51"
     },
     {
-      "nombre": "Gecko Gods",
+      "nombre": "Five Nights at Freddy's: Secret of the Mimic",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 327.51,
       "precioFormateado": "$327.51"
@@ -2858,6 +2972,12 @@
       "precioFormateado": "$327.51"
     },
     {
+      "nombre": "NBA 2K26 Edición SLAM",
+      "precioBaseUSD": 15.99,
+      "precioFinalMXN": 327.51,
+      "precioFormateado": "$327.51"
+    },
+    {
       "nombre": "NieR: Automata™ Game of the YoRHa Edition",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 327.51,
@@ -2870,13 +2990,13 @@
       "precioFormateado": "$327.51"
     },
     {
-      "nombre": "Puyo Puyo™ Tetris® 2 PS4 & PS5",
+      "nombre": "Pollitos en fuga: Eggstraction",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 327.51,
       "precioFormateado": "$327.51"
     },
     {
-      "nombre": "SILLY POLLY BEAST",
+      "nombre": "Puyo Puyo™ Tetris® 2 PS4 & PS5",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 327.51,
       "precioFormateado": "$327.51"
@@ -2948,6 +3068,12 @@
       "precioFormateado": "$327.51"
     },
     {
+      "nombre": "WORLD OF HORROR",
+      "precioBaseUSD": 15.99,
+      "precioFinalMXN": 327.51,
+      "precioFormateado": "$327.51"
+    },
+    {
       "nombre": "Red Matter 2",
       "precioBaseUSD": 15.89,
       "precioFinalMXN": 325.46,
@@ -2955,6 +3081,12 @@
     },
     {
       "nombre": "Cult of the Lamb: Unholy Edition",
+      "precioBaseUSD": 15.74,
+      "precioFinalMXN": 322.39,
+      "precioFormateado": "$322.39"
+    },
+    {
+      "nombre": "Taxi Life - Supporter Edition",
       "precioBaseUSD": 15.74,
       "precioFinalMXN": 322.39,
       "precioFormateado": "$322.39"
@@ -3026,7 +3158,7 @@
       "precioFormateado": "$307.03"
     },
     {
-      "nombre": "Cubic Odyssey",
+      "nombre": "Dakar Desert Rally - Deluxe Edition PS4 & PS5",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 307.03,
       "precioFormateado": "$307.03"
@@ -3069,6 +3201,12 @@
     },
     {
       "nombre": "Edición Oro de Call of Duty®: Ghosts",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 307.03,
+      "precioFormateado": "$307.03"
+    },
+    {
+      "nombre": "Enlisted - Thompson 7.63 Squad",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 307.03,
       "precioFormateado": "$307.03"
@@ -3146,6 +3284,18 @@
       "precioFormateado": "$307.03"
     },
     {
+      "nombre": "LABYRINTH OF THE DEMON KING",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 307.03,
+      "precioFormateado": "$307.03"
+    },
+    {
+      "nombre": "Medieval & Sengoku Dynasty Bundle",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 307.03,
+      "precioFormateado": "$307.03"
+    },
+    {
       "nombre": "Metro Awakening",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 307.03,
@@ -3206,6 +3356,12 @@
       "precioFormateado": "$307.03"
     },
     {
+      "nombre": "Pase de lujo para futuras temporadas de Killing Floor 3 (2-4)",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 307.03,
+      "precioFormateado": "$307.03"
+    },
+    {
       "nombre": "PATAPON 1+2 REPLAY",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 307.03,
@@ -3242,19 +3398,13 @@
       "precioFormateado": "$307.03"
     },
     {
-      "nombre": "Sam & Max: This Time It's Virtual!",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 307.03,
-      "precioFormateado": "$307.03"
-    },
-    {
-      "nombre": "Shin Megami Tensei III Nocturne HD Remaster",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 307.03,
-      "precioFormateado": "$307.03"
-    },
-    {
       "nombre": "SHINOBI: Art of Vengeance (PS4 y PS5)",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 307.03,
+      "precioFormateado": "$307.03"
+    },
+    {
+      "nombre": "Sid Meier's Civilization® VII: Colección Derecho a gobernar",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 307.03,
       "precioFormateado": "$307.03"
@@ -3338,6 +3488,12 @@
       "precioFormateado": "$307.03"
     },
     {
+      "nombre": "Wrap House Simulator",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 307.03,
+      "precioFormateado": "$307.03"
+    },
+    {
       "nombre": "Captain Tsubasa: Rise of New Champions - Ultimate Edition",
       "precioBaseUSD": 14.39,
       "precioFinalMXN": 294.74,
@@ -3350,13 +3506,13 @@
       "precioFormateado": "$294.74"
     },
     {
-      "nombre": "Rune Dice",
-      "precioBaseUSD": 14.06,
-      "precioFinalMXN": 287.98,
-      "precioFormateado": "$287.98"
+      "nombre": "63 Days",
+      "precioBaseUSD": 13.99,
+      "precioFinalMXN": 286.54,
+      "precioFormateado": "$286.54"
     },
     {
-      "nombre": "63 Days",
+      "nombre": "Asphalt Legends - Paquete de todas las clases",
       "precioBaseUSD": 13.99,
       "precioFinalMXN": 286.54,
       "precioFormateado": "$286.54"
@@ -3392,19 +3548,13 @@
       "precioFormateado": "$286.54"
     },
     {
+      "nombre": "Heroines Through My Lens",
+      "precioBaseUSD": 13.99,
+      "precioFinalMXN": 286.54,
+      "precioFormateado": "$286.54"
+    },
+    {
       "nombre": "High On Life",
-      "precioBaseUSD": 13.99,
-      "precioFinalMXN": 286.54,
-      "precioFormateado": "$286.54"
-    },
-    {
-      "nombre": "Holdfast: Nations At War",
-      "precioBaseUSD": 13.99,
-      "precioFinalMXN": 286.54,
-      "precioFormateado": "$286.54"
-    },
-    {
-      "nombre": "Just Cause 4 - Complete Edition",
       "precioBaseUSD": 13.99,
       "precioFinalMXN": 286.54,
       "precioFormateado": "$286.54"
@@ -3470,13 +3620,19 @@
       "precioFormateado": "$286.54"
     },
     {
+      "nombre": "Peppa Pig: Un mundo de aventuras",
+      "precioBaseUSD": 13.99,
+      "precioFinalMXN": 286.54,
+      "precioFormateado": "$286.54"
+    },
+    {
       "nombre": "Phasmophobia",
       "precioBaseUSD": 13.99,
       "precioFinalMXN": 286.54,
       "precioFormateado": "$286.54"
     },
     {
-      "nombre": "Rayman: 30th Anniversary Edition",
+      "nombre": "Pro Flight Simulator",
       "precioBaseUSD": 13.99,
       "precioFinalMXN": 286.54,
       "precioFormateado": "$286.54"
@@ -3506,6 +3662,18 @@
       "precioFormateado": "$286.54"
     },
     {
+      "nombre": "The Liar Princess and the Blind Prince",
+      "precioBaseUSD": 13.99,
+      "precioFinalMXN": 286.54,
+      "precioFormateado": "$286.54"
+    },
+    {
+      "nombre": "The Talos Principle: Reawakened",
+      "precioBaseUSD": 13.99,
+      "precioFinalMXN": 286.54,
+      "precioFormateado": "$286.54"
+    },
+    {
       "nombre": "Wizardry: Proving Grounds of the Mad Overlord",
       "precioBaseUSD": 13.99,
       "precioFinalMXN": 286.54,
@@ -3524,7 +3692,7 @@
       "precioFormateado": "$278.35"
     },
     {
-      "nombre": "Bratz™: A presumir de estilazo",
+      "nombre": "¡¡¡Chigau!!!+",
       "precioBaseUSD": 13.49,
       "precioFinalMXN": 276.3,
       "precioFormateado": "$276.30"
@@ -3560,12 +3728,6 @@
       "precioFormateado": "$276.30"
     },
     {
-      "nombre": "Beat the Beats VR",
-      "precioBaseUSD": 13.39,
-      "precioFinalMXN": 274.25,
-      "precioFormateado": "$274.25"
-    },
-    {
       "nombre": "Undisputed - The Problem Child",
       "precioBaseUSD": 13.39,
       "precioFinalMXN": 274.25,
@@ -3576,6 +3738,12 @@
       "precioBaseUSD": 13.19,
       "precioFinalMXN": 270.16,
       "precioFormateado": "$270.16"
+    },
+    {
+      "nombre": "Cabernet",
+      "precioBaseUSD": 12.99,
+      "precioFinalMXN": 266.06,
+      "precioFormateado": "$266.06"
     },
     {
       "nombre": "Crypt Custodian",
@@ -3590,13 +3758,13 @@
       "precioFormateado": "$266.06"
     },
     {
-      "nombre": "Tavern Manager Simulator",
+      "nombre": "Thief VR: Legacy of Shadow",
       "precioBaseUSD": 12.99,
       "precioFinalMXN": 266.06,
       "precioFormateado": "$266.06"
     },
     {
-      "nombre": "Thief VR: Legacy of Shadow",
+      "nombre": "Tomb Raider: Anniversary PS4 & PS5",
       "precioBaseUSD": 12.99,
       "precioFinalMXN": 266.06,
       "precioFormateado": "$266.06"
@@ -3662,13 +3830,19 @@
       "precioFormateado": "$255.82"
     },
     {
-      "nombre": "Big Helmet Heroes",
+      "nombre": "Dead Cells (PS4® & PS5®)",
       "precioBaseUSD": 12.49,
       "precioFinalMXN": 255.82,
       "precioFormateado": "$255.82"
     },
     {
-      "nombre": "Dead Cells (PS4® & PS5®)",
+      "nombre": "Deadlink",
+      "precioBaseUSD": 12.49,
+      "precioFinalMXN": 255.82,
+      "precioFormateado": "$255.82"
+    },
+    {
+      "nombre": "Hatsune Miku: Project DIVA Future Tone Colorful Tone",
       "precioBaseUSD": 12.49,
       "precioFinalMXN": 255.82,
       "precioFormateado": "$255.82"
@@ -3716,6 +3890,12 @@
       "precioFormateado": "$255.82"
     },
     {
+      "nombre": "Shadows of Doubt",
+      "precioBaseUSD": 12.49,
+      "precioFinalMXN": 255.82,
+      "precioFormateado": "$255.82"
+    },
+    {
       "nombre": "STAR WARS Jedi: Survivor™ para PS4",
       "precioBaseUSD": 12.49,
       "precioFinalMXN": 255.82,
@@ -3734,25 +3914,13 @@
       "precioFormateado": "$255.82"
     },
     {
-      "nombre": "The Expanse: A Telltale Series",
-      "precioBaseUSD": 12.49,
-      "precioFinalMXN": 255.82,
-      "precioFormateado": "$255.82"
-    },
-    {
-      "nombre": "The Walking Dead: The Telltale Definitive Series",
+      "nombre": "The Grinch: Aventuras navideñas - Edición Próspera y pícara",
       "precioBaseUSD": 12.49,
       "precioFinalMXN": 255.82,
       "precioFormateado": "$255.82"
     },
     {
       "nombre": "Wo Long: Fallen Dynasty Pase de Temporada",
-      "precioBaseUSD": 12.49,
-      "precioFinalMXN": 255.82,
-      "precioFormateado": "$255.82"
-    },
-    {
-      "nombre": "WRC Generations - Fully Loaded Edition",
       "precioBaseUSD": 12.49,
       "precioFinalMXN": 255.82,
       "precioFormateado": "$255.82"
@@ -3782,12 +3950,6 @@
       "precioFormateado": "$245.58"
     },
     {
-      "nombre": "Blair Witch: VR Edition",
-      "precioBaseUSD": 11.99,
-      "precioFinalMXN": 245.58,
-      "precioFormateado": "$245.58"
-    },
-    {
       "nombre": "BPM: Bullets Per Minute",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
@@ -3800,12 +3962,6 @@
       "precioFormateado": "$245.58"
     },
     {
-      "nombre": "Cross Tails",
-      "precioBaseUSD": 11.99,
-      "precioFinalMXN": 245.58,
-      "precioFormateado": "$245.58"
-    },
-    {
       "nombre": "Danganronpa V3: Killing Harmony",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
@@ -3813,12 +3969,6 @@
     },
     {
       "nombre": "Dead Space - Edición Digital Deluxe",
-      "precioBaseUSD": 11.99,
-      "precioFinalMXN": 245.58,
-      "precioFormateado": "$245.58"
-    },
-    {
-      "nombre": "DIRT 5  PS4 & PS5",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
       "precioFormateado": "$245.58"
@@ -3842,13 +3992,13 @@
       "precioFormateado": "$245.58"
     },
     {
-      "nombre": "FAITH: The Unholy Trinity",
+      "nombre": "Fire Pro Wrestling World – Parts Craft",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
       "precioFormateado": "$245.58"
     },
     {
-      "nombre": "Farewell North",
+      "nombre": "Froggy Hates Snow",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
       "precioFormateado": "$245.58"
@@ -3872,12 +4022,6 @@
       "precioFormateado": "$245.58"
     },
     {
-      "nombre": "Hot Wheels Monster Trucks: Stunt Mayhem™",
-      "precioBaseUSD": 11.99,
-      "precioFinalMXN": 245.58,
-      "precioFormateado": "$245.58"
-    },
-    {
       "nombre": "Indoor Baseball",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
@@ -3885,6 +4029,12 @@
     },
     {
       "nombre": "It Takes Two para PS4™ y PS5™",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 245.58,
+      "precioFormateado": "$245.58"
+    },
+    {
+      "nombre": "Jumanji: Aventuras salvajes",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
       "precioFormateado": "$245.58"
@@ -3909,12 +4059,6 @@
     },
     {
       "nombre": "Labyrinthine - Console Edition",
-      "precioBaseUSD": 11.99,
-      "precioFinalMXN": 245.58,
-      "precioFormateado": "$245.58"
-    },
-    {
-      "nombre": "Layers of Fear",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
       "precioFormateado": "$245.58"
@@ -3950,6 +4094,12 @@
       "precioFormateado": "$245.58"
     },
     {
+      "nombre": "Mundo de PAW Patrol Patrulla de Cachorros",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 245.58,
+      "precioFormateado": "$245.58"
+    },
+    {
       "nombre": "Ninja Gaiden 4 The Two Masters",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
@@ -3968,25 +4118,19 @@
       "precioFormateado": "$245.58"
     },
     {
-      "nombre": "Rage of the Dragons NEO",
-      "precioBaseUSD": 11.99,
-      "precioFinalMXN": 245.58,
-      "precioFormateado": "$245.58"
-    },
-    {
       "nombre": "Rain World: The Watcher",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
       "precioFormateado": "$245.58"
     },
     {
-      "nombre": "Resident Evil Requiem - Kit Deluxe",
+      "nombre": "Re:ZERO -Starting Life in Another World- The Prophecy of the Throne",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
       "precioFormateado": "$245.58"
     },
     {
-      "nombre": "RoadCraft - Rebuild Expansion",
+      "nombre": "Resident Evil Requiem - Kit Deluxe",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
       "precioFormateado": "$245.58"
@@ -4010,6 +4154,12 @@
       "precioFormateado": "$245.58"
     },
     {
+      "nombre": "Sniper Elite: Resistance - Striking Range Mission, Weapons and Skins Pack",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 245.58,
+      "precioFormateado": "$245.58"
+    },
+    {
       "nombre": "Sonic Colors: Ultimate",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
@@ -4028,6 +4178,12 @@
       "precioFormateado": "$245.58"
     },
     {
+      "nombre": "Spirit Mancer",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 245.58,
+      "precioFormateado": "$245.58"
+    },
+    {
       "nombre": "Spirit of the North 2",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
@@ -4040,13 +4196,13 @@
       "precioFormateado": "$245.58"
     },
     {
-      "nombre": "Tails of Iron 2: Whiskers of Winter - Deluxe Edition (PS4 & PS5)",
+      "nombre": "The Crew Motorfest | Pase anual 2",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
       "precioFormateado": "$245.58"
     },
     {
-      "nombre": "The Crew Motorfest | Pase anual 2",
+      "nombre": "The Karate Kid: Street Rumble",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
       "precioFormateado": "$245.58"
@@ -4064,6 +4220,12 @@
       "precioFormateado": "$245.58"
     },
     {
+      "nombre": "Ultra Age",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 245.58,
+      "precioFormateado": "$245.58"
+    },
+    {
       "nombre": "War Mongrels",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
@@ -4071,6 +4233,18 @@
     },
     {
       "nombre": "Warhammer 40,000: Rogue Trader - Season Pass",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 245.58,
+      "precioFormateado": "$245.58"
+    },
+    {
+      "nombre": "Wax Heads",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 245.58,
+      "precioFormateado": "$245.58"
+    },
+    {
+      "nombre": "Weed Lord Simulator",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 245.58,
       "precioFormateado": "$245.58"
@@ -4088,31 +4262,13 @@
       "precioFormateado": "$243.53"
     },
     {
-      "nombre": "ARK Park - Edición de lujo",
-      "precioBaseUSD": 11.59,
-      "precioFinalMXN": 237.39,
-      "precioFormateado": "$237.39"
-    },
-    {
-      "nombre": "Mejora a la Edición Prémium de DOOM: The Dark Ages",
-      "precioBaseUSD": 11.54,
-      "precioFinalMXN": 236.36,
-      "precioFormateado": "$236.36"
-    },
-    {
-      "nombre": "Asterigos: Curse of the Stars Deluxe Edition",
-      "precioBaseUSD": 11.24,
-      "precioFinalMXN": 230.22,
-      "precioFormateado": "$230.22"
-    },
-    {
-      "nombre": "DISSIDIA® FINAL FANTASY® NT Digital Deluxe Edition",
-      "precioBaseUSD": 11.24,
-      "precioFinalMXN": 230.22,
-      "precioFormateado": "$230.22"
-    },
-    {
       "nombre": "Doki Doki Literature Club Plus!",
+      "precioBaseUSD": 11.24,
+      "precioFinalMXN": 230.22,
+      "precioFormateado": "$230.22"
+    },
+    {
+      "nombre": "Junkyard Builder",
       "precioBaseUSD": 11.24,
       "precioFinalMXN": 230.22,
       "precioFormateado": "$230.22"
@@ -4136,12 +4292,6 @@
       "precioFormateado": "$226.12"
     },
     {
-      "nombre": "Death's Gambit: Afterlife",
-      "precioBaseUSD": 10.99,
-      "precioFinalMXN": 225.1,
-      "precioFormateado": "$225.10"
-    },
-    {
       "nombre": "Destiny 2: Los Desertores",
       "precioBaseUSD": 10.99,
       "precioFinalMXN": 225.1,
@@ -4158,6 +4308,12 @@
       "precioBaseUSD": 10.99,
       "precioFinalMXN": 225.1,
       "precioFormateado": "$225.10"
+    },
+    {
+      "nombre": "FINAL FANTASY III",
+      "precioBaseUSD": 10.79,
+      "precioFinalMXN": 221,
+      "precioFormateado": "$221.00"
     },
     {
       "nombre": "FINAL FANTASY IV",
@@ -4184,31 +4340,13 @@
       "precioFormateado": "$214.86"
     },
     {
-      "nombre": "Dating Stories - Ultimate Dating Pack",
-      "precioBaseUSD": 10.49,
-      "precioFinalMXN": 214.86,
-      "precioFormateado": "$214.86"
-    },
-    {
       "nombre": "Dead Space",
       "precioBaseUSD": 10.49,
       "precioFinalMXN": 214.86,
       "precioFormateado": "$214.86"
     },
     {
-      "nombre": "Drunkn Bar Fight 2 VR",
-      "precioBaseUSD": 10.49,
-      "precioFinalMXN": 214.86,
-      "precioFormateado": "$214.86"
-    },
-    {
-      "nombre": "Farm Simulator 2026",
-      "precioBaseUSD": 10.49,
-      "precioFinalMXN": 214.86,
-      "precioFormateado": "$214.86"
-    },
-    {
-      "nombre": "Haneda Girl",
+      "nombre": "FINAL FANTASY VII REMAKE",
       "precioBaseUSD": 10.49,
       "precioFinalMXN": 214.86,
       "precioFormateado": "$214.86"
@@ -4239,12 +4377,6 @@
     },
     {
       "nombre": "OFC - Ultimate Fighting Club",
-      "precioBaseUSD": 10.49,
-      "precioFinalMXN": 214.86,
-      "precioFormateado": "$214.86"
-    },
-    {
-      "nombre": "PARKOUR SIMULATOR VR",
       "precioBaseUSD": 10.49,
       "precioFinalMXN": 214.86,
       "precioFormateado": "$214.86"
@@ -4298,28 +4430,10 @@
       "precioFormateado": "$212.81"
     },
     {
-      "nombre": "SWORN",
-      "precioBaseUSD": 10.19,
-      "precioFinalMXN": 208.71,
-      "precioFormateado": "$208.71"
-    },
-    {
-      "nombre": "TOKYO GHOUL:re [CALL to EXIST]",
-      "precioBaseUSD": 10.19,
-      "precioFinalMXN": 208.71,
-      "precioFormateado": "$208.71"
-    },
-    {
       "nombre": "Aliens Roadside",
       "precioBaseUSD": 10.14,
       "precioFinalMXN": 207.69,
       "precioFormateado": "$207.69"
-    },
-    {
-      "nombre": "Pinball FX - Godzilla vs. Kong Pack",
-      "precioBaseUSD": 10.04,
-      "precioFinalMXN": 205.64,
-      "precioFormateado": "$205.64"
     },
     {
       "nombre": "Undisputed  - Deluxe WBC Upgrade Pack",
@@ -4329,6 +4443,12 @@
     },
     {
       "nombre": "Undisputed - The Mexican Monster Pack",
+      "precioBaseUSD": 10.04,
+      "precioFinalMXN": 205.64,
+      "precioFormateado": "$205.64"
+    },
+    {
+      "nombre": "Undisputed - The Senator Pack",
       "precioBaseUSD": 10.04,
       "precioFinalMXN": 205.64,
       "precioFormateado": "$205.64"
@@ -4352,6 +4472,12 @@
       "precioFormateado": "$204.62"
     },
     {
+      "nombre": "8-Bit Adventures 2",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
       "nombre": "ACE COMBAT™7: SKIES UNKNOWN - TOP GUN: Maverick Aircraft Set -",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
@@ -4359,6 +4485,12 @@
     },
     {
       "nombre": "Alien: Rogue Incursion VR",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
+      "nombre": "Arcadegeddon 2,250 ARCoins(PS5™)",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
       "precioFormateado": "$204.62"
@@ -4424,6 +4556,12 @@
       "precioFormateado": "$204.62"
     },
     {
+      "nombre": "Capcom Arcade Stadium Bundle",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
       "nombre": "Captain Tsubasa: Rise of New Champions",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
@@ -4437,6 +4575,12 @@
     },
     {
       "nombre": "Castlevania Advance Collection",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
+      "nombre": "Crossy Road Castle",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
       "precioFormateado": "$204.62"
@@ -4490,7 +4634,19 @@
       "precioFormateado": "$204.62"
     },
     {
+      "nombre": "DreamWorks Trolls Remix Rescue",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
       "nombre": "Edición maestra de Monster Hunter World: Iceborne",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
+      "nombre": "ENDER LILIES: Quietus of the Knights",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
       "precioFormateado": "$204.62"
@@ -4515,12 +4671,6 @@
     },
     {
       "nombre": "Fortnite: Paquete Leyendas de verano",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 204.62,
-      "precioFormateado": "$204.62"
-    },
-    {
-      "nombre": "GreedFall - Gold Edition",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
       "precioFormateado": "$204.62"
@@ -4556,25 +4706,37 @@
       "precioFormateado": "$204.62"
     },
     {
-      "nombre": "Infernax",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 204.62,
-      "precioFormateado": "$204.62"
-    },
-    {
       "nombre": "Insurgency: Sandstorm [PS4 & PS5]",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
       "precioFormateado": "$204.62"
     },
     {
-      "nombre": "Kentucky Route Zero: TV Edition",
+      "nombre": "JoJo's Bizarre Adventure: All-Star Battle R PS4 y PS5",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
+      "nombre": "JoJo's Bizarre Adventure: All-Star Battle R Season Pass",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
+      "nombre": "Kandagawa Jet Girls — Digital Deluxe Edition",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
       "precioFormateado": "$204.62"
     },
     {
       "nombre": "Kerbal Space Program Enhanced Edition",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
+      "nombre": "Killing Floor 3 - Paquete de 2400 créditos",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
       "precioFormateado": "$204.62"
@@ -4670,6 +4832,18 @@
       "precioFormateado": "$204.62"
     },
     {
+      "nombre": "Pase de temporada de Assassin's Creed® Valhalla",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
+      "nombre": "Pase de temporada de Far Cry 6",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
       "nombre": "Persona 3 Portable",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
@@ -4677,12 +4851,6 @@
     },
     {
       "nombre": "Persona 4 Golden",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 204.62,
-      "precioFormateado": "$204.62"
-    },
-    {
-      "nombre": "PixARK",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
       "precioFormateado": "$204.62"
@@ -4712,7 +4880,19 @@
       "precioFormateado": "$204.62"
     },
     {
-      "nombre": "Saints Row Gold Edition",
+      "nombre": "Rudolph the Red-Nosed Reindeer",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
+      "nombre": "SENRAN KAGURA Burst Re:Newal — Tailor-Made Edition",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
+      "nombre": "SENRAN KAGURA Peach Beach Splash — Sexy Soaker Limited Edition",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
       "precioFormateado": "$204.62"
@@ -4725,12 +4905,6 @@
     },
     {
       "nombre": "SNK VS. CAPCOM SVC CHAOS",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 204.62,
-      "precioFormateado": "$204.62"
-    },
-    {
-      "nombre": "Solar Ash",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
       "precioFormateado": "$204.62"
@@ -4772,6 +4946,12 @@
       "precioFormateado": "$204.62"
     },
     {
+      "nombre": "Tales of Symphonia Remastered",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
       "nombre": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
@@ -4808,13 +4988,31 @@
       "precioFormateado": "$204.62"
     },
     {
+      "nombre": "The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
       "nombre": "The Elder Scrolls V: Skyrim Anniversary Upgrade",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
       "precioFormateado": "$204.62"
     },
     {
+      "nombre": "THE KING OF FIGHTERS XV Edición Deluxe PS4 & PS5",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
       "nombre": "The Light Brigade",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
+      "nombre": "The Pathless PS4™ & PS5™",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
       "precioFormateado": "$204.62"
@@ -4844,6 +5042,12 @@
       "precioFormateado": "$204.62"
     },
     {
+      "nombre": "Tomb Raider: Definitive Survivor Trilogy",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
       "nombre": "Train Sim World® 6: Peninsula Corridor: San Francisco - San Jose",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
@@ -4857,6 +5061,12 @@
     },
     {
       "nombre": "Wingspan PS4 & PS5",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 204.62,
+      "precioFormateado": "$204.62"
+    },
+    {
+      "nombre": "World Wonder Ring Stardom Collaboration Part 2",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
       "precioFormateado": "$204.62"
@@ -4916,12 +5126,6 @@
       "precioFormateado": "$202.57"
     },
     {
-      "nombre": "Mega Man 11",
-      "precioBaseUSD": 9.89,
-      "precioFinalMXN": 202.57,
-      "precioFormateado": "$202.57"
-    },
-    {
       "nombre": "Pacific Drive",
       "precioBaseUSD": 9.89,
       "precioFinalMXN": 202.57,
@@ -4952,10 +5156,16 @@
       "precioFormateado": "$200.52"
     },
     {
-      "nombre": "Kingdom Come: Deliverance II – Legacy of the Forge",
+      "nombre": "Shop & Stuff: Supermarket Simulator",
       "precioBaseUSD": 9.79,
       "precioFinalMXN": 200.52,
       "precioFormateado": "$200.52"
+    },
+    {
+      "nombre": "Car Dealer Garage Simulator 2026",
+      "precioBaseUSD": 9.74,
+      "precioFinalMXN": 199.49,
+      "precioFormateado": "$199.49"
     },
     {
       "nombre": "DREDGE: Complete Edition Upgrade Bundle",
@@ -4994,7 +5204,19 @@
       "precioFormateado": "$199.49"
     },
     {
+      "nombre": "Liquor Store Simulator",
+      "precioBaseUSD": 9.74,
+      "precioFinalMXN": 199.49,
+      "precioFormateado": "$199.49"
+    },
+    {
       "nombre": "Pack traumático PS4 & PS5",
+      "precioBaseUSD": 9.74,
+      "precioFinalMXN": 199.49,
+      "precioFormateado": "$199.49"
+    },
+    {
+      "nombre": "Preserve",
       "precioBaseUSD": 9.74,
       "precioFinalMXN": 199.49,
       "precioFormateado": "$199.49"
@@ -5025,6 +5247,12 @@
     },
     {
       "nombre": "Titanic Survival Simulator",
+      "precioBaseUSD": 9.74,
+      "precioFinalMXN": 199.49,
+      "precioFormateado": "$199.49"
+    },
+    {
+      "nombre": "World's End Club",
       "precioBaseUSD": 9.74,
       "precioFinalMXN": 199.49,
       "precioFormateado": "$199.49"
@@ -5096,6 +5324,12 @@
       "precioFormateado": "$186.18"
     },
     {
+      "nombre": "Heart of the Forest",
+      "precioBaseUSD": 9.09,
+      "precioFinalMXN": 186.18,
+      "precioFormateado": "$186.18"
+    },
+    {
       "nombre": "Solasta: Lost Valley",
       "precioBaseUSD": 9.09,
       "precioFinalMXN": 186.18,
@@ -5115,6 +5349,12 @@
     },
     {
       "nombre": "Blasphemous + Blasphemous 2 Bundle",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 184.13,
+      "precioFormateado": "$184.13"
+    },
+    {
+      "nombre": "BloodRayne 2: ReVamped",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 184.13,
       "precioFormateado": "$184.13"
@@ -5150,6 +5390,12 @@
       "precioFormateado": "$184.13"
     },
     {
+      "nombre": "Crysis Remastered",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 184.13,
+      "precioFormateado": "$184.13"
+    },
+    {
       "nombre": "Deliver Us Mars PS4 & PS5",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 184.13,
@@ -5174,12 +5420,6 @@
       "precioFormateado": "$184.13"
     },
     {
-      "nombre": "Liftoff: Drone Racing Deluxe Edition",
-      "precioBaseUSD": 8.99,
-      "precioFinalMXN": 184.13,
-      "precioFormateado": "$184.13"
-    },
-    {
       "nombre": "MHW:I - Pack completo de disfraces de la Encargada",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 184.13,
@@ -5192,7 +5432,7 @@
       "precioFormateado": "$184.13"
     },
     {
-      "nombre": "Ni no Kuni™ II: REVENANT KINGDOM",
+      "nombre": "Might & Magic: Clash of Heroes: Definitive Edition",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 184.13,
       "precioFormateado": "$184.13"
@@ -5222,6 +5462,18 @@
       "precioFormateado": "$184.13"
     },
     {
+      "nombre": "Persona 5: Dancing in Starlight",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 184.13,
+      "precioFormateado": "$184.13"
+    },
+    {
+      "nombre": "Plants vs. Zombies™: BDN Edición Deluxe",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 184.13,
+      "precioFormateado": "$184.13"
+    },
+    {
       "nombre": "PRAEY FOR THE GODS",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 184.13,
@@ -5240,7 +5492,7 @@
       "precioFormateado": "$184.13"
     },
     {
-      "nombre": "SCARLET NEXUS PS4 & PS5",
+      "nombre": "Risen",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 184.13,
       "precioFormateado": "$184.13"
@@ -5252,7 +5504,13 @@
       "precioFormateado": "$184.13"
     },
     {
-      "nombre": "SteamWorld Heist II",
+      "nombre": "SENRAN KAGURA Peach Beach Splash",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 184.13,
+      "precioFormateado": "$184.13"
+    },
+    {
+      "nombre": "SteamWorld Heist II & SteamWorld Build Bundle",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 184.13,
       "precioFormateado": "$184.13"
@@ -5282,6 +5540,18 @@
       "precioFormateado": "$184.13"
     },
     {
+      "nombre": "Train Sim World® 6: Sand Patch Grade",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 184.13,
+      "precioFormateado": "$184.13"
+    },
+    {
+      "nombre": "Train Sim World® 6: Sherman Hill: Cheyenne - Laramie",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 184.13,
+      "precioFormateado": "$184.13"
+    },
+    {
       "nombre": "Untitled Goose Game",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 184.13,
@@ -5304,6 +5574,30 @@
       "precioBaseUSD": 8.79,
       "precioFinalMXN": 180.04,
       "precioFormateado": "$180.04"
+    },
+    {
+      "nombre": "Pawbay: Cozy Strays",
+      "precioBaseUSD": 8.79,
+      "precioFinalMXN": 180.04,
+      "precioFormateado": "$180.04"
+    },
+    {
+      "nombre": "Bug Fables: The Everlasting Sapling",
+      "precioBaseUSD": 8.74,
+      "precioFinalMXN": 179.01,
+      "precioFormateado": "$179.01"
+    },
+    {
+      "nombre": "Edición Deluxe de Escape Academy",
+      "precioBaseUSD": 8.74,
+      "precioFinalMXN": 179.01,
+      "precioFormateado": "$179.01"
+    },
+    {
+      "nombre": "F1® Manager 2024 PS4 & PS5",
+      "precioBaseUSD": 8.74,
+      "precioFinalMXN": 179.01,
+      "precioFormateado": "$179.01"
     },
     {
       "nombre": "Have a Nice Death",
@@ -5336,12 +5630,6 @@
       "precioFormateado": "$177.99"
     },
     {
-      "nombre": "ROMANCING SAGA 3™",
-      "precioBaseUSD": 8.69,
-      "precioFinalMXN": 177.99,
-      "precioFormateado": "$177.99"
-    },
-    {
       "nombre": "Atelier Yumia: Conjunto de ropa de baño",
       "precioBaseUSD": 8.54,
       "precioFinalMXN": 174.92,
@@ -5360,19 +5648,19 @@
       "precioFormateado": "$173.89"
     },
     {
+      "nombre": "Worms Armageddon: Anniversary Edition",
+      "precioBaseUSD": 8.49,
+      "precioFinalMXN": 173.89,
+      "precioFormateado": "$173.89"
+    },
+    {
       "nombre": "Dragon Ball Xenoverse + pase de temporada",
       "precioBaseUSD": 8.44,
       "precioFinalMXN": 172.87,
       "precioFormateado": "$172.87"
     },
     {
-      "nombre": "Car Driving School Simulator",
-      "precioBaseUSD": 8.39,
-      "precioFinalMXN": 171.84,
-      "precioFormateado": "$171.84"
-    },
-    {
-      "nombre": "Digimon Story Time Stranger - Paquete de episodio y Digimon adicionales 2: GAKU−RAN",
+      "nombre": "theHunter: Call of the Wild™ - Scotland Hunting Reserve",
       "precioBaseUSD": 8.39,
       "precioFinalMXN": 171.84,
       "precioFormateado": "$171.84"
@@ -5408,49 +5696,13 @@
       "precioFormateado": "$163.65"
     },
     {
-      "nombre": "Ashen",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 163.65,
-      "precioFormateado": "$163.65"
-    },
-    {
-      "nombre": "Astria Ascending",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 163.65,
-      "precioFormateado": "$163.65"
-    },
-    {
-      "nombre": "BloodRayne: ReVamped",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 163.65,
-      "precioFormateado": "$163.65"
-    },
-    {
       "nombre": "Brothers: A Tale of Two Sons Remake",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 163.65,
       "precioFormateado": "$163.65"
     },
     {
-      "nombre": "Car Mechanic Simulator 2021 - Dodge | Plymouth | Chrysler Remastered DLC",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 163.65,
-      "precioFormateado": "$163.65"
-    },
-    {
       "nombre": "Castlevania Anniversary Collection",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 163.65,
-      "precioFormateado": "$163.65"
-    },
-    {
-      "nombre": "Chivalry 2 PS4 & PS5",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 163.65,
-      "precioFormateado": "$163.65"
-    },
-    {
-      "nombre": "CHRONO CROSS: THE RADICAL DREAMERS EDITION",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 163.65,
       "precioFormateado": "$163.65"
@@ -5468,25 +5720,13 @@
       "precioFormateado": "$163.65"
     },
     {
-      "nombre": "DLC del Paquete GT4 de Assetto Corsa Competizione",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 163.65,
-      "precioFormateado": "$163.65"
-    },
-    {
-      "nombre": "DOOM Eternal: The Ancient Gods - primera parte (Add-On)",
+      "nombre": "DRAGON BALL XENOVERSE 2 Deluxe Edition",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 163.65,
       "precioFormateado": "$163.65"
     },
     {
       "nombre": "Edición de lujo de CODE VEIN",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 163.65,
-      "precioFormateado": "$163.65"
-    },
-    {
-      "nombre": "Elypse",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 163.65,
       "precioFormateado": "$163.65"
@@ -5516,7 +5756,13 @@
       "precioFormateado": "$163.65"
     },
     {
-      "nombre": "House Flipper - Farm",
+      "nombre": "I Am Future: Cozy Apocalypse Survival",
+      "precioBaseUSD": 7.99,
+      "precioFinalMXN": 163.65,
+      "precioFormateado": "$163.65"
+    },
+    {
+      "nombre": "Inscryption",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 163.65,
       "precioFormateado": "$163.65"
@@ -5606,12 +5852,6 @@
       "precioFormateado": "$163.65"
     },
     {
-      "nombre": "Stay Still",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 163.65,
-      "precioFormateado": "$163.65"
-    },
-    {
       "nombre": "The Crew® 2 Special  Edition",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 163.65,
@@ -5642,34 +5882,16 @@
       "precioFormateado": "$163.65"
     },
     {
-      "nombre": "Planet Coaster 2: Pack Caja de juguetes",
-      "precioBaseUSD": 7.79,
-      "precioFinalMXN": 159.55,
-      "precioFormateado": "$159.55"
-    },
-    {
       "nombre": "Stranded: Alien Dawn Robots y Guardianes",
       "precioBaseUSD": 7.79,
       "precioFinalMXN": 159.55,
       "precioFormateado": "$159.55"
     },
     {
-      "nombre": "Car Mechanic Simulator - DLC Mega Pack",
-      "precioBaseUSD": 7.69,
-      "precioFinalMXN": 157.51,
-      "precioFormateado": "$157.51"
-    },
-    {
       "nombre": "Forspoken Digital Deluxe Upgrade",
       "precioBaseUSD": 7.5,
       "precioFinalMXN": 153.62,
       "precioFormateado": "$153.62"
-    },
-    {
-      "nombre": "ASTRONEER: Megatech",
-      "precioBaseUSD": 7.49,
-      "precioFinalMXN": 153.41,
-      "precioFormateado": "$153.41"
     },
     {
       "nombre": "Avatar: Frontiers of Pandora™ – The Sky Breaker",
@@ -5744,7 +5966,7 @@
       "precioFormateado": "$153.41"
     },
     {
-      "nombre": "Eternights (PS4 & PS5)",
+      "nombre": "Fire Pro Wrestling World",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 153.41,
       "precioFormateado": "$153.41"
@@ -5774,19 +5996,7 @@
       "precioFormateado": "$153.41"
     },
     {
-      "nombre": "Hello Neighbor Hide and Seek",
-      "precioBaseUSD": 7.49,
-      "precioFinalMXN": 153.41,
-      "precioFormateado": "$153.41"
-    },
-    {
       "nombre": "Hello Neighbor: Search and Rescue",
-      "precioBaseUSD": 7.49,
-      "precioFinalMXN": 153.41,
-      "precioFormateado": "$153.41"
-    },
-    {
-      "nombre": "Hot Wheels Let's Race™: Ultimate Speed - High Voltage Speed Pack",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 153.41,
       "precioFormateado": "$153.41"
@@ -5798,13 +6008,13 @@
       "precioFormateado": "$153.41"
     },
     {
-      "nombre": "JoJo's Bizarre Adventure: All-Star Battle R Season Pass 2",
+      "nombre": "Hunt: Showdown 1896 - The Ghost of Blanchett Graves",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 153.41,
       "precioFormateado": "$153.41"
     },
     {
-      "nombre": "Jurassic World Aftermath Collection PS4 & PS5",
+      "nombre": "JoJo's Bizarre Adventure: All-Star Battle R Season Pass 2",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 153.41,
       "precioFormateado": "$153.41"
@@ -5828,13 +6038,13 @@
       "precioFormateado": "$153.41"
     },
     {
-      "nombre": "Nickelodeon Kart Racers 3: Slime Speedway",
+      "nombre": "Melatonin",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 153.41,
       "precioFormateado": "$153.41"
     },
     {
-      "nombre": "Observer: System Redux",
+      "nombre": "Nickelodeon Kart Racers 3: Slime Speedway",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 153.41,
       "precioFormateado": "$153.41"
@@ -5871,6 +6081,12 @@
     },
     {
       "nombre": "RESIDENT EVIL 7 biohazard Season Pass",
+      "precioBaseUSD": 7.49,
+      "precioFinalMXN": 153.41,
+      "precioFormateado": "$153.41"
+    },
+    {
+      "nombre": "Rogue Trooper Redux",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 153.41,
       "precioFormateado": "$153.41"
@@ -5954,7 +6170,7 @@
       "precioFormateado": "$153.41"
     },
     {
-      "nombre": "True Fear: Forsaken Souls - Part 3",
+      "nombre": "Trepang2",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 153.41,
       "precioFormateado": "$153.41"
@@ -5984,7 +6200,7 @@
       "precioFormateado": "$153.41"
     },
     {
-      "nombre": "World War Z - Valley of the Zeke Episode",
+      "nombre": "Warhammer 40,000: Space Marine 2 - White Scars Chapter Pack",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 153.41,
       "precioFormateado": "$153.41"
@@ -5996,28 +6212,10 @@
       "precioFormateado": "$153.41"
     },
     {
-      "nombre": "Assetto Corsa Competizione PS5 - American Track Pack",
-      "precioBaseUSD": 7.19,
-      "precioFinalMXN": 147.27,
-      "precioFormateado": "$147.27"
-    },
-    {
-      "nombre": "DUCKSIDE (Early Access): Special DUCK-OPS Edition",
-      "precioBaseUSD": 7.19,
-      "precioFinalMXN": 147.27,
-      "precioFormateado": "$147.27"
-    },
-    {
-      "nombre": "FINAL FANTASY",
-      "precioBaseUSD": 7.19,
-      "precioFinalMXN": 147.27,
-      "precioFormateado": "$147.27"
-    },
-    {
-      "nombre": "SnowRunner - Season 4: New Frontiers",
-      "precioBaseUSD": 7.19,
-      "precioFinalMXN": 147.27,
-      "precioFormateado": "$147.27"
+      "nombre": "CONSCRIPT",
+      "precioBaseUSD": 7.47,
+      "precioFinalMXN": 153,
+      "precioFormateado": "$153.00"
     },
     {
       "nombre": "Assetto Corsa Competizione - 24h Nürburgring Pack",
@@ -6050,6 +6248,12 @@
       "precioFormateado": "$143.17"
     },
     {
+      "nombre": "Cafe Owner Simulator",
+      "precioBaseUSD": 6.99,
+      "precioFinalMXN": 143.17,
+      "precioFormateado": "$143.17"
+    },
+    {
       "nombre": "Dead Cells: Return to Castlevania",
       "precioBaseUSD": 6.99,
       "precioFinalMXN": 143.17,
@@ -6068,7 +6272,7 @@
       "precioFormateado": "$143.17"
     },
     {
-      "nombre": "ESCAPE - BACKROOMS HORROR",
+      "nombre": "Funko Fusion",
       "precioBaseUSD": 6.99,
       "precioFinalMXN": 143.17,
       "precioFormateado": "$143.17"
@@ -6086,61 +6290,13 @@
       "precioFormateado": "$143.17"
     },
     {
-      "nombre": "Los Sims™ 4 Diversión en el patio Pack de Accesorios",
-      "precioBaseUSD": 6.99,
-      "precioFinalMXN": 143.17,
-      "precioFormateado": "$143.17"
-    },
-    {
-      "nombre": "Los Sims™ 4 Escalofriante Pack de Accesorios",
-      "precioBaseUSD": 6.99,
-      "precioFinalMXN": 143.17,
-      "precioFormateado": "$143.17"
-    },
-    {
       "nombre": "Los Sims™ 4 Glamour Vintage Pack de Accesorios",
       "precioBaseUSD": 6.99,
       "precioFinalMXN": 143.17,
       "precioFormateado": "$143.17"
     },
     {
-      "nombre": "Los Sims™ 4 Mi Primera Mascota Pack de Accesorios",
-      "precioBaseUSD": 6.99,
-      "precioFinalMXN": 143.17,
-      "precioFormateado": "$143.17"
-    },
-    {
-      "nombre": "Los Sims™ 4 Noche de Bolos Pack de Accesorios",
-      "precioBaseUSD": 6.99,
-      "precioFinalMXN": 143.17,
-      "precioFormateado": "$143.17"
-    },
-    {
-      "nombre": "Los Sims™ 4 Paranormal Pack de Accesorios",
-      "precioBaseUSD": 6.99,
-      "precioFinalMXN": 143.17,
-      "precioFormateado": "$143.17"
-    },
-    {
       "nombre": "Los Sims™ 4 Portentos del Punto Pack de Accesorios",
-      "precioBaseUSD": 6.99,
-      "precioFinalMXN": 143.17,
-      "precioFormateado": "$143.17"
-    },
-    {
-      "nombre": "Los Sims™ Minicasas Pack de Accesorios",
-      "precioBaseUSD": 6.99,
-      "precioFinalMXN": 143.17,
-      "precioFormateado": "$143.17"
-    },
-    {
-      "nombre": "MasterChef: Learn to Cook! - Meatlover Special",
-      "precioBaseUSD": 6.99,
-      "precioFinalMXN": 143.17,
-      "precioFormateado": "$143.17"
-    },
-    {
-      "nombre": "Missing Banban",
       "precioBaseUSD": 6.99,
       "precioFinalMXN": 143.17,
       "precioFormateado": "$143.17"
@@ -6176,13 +6332,19 @@
       "precioFormateado": "$143.17"
     },
     {
+      "nombre": "The Mummy Demastered",
+      "precioBaseUSD": 6.99,
+      "precioFinalMXN": 143.17,
+      "precioFormateado": "$143.17"
+    },
+    {
       "nombre": "The Quarry para PS5™",
       "precioBaseUSD": 6.99,
       "precioFinalMXN": 143.17,
       "precioFormateado": "$143.17"
     },
     {
-      "nombre": "Wytchwood",
+      "nombre": "WILD HEARTS™ Edición Estándar",
       "precioBaseUSD": 6.99,
       "precioFinalMXN": 143.17,
       "precioFormateado": "$143.17"
@@ -6200,7 +6362,7 @@
       "precioFormateado": "$139.07"
     },
     {
-      "nombre": "PowerWash Simulator 2 - Adventure Time Pack",
+      "nombre": "Spiritfall",
       "precioBaseUSD": 6.79,
       "precioFinalMXN": 139.07,
       "precioFormateado": "$139.07"
@@ -6230,7 +6392,25 @@
       "precioFormateado": "$134.98"
     },
     {
+      "nombre": "Behind the Frame: El paisaje más bello",
+      "precioBaseUSD": 6.49,
+      "precioFinalMXN": 132.93,
+      "precioFormateado": "$132.93"
+    },
+    {
       "nombre": "Cities Skylines - Airports",
+      "precioBaseUSD": 6.49,
+      "precioFinalMXN": 132.93,
+      "precioFormateado": "$132.93"
+    },
+    {
+      "nombre": "Cities Skylines - Mass Transit",
+      "precioBaseUSD": 6.49,
+      "precioFinalMXN": 132.93,
+      "precioFormateado": "$132.93"
+    },
+    {
+      "nombre": "Cities Skylines - Snowfall",
       "precioBaseUSD": 6.49,
       "precioFinalMXN": 132.93,
       "precioFormateado": "$132.93"
@@ -6260,25 +6440,13 @@
       "precioFormateado": "$132.93"
     },
     {
-      "nombre": "Love is all around",
-      "precioBaseUSD": 6.49,
-      "precioFinalMXN": 132.93,
-      "precioFormateado": "$132.93"
-    },
-    {
       "nombre": "Paquete de inicio de Naruto Uzumaki de NARUTO TO BORUTO: SHINOBI STRIKER",
       "precioBaseUSD": 6.49,
       "precioFinalMXN": 132.93,
       "precioFormateado": "$132.93"
     },
     {
-      "nombre": "Umbrella Corps: edición deluxe",
-      "precioBaseUSD": 6.49,
-      "precioFinalMXN": 132.93,
-      "precioFormateado": "$132.93"
-    },
-    {
-      "nombre": "FINAL FANTASY® VII",
+      "nombre": "DEAD ISLAND 2 EXPANSION PASS",
       "precioBaseUSD": 6.39,
       "precioFinalMXN": 130.88,
       "precioFormateado": "$130.88"
@@ -6320,6 +6488,12 @@
       "precioFormateado": "$128.83"
     },
     {
+      "nombre": "Blasphemous",
+      "precioBaseUSD": 6.24,
+      "precioFinalMXN": 127.81,
+      "precioFormateado": "$127.81"
+    },
+    {
       "nombre": "Risk of Rain 2",
       "precioBaseUSD": 6.24,
       "precioFinalMXN": 127.81,
@@ -6342,18 +6516,6 @@
       "precioBaseUSD": 6.24,
       "precioFinalMXN": 127.81,
       "precioFormateado": "$127.81"
-    },
-    {
-      "nombre": "The Last Hero of Nostalgaia",
-      "precioBaseUSD": 6.24,
-      "precioFinalMXN": 127.81,
-      "precioFormateado": "$127.81"
-    },
-    {
-      "nombre": "Survivor Mercs",
-      "precioBaseUSD": 6.19,
-      "precioFinalMXN": 126.78,
-      "precioFormateado": "$126.78"
     },
     {
       "nombre": "Alan Wake 2 Deluxe Upgrade",
@@ -6386,12 +6548,6 @@
       "precioFormateado": "$122.69"
     },
     {
-      "nombre": "Black Legend",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
       "nombre": "Blair Witch",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
@@ -6404,31 +6560,7 @@
       "precioFormateado": "$122.69"
     },
     {
-      "nombre": "Bum Simulator",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
-      "nombre": "CastleStorm VR Edition",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
       "nombre": "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
-      "nombre": "Cities: VR - Enhanced Edition",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
-      "nombre": "Clone Drone in the Danger Zone",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
       "precioFormateado": "$122.69"
@@ -6476,18 +6608,6 @@
       "precioFormateado": "$122.69"
     },
     {
-      "nombre": "Elite Dangerous",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
-      "nombre": "Fallout 4: Automatron",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
       "nombre": "Fallout 4: Nuka-World",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
@@ -6500,37 +6620,13 @@
       "precioFormateado": "$122.69"
     },
     {
-      "nombre": "Five Nights at Freddy's: Security Breach",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
       "nombre": "GOD EATER 3",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
       "precioFormateado": "$122.69"
     },
     {
-      "nombre": "Hell Let Loose - Operation Suvorov Units",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
       "nombre": "Human: Fall Flat PS4 & PS5",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
-      "nombre": "Injustice™ 2 - Legendary Edition",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
-      "nombre": "Irony Curtain: From Matryoshka with Love",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
       "precioFormateado": "$122.69"
@@ -6560,12 +6656,6 @@
       "precioFormateado": "$122.69"
     },
     {
-      "nombre": "KATANA KAMI: A Way of the Samurai Story",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
       "nombre": "Kingdom Come: Deliverance",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
@@ -6590,13 +6680,13 @@
       "precioFormateado": "$122.69"
     },
     {
-      "nombre": "Mass Effect™ Legendary Edition",
+      "nombre": "Mafia III: Definitive Edition",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
       "precioFormateado": "$122.69"
     },
     {
-      "nombre": "Mass Effect™: Andromeda – Standard Recruit Edition",
+      "nombre": "Mass Effect™ Legendary Edition",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
       "precioFormateado": "$122.69"
@@ -6615,12 +6705,6 @@
     },
     {
       "nombre": "Monster Hunter Rise: Sunbreak",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
-      "nombre": "Monster Hunter Rise: Sunbreak Kit Deluxe",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
       "precioFormateado": "$122.69"
@@ -6662,19 +6746,7 @@
       "precioFormateado": "$122.69"
     },
     {
-      "nombre": "Neighbours back From Hell",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
       "nombre": "One Piece: Burning Blood",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
-      "nombre": "ONE PIECE: PIRATE WARRIORS 4 Paquete Amanecer legendario",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
       "precioFormateado": "$122.69"
@@ -6687,12 +6759,6 @@
     },
     {
       "nombre": "Pase de expansión de La Tierra Media™: Sombras de Guerra™",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
-      "nombre": "Pase de temporada - STRANGER OF PARADISE FINAL FANTASY ORIGIN",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
       "precioFormateado": "$122.69"
@@ -6770,13 +6836,13 @@
       "precioFormateado": "$122.69"
     },
     {
-      "nombre": "Prey",
+      "nombre": "Portal Knights",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
       "precioFormateado": "$122.69"
     },
     {
-      "nombre": "Propagation: Paradise Hotel",
+      "nombre": "Prey",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
       "precioFormateado": "$122.69"
@@ -6830,7 +6896,7 @@
       "precioFormateado": "$122.69"
     },
     {
-      "nombre": "SteamWorld Build",
+      "nombre": "Spike Volleyball",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
       "precioFormateado": "$122.69"
@@ -6848,7 +6914,7 @@
       "precioFormateado": "$122.69"
     },
     {
-      "nombre": "Super Toy Cars 2",
+      "nombre": "Super Monkey Ball: Banana Blitz HD",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
       "precioFormateado": "$122.69"
@@ -6890,25 +6956,19 @@
       "precioFormateado": "$122.69"
     },
     {
-      "nombre": "Tiny Tina's Wonderlands para PS4™",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
       "nombre": "Titanfall™ 2 Ultimate Edition",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
       "precioFormateado": "$122.69"
     },
     {
-      "nombre": "Trailmakers",
+      "nombre": "To the Moon",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
       "precioFormateado": "$122.69"
     },
     {
-      "nombre": "Twin Mirror",
+      "nombre": "Trailmakers",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
       "precioFormateado": "$122.69"
@@ -6938,12 +6998,6 @@
       "precioFormateado": "$122.69"
     },
     {
-      "nombre": "Wild Hunter: Sniper Rifle Adventures Simulator",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
       "nombre": "World End Syndrome",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
@@ -6951,12 +7005,6 @@
     },
     {
       "nombre": "Worms W.M.D",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 122.69,
-      "precioFormateado": "$122.69"
-    },
-    {
-      "nombre": "WRC 9 Deluxe Edition FIA World Rally Championship PS4 & PS5",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 122.69,
       "precioFormateado": "$122.69"
@@ -6974,43 +7022,13 @@
       "precioFormateado": "$119.61"
     },
     {
-      "nombre": "theHunter: Call of the Wild™ - Hunting Starter Pack (2025)",
-      "precioBaseUSD": 5.84,
-      "precioFinalMXN": 119.61,
-      "precioFormateado": "$119.61"
-    },
-    {
-      "nombre": "Yuppie Psycho: Executive Edition",
-      "precioBaseUSD": 5.77,
-      "precioFinalMXN": 118.18,
-      "precioFormateado": "$118.18"
-    },
-    {
       "nombre": "Urbek City Builder",
       "precioBaseUSD": 5.69,
       "precioFinalMXN": 116.54,
       "precioFormateado": "$116.54"
     },
     {
-      "nombre": "Cats vs Dogs",
-      "precioBaseUSD": 5.59,
-      "precioFinalMXN": 114.49,
-      "precioFormateado": "$114.49"
-    },
-    {
-      "nombre": "Goat Simulator 3 - Hocus Pocus Pack",
-      "precioBaseUSD": 5.59,
-      "precioFinalMXN": 114.49,
-      "precioFormateado": "$114.49"
-    },
-    {
       "nombre": "Goat Simulator 3 - Super Duper Pack",
-      "precioBaseUSD": 5.59,
-      "precioFinalMXN": 114.49,
-      "precioFormateado": "$114.49"
-    },
-    {
-      "nombre": "Let Them Come: Onslaught",
       "precioBaseUSD": 5.59,
       "precioFinalMXN": 114.49,
       "precioFormateado": "$114.49"
@@ -7022,22 +7040,10 @@
       "precioFormateado": "$114.49"
     },
     {
-      "nombre": "Golf With Your Friends - Ultimate Edition",
-      "precioBaseUSD": 5.49,
-      "precioFinalMXN": 112.45,
-      "precioFormateado": "$112.45"
-    },
-    {
-      "nombre": "Mafia: The Old Country - Pack Gatto Nero",
-      "precioBaseUSD": 5.49,
-      "precioFinalMXN": 112.45,
-      "precioFormateado": "$112.45"
-    },
-    {
-      "nombre": "Mafia: The Old Country - Pack Padrino",
-      "precioBaseUSD": 5.49,
-      "precioFinalMXN": 112.45,
-      "precioFormateado": "$112.45"
+      "nombre": "Blazblue Entropy Effect X - [[Archivo X]] Palette Set",
+      "precioBaseUSD": 5.24,
+      "precioFinalMXN": 107.33,
+      "precioFormateado": "$107.33"
     },
     {
       "nombre": "Resident Evil 4: Ticket de mejora exclusiva de arma x3 (A)",
@@ -7047,12 +7053,6 @@
     },
     {
       "nombre": "Resident Evil 4: Ticket de mejora exclusiva de arma x3 (B)",
-      "precioBaseUSD": 5.24,
-      "precioFinalMXN": 107.33,
-      "precioFormateado": "$107.33"
-    },
-    {
-      "nombre": "Resident Evil 4: Ticket de mejora exclusiva de arma x3 (C)",
       "precioBaseUSD": 5.24,
       "precioFinalMXN": 107.33,
       "precioFormateado": "$107.33"
@@ -7076,22 +7076,28 @@
       "precioFormateado": "$106.30"
     },
     {
-      "nombre": "DLC Pack British GT",
-      "precioBaseUSD": 5.19,
-      "precioFinalMXN": 106.3,
-      "precioFormateado": "$106.30"
-    },
-    {
       "nombre": "Dragon's Dogma: Dark Arisen",
       "precioBaseUSD": 5.09,
       "precioFinalMXN": 104.25,
       "precioFormateado": "$104.25"
     },
     {
-      "nombre": "Surviving the Aftermath: New Alliances",
-      "precioBaseUSD": 5.09,
-      "precioFinalMXN": 104.25,
-      "precioFormateado": "$104.25"
+      "nombre": "101 Ways to Die",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.21,
+      "precioFormateado": "$102.21"
+    },
+    {
+      "nombre": "60 Seconds! Reatomized",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.21,
+      "precioFormateado": "$102.21"
+    },
+    {
+      "nombre": "Airplane Flight Simulator : Combat Zone",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.21,
+      "precioFormateado": "$102.21"
     },
     {
       "nombre": "Batman: Return to Arkham",
@@ -7113,6 +7119,12 @@
     },
     {
       "nombre": "Colección de personajes 1 y 2 de LEGO® Star Wars™: La Saga De Skywalker",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.21,
+      "precioFormateado": "$102.21"
+    },
+    {
+      "nombre": "Crown Trick",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.21,
       "precioFormateado": "$102.21"
@@ -7142,18 +7154,6 @@
       "precioFormateado": "$102.21"
     },
     {
-      "nombre": "Dragon Ball Xenoverse 2 - Dragon Ball Super Pack 3",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 102.21,
-      "precioFormateado": "$102.21"
-    },
-    {
-      "nombre": "Dragon Ball Xenoverse 2 - Extra DLC Pack 1",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 102.21,
-      "precioFormateado": "$102.21"
-    },
-    {
       "nombre": "DRAGON BALL XENOVERSE 2 - Legend Patrol",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.21,
@@ -7172,7 +7172,37 @@
       "precioFormateado": "$102.21"
     },
     {
+      "nombre": "Fighter Pack 3",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.21,
+      "precioFormateado": "$102.21"
+    },
+    {
+      "nombre": "Filthy Animals | Heist Simulator",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.21,
+      "precioFormateado": "$102.21"
+    },
+    {
+      "nombre": "Fist of the North Star: Lost Paradise",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.21,
+      "precioFormateado": "$102.21"
+    },
+    {
       "nombre": "GOD EATER: Resurrection",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.21,
+      "precioFormateado": "$102.21"
+    },
+    {
+      "nombre": "Heavenly Bodies",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.21,
+      "precioFormateado": "$102.21"
+    },
+    {
+      "nombre": "Hunt: Showdown 1896 – Reap What You Sow",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.21,
       "precioFormateado": "$102.21"
@@ -7190,7 +7220,7 @@
       "precioFormateado": "$102.21"
     },
     {
-      "nombre": "Just Cause 3",
+      "nombre": "Killing Floor 3: paquete de 1100 créditos",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.21,
       "precioFormateado": "$102.21"
@@ -7244,6 +7274,12 @@
       "precioFormateado": "$102.21"
     },
     {
+      "nombre": "Monstrix TCG Card Shop",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.21,
+      "precioFormateado": "$102.21"
+    },
+    {
       "nombre": "Mortal Kombat 11",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.21,
@@ -7257,6 +7293,12 @@
     },
     {
       "nombre": "Mortal Kombat XL",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.21,
+      "precioFormateado": "$102.21"
+    },
+    {
+      "nombre": "Moving Out",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.21,
       "precioFormateado": "$102.21"
@@ -7280,7 +7322,7 @@
       "precioFormateado": "$102.21"
     },
     {
-      "nombre": "Oddworld: Stranger's Wrath HD",
+      "nombre": "Outcast – Second Contact Deluxe Edition",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.21,
       "precioFormateado": "$102.21"
@@ -7292,7 +7334,19 @@
       "precioFormateado": "$102.21"
     },
     {
+      "nombre": "Pack de mejora de Umbrella Corps",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.21,
+      "precioFormateado": "$102.21"
+    },
+    {
       "nombre": "PAQUETE FAR CRY 4 + FAR CRY PRIMAL",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.21,
+      "precioFormateado": "$102.21"
+    },
+    {
+      "nombre": "Party Hard 2",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.21,
       "precioFormateado": "$102.21"
@@ -7364,7 +7418,13 @@
       "precioFormateado": "$102.21"
     },
     {
-      "nombre": "Retro Machina",
+      "nombre": "Road 96",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.21,
+      "precioFormateado": "$102.21"
+    },
+    {
+      "nombre": "Shadow Legend VR",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.21,
       "precioFormateado": "$102.21"
@@ -7394,6 +7454,12 @@
       "precioFormateado": "$102.21"
     },
     {
+      "nombre": "The LEGO® Movie Videogame",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.21,
+      "precioFormateado": "$102.21"
+    },
+    {
       "nombre": "The Walking Dead: La temporada final: Pase de Temporada",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.21,
@@ -7407,6 +7473,12 @@
     },
     {
       "nombre": "Tom Clancy's Ghost Recon Wildlands",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 102.21,
+      "precioFormateado": "$102.21"
+    },
+    {
+      "nombre": "Trailmakers: Space Voyager Pack",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 102.21,
       "precioFormateado": "$102.21"
@@ -7472,12 +7544,6 @@
       "precioFormateado": "$102.21"
     },
     {
-      "nombre": "One Piece: Burning Blood WANTED Pack",
-      "precioBaseUSD": 4.94,
-      "precioFinalMXN": 101.18,
-      "precioFormateado": "$101.18"
-    },
-    {
       "nombre": "Digimon Story Time Stranger - Atuendo: traje del cuerpo de seguridad y conjunto de suministros especiales",
       "precioBaseUSD": 4.89,
       "precioFinalMXN": 100.16,
@@ -7490,7 +7556,19 @@
       "precioFormateado": "$100.16"
     },
     {
+      "nombre": "World Cup Soccer 2026",
+      "precioBaseUSD": 4.89,
+      "precioFinalMXN": 100.16,
+      "precioFormateado": "$100.16"
+    },
+    {
       "nombre": "Digimon Story Time Stranger - Mazmorras Exteriores \"Las sala de EXP, oro y materiales\"",
+      "precioBaseUSD": 4.79,
+      "precioFinalMXN": 98.11,
+      "precioFormateado": "$98.11"
+    },
+    {
+      "nombre": "Loop8: Summer of Gods",
       "precioBaseUSD": 4.79,
       "precioFinalMXN": 98.11,
       "precioFormateado": "$98.11"
@@ -7502,13 +7580,13 @@
       "precioFormateado": "$98.11"
     },
     {
-      "nombre": "SnowRunner - Freightliner & Western Star Dual Pack",
+      "nombre": "STAR WARS™: Squadrons",
       "precioBaseUSD": 4.79,
       "precioFinalMXN": 98.11,
       "precioFormateado": "$98.11"
     },
     {
-      "nombre": "STAR WARS™: Squadrons",
+      "nombre": "The Black Within",
       "precioBaseUSD": 4.79,
       "precioFinalMXN": 98.11,
       "precioFormateado": "$98.11"
@@ -7526,13 +7604,43 @@
       "precioFormateado": "$91.96"
     },
     {
+      "nombre": "Darkwood: lote de Edición Especial",
+      "precioBaseUSD": 4.49,
+      "precioFinalMXN": 91.96,
+      "precioFormateado": "$91.96"
+    },
+    {
+      "nombre": "Dying Light: The Following",
+      "precioBaseUSD": 4.49,
+      "precioFinalMXN": 91.96,
+      "precioFormateado": "$91.96"
+    },
+    {
       "nombre": "Enter the Gungeon",
       "precioBaseUSD": 4.49,
       "precioFinalMXN": 91.96,
       "precioFormateado": "$91.96"
     },
     {
+      "nombre": "Far Cry® Primal",
+      "precioBaseUSD": 4.49,
+      "precioFinalMXN": 91.96,
+      "precioFormateado": "$91.96"
+    },
+    {
       "nombre": "FOR HONOR",
+      "precioBaseUSD": 4.49,
+      "precioFinalMXN": 91.96,
+      "precioFormateado": "$91.96"
+    },
+    {
+      "nombre": "Frostpunk: Console Edition",
+      "precioBaseUSD": 4.49,
+      "precioFinalMXN": 91.96,
+      "precioFormateado": "$91.96"
+    },
+    {
+      "nombre": "I Have No Mouth, and I Must Scream",
       "precioBaseUSD": 4.49,
       "precioFinalMXN": 91.96,
       "precioFormateado": "$91.96"
@@ -7556,7 +7664,19 @@
       "precioFormateado": "$91.96"
     },
     {
+      "nombre": "MudRunner",
+      "precioBaseUSD": 4.49,
+      "precioFinalMXN": 91.96,
+      "precioFormateado": "$91.96"
+    },
+    {
       "nombre": "Nickelodeon Kart Racers",
+      "precioBaseUSD": 4.49,
+      "precioFinalMXN": 91.96,
+      "precioFormateado": "$91.96"
+    },
+    {
+      "nombre": "Oxide Room 104",
       "precioBaseUSD": 4.49,
       "precioFinalMXN": 91.96,
       "precioFormateado": "$91.96"
@@ -7569,6 +7689,12 @@
     },
     {
       "nombre": "Skull and Bones",
+      "precioBaseUSD": 4.49,
+      "precioFinalMXN": 91.96,
+      "precioFormateado": "$91.96"
+    },
+    {
+      "nombre": "Spiritfarer®: Edición Farewell",
       "precioBaseUSD": 4.49,
       "precioFinalMXN": 91.96,
       "precioFormateado": "$91.96"
@@ -7592,12 +7718,6 @@
       "precioFormateado": "$91.96"
     },
     {
-      "nombre": "WRC 9 FIA World Rally Championship PS4 & PS5",
-      "precioBaseUSD": 4.49,
-      "precioFinalMXN": 91.96,
-      "precioFormateado": "$91.96"
-    },
-    {
       "nombre": "Assetto Corsa Competizione PS5 - Challengers Pack",
       "precioBaseUSD": 4.39,
       "precioFinalMXN": 89.92,
@@ -7610,19 +7730,31 @@
       "precioFormateado": "$83.36"
     },
     {
+      "nombre": "23.000 cristales esenciales",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 81.72,
+      "precioFormateado": "$81.72"
+    },
+    {
       "nombre": "A Fisherman's Tale",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.72,
       "precioFormateado": "$81.72"
     },
     {
-      "nombre": "Cities: Skylines - Financial Districts",
+      "nombre": "Darksiders III Season Pass",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.72,
       "precioFormateado": "$81.72"
     },
     {
       "nombre": "DOOM",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 81.72,
+      "precioFormateado": "$81.72"
+    },
+    {
+      "nombre": "Dragon Ball Xenoverse 2 - Extra DLC Pack 4",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.72,
       "precioFormateado": "$81.72"
@@ -7635,12 +7767,6 @@
     },
     {
       "nombre": "FINAL FANTASY XVI Echoes of the Fallen",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 81.72,
-      "precioFormateado": "$81.72"
-    },
-    {
-      "nombre": "Garten of Banban 0",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.72,
       "precioFormateado": "$81.72"
@@ -7676,12 +7802,6 @@
       "precioFormateado": "$81.72"
     },
     {
-      "nombre": "MK1: Cyrax",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 81.72,
-      "precioFormateado": "$81.72"
-    },
-    {
       "nombre": "MK1: Ghostface",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.72,
@@ -7689,12 +7809,6 @@
     },
     {
       "nombre": "MK1: Noob Saibot",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 81.72,
-      "precioFormateado": "$81.72"
-    },
-    {
-      "nombre": "MK1: Omni-Man™",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.72,
       "precioFormateado": "$81.72"
@@ -7712,25 +7826,7 @@
       "precioFormateado": "$81.72"
     },
     {
-      "nombre": "Pase anual de Back 4 Blood",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 81.72,
-      "precioFormateado": "$81.72"
-    },
-    {
-      "nombre": "Personajes DLC de KOF XV \"Team SOUTH TOWN\"",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 81.72,
-      "precioFormateado": "$81.72"
-    },
-    {
       "nombre": "Personajes DLC para KOF XV \"Team AWAKENED OROCHI\"",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 81.72,
-      "precioFormateado": "$81.72"
-    },
-    {
-      "nombre": "Personajes DLC para KOF XV \"Team SAMURAI\"",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.72,
       "precioFormateado": "$81.72"
@@ -7754,12 +7850,6 @@
       "precioFormateado": "$81.72"
     },
     {
-      "nombre": "The King of Fighters XIV: 4 Character Bundle Pack",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 81.72,
-      "precioFormateado": "$81.72"
-    },
-    {
       "nombre": "The King of Fighters XIV: 4 Character Bundle Pack 2",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.72,
@@ -7778,12 +7868,6 @@
       "precioFormateado": "$81.72"
     },
     {
-      "nombre": "theHunter: Call of the Wild - Parque Fernando",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 81.72,
-      "precioFormateado": "$81.72"
-    },
-    {
       "nombre": "theHunter: Call of the Wild - Silver Ridge Peaks",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.72,
@@ -7797,12 +7881,6 @@
     },
     {
       "nombre": "theHunter: Call of the Wild™ - Emerald Coast Australia",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 81.72,
-      "precioFormateado": "$81.72"
-    },
-    {
-      "nombre": "theHunter: Call of the Wild™ - Rancho del Arroyo",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 81.72,
       "precioFormateado": "$81.72"
@@ -7832,18 +7910,6 @@
       "precioFormateado": "$81.72"
     },
     {
-      "nombre": "Watch Dogs™",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 81.72,
-      "precioFormateado": "$81.72"
-    },
-    {
-      "nombre": "Zero Escape: Zero Time Dilemma",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 81.72,
-      "precioFormateado": "$81.72"
-    },
-    {
       "nombre": "Asphalt Legends - Paquete de principiante de leyendas",
       "precioBaseUSD": 3.74,
       "precioFinalMXN": 76.6,
@@ -7862,7 +7928,7 @@
       "precioFormateado": "$76.60"
     },
     {
-      "nombre": "Hoa",
+      "nombre": "Metro Exodus - Expansion Pass",
       "precioBaseUSD": 3.74,
       "precioFinalMXN": 76.6,
       "precioFormateado": "$76.60"
@@ -7886,25 +7952,7 @@
       "precioFormateado": "$76.60"
     },
     {
-      "nombre": "The Walking Dead: A New Frontier - Season Pass",
-      "precioBaseUSD": 3.74,
-      "precioFinalMXN": 76.6,
-      "precioFormateado": "$76.60"
-    },
-    {
-      "nombre": "The Walking Dead: Season Two",
-      "precioBaseUSD": 3.74,
-      "precioFinalMXN": 76.6,
-      "precioFormateado": "$76.60"
-    },
-    {
       "nombre": "The Walking Dead: The Complete First Season",
-      "precioBaseUSD": 3.74,
-      "precioFinalMXN": 76.6,
-      "precioFormateado": "$76.60"
-    },
-    {
-      "nombre": "Warhammer 40,000: Space Marine 2 - Imperial Fists Cosmetic Pack",
       "precioBaseUSD": 3.74,
       "precioFinalMXN": 76.6,
       "precioFormateado": "$76.60"
@@ -7916,22 +7964,10 @@
       "precioFormateado": "$76.60"
     },
     {
-      "nombre": "Warhammer 40,000: Space Marine 2 - Ultramarines Cosmetic Pack",
-      "precioBaseUSD": 3.74,
-      "precioFinalMXN": 76.6,
-      "precioFormateado": "$76.60"
-    },
-    {
       "nombre": "NEEDY STREAMER OVERLOAD",
       "precioBaseUSD": 3.73,
       "precioFinalMXN": 76.4,
       "precioFormateado": "$76.40"
-    },
-    {
-      "nombre": "Paquete DLC de GT World Challenge 2020",
-      "precioBaseUSD": 3.59,
-      "precioFinalMXN": 73.53,
-      "precioFormateado": "$73.53"
     },
     {
       "nombre": "Supermarket Manager Simulator",
@@ -7940,19 +7976,7 @@
       "precioFormateado": "$73.53"
     },
     {
-      "nombre": "Cult of the Lamb - Sinful Pack",
-      "precioBaseUSD": 3.49,
-      "precioFinalMXN": 71.48,
-      "precioFormateado": "$71.48"
-    },
-    {
       "nombre": "Suicide Squad: Kill the Justice League - Mejora de la Edición Digital Deluxe",
-      "precioBaseUSD": 3.49,
-      "precioFinalMXN": 71.48,
-      "precioFormateado": "$71.48"
-    },
-    {
-      "nombre": "theHunter: Call of the Wild™ – Salzwiesen Park",
       "precioBaseUSD": 3.49,
       "precioFinalMXN": 71.48,
       "precioFormateado": "$71.48"
@@ -7968,6 +7992,12 @@
       "precioBaseUSD": 3.39,
       "precioFinalMXN": 69.43,
       "precioFormateado": "$69.43"
+    },
+    {
+      "nombre": "Party Hard",
+      "precioBaseUSD": 3.24,
+      "precioFinalMXN": 66.36,
+      "precioFormateado": "$66.36"
     },
     {
       "nombre": "theHunter: Call of the Wild™ – Rapid Hunt Rifle Pack",
@@ -7989,12 +8019,6 @@
     },
     {
       "nombre": "Jurassic World Evolution 2: Paquete de depredadores del Cretácico",
-      "precioBaseUSD": 3.19,
-      "precioFinalMXN": 65.34,
-      "precioFormateado": "$65.34"
-    },
-    {
-      "nombre": "Jurassic World Evolution 2: Paquete de especies emplumadas",
       "precioBaseUSD": 3.19,
       "precioFinalMXN": 65.34,
       "precioFormateado": "$65.34"
@@ -8024,12 +8048,6 @@
       "precioFormateado": "$61.24"
     },
     {
-      "nombre": "Car Mechanic Simulator 2021 - Pagani Remastered DLC",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 61.24,
-      "precioFormateado": "$61.24"
-    },
-    {
       "nombre": "Colección de personajes 2 de LEGO® Star Wars™: La Saga De Skywalker",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 61.24,
@@ -8054,12 +8072,6 @@
       "precioFormateado": "$61.24"
     },
     {
-      "nombre": "Fallout 4: Vault-Tec Workshop",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 61.24,
-      "precioFormateado": "$61.24"
-    },
-    {
       "nombre": "Far Cry® 4",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 61.24,
@@ -8073,6 +8085,12 @@
     },
     {
       "nombre": "Hogwarts Legacy: Paquete de las Artes Oscuras",
+      "precioBaseUSD": 2.99,
+      "precioFinalMXN": 61.24,
+      "precioFormateado": "$61.24"
+    },
+    {
+      "nombre": "Jurassic World Evolution: Claire's Sanctuary",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 61.24,
       "precioFormateado": "$61.24"
@@ -8096,61 +8114,13 @@
       "precioFormateado": "$61.24"
     },
     {
-      "nombre": "Mileena",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 61.24,
-      "precioFormateado": "$61.24"
-    },
-    {
-      "nombre": "Minecraft Dungeons: Las llamas del Inframundo",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 61.24,
-      "precioFormateado": "$61.24"
-    },
-    {
-      "nombre": "NBUNSC: paquete de contenido descargable 5",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 61.24,
-      "precioFormateado": "$61.24"
-    },
-    {
-      "nombre": "RER2 - Episodio Extra: La lucha",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 61.24,
-      "precioFormateado": "$61.24"
-    },
-    {
       "nombre": "Resident Evil 4: Mapa de tesoros: Expansión",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 61.24,
       "precioFormateado": "$61.24"
     },
     {
-      "nombre": "Resident Evil 4: Trajes de Leon y Ashley: \"Alternativos\"",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 61.24,
-      "precioFormateado": "$61.24"
-    },
-    {
-      "nombre": "Resident Evil 4: Trajes de Leon y Ashley: \"Románticos\"",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 61.24,
-      "precioFormateado": "$61.24"
-    },
-    {
-      "nombre": "Shang Tsung",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 61.24,
-      "precioFormateado": "$61.24"
-    },
-    {
       "nombre": "Shao Kahn",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 61.24,
-      "precioFormateado": "$61.24"
-    },
-    {
-      "nombre": "SteamWorld Heist",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 61.24,
       "precioFormateado": "$61.24"
@@ -8180,12 +8150,6 @@
       "precioFormateado": "$61.24"
     },
     {
-      "nombre": "Assetto Corsa - Porsche Pack Vol.2 DLC",
-      "precioBaseUSD": 2.79,
-      "precioFinalMXN": 57.14,
-      "precioFormateado": "$57.14"
-    },
-    {
       "nombre": "Digimon Story Time Stranger - Reserva del paquete de bonificación",
       "precioBaseUSD": 2.79,
       "precioFinalMXN": 57.14,
@@ -8193,6 +8157,12 @@
     },
     {
       "nombre": "DRAGON BALL FighterZ - Androide Nº21 (bata laboratorio)",
+      "precioBaseUSD": 2.49,
+      "precioFinalMXN": 51,
+      "precioFormateado": "$51.00"
+    },
+    {
+      "nombre": "DRAGON BALL FighterZ - Broly (DBS)",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 51,
       "precioFormateado": "$51.00"
@@ -8216,6 +8186,12 @@
       "precioFormateado": "$51.00"
     },
     {
+      "nombre": "DRAGON BALL FighterZ - Vegito (SSGSS)",
+      "precioBaseUSD": 2.49,
+      "precioFinalMXN": 51,
+      "precioFormateado": "$51.00"
+    },
+    {
       "nombre": "Dying Light - Essentials Edition",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 51,
@@ -8223,18 +8199,6 @@
     },
     {
       "nombre": "EVERSPACE™ - Encounters",
-      "precioBaseUSD": 2.49,
-      "precioFinalMXN": 51,
-      "precioFormateado": "$51.00"
-    },
-    {
-      "nombre": "Gotham Knights: Paquete Visionario",
-      "precioBaseUSD": 2.49,
-      "precioFinalMXN": 51,
-      "precioFormateado": "$51.00"
-    },
-    {
-      "nombre": "Hotline Miami",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 51,
       "precioFormateado": "$51.00"
@@ -8252,7 +8216,7 @@
       "precioFormateado": "$51.00"
     },
     {
-      "nombre": "Pase de temporada de Los Vengadores de LEGO® Marvel",
+      "nombre": "RESIDENT EVIL 7 Grabaciones inéditas Vol. 1",
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 51,
       "precioFormateado": "$51.00"
@@ -8262,42 +8226,6 @@
       "precioBaseUSD": 2.49,
       "precioFinalMXN": 51,
       "precioFormateado": "$51.00"
-    },
-    {
-      "nombre": "Nickelodeon All-Star Brawl 2 - Mr. Krabs Brawl Pack",
-      "precioBaseUSD": 2.44,
-      "precioFinalMXN": 49.98,
-      "precioFormateado": "$49.98"
-    },
-    {
-      "nombre": "Life is Strange 2 - Episodio 2",
-      "precioBaseUSD": 2.39,
-      "precioFinalMXN": 48.95,
-      "precioFormateado": "$48.95"
-    },
-    {
-      "nombre": "Overcooked! 2 - Surf 'n' Turf",
-      "precioBaseUSD": 2.39,
-      "precioFinalMXN": 48.95,
-      "precioFormateado": "$48.95"
-    },
-    {
-      "nombre": "Paquete de Skins Mascarada",
-      "precioBaseUSD": 2.39,
-      "precioFinalMXN": 48.95,
-      "precioFormateado": "$48.95"
-    },
-    {
-      "nombre": "Persona 3 Reload: Conjunto de personas 1 de Persona 5 Royal PS4 & PS5",
-      "precioBaseUSD": 2.39,
-      "precioFinalMXN": 48.95,
-      "precioFormateado": "$48.95"
-    },
-    {
-      "nombre": "Persona 3 Reload: Conjunto de personas 2 de Persona 5 Royal PS4 & PS5",
-      "precioBaseUSD": 2.39,
-      "precioFinalMXN": 48.95,
-      "precioFormateado": "$48.95"
     },
     {
       "nombre": "RER2 - Episodio 2: Contemplación",
@@ -8342,12 +8270,6 @@
       "precioFormateado": "$45.88"
     },
     {
-      "nombre": "Resident Evil 4: Ticket de mejora exclusiva de arma x1 (C)",
-      "precioBaseUSD": 2.24,
-      "precioFinalMXN": 45.88,
-      "precioFormateado": "$45.88"
-    },
-    {
       "nombre": "Resident Evil Village - Traje Street Wolf PS4 & PS5",
       "precioBaseUSD": 2.24,
       "precioFinalMXN": 45.88,
@@ -8360,13 +8282,31 @@
       "precioFormateado": "$45.88"
     },
     {
+      "nombre": "Jurassic World Evolution: Deluxe Dinosaur Pack",
+      "precioBaseUSD": 2.19,
+      "precioFinalMXN": 44.86,
+      "precioFormateado": "$44.86"
+    },
+    {
       "nombre": "Acceso total al contenido extra PS4 & PS5",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.76,
       "precioFormateado": "$40.76"
     },
     {
+      "nombre": "Dark Devotion",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.76,
+      "precioFormateado": "$40.76"
+    },
+    {
       "nombre": "Destiny - The Collection",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.76,
+      "precioFormateado": "$40.76"
+    },
+    {
+      "nombre": "Destiny 2: Eclipse",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.76,
       "precioFormateado": "$40.76"
@@ -8414,7 +8354,7 @@
       "precioFormateado": "$40.76"
     },
     {
-      "nombre": "Psychonauts",
+      "nombre": "Pang Adventures",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.76,
       "precioFormateado": "$40.76"
@@ -8444,6 +8384,12 @@
       "precioFormateado": "$40.76"
     },
     {
+      "nombre": "theHunter: Call of the Wild - Treestand & Tripod Pack",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.76,
+      "precioFormateado": "$40.76"
+    },
+    {
       "nombre": "theHunter: Call of the Wild™ - Bloodhound",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.76,
@@ -8456,13 +8402,13 @@
       "precioFormateado": "$40.76"
     },
     {
-      "nombre": "Metro Exodus - The Two Colonels",
-      "precioBaseUSD": 1.74,
-      "precioFinalMXN": 35.64,
-      "precioFormateado": "$35.64"
+      "nombre": "theHunter: Call of the Wild™ - Modern Rifle Pack",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.76,
+      "precioFormateado": "$40.76"
     },
     {
-      "nombre": "Persona 3 Reload: Conjunto de personas de Persona 4 Golden PS4 & PS5",
+      "nombre": "Warframe: Kit de batalla de Fulmin",
       "precioBaseUSD": 1.59,
       "precioFinalMXN": 32.57,
       "precioFormateado": "$32.57"
@@ -8480,12 +8426,6 @@
       "precioFormateado": "$30.52"
     },
     {
-      "nombre": "Resident Evil 4: Arma deluxe: \"Sentinel Nine\"",
-      "precioBaseUSD": 1.49,
-      "precioFinalMXN": 30.52,
-      "precioFormateado": "$30.52"
-    },
-    {
       "nombre": "Resident Evil 4: Arma deluxe: \"Skull Shaker\"",
       "precioBaseUSD": 1.49,
       "precioFinalMXN": 30.52,
@@ -8496,12 +8436,6 @@
       "precioBaseUSD": 1.49,
       "precioFinalMXN": 30.52,
       "precioFormateado": "$30.52"
-    },
-    {
-      "nombre": "Goat Simulator: Waste of Space",
-      "precioBaseUSD": 1.24,
-      "precioFinalMXN": 25.4,
-      "precioFormateado": "$25.40"
     },
     {
       "nombre": "Ultra Foodmess",
