@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T06:55:36.329Z",
+  "lastUpdated": "2026-07-28T09:56:06.325Z",
   "juegos": [
     {
       "nombre": "Microsoft Flight Simulator 2024 -  Aviator Edition",
@@ -1899,6 +1899,12 @@
     },
     {
       "nombre": "PAQUETE TRIPLE DE EA STAR WARS™",
+      "precioBaseUSD": 22.49,
+      "precioFinalMXN": 460.64,
+      "precioFormateado": "$460.64"
+    },
+    {
+      "nombre": "TopSpin 2K25 Edición Deluxe",
       "precioBaseUSD": 22.49,
       "precioFinalMXN": 460.64,
       "precioFormateado": "$460.64"
@@ -4995,12 +5001,6 @@
     },
     {
       "nombre": "Disco Elysium - The Final Cut",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 204.62,
-      "precioFormateado": "$204.62"
-    },
-    {
-      "nombre": "DOOM: The Dark Ages | Revelations",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.62,
       "precioFormateado": "$204.62"
