@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T06:56:59.187Z",
+  "lastUpdated": "2026-07-29T09:56:25.237Z",
   "juegos": [
     {
       "nombre": "Microsoft Flight Simulator 2024 -  Aviator Edition",
@@ -264,6 +264,12 @@
       "precioBaseUSD": 53.99,
       "precioFinalMXN": 1106.91,
       "precioFormateado": "$1,106.91"
+    },
+    {
+      "nombre": "Warhammer 40,000: Space Marine 2 - Season Pass 1 + 2",
+      "precioBaseUSD": 52.49,
+      "precioFinalMXN": 1076.15,
+      "precioFormateado": "$1,076.15"
     },
     {
       "nombre": "Borderlands 4 Edición Super Deluxe",
@@ -2522,6 +2528,12 @@
       "precioFormateado": "$409.84"
     },
     {
+      "nombre": "RoadCraft – Year 1 Pass",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 409.84,
+      "precioFormateado": "$409.84"
+    },
+    {
       "nombre": "Shin chan: Mi verano con el profesor —La semana infinita—",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 409.84,
@@ -4152,12 +4164,6 @@
       "precioBaseUSD": 13.59,
       "precioFinalMXN": 278.62,
       "precioFormateado": "$278.62"
-    },
-    {
-      "nombre": "¡¡¡Chigau!!!+",
-      "precioBaseUSD": 13.49,
-      "precioFinalMXN": 276.57,
-      "precioFormateado": "$276.57"
     },
     {
       "nombre": "Bratz™: A presumir de estilazo",
@@ -8133,12 +8139,6 @@
     },
     {
       "nombre": "RESIDENT EVIL 7 Grabaciones inéditas Vol. 2",
-      "precioBaseUSD": 3.74,
-      "precioFinalMXN": 76.68,
-      "precioFormateado": "$76.68"
-    },
-    {
-      "nombre": "The Walking Dead: Season Two",
       "precioBaseUSD": 3.74,
       "precioFinalMXN": 76.68,
       "precioFormateado": "$76.68"
