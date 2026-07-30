@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T21:21:33.189Z",
+  "lastUpdated": "2026-07-30T00:30:22.044Z",
   "juegos": [
     {
       "nombre": "Microsoft Flight Simulator 2024 -  Aviator Edition",
@@ -2888,12 +2888,6 @@
       "precioFormateado": "$368.86"
     },
     {
-      "nombre": "Farlands",
-      "precioBaseUSD": 17.99,
-      "precioFinalMXN": 368.86,
-      "precioFormateado": "$368.86"
-    },
-    {
       "nombre": "Fate/EXTELLA LINK — Digital Deluxe Edition",
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 368.86,
@@ -5540,7 +5534,7 @@
       "precioFormateado": "$204.83"
     },
     {
-      "nombre": "The Light Brigade",
+      "nombre": "The Light Brigade: Definitive Edition",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 204.83,
       "precioFormateado": "$204.83"
@@ -8139,6 +8133,12 @@
     },
     {
       "nombre": "RESIDENT EVIL 7 Grabaciones inéditas Vol. 2",
+      "precioBaseUSD": 3.74,
+      "precioFinalMXN": 76.68,
+      "precioFormateado": "$76.68"
+    },
+    {
+      "nombre": "The Walking Dead: Season Two",
       "precioBaseUSD": 3.74,
       "precioFinalMXN": 76.68,
       "precioFormateado": "$76.68"
