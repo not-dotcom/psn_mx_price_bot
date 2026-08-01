@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T21:27:00.757Z",
+  "lastUpdated": "2026-08-01T00:32:44.314Z",
   "juegos": [
     {
       "nombre": "Edición Attitude Era de WWE 2K26",
@@ -3369,12 +3369,6 @@
     },
     {
       "nombre": "Fallout 76",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 203.63,
-      "precioFormateado": "$203.63"
-    },
-    {
-      "nombre": "Fortnite: Paquete Leyendas de verano",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 203.63,
       "precioFormateado": "$203.63"
@@ -7070,6 +7064,12 @@
       "precioFormateado": "$48.72"
     },
     {
+      "nombre": "9-Ball Pocket",
+      "precioBaseUSD": 2.39,
+      "precioFinalMXN": 48.72,
+      "precioFormateado": "$48.72"
+    },
+    {
       "nombre": "Life is Strange 2 - Episodio 2",
       "precioBaseUSD": 2.39,
       "precioFinalMXN": 48.72,
@@ -7965,6 +7965,12 @@
     },
     {
       "nombre": "99 Moves",
+      "precioBaseUSD": 1.19,
+      "precioFinalMXN": 24.26,
+      "precioFormateado": "$24.26"
+    },
+    {
+      "nombre": "99 Seconds",
       "precioBaseUSD": 1.19,
       "precioFinalMXN": 24.26,
       "precioFormateado": "$24.26"
