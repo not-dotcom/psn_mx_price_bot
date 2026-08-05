@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T05:44:09.229Z",
+  "lastUpdated": "2026-08-05T08:29:50.097Z",
   "juegos": [
     {
       "nombre": "DRAGON BALL: Sparking! ZERO Edición Legendaria",
@@ -417,6 +417,12 @@
     },
     {
       "nombre": "FAIRY TAIL 2 Digital Deluxe (PS4 & PS5)",
+      "precioBaseUSD": 39.99,
+      "precioFinalMXN": 811.24,
+      "precioFormateado": "$811.24"
+    },
+    {
+      "nombre": "Garten of Banban Bundle: 0 + 1 + 2 + 3 + 4 + 6 + 7 + 8",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 811.24,
       "precioFormateado": "$811.24"
@@ -1977,6 +1983,12 @@
     },
     {
       "nombre": "Planet Zoo: Edición Deluxe",
+      "precioBaseUSD": 17.99,
+      "precioFinalMXN": 364.95,
+      "precioFormateado": "$364.95"
+    },
+    {
+      "nombre": "RoboCop: Rogue City - Alex Murphy Edition",
       "precioBaseUSD": 17.99,
       "precioFinalMXN": 364.95,
       "precioFormateado": "$364.95"
@@ -3615,6 +3627,12 @@
     },
     {
       "nombre": "Colección de Arcade de Blizzard®",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 202.66,
+      "precioFormateado": "$202.66"
+    },
+    {
+      "nombre": "Crown Wars: The Black Prince",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 202.66,
       "precioFormateado": "$202.66"
@@ -5324,12 +5342,6 @@
       "precioFormateado": "$121.51"
     },
     {
-      "nombre": "Beholder 3",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 121.51,
-      "precioFormateado": "$121.51"
-    },
-    {
       "nombre": "CATAN® - Edición para consolas Super Deluxe",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 121.51,
@@ -6914,12 +6926,6 @@
       "precioFormateado": "$80.94"
     },
     {
-      "nombre": "Sushi Break Mega Game Bundle",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 80.94,
-      "precioFormateado": "$80.94"
-    },
-    {
       "nombre": "The Evil Within Season Pass",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 80.94,
@@ -6999,12 +7005,6 @@
     },
     {
       "nombre": "theHunter: Call of the Wild™ - Te Awaroa National Park",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 80.94,
-      "precioFormateado": "$80.94"
-    },
-    {
-      "nombre": "Unicorn Break Mega Bundle",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 80.94,
       "precioFormateado": "$80.94"
@@ -8282,12 +8282,6 @@
       "precioFormateado": "$40.37"
     },
     {
-      "nombre": "Runny Bunny PS4 & PS5",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.37,
-      "precioFormateado": "$40.37"
-    },
-    {
       "nombre": "The Evil Within - The Assignment",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.37,
@@ -8295,12 +8289,6 @@
     },
     {
       "nombre": "The Evil Within - The Consequence",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.37,
-      "precioFormateado": "$40.37"
-    },
-    {
-      "nombre": "The Last Oricru - Final Cut",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.37,
       "precioFormateado": "$40.37"
