@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T04:53:10.532Z",
+  "lastUpdated": "2026-08-07T07:08:41.659Z",
   "juegos": [
     {
       "nombre": "DRAGON BALL: Sparking! ZERO Edición Legendaria",
@@ -530,6 +530,12 @@
       "precioFormateado": "$777.16"
     },
     {
+      "nombre": "Age of Wonders 4: Starter Edition",
+      "precioBaseUSD": 35.99,
+      "precioFinalMXN": 728.57,
+      "precioFormateado": "$728.57"
+    },
+    {
       "nombre": "Crash Team Rumble™ + Crash Bandicoot™ 4: It’s About Time",
       "precioBaseUSD": 35.99,
       "precioFinalMXN": 728.57,
@@ -836,12 +842,6 @@
       "precioFormateado": "$607.11"
     },
     {
-      "nombre": "SAMURAI WARRIORS 4",
-      "precioBaseUSD": 29.99,
-      "precioFinalMXN": 607.11,
-      "precioFormateado": "$607.11"
-    },
-    {
       "nombre": "SAND LAND PS4 y PS5",
       "precioBaseUSD": 29.99,
       "precioFinalMXN": 607.11,
@@ -1005,6 +1005,12 @@
     },
     {
       "nombre": "TEKKEN 8 Advanced Edition",
+      "precioBaseUSD": 27.49,
+      "precioFinalMXN": 556.5,
+      "precioFormateado": "$556.50"
+    },
+    {
+      "nombre": "The Caligula Effect: Overdose",
       "precioBaseUSD": 27.49,
       "precioFinalMXN": 556.5,
       "precioFormateado": "$556.50"
@@ -2408,6 +2414,12 @@
       "precioFormateado": "$303.45"
     },
     {
+      "nombre": "DRIFTCE",
+      "precioBaseUSD": 14.99,
+      "precioFinalMXN": 303.45,
+      "precioFormateado": "$303.45"
+    },
+    {
       "nombre": "Edición Oro de Call of Duty®: Ghosts",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 303.45,
@@ -2727,12 +2739,6 @@
     },
     {
       "nombre": "Dying Light 2 Stay Human: Digital Extras Edition PS5",
-      "precioBaseUSD": 13.99,
-      "precioFinalMXN": 283.21,
-      "precioFormateado": "$283.21"
-    },
-    {
-      "nombre": "DYNASTY WARRIORS: ORIGINS Libro oficial y Banda sonora original (edición digital)",
       "precioBaseUSD": 13.99,
       "precioFinalMXN": 283.21,
       "precioFormateado": "$283.21"
@@ -3536,6 +3542,12 @@
       "precioFormateado": "$202.44"
     },
     {
+      "nombre": "- Siblings Role-play - 姉恋ごっこ",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 202.23,
+      "precioFormateado": "$202.23"
+    },
+    {
       "nombre": "Atelier Meruru ~The Apprentice of Arland~ DX",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 202.23,
@@ -4328,6 +4340,12 @@
       "precioFormateado": "$181.99"
     },
     {
+      "nombre": "Wreckfest",
+      "precioBaseUSD": 8.99,
+      "precioFinalMXN": 181.99,
+      "precioFormateado": "$181.99"
+    },
+    {
       "nombre": "Yooka-Laylee and the Impossible Lair",
       "precioBaseUSD": 8.99,
       "precioFinalMXN": 181.99,
@@ -4647,6 +4665,12 @@
     },
     {
       "nombre": "Prey: Digital Deluxe Edition",
+      "precioBaseUSD": 7.99,
+      "precioFinalMXN": 161.75,
+      "precioFormateado": "$161.75"
+    },
+    {
+      "nombre": "Prey: Mooncrash",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 161.75,
       "precioFormateado": "$161.75"
@@ -5205,12 +5229,6 @@
     },
     {
       "nombre": "Tiny Tina's Wonderlands: Edición Siguiente nivel",
-      "precioBaseUSD": 6.99,
-      "precioFinalMXN": 141.5,
-      "precioFormateado": "$141.50"
-    },
-    {
-      "nombre": "Unholy",
       "precioBaseUSD": 6.99,
       "precioFinalMXN": 141.5,
       "precioFormateado": "$141.50"
@@ -7136,6 +7154,12 @@
       "precioFormateado": "$72.68"
     },
     {
+      "nombre": "Aeon Attack",
+      "precioBaseUSD": 3.49,
+      "precioFinalMXN": 70.65,
+      "precioFormateado": "$70.65"
+    },
+    {
       "nombre": "Berserk: Lote de caballos extra",
       "precioBaseUSD": 3.49,
       "precioFinalMXN": 70.65,
@@ -8241,24 +8265,6 @@
     },
     {
       "nombre": "NTBSS: Paquete de entrenamiento personaje maestro: Sasuke Uchiha (vers. joven, batalla final)",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.29,
-      "precioFormateado": "$40.29"
-    },
-    {
-      "nombre": "Panic Porcupine",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.29,
-      "precioFormateado": "$40.29"
-    },
-    {
-      "nombre": "Paquete de entrenamiento personaje maestro de NTBSS: Naruto Uzumaki (vers. joven)",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.29,
-      "precioFormateado": "$40.29"
-    },
-    {
-      "nombre": "Relicta",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.29,
       "precioFormateado": "$40.29"
