@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T21:36:11.182Z",
+  "lastUpdated": "2026-08-08T01:13:13.251Z",
   "juegos": [
     {
       "nombre": "DRAGON BALL: Sparking! ZERO Edición Legendaria",
@@ -42,12 +42,6 @@
       "precioBaseUSD": 71.99,
       "precioFinalMXN": 1449.3,
       "precioFormateado": "$1,449.30"
-    },
-    {
-      "nombre": "Atelier Resleriana: The Red Alchemist & the White Guardian Ultimate Edition",
-      "precioBaseUSD": 64.99,
-      "precioFinalMXN": 1308.37,
-      "precioFormateado": "$1,308.37"
     },
     {
       "nombre": "Battlefield™ 6 Phantom Edition",
@@ -273,6 +267,12 @@
     },
     {
       "nombre": "Bob Esponja: Bikini Bottom Bundle",
+      "precioBaseUSD": 44.99,
+      "precioFinalMXN": 905.73,
+      "precioFormateado": "$905.73"
+    },
+    {
+      "nombre": "Daemon X Machina: Titanic Scion - Edición digital deluxe",
       "precioBaseUSD": 44.99,
       "precioFinalMXN": 905.73,
       "precioFormateado": "$905.73"
@@ -1059,12 +1059,6 @@
     },
     {
       "nombre": "The Caligula Effect 2 Digital Deluxe Edition",
-      "precioBaseUSD": 25.99,
-      "precioFinalMXN": 523.23,
-      "precioFormateado": "$523.23"
-    },
-    {
-      "nombre": "The Red Alchemist & the White Guardian - Atelier Season Pass",
       "precioBaseUSD": 25.99,
       "precioFinalMXN": 523.23,
       "precioFormateado": "$523.23"
@@ -2079,12 +2073,6 @@
     },
     {
       "nombre": "Mighty Morphin Power Rangers: Rita's Rewind",
-      "precioBaseUSD": 17.49,
-      "precioFinalMXN": 352.11,
-      "precioFormateado": "$352.11"
-    },
-    {
-      "nombre": "Planet of Lana II - Supporter Edition",
       "precioBaseUSD": 17.49,
       "precioFinalMXN": 352.11,
       "precioFormateado": "$352.11"
@@ -3416,6 +3404,12 @@
       "precioFormateado": "$226.28"
     },
     {
+      "nombre": "MX vs ATV Legends - 2026 Kawasaki Loyalty Bundle",
+      "precioBaseUSD": 11.24,
+      "precioFinalMXN": 226.28,
+      "precioFormateado": "$226.28"
+    },
+    {
       "nombre": "Jurassic World Evolution 3: Pack de mejoras Deluxe",
       "precioBaseUSD": 11.04,
       "precioFinalMXN": 222.26,
@@ -4077,12 +4071,6 @@
     },
     {
       "nombre": "Car Dealer Garage Simulator 2026",
-      "precioBaseUSD": 9.74,
-      "precioFinalMXN": 196.08,
-      "precioFormateado": "$196.08"
-    },
-    {
-      "nombre": "Educational Games for Kids",
       "precioBaseUSD": 9.74,
       "precioFinalMXN": 196.08,
       "precioFormateado": "$196.08"
@@ -5696,12 +5684,6 @@
       "precioFormateado": "$120.59"
     },
     {
-      "nombre": "Skull and Bones Deluxe Edition",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 120.59,
-      "precioFormateado": "$120.59"
-    },
-    {
       "nombre": "Sniper Elite VR",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 120.59,
@@ -6345,12 +6327,6 @@
     },
     {
       "nombre": "Police Simulator: Patrol Officers: Accident Pack",
-      "precioBaseUSD": 4.89,
-      "precioFinalMXN": 98.45,
-      "precioFormateado": "$98.45"
-    },
-    {
-      "nombre": "Police Simulator: Patrol Officers: Vehicle Customization Pack",
       "precioBaseUSD": 4.89,
       "precioFinalMXN": 98.45,
       "precioFormateado": "$98.45"
@@ -8204,6 +8180,12 @@
       "precioFormateado": "$40.06"
     },
     {
+      "nombre": "Lulu's Temple PS4® & PS5®",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.06,
+      "precioFormateado": "$40.06"
+    },
+    {
       "nombre": "Magic Exposure - Yuri Visual Novel PS4 & PS5",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.06,
@@ -8265,6 +8247,24 @@
     },
     {
       "nombre": "NTBSS: Paquete de entrenamiento personaje maestro: Sasuke Uchiha (vers. joven, batalla final)",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.06,
+      "precioFormateado": "$40.06"
+    },
+    {
+      "nombre": "Panic Porcupine",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.06,
+      "precioFormateado": "$40.06"
+    },
+    {
+      "nombre": "Paquete de entrenamiento personaje maestro de NTBSS: Naruto Uzumaki (vers. joven)",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.06,
+      "precioFormateado": "$40.06"
+    },
+    {
+      "nombre": "Relicta",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.06,
       "precioFormateado": "$40.06"
