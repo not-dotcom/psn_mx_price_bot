@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T04:17:26.056Z",
+  "lastUpdated": "2026-08-11T06:59:29.805Z",
   "juegos": [
     {
       "nombre": "DRAGON BALL: Sparking! ZERO Edición Legendaria",
@@ -236,12 +236,6 @@
       "precioFormateado": "$965.91"
     },
     {
-      "nombre": "The Legend of Heroes: Trails beyond the Horizon",
-      "precioBaseUSD": 47.99,
-      "precioFinalMXN": 965.91,
-      "precioFormateado": "$965.91"
-    },
-    {
       "nombre": "The Legend of Heroes: Trails through Daybreak",
       "precioBaseUSD": 47.99,
       "precioFinalMXN": 965.91,
@@ -285,12 +279,6 @@
     },
     {
       "nombre": "REANIMAL – Digital Deluxe Edition",
-      "precioBaseUSD": 44.99,
-      "precioFinalMXN": 905.53,
-      "precioFormateado": "$905.53"
-    },
-    {
-      "nombre": "Styx: Blades of Greed - Quartz Edition",
       "precioBaseUSD": 44.99,
       "precioFinalMXN": 905.53,
       "precioFormateado": "$905.53"
@@ -1034,12 +1022,6 @@
       "precioFormateado": "$523.11"
     },
     {
-      "nombre": "Fate/Samurai Remnant(PS4 & PS5)",
-      "precioBaseUSD": 25.99,
-      "precioFinalMXN": 523.11,
-      "precioFormateado": "$523.11"
-    },
-    {
       "nombre": "The Caligula Effect 2 Digital Deluxe Edition",
       "precioBaseUSD": 25.99,
       "precioFinalMXN": 523.11,
@@ -1329,12 +1311,6 @@
     },
     {
       "nombre": "TIEBREAK+ Ace Edition",
-      "precioBaseUSD": 23.99,
-      "precioFinalMXN": 482.86,
-      "precioFormateado": "$482.86"
-    },
-    {
-      "nombre": "UBOAT",
       "precioBaseUSD": 23.99,
       "precioFinalMXN": 482.86,
       "precioFormateado": "$482.86"
@@ -2685,12 +2661,6 @@
     },
     {
       "nombre": "Yasha: Leyendas de la Espada Demoníaca",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 301.71,
-      "precioFormateado": "$301.71"
-    },
-    {
-      "nombre": "Zombie Graveyard Simulator",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 301.71,
       "precioFormateado": "$301.71"
@@ -4586,12 +4556,6 @@
       "precioFormateado": "$160.82"
     },
     {
-      "nombre": "Mercenaries Rebirth: Call of the Wild Lynx",
-      "precioBaseUSD": 7.99,
-      "precioFinalMXN": 160.82,
-      "precioFormateado": "$160.82"
-    },
-    {
       "nombre": "Metal Eden",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 160.82,
@@ -4820,13 +4784,13 @@
       "precioFormateado": "$150.75"
     },
     {
-      "nombre": "Conan Exiles - Pack La frontera salvaje",
+      "nombre": "Conan Exiles - Pack Tesoros de Turán",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 150.75,
       "precioFormateado": "$150.75"
     },
     {
-      "nombre": "Conan Exiles - Pack Tesoros de Turán",
+      "nombre": "Conan Exiles – Pack El pueblo del dragón",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 150.75,
       "precioFormateado": "$150.75"
@@ -5810,6 +5774,12 @@
       "precioFormateado": "$120.56"
     },
     {
+      "nombre": "Valkyria Revolution",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 120.56,
+      "precioFormateado": "$120.56"
+    },
+    {
       "nombre": "Wo Long: Fallen Dynasty Batalla de Zhongyuan",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 120.56,
@@ -5850,12 +5820,6 @@
       "precioBaseUSD": 5.39,
       "precioFinalMXN": 108.49,
       "precioFormateado": "$108.49"
-    },
-    {
-      "nombre": "Accident",
-      "precioBaseUSD": 5.24,
-      "precioFinalMXN": 105.47,
-      "precioFormateado": "$105.47"
     },
     {
       "nombre": "Far Cry® Primal - Digital Apex Edition",
@@ -6476,6 +6440,12 @@
       "precioFormateado": "$90.37"
     },
     {
+      "nombre": "Project Warlock",
+      "precioBaseUSD": 4.49,
+      "precioFinalMXN": 90.37,
+      "precioFormateado": "$90.37"
+    },
+    {
       "nombre": "RiMS Racing",
       "precioBaseUSD": 4.49,
       "precioFinalMXN": 90.37,
@@ -6645,6 +6615,12 @@
     },
     {
       "nombre": "Dragon Ball Xenoverse 2 - Ultra Pack 2",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 80.31,
+      "precioFormateado": "$80.31"
+    },
+    {
+      "nombre": "Drawful 2",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 80.31,
       "precioFormateado": "$80.31"
@@ -6932,12 +6908,6 @@
       "precioFormateado": "$80.31"
     },
     {
-      "nombre": "Sun, Sand & Monster Slayers",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 80.31,
-      "precioFormateado": "$80.31"
-    },
-    {
       "nombre": "Surgeon Simulator: Experience Reality",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 80.31,
@@ -7106,12 +7076,6 @@
       "precioFormateado": "$75.28"
     },
     {
-      "nombre": "Eiyuden Chronicle: Rising",
-      "precioBaseUSD": 3.74,
-      "precioFinalMXN": 75.28,
-      "precioFormateado": "$75.28"
-    },
-    {
       "nombre": "Guacamelee! Super Turbo Championship Edition",
       "precioBaseUSD": 3.74,
       "precioFinalMXN": 75.28,
@@ -7197,6 +7161,12 @@
     },
     {
       "nombre": "JoJo's Bizarre Adventure: All-Star Battle R - Wonder of U",
+      "precioBaseUSD": 3.49,
+      "precioFinalMXN": 70.24,
+      "precioFormateado": "$70.24"
+    },
+    {
+      "nombre": "Märchen Forest",
       "precioBaseUSD": 3.49,
       "precioFinalMXN": 70.24,
       "precioFormateado": "$70.24"
@@ -7353,12 +7323,6 @@
     },
     {
       "nombre": "1989 After the War PS4® & PS5®",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 60.18,
-      "precioFormateado": "$60.18"
-    },
-    {
-      "nombre": "Argonauts Agency Bundle Vol.2",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 60.18,
       "precioFormateado": "$60.18"
@@ -7664,6 +7628,12 @@
       "precioFormateado": "$60.18"
     },
     {
+      "nombre": "Windbound",
+      "precioBaseUSD": 2.99,
+      "precioFinalMXN": 60.18,
+      "precioFormateado": "$60.18"
+    },
+    {
       "nombre": "Wing of Darkness",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 60.18,
@@ -7671,12 +7641,6 @@
     },
     {
       "nombre": "Worms Rumble PS4 & PS5",
-      "precioBaseUSD": 2.99,
-      "precioFinalMXN": 60.18,
-      "precioFormateado": "$60.18"
-    },
-    {
-      "nombre": "Wreckfest PlayStation®5 Version - Season Pass 2",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 60.18,
       "precioFormateado": "$60.18"
@@ -8024,12 +7988,6 @@
       "precioFormateado": "$44.08"
     },
     {
-      "nombre": "XEL - Complete Edition",
-      "precioBaseUSD": 2.19,
-      "precioFinalMXN": 44.08,
-      "precioFormateado": "$44.08"
-    },
-    {
       "nombre": "Mutant Football League: Werewolf Rampage Pack",
       "precioBaseUSD": 2.09,
       "precioFinalMXN": 42.07,
@@ -8073,12 +8031,6 @@
     },
     {
       "nombre": "Bonificación de mes 1 SWORD ART ONLINE Alicization Lycoris",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 40.05,
-      "precioFormateado": "$40.05"
-    },
-    {
-      "nombre": "Bumballon",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.05,
       "precioFormateado": "$40.05"
@@ -8216,6 +8168,30 @@
       "precioFormateado": "$40.05"
     },
     {
+      "nombre": "MY HERO ONE'S JUSTICE 2 - DLC 4: Tetsutetsu Tetsutetsu",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.05,
+      "precioFormateado": "$40.05"
+    },
+    {
+      "nombre": "MY HERO ONE'S JUSTICE 2 - DLC 6 Hitoshi Shinso",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.05,
+      "precioFormateado": "$40.05"
+    },
+    {
+      "nombre": "MY HERO ONE'S JUSTICE 2 - DLC 7 Present Mic",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.05,
+      "precioFormateado": "$40.05"
+    },
+    {
+      "nombre": "MY HERO ONE'S JUSTICE 2 - DLC 8 Kurogiri",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.05,
+      "precioFormateado": "$40.05"
+    },
+    {
       "nombre": "Neon Abyss - Alter Ego",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.05,
@@ -8228,7 +8204,37 @@
       "precioFormateado": "$40.05"
     },
     {
+      "nombre": "NTBSS Paquete de entrenamiento de personaje maestro - Isshiki Otsutsuki",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.05,
+      "precioFormateado": "$40.05"
+    },
+    {
+      "nombre": "NTBSS Paquete de entrenamiento personaje maestro Madara Uchiha (Seis caminos)",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.05,
+      "precioFormateado": "$40.05"
+    },
+    {
+      "nombre": "NTBSS Paquete de entrenamiento personaje maestro Naruto Uzumaki (modo Baryon)",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.05,
+      "precioFormateado": "$40.05"
+    },
+    {
       "nombre": "NTBSS: Master Character Training Pack - Konohamaru Sarutobi (BORUTO)",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.05,
+      "precioFormateado": "$40.05"
+    },
+    {
+      "nombre": "NTBSS: Paq. entrenamiento de maestro: Might Guy",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.05,
+      "precioFormateado": "$40.05"
+    },
+    {
+      "nombre": "NTBSS: Paq. entrenamiento de maestro: Sasuke Uchiha (Boruto)",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.05,
       "precioFormateado": "$40.05"
