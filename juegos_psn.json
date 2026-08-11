@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T21:38:45.168Z",
+  "lastUpdated": "2026-08-11T01:18:03.657Z",
   "juegos": [
     {
       "nombre": "DRAGON BALL: Sparking! ZERO Edición Legendaria",
@@ -18,12 +18,6 @@
       "precioBaseUSD": 89.99,
       "precioFinalMXN": 1811.26,
       "precioFormateado": "$1,811.26"
-    },
-    {
-      "nombre": "Nioh 3 Digital Deluxe Edition",
-      "precioBaseUSD": 84.69,
-      "precioFinalMXN": 1704.59,
-      "precioFormateado": "$1,704.59"
     },
     {
       "nombre": "DRAGON BALL: Sparking! ZERO - Edición Super Limit-Breaking NEO",
@@ -1388,6 +1382,12 @@
       "precioFormateado": "$452.67"
     },
     {
+      "nombre": "Space Adventure Cobra - The Awakening - Gold Edition",
+      "precioBaseUSD": 22.49,
+      "precioFinalMXN": 452.67,
+      "precioFormateado": "$452.67"
+    },
+    {
       "nombre": "TopSpin 2K25 Edición Deluxe",
       "precioBaseUSD": 22.49,
       "precioFinalMXN": 452.67,
@@ -1737,12 +1737,6 @@
     },
     {
       "nombre": "STORY OF SEASONS: A Wonderful life",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 402.35,
-      "precioFormateado": "$402.35"
-    },
-    {
-      "nombre": "SWORD ART ONLINE: Hollow Realization Deluxe Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 402.35,
       "precioFormateado": "$402.35"
@@ -4820,12 +4814,6 @@
       "precioFormateado": "$150.75"
     },
     {
-      "nombre": "Alphadia Genesis 2",
-      "precioBaseUSD": 7.49,
-      "precioFinalMXN": 150.75,
-      "precioFormateado": "$150.75"
-    },
-    {
       "nombre": "Armed Emeth",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 150.75,
@@ -5174,12 +5162,6 @@
       "precioFormateado": "$140.69"
     },
     {
-      "nombre": "Blair Witch Deluxe Edition",
-      "precioBaseUSD": 6.99,
-      "precioFinalMXN": 140.69,
-      "precioFormateado": "$140.69"
-    },
-    {
       "nombre": "Borderlands 3: Next Level Edition PS4™ &  PS5™",
       "precioBaseUSD": 6.99,
       "precioFinalMXN": 140.69,
@@ -5457,12 +5439,6 @@
     },
     {
       "nombre": "Chronos: Before the Ashes",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 120.56,
-      "precioFormateado": "$120.56"
-    },
-    {
-      "nombre": "Cobra Kai 2: Dojos Rising - Nemesis Edition",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 120.56,
       "precioFormateado": "$120.56"
@@ -5781,6 +5757,12 @@
     },
     {
       "nombre": "Sherlock Holmes Chapter One Edición Deluxe",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 120.56,
+      "precioFormateado": "$120.56"
+    },
+    {
+      "nombre": "Skull and Bones Deluxe Edition",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 120.56,
       "precioFormateado": "$120.56"
@@ -6806,12 +6788,6 @@
       "precioFormateado": "$80.31"
     },
     {
-      "nombre": "Metro Simulator",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 80.31,
-      "precioFormateado": "$80.31"
-    },
-    {
       "nombre": "MK1: Conan el bárbaro",
       "precioBaseUSD": 3.99,
       "precioFinalMXN": 80.31,
@@ -7436,12 +7412,6 @@
       "precioFormateado": "$64.21"
     },
     {
-      "nombre": "SHIKA-Q",
-      "precioBaseUSD": 3.19,
-      "precioFinalMXN": 64.21,
-      "precioFormateado": "$64.21"
-    },
-    {
       "nombre": "The Exit 8",
       "precioBaseUSD": 3.19,
       "precioFinalMXN": 64.21,
@@ -7461,6 +7431,12 @@
     },
     {
       "nombre": "1989 After the War PS4® & PS5®",
+      "precioBaseUSD": 2.99,
+      "precioFinalMXN": 60.18,
+      "precioFormateado": "$60.18"
+    },
+    {
+      "nombre": "Argonauts Agency Bundle Vol.2",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 60.18,
       "precioFormateado": "$60.18"
@@ -7743,6 +7719,12 @@
     },
     {
       "nombre": "V-Rally 4",
+      "precioBaseUSD": 2.99,
+      "precioFinalMXN": 60.18,
+      "precioFormateado": "$60.18"
+    },
+    {
+      "nombre": "Wall World",
       "precioBaseUSD": 2.99,
       "precioFinalMXN": 60.18,
       "precioFormateado": "$60.18"
@@ -8156,6 +8138,12 @@
       "precioFormateado": "$40.25"
     },
     {
+      "nombre": "ARCADE GAME SERIES: GALAGA",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.05,
+      "precioFormateado": "$40.05"
+    },
+    {
       "nombre": "Assetto Corsa: contenido descargable Paquete japonés",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.05,
@@ -8169,6 +8157,18 @@
     },
     {
       "nombre": "Blade Runner Enhanced Edition",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.05,
+      "precioFormateado": "$40.05"
+    },
+    {
+      "nombre": "Bonificación de mes 1 SWORD ART ONLINE Alicization Lycoris",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 40.05,
+      "precioFormateado": "$40.05"
+    },
+    {
+      "nombre": "Bumballon",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 40.05,
       "precioFormateado": "$40.05"
