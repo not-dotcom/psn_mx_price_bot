@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T15:57:29.872Z",
+  "lastUpdated": "2026-08-12T18:56:54.327Z",
   "juegos": [
     {
       "nombre": "DRAGON BALL: Sparking! ZERO Edición Legendaria",
@@ -405,12 +405,6 @@
     },
     {
       "nombre": "Metaphor: ReFantazio - Edición digital del 35.º aniversario de Atlus para PS4 y PS5",
-      "precioBaseUSD": 39.99,
-      "precioFinalMXN": 800.73,
-      "precioFormateado": "$800.73"
-    },
-    {
-      "nombre": "Mistfall Hunter - Edición deluxe",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 800.73,
       "precioFormateado": "$800.73"
@@ -1119,12 +1113,6 @@
     },
     {
       "nombre": "Metal: Hellsinger - Complete Edition",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 500.38,
-      "precioFormateado": "$500.38"
-    },
-    {
-      "nombre": "Mistfall Hunter",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 500.38,
       "precioFormateado": "$500.38"
@@ -2499,12 +2487,6 @@
     },
     {
       "nombre": "MELTY BLOOD: TYPE LUMINA",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 300.15,
-      "precioFormateado": "$300.15"
-    },
-    {
-      "nombre": "Mistfall Hunter - Mejora a la edición deluxe",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 300.15,
       "precioFormateado": "$300.15"
@@ -8222,6 +8204,12 @@
       "precioFormateado": "$39.85"
     },
     {
+      "nombre": "MY HERO ONE'S JUSTICE 2 - DLC 8 Kurogiri",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 39.85,
+      "precioFormateado": "$39.85"
+    },
+    {
       "nombre": "Neon Abyss - Alter Ego",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 39.85,
@@ -8235,6 +8223,18 @@
     },
     {
       "nombre": "NTBSS: Master Character Training Pack - Konohamaru Sarutobi (BORUTO)",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 39.85,
+      "precioFormateado": "$39.85"
+    },
+    {
+      "nombre": "NTBSS: Paq. entrenamiento de maestro: Might Guy",
+      "precioBaseUSD": 1.99,
+      "precioFinalMXN": 39.85,
+      "precioFormateado": "$39.85"
+    },
+    {
+      "nombre": "NTBSS: Paq. entrenamiento de maestro: Sasuke Uchiha (Boruto)",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 39.85,
       "precioFormateado": "$39.85"
