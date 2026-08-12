@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T04:45:57.309Z",
+  "lastUpdated": "2026-08-12T07:18:34.701Z",
   "juegos": [
     {
       "nombre": "DRAGON BALL: Sparking! ZERO Edición Legendaria",
@@ -1448,6 +1448,12 @@
       "precioFormateado": "$421.77"
     },
     {
+      "nombre": "MELTY BLOOD: TYPE LUMINA - Deluxe Edition",
+      "precioBaseUSD": 20.99,
+      "precioFinalMXN": 421.77,
+      "precioFormateado": "$421.77"
+    },
+    {
       "nombre": "Mortal Kombat™ 1: Edición Definitiva",
       "precioBaseUSD": 20.99,
       "precioFinalMXN": 421.77,
@@ -1527,6 +1533,12 @@
     },
     {
       "nombre": "Atelier Marie Remake: The Alchemist of Salburg (PS4 & PS5)",
+      "precioBaseUSD": 19.99,
+      "precioFinalMXN": 401.68,
+      "precioFormateado": "$401.68"
+    },
+    {
+      "nombre": "Atelier Sophie: The Alchemist of the Mysterious Book DX",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 401.68,
       "precioFormateado": "$401.68"
@@ -2799,12 +2811,6 @@
     },
     {
       "nombre": "FINAL FANTASY XV ROYAL EDITION",
-      "precioBaseUSD": 13.99,
-      "precioFinalMXN": 281.11,
-      "precioFormateado": "$281.11"
-    },
-    {
-      "nombre": "Garten of Banban Bundle: 1 + 2 + 3 + 4",
       "precioBaseUSD": 13.99,
       "precioFinalMXN": 281.11,
       "precioFormateado": "$281.11"
@@ -4970,6 +4976,12 @@
       "precioFormateado": "$144.47"
     },
     {
+      "nombre": "Strike Force 2 - Terrorist Hunt",
+      "precioBaseUSD": 7.19,
+      "precioFinalMXN": 144.47,
+      "precioFormateado": "$144.47"
+    },
+    {
       "nombre": "United Assault - World War 2",
       "precioBaseUSD": 7.19,
       "precioFinalMXN": 144.47,
@@ -5672,6 +5684,12 @@
       "precioFormateado": "$120.36"
     },
     {
+      "nombre": "Starsand",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 120.36,
+      "precioFormateado": "$120.36"
+    },
+    {
       "nombre": "Stubs™ (11 000) para MLB® The Show™ 26",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 120.36,
@@ -6146,12 +6164,6 @@
       "precioFormateado": "$100.27"
     },
     {
-      "nombre": "Sakura Succubus 7 PS4™ & PS5®",
-      "precioBaseUSD": 4.99,
-      "precioFinalMXN": 100.27,
-      "precioFormateado": "$100.27"
-    },
-    {
       "nombre": "Shakedown: Hawaii",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 100.27,
@@ -6165,6 +6177,12 @@
     },
     {
       "nombre": "STAR WARS™ Battlefront™ II",
+      "precioBaseUSD": 4.99,
+      "precioFinalMXN": 100.27,
+      "precioFormateado": "$100.27"
+    },
+    {
+      "nombre": "Super Mega Baseball™ 4",
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 100.27,
       "precioFormateado": "$100.27"
@@ -6453,6 +6471,12 @@
     },
     {
       "nombre": "Taxi Life - Supporter Pack",
+      "precioBaseUSD": 4.49,
+      "precioFinalMXN": 90.22,
+      "precioFormateado": "$90.22"
+    },
+    {
+      "nombre": "Two Point Campus",
       "precioBaseUSD": 4.49,
       "precioFinalMXN": 90.22,
       "precioFormateado": "$90.22"
@@ -8198,18 +8222,6 @@
       "precioFormateado": "$39.99"
     },
     {
-      "nombre": "MY HERO ONE'S JUSTICE 2 - DLC 7 Present Mic",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 39.99,
-      "precioFormateado": "$39.99"
-    },
-    {
-      "nombre": "MY HERO ONE'S JUSTICE 2 - DLC 8 Kurogiri",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 39.99,
-      "precioFormateado": "$39.99"
-    },
-    {
       "nombre": "Neon Abyss - Alter Ego",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 39.99,
@@ -8223,12 +8235,6 @@
     },
     {
       "nombre": "NTBSS: Master Character Training Pack - Konohamaru Sarutobi (BORUTO)",
-      "precioBaseUSD": 1.99,
-      "precioFinalMXN": 39.99,
-      "precioFormateado": "$39.99"
-    },
-    {
-      "nombre": "NTBSS: Paq. entrenamiento de maestro: Might Guy",
       "precioBaseUSD": 1.99,
       "precioFinalMXN": 39.99,
       "precioFormateado": "$39.99"
