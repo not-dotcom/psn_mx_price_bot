@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T21:42:28.736Z",
+  "lastUpdated": "2026-08-13T01:28:16.321Z",
   "juegos": [
     {
       "nombre": "DRAGON BALL: Sparking! ZERO Edición Legendaria",
@@ -1502,6 +1502,12 @@
       "precioFormateado": "$420.29"
     },
     {
+      "nombre": "Two Point Hospital: JUMBO Edition",
+      "precioBaseUSD": 20.09,
+      "precioFinalMXN": 402.27,
+      "precioFormateado": "$402.27"
+    },
+    {
       "nombre": "ACE COMBAT™7: SKIES UNKNOWN - TOP GUN: Maverick Ultimate Edition",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 400.26,
@@ -1922,12 +1928,6 @@
       "precioFormateado": "$375.24"
     },
     {
-      "nombre": "MX vs ATV Legends - 2026 Yamaha Loyalty Bundle",
-      "precioBaseUSD": 18.74,
-      "precioFinalMXN": 375.24,
-      "precioFormateado": "$375.24"
-    },
-    {
       "nombre": "The Mortuary Assistant",
       "precioBaseUSD": 18.74,
       "precioFinalMXN": 375.24,
@@ -2241,6 +2241,12 @@
     },
     {
       "nombre": "NieR: Automata™ Game of the YoRHa Edition",
+      "precioBaseUSD": 15.99,
+      "precioFinalMXN": 320.17,
+      "precioFormateado": "$320.17"
+    },
+    {
+      "nombre": "Police Simulator: Patrol Officers: Contraband Expansion",
       "precioBaseUSD": 15.99,
       "precioFinalMXN": 320.17,
       "precioFormateado": "$320.17"
@@ -3218,6 +3224,12 @@
       "precioFormateado": "$240.08"
     },
     {
+      "nombre": "Pinball FX Midnight - Bethesda® Pinball",
+      "precioBaseUSD": 11.99,
+      "precioFinalMXN": 240.08,
+      "precioFormateado": "$240.08"
+    },
+    {
       "nombre": "Prince of Persia™: The Lost Crown - Complete Edition",
       "precioBaseUSD": 11.99,
       "precioFinalMXN": 240.08,
@@ -3339,6 +3351,12 @@
     },
     {
       "nombre": "Mejora a la Edición Prémium de DOOM: The Dark Ages",
+      "precioBaseUSD": 11.54,
+      "precioFinalMXN": 231.07,
+      "precioFormateado": "$231.07"
+    },
+    {
+      "nombre": "Undertale Edition",
       "precioBaseUSD": 11.54,
       "precioFinalMXN": 231.07,
       "precioFormateado": "$231.07"
@@ -4508,6 +4526,12 @@
       "precioFormateado": "$159.99"
     },
     {
+      "nombre": "Mercenaries Blaze: Dawn of the Twin Dragons",
+      "precioBaseUSD": 7.99,
+      "precioFinalMXN": 159.99,
+      "precioFormateado": "$159.99"
+    },
+    {
       "nombre": "Metal Eden",
       "precioBaseUSD": 7.99,
       "precioFinalMXN": 159.99,
@@ -4683,12 +4707,6 @@
     },
     {
       "nombre": "Avatar: Frontiers of Pandora™ – The Sky Breaker",
-      "precioBaseUSD": 7.49,
-      "precioFinalMXN": 149.97,
-      "precioFormateado": "$149.97"
-    },
-    {
-      "nombre": "Blood Omen 2: Legacy of Kain",
       "precioBaseUSD": 7.49,
       "precioFinalMXN": 149.97,
       "precioFormateado": "$149.97"
@@ -5642,12 +5660,6 @@
       "precioFormateado": "$119.94"
     },
     {
-      "nombre": "Skull and Bones Deluxe Edition",
-      "precioBaseUSD": 5.99,
-      "precioFinalMXN": 119.94,
-      "precioFormateado": "$119.94"
-    },
-    {
       "nombre": "Sniper Elite VR",
       "precioBaseUSD": 5.99,
       "precioFinalMXN": 119.94,
@@ -5763,12 +5775,6 @@
     },
     {
       "nombre": "7 Days To Die - Conjunto de Armadura de Saqueador Infernal",
-      "precioBaseUSD": 5.84,
-      "precioFinalMXN": 116.94,
-      "precioFormateado": "$116.94"
-    },
-    {
-      "nombre": "Frogun Encore",
       "precioBaseUSD": 5.84,
       "precioFinalMXN": 116.94,
       "precioFormateado": "$116.94"
@@ -6315,12 +6321,6 @@
     },
     {
       "nombre": "Paquete de episodios adicionales de ONE PIECE: PIRATE WARRIORS 4",
-      "precioBaseUSD": 4.89,
-      "precioFinalMXN": 97.91,
-      "precioFormateado": "$97.91"
-    },
-    {
-      "nombre": "Sengoku Dynasty - Sakura Pack",
       "precioBaseUSD": 4.89,
       "precioFinalMXN": 97.91,
       "precioFormateado": "$97.91"
