@@ -1,11 +1,23 @@
 {
-  "lastUpdated": "2026-08-14T16:11:48.456Z",
+  "lastUpdated": "2026-08-14T19:11:49.278Z",
   "juegos": [
+    {
+      "nombre": "Mafia: The Omertà Collection",
+      "precioBaseUSD": 99.99,
+      "precioFinalMXN": 1994.52,
+      "precioFormateado": "$1,994.52"
+    },
     {
       "nombre": "ANOMALITH Digital Deluxe Edition",
       "precioBaseUSD": 69.99,
       "precioFinalMXN": 1396.11,
       "precioFormateado": "$1,396.11"
+    },
+    {
+      "nombre": "Mafia: The Old Country Definitive Edition",
+      "precioBaseUSD": 64.99,
+      "precioFinalMXN": 1296.37,
+      "precioFormateado": "$1,296.37"
     },
     {
       "nombre": "ANOMALITH",
