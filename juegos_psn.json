@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T10:21:18.575Z",
+  "lastUpdated": "2026-08-14T13:19:50.002Z",
   "juegos": [
     {
       "nombre": "ANOMALITH Digital Deluxe Edition",
@@ -156,6 +156,12 @@
       "precioBaseUSD": 19.49,
       "precioFinalMXN": 390.07,
       "precioFormateado": "$390.07"
+    },
+    {
+      "nombre": "Tower Dominion",
+      "precioBaseUSD": 17.49,
+      "precioFinalMXN": 350.04,
+      "precioFormateado": "$350.04"
     },
     {
       "nombre": "Changeable Guardian ESTIQUE",
