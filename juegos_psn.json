@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T06:54:24.576Z",
+  "lastUpdated": "2026-08-15T09:47:10.933Z",
   "juegos": [
     {
       "nombre": "Mafia: The Omertà Collection",
@@ -218,6 +218,12 @@
       "precioFormateado": "$299.01"
     },
     {
+      "nombre": "Buffet Boss & Baking Time!: Complete Editions",
+      "precioBaseUSD": 13.99,
+      "precioFinalMXN": 279.06,
+      "precioFormateado": "$279.06"
+    },
+    {
       "nombre": "Yellowcreek Stories - The Cabin Watcher",
       "precioBaseUSD": 10.49,
       "precioFinalMXN": 209.25,
@@ -231,6 +237,12 @@
     },
     {
       "nombre": "Arcadegeddon 2,250 ARCoins(PS5™)",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 199.27,
+      "precioFormateado": "$199.27"
+    },
+    {
+      "nombre": "Buffet Boss: Complete Edition",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 199.27,
       "precioFormateado": "$199.27"
@@ -252,6 +264,18 @@
       "precioBaseUSD": 6.99,
       "precioFinalMXN": 139.43,
       "precioFormateado": "$139.43"
+    },
+    {
+      "nombre": "Buffet Boss & The Legend Of Fireball: Starter Bundle",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 119.48,
+      "precioFormateado": "$119.48"
+    },
+    {
+      "nombre": "Buffet Boss: Platinum Supporter",
+      "precioBaseUSD": 5.99,
+      "precioFinalMXN": 119.48,
+      "precioFormateado": "$119.48"
     },
     {
       "nombre": "Arcadegeddon 1,000 ARCoins(PS4™)",
