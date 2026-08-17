@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T15:46:26.142Z",
+  "lastUpdated": "2026-08-17T18:57:53.386Z",
   "juegos": [
     {
       "nombre": "Mafia: The Omertà Collection",
@@ -222,6 +222,12 @@
       "precioBaseUSD": 13.99,
       "precioFinalMXN": 279.28,
       "precioFormateado": "$279.28"
+    },
+    {
+      "nombre": "Sniper Dan",
+      "precioBaseUSD": 12.99,
+      "precioFinalMXN": 259.31,
+      "precioFormateado": "$259.31"
     },
     {
       "nombre": "Yellowcreek Stories - The Cabin Watcher",
