@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T10:05:51.760Z",
+  "lastUpdated": "2026-08-18T13:00:47.264Z",
   "juegos": [
     {
       "nombre": "Mafia: The Omertà Collection",
@@ -20,6 +20,12 @@
       "precioFormateado": "$1,297.37"
     },
     {
+      "nombre": "Starsand Island - Paquete Deluxe",
+      "precioBaseUSD": 59.99,
+      "precioFinalMXN": 1197.55,
+      "precioFormateado": "$1,197.55"
+    },
+    {
       "nombre": "ANOMALITH",
       "precioBaseUSD": 49.99,
       "precioFinalMXN": 997.93,
@@ -33,6 +39,12 @@
     },
     {
       "nombre": "PATLABOR: Los Expedientes",
+      "precioBaseUSD": 39.99,
+      "precioFinalMXN": 798.3,
+      "precioFormateado": "$798.30"
+    },
+    {
+      "nombre": "Starsand Island",
       "precioBaseUSD": 39.99,
       "precioFinalMXN": 798.3,
       "precioFormateado": "$798.30"
@@ -129,12 +141,6 @@
     },
     {
       "nombre": "Paq. Inicio de Nanite Systems",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 399.05,
-      "precioFormateado": "$399.05"
-    },
-    {
-      "nombre": "Retrace The Light",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 399.05,
       "precioFormateado": "$399.05"
