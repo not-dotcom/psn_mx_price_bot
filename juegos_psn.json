@@ -1,299 +1,305 @@
 {
-  "lastUpdated": "2026-08-18T13:00:47.264Z",
+  "lastUpdated": "2026-08-18T15:54:02.087Z",
   "juegos": [
     {
       "nombre": "Mafia: The Omertà Collection",
       "precioBaseUSD": 99.99,
-      "precioFinalMXN": 1996.06,
-      "precioFormateado": "$1,996.06"
+      "precioFinalMXN": 2001.21,
+      "precioFormateado": "$2,001.21"
     },
     {
       "nombre": "ANOMALITH Digital Deluxe Edition",
       "precioBaseUSD": 69.99,
-      "precioFinalMXN": 1397.18,
-      "precioFormateado": "$1,397.18"
+      "precioFinalMXN": 1400.78,
+      "precioFormateado": "$1,400.78"
     },
     {
       "nombre": "Mafia: The Old Country Definitive Edition",
       "precioBaseUSD": 64.99,
-      "precioFinalMXN": 1297.37,
-      "precioFormateado": "$1,297.37"
+      "precioFinalMXN": 1300.71,
+      "precioFormateado": "$1,300.71"
     },
     {
       "nombre": "Starsand Island - Paquete Deluxe",
       "precioBaseUSD": 59.99,
-      "precioFinalMXN": 1197.55,
-      "precioFormateado": "$1,197.55"
+      "precioFinalMXN": 1200.64,
+      "precioFormateado": "$1,200.64"
     },
     {
       "nombre": "ANOMALITH",
       "precioBaseUSD": 49.99,
-      "precioFinalMXN": 997.93,
-      "precioFormateado": "$997.93"
+      "precioFinalMXN": 1000.5,
+      "precioFormateado": "$1,000.50"
     },
     {
       "nombre": "Brigandine Abyss",
       "precioBaseUSD": 49.99,
-      "precioFinalMXN": 997.93,
-      "precioFormateado": "$997.93"
+      "precioFinalMXN": 1000.5,
+      "precioFormateado": "$1,000.50"
     },
     {
       "nombre": "PATLABOR: Los Expedientes",
       "precioBaseUSD": 39.99,
-      "precioFinalMXN": 798.3,
-      "precioFormateado": "$798.30"
+      "precioFinalMXN": 800.36,
+      "precioFormateado": "$800.36"
     },
     {
       "nombre": "Starsand Island",
       "precioBaseUSD": 39.99,
-      "precioFinalMXN": 798.3,
-      "precioFormateado": "$798.30"
+      "precioFinalMXN": 800.36,
+      "precioFormateado": "$800.36"
     },
     {
       "nombre": "Asdivine Knot Special Edition",
       "precioBaseUSD": 37.99,
-      "precioFinalMXN": 758.38,
-      "precioFormateado": "$758.38"
+      "precioFinalMXN": 760.33,
+      "precioFormateado": "$760.33"
     },
     {
       "nombre": "End of Abyss",
       "precioBaseUSD": 29.99,
-      "precioFinalMXN": 598.68,
-      "precioFormateado": "$598.68"
+      "precioFinalMXN": 600.22,
+      "precioFormateado": "$600.22"
     },
     {
       "nombre": "Moonlighter 2: The Endless Vault",
       "precioBaseUSD": 29.99,
-      "precioFinalMXN": 598.68,
-      "precioFormateado": "$598.68"
+      "precioFinalMXN": 600.22,
+      "precioFormateado": "$600.22"
     },
     {
       "nombre": "The Slormancer",
       "precioBaseUSD": 29.99,
-      "precioFinalMXN": 598.68,
-      "precioFormateado": "$598.68"
+      "precioFinalMXN": 600.22,
+      "precioFormateado": "$600.22"
     },
     {
       "nombre": "Tres Reinos: El Despertar del Dragón",
       "precioBaseUSD": 25.99,
-      "precioFinalMXN": 518.83,
-      "precioFormateado": "$518.83"
+      "precioFinalMXN": 520.17,
+      "precioFormateado": "$520.17"
     },
     {
       "nombre": "Outer Wilds",
       "precioBaseUSD": 24.99,
-      "precioFinalMXN": 498.86,
-      "precioFormateado": "$498.86"
+      "precioFinalMXN": 500.15,
+      "precioFormateado": "$500.15"
     },
     {
       "nombre": "TCG Card Shop Simulator",
       "precioBaseUSD": 24.99,
-      "precioFinalMXN": 498.86,
-      "precioFormateado": "$498.86"
+      "precioFinalMXN": 500.15,
+      "precioFormateado": "$500.15"
     },
     {
       "nombre": "Woodo - Endless Summer Edition",
       "precioBaseUSD": 24.99,
-      "precioFinalMXN": 498.86,
-      "precioFormateado": "$498.86"
+      "precioFinalMXN": 500.15,
+      "precioFormateado": "$500.15"
     },
     {
       "nombre": "BioEden",
       "precioBaseUSD": 21.99,
-      "precioFinalMXN": 438.98,
-      "precioFormateado": "$438.98"
+      "precioFinalMXN": 440.11,
+      "precioFormateado": "$440.11"
     },
     {
       "nombre": "Arcadegeddon 5,000 ARCoins(PS4™)",
       "precioBaseUSD": 19.99,
-      "precioFinalMXN": 399.05,
-      "precioFormateado": "$399.05"
+      "precioFinalMXN": 400.08,
+      "precioFormateado": "$400.08"
     },
     {
       "nombre": "Arcadegeddon 5,000 ARCoins(PS5™)",
       "precioBaseUSD": 19.99,
-      "precioFinalMXN": 399.05,
-      "precioFormateado": "$399.05"
+      "precioFinalMXN": 400.08,
+      "precioFormateado": "$400.08"
     },
     {
       "nombre": "Asdivine Knot",
       "precioBaseUSD": 19.99,
-      "precioFinalMXN": 399.05,
-      "precioFormateado": "$399.05"
+      "precioFinalMXN": 400.08,
+      "precioFormateado": "$400.08"
     },
     {
       "nombre": "Death end reQuest Season Pass",
       "precioBaseUSD": 19.99,
-      "precioFinalMXN": 399.05,
-      "precioFormateado": "$399.05"
+      "precioFinalMXN": 400.08,
+      "precioFormateado": "$400.08"
     },
     {
       "nombre": "El Señor de los Anillos™: La Guerra del Norte™ Edición Clásica",
       "precioBaseUSD": 19.99,
-      "precioFinalMXN": 399.05,
-      "precioFormateado": "$399.05"
+      "precioFinalMXN": 400.08,
+      "precioFormateado": "$400.08"
     },
     {
       "nombre": "Pack de Choque de tsunamis - Battlefield™ 6 y REDSEC",
       "precioBaseUSD": 19.99,
-      "precioFinalMXN": 399.05,
-      "precioFormateado": "$399.05"
+      "precioFinalMXN": 400.08,
+      "precioFormateado": "$400.08"
     },
     {
       "nombre": "Paq. Inicio de Nanite Systems",
       "precioBaseUSD": 19.99,
-      "precioFinalMXN": 399.05,
-      "precioFormateado": "$399.05"
+      "precioFinalMXN": 400.08,
+      "precioFormateado": "$400.08"
     },
     {
       "nombre": "The Legend Of Fireball & Cup Heroes: Starter Bundle",
       "precioBaseUSD": 19.99,
-      "precioFinalMXN": 399.05,
-      "precioFormateado": "$399.05"
+      "precioFinalMXN": 400.08,
+      "precioFormateado": "$400.08"
     },
     {
       "nombre": "What Remains of Edith Finch",
       "precioBaseUSD": 19.99,
-      "precioFinalMXN": 399.05,
-      "precioFormateado": "$399.05"
+      "precioFinalMXN": 400.08,
+      "precioFormateado": "$400.08"
     },
     {
       "nombre": "Woodo",
       "precioBaseUSD": 19.99,
-      "precioFinalMXN": 399.05,
-      "precioFormateado": "$399.05"
+      "precioFinalMXN": 400.08,
+      "precioFormateado": "$400.08"
     },
     {
       "nombre": "SEGA FOOTBALL CLUB CHAMPIONS – Paquete exclusivo PlayStation®Plus",
       "precioBaseUSD": 19.49,
-      "precioFinalMXN": 389.07,
-      "precioFormateado": "$389.07"
+      "precioFinalMXN": 390.07,
+      "precioFormateado": "$390.07"
     },
     {
       "nombre": "Tower Dominion",
       "precioBaseUSD": 17.49,
-      "precioFinalMXN": 349.15,
-      "precioFormateado": "$349.15"
+      "precioFinalMXN": 350.05,
+      "precioFormateado": "$350.05"
     },
     {
       "nombre": "Changeable Guardian ESTIQUE",
       "precioBaseUSD": 15.99,
-      "precioFinalMXN": 319.2,
-      "precioFormateado": "$319.20"
+      "precioFinalMXN": 320.02,
+      "precioFormateado": "$320.02"
     },
     {
       "nombre": "Gravity Heroes",
       "precioBaseUSD": 14.99,
-      "precioFinalMXN": 299.24,
-      "precioFormateado": "$299.24"
+      "precioFinalMXN": 300.01,
+      "precioFormateado": "$300.01"
     },
     {
       "nombre": "Hotel Empire - Check Inn",
       "precioBaseUSD": 14.99,
-      "precioFinalMXN": 299.24,
-      "precioFormateado": "$299.24"
+      "precioFinalMXN": 300.01,
+      "precioFormateado": "$300.01"
     },
     {
       "nombre": "NARAKA: BLADEPOINT - Paquete de temporada JS1",
       "precioBaseUSD": 14.99,
-      "precioFinalMXN": 299.24,
-      "precioFormateado": "$299.24"
+      "precioFinalMXN": 300.01,
+      "precioFormateado": "$300.01"
     },
     {
       "nombre": "PixelJunk™ Shooter Ultimate",
       "precioBaseUSD": 14.99,
-      "precioFinalMXN": 299.24,
-      "precioFormateado": "$299.24"
+      "precioFinalMXN": 300.01,
+      "precioFormateado": "$300.01"
     },
     {
       "nombre": "Pro Jank Footy",
       "precioBaseUSD": 14.99,
-      "precioFinalMXN": 299.24,
-      "precioFormateado": "$299.24"
+      "precioFinalMXN": 300.01,
+      "precioFormateado": "$300.01"
     },
     {
       "nombre": "Super Bunny Man",
       "precioBaseUSD": 14.99,
-      "precioFinalMXN": 299.24,
-      "precioFormateado": "$299.24"
+      "precioFinalMXN": 300.01,
+      "precioFormateado": "$300.01"
     },
     {
       "nombre": "Buffet Boss & Baking Time!: Complete Editions",
       "precioBaseUSD": 13.99,
-      "precioFinalMXN": 279.28,
-      "precioFormateado": "$279.28"
+      "precioFinalMXN": 280,
+      "precioFormateado": "$280.00"
     },
     {
       "nombre": "Sniper Dan",
       "precioBaseUSD": 12.99,
-      "precioFinalMXN": 259.31,
-      "precioFormateado": "$259.31"
+      "precioFinalMXN": 259.98,
+      "precioFormateado": "$259.98"
     },
     {
       "nombre": "Yellowcreek Stories - The Cabin Watcher",
       "precioBaseUSD": 10.49,
-      "precioFinalMXN": 209.41,
-      "precioFormateado": "$209.41"
+      "precioFinalMXN": 209.95,
+      "precioFormateado": "$209.95"
     },
     {
       "nombre": "Arcadegeddon 2,250 ARCoins(PS4™)",
       "precioBaseUSD": 9.99,
-      "precioFinalMXN": 199.43,
-      "precioFormateado": "$199.43"
+      "precioFinalMXN": 199.94,
+      "precioFormateado": "$199.94"
     },
     {
       "nombre": "Arcadegeddon 2,250 ARCoins(PS5™)",
       "precioBaseUSD": 9.99,
-      "precioFinalMXN": 199.43,
-      "precioFormateado": "$199.43"
+      "precioFinalMXN": 199.94,
+      "precioFormateado": "$199.94"
     },
     {
       "nombre": "Buffet Boss: Complete Edition",
       "precioBaseUSD": 9.99,
-      "precioFinalMXN": 199.43,
-      "precioFormateado": "$199.43"
+      "precioFinalMXN": 199.94,
+      "precioFormateado": "$199.94"
     },
     {
       "nombre": "Is This Seat Taken?",
       "precioBaseUSD": 9.99,
-      "precioFinalMXN": 199.43,
-      "precioFormateado": "$199.43"
+      "precioFinalMXN": 199.94,
+      "precioFormateado": "$199.94"
     },
     {
       "nombre": "Tyrant's Realm",
       "precioBaseUSD": 9.99,
-      "precioFinalMXN": 199.43,
-      "precioFormateado": "$199.43"
+      "precioFinalMXN": 199.94,
+      "precioFormateado": "$199.94"
     },
     {
       "nombre": "Onyx Fashion Pack",
       "precioBaseUSD": 6.99,
-      "precioFinalMXN": 139.54,
-      "precioFormateado": "$139.54"
+      "precioFinalMXN": 139.9,
+      "precioFormateado": "$139.90"
     },
     {
       "nombre": "Buffet Boss & The Legend Of Fireball: Starter Bundle",
       "precioBaseUSD": 5.99,
-      "precioFinalMXN": 119.58,
-      "precioFormateado": "$119.58"
+      "precioFinalMXN": 119.88,
+      "precioFormateado": "$119.88"
     },
     {
       "nombre": "Buffet Boss: Platinum Supporter",
       "precioBaseUSD": 5.99,
-      "precioFinalMXN": 119.58,
-      "precioFormateado": "$119.58"
+      "precioFinalMXN": 119.88,
+      "precioFormateado": "$119.88"
     },
     {
       "nombre": "Arcadegeddon 1,000 ARCoins(PS4™)",
       "precioBaseUSD": 4.99,
-      "precioFinalMXN": 99.61,
-      "precioFormateado": "$99.61"
+      "precioFinalMXN": 99.87,
+      "precioFormateado": "$99.87"
     },
     {
       "nombre": "Arcadegeddon 1,000 ARCoins(PS5™)",
       "precioBaseUSD": 4.99,
-      "precioFinalMXN": 99.61,
-      "precioFormateado": "$99.61"
+      "precioFinalMXN": 99.87,
+      "precioFormateado": "$99.87"
+    },
+    {
+      "nombre": "Las Tortugas Ninja: El destino de Splinter - Contenido descargable de Slash",
+      "precioBaseUSD": 3.99,
+      "precioFinalMXN": 79.86,
+      "precioFormateado": "$79.86"
     }
   ]
 }
