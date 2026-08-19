@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T04:12:30.248Z",
+  "lastUpdated": "2026-08-19T13:06:10.781Z",
   "juegos": [
     {
       "nombre": "Mafia: The Omertà Collection",
@@ -255,6 +255,12 @@
     },
     {
       "nombre": "Is This Seat Taken?",
+      "precioBaseUSD": 9.99,
+      "precioFinalMXN": 199.94,
+      "precioFormateado": "$199.94"
+    },
+    {
+      "nombre": "No Case Should Remain Unsolved",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 199.94,
       "precioFormateado": "$199.94"
