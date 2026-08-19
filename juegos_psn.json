@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-08-19T18:52:30.211Z",
+  "lastUpdated": "2026-08-19T21:48:51.022Z",
   "juegos": [
+    {
+      "nombre": "Death end reQuest Season Pass",
+      "precioBaseUSD": 343.97,
+      "precioFinalMXN": 6877.45,
+      "precioFormateado": "$6,877.45"
+    },
+    {
+      "nombre": "Paq. Inicio de Nanite Systems",
+      "precioBaseUSD": 343.97,
+      "precioFinalMXN": 6877.45,
+      "precioFormateado": "$6,877.45"
+    },
+    {
+      "nombre": "PixelJunk™ Shooter Ultimate",
+      "precioBaseUSD": 257.76,
+      "precioFinalMXN": 5153.74,
+      "precioFormateado": "$5,153.74"
+    },
+    {
+      "nombre": "Onyx Fashion Pack",
+      "precioBaseUSD": 119.83,
+      "precioFinalMXN": 2395.92,
+      "precioFormateado": "$2,395.92"
+    },
     {
       "nombre": "Mafia: The Omertà Collection",
       "precioBaseUSD": 99.99,
@@ -134,12 +158,6 @@
       "precioFormateado": "$399.69"
     },
     {
-      "nombre": "Death end reQuest Season Pass",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 399.69,
-      "precioFormateado": "$399.69"
-    },
-    {
       "nombre": "El Señor de los Anillos™: La Guerra del Norte™ Edición Clásica",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 399.69,
@@ -147,12 +165,6 @@
     },
     {
       "nombre": "Pack de Choque de tsunamis - Battlefield™ 6 y REDSEC",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 399.69,
-      "precioFormateado": "$399.69"
-    },
-    {
-      "nombre": "Paq. Inicio de Nanite Systems",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 399.69,
       "precioFormateado": "$399.69"
@@ -201,12 +213,6 @@
     },
     {
       "nombre": "NARAKA: BLADEPOINT - Paquete de temporada JS1",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 299.72,
-      "precioFormateado": "$299.72"
-    },
-    {
-      "nombre": "PixelJunk™ Shooter Ultimate",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 299.72,
       "precioFormateado": "$299.72"
@@ -282,12 +288,6 @@
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 199.74,
       "precioFormateado": "$199.74"
-    },
-    {
-      "nombre": "Onyx Fashion Pack",
-      "precioBaseUSD": 6.99,
-      "precioFinalMXN": 139.76,
-      "precioFormateado": "$139.76"
     },
     {
       "nombre": "Buffet Boss & The Legend Of Fireball: Starter Bundle",
