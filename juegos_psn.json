@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-08-19T21:48:51.022Z",
+  "lastUpdated": "2026-08-20T01:21:53.576Z",
   "juegos": [
+    {
+      "nombre": "Starsand Island - Paquete Deluxe",
+      "precioBaseUSD": 1033.62,
+      "precioFinalMXN": 20666.55,
+      "precioFormateado": "$20,666.55"
+    },
+    {
+      "nombre": "Outer Wilds",
+      "precioBaseUSD": 430.17,
+      "precioFinalMXN": 8600.97,
+      "precioFormateado": "$8,600.97"
+    },
     {
       "nombre": "Death end reQuest Season Pass",
       "precioBaseUSD": 343.97,
@@ -14,10 +26,40 @@
       "precioFormateado": "$6,877.45"
     },
     {
+      "nombre": "What Remains of Edith Finch",
+      "precioBaseUSD": 343.97,
+      "precioFinalMXN": 6877.45,
+      "precioFormateado": "$6,877.45"
+    },
+    {
+      "nombre": "Gravity Heroes",
+      "precioBaseUSD": 257.76,
+      "precioFinalMXN": 5153.74,
+      "precioFormateado": "$5,153.74"
+    },
+    {
+      "nombre": "NARAKA: BLADEPOINT - Paquete de temporada JS1",
+      "precioBaseUSD": 257.76,
+      "precioFinalMXN": 5153.74,
+      "precioFormateado": "$5,153.74"
+    },
+    {
       "nombre": "PixelJunk™ Shooter Ultimate",
       "precioBaseUSD": 257.76,
       "precioFinalMXN": 5153.74,
       "precioFormateado": "$5,153.74"
+    },
+    {
+      "nombre": "Pro Jank Footy",
+      "precioBaseUSD": 257.76,
+      "precioFinalMXN": 5153.74,
+      "precioFormateado": "$5,153.74"
+    },
+    {
+      "nombre": "Is This Seat Taken?",
+      "precioBaseUSD": 171.55,
+      "precioFinalMXN": 3430.03,
+      "precioFormateado": "$3,430.03"
     },
     {
       "nombre": "Onyx Fashion Pack",
@@ -38,16 +80,16 @@
       "precioFormateado": "$1,399.40"
     },
     {
+      "nombre": "Las Tortugas Ninja: El destino de Splinter - Contenido descargable de Slash",
+      "precioBaseUSD": 68.1,
+      "precioFinalMXN": 1361.61,
+      "precioFormateado": "$1,361.61"
+    },
+    {
       "nombre": "Mafia: The Old Country Definitive Edition",
       "precioBaseUSD": 64.99,
       "precioFinalMXN": 1299.43,
       "precioFormateado": "$1,299.43"
-    },
-    {
-      "nombre": "Starsand Island - Paquete Deluxe",
-      "precioBaseUSD": 59.99,
-      "precioFinalMXN": 1199.46,
-      "precioFormateado": "$1,199.46"
     },
     {
       "nombre": "ANOMALITH",
@@ -116,12 +158,6 @@
       "precioFormateado": "$499.66"
     },
     {
-      "nombre": "Outer Wilds",
-      "precioBaseUSD": 24.99,
-      "precioFinalMXN": 499.66,
-      "precioFormateado": "$499.66"
-    },
-    {
       "nombre": "TCG Card Shop Simulator",
       "precioBaseUSD": 24.99,
       "precioFinalMXN": 499.66,
@@ -176,12 +212,6 @@
       "precioFormateado": "$399.69"
     },
     {
-      "nombre": "What Remains of Edith Finch",
-      "precioBaseUSD": 19.99,
-      "precioFinalMXN": 399.69,
-      "precioFormateado": "$399.69"
-    },
-    {
       "nombre": "Woodo",
       "precioBaseUSD": 19.99,
       "precioFinalMXN": 399.69,
@@ -200,25 +230,7 @@
       "precioFormateado": "$349.70"
     },
     {
-      "nombre": "Gravity Heroes",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 299.72,
-      "precioFormateado": "$299.72"
-    },
-    {
       "nombre": "Hotel Empire - Check Inn",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 299.72,
-      "precioFormateado": "$299.72"
-    },
-    {
-      "nombre": "NARAKA: BLADEPOINT - Paquete de temporada JS1",
-      "precioBaseUSD": 14.99,
-      "precioFinalMXN": 299.72,
-      "precioFormateado": "$299.72"
-    },
-    {
-      "nombre": "Pro Jank Footy",
       "precioBaseUSD": 14.99,
       "precioFinalMXN": 299.72,
       "precioFormateado": "$299.72"
@@ -248,12 +260,6 @@
       "precioFormateado": "$219.74"
     },
     {
-      "nombre": "Yellowcreek Stories - The Cabin Watcher",
-      "precioBaseUSD": 10.49,
-      "precioFinalMXN": 209.74,
-      "precioFormateado": "$209.74"
-    },
-    {
       "nombre": "Arcadegeddon 2,250 ARCoins(PS4™)",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 199.74,
@@ -267,12 +273,6 @@
     },
     {
       "nombre": "Buffet Boss: Complete Edition",
-      "precioBaseUSD": 9.99,
-      "precioFinalMXN": 199.74,
-      "precioFormateado": "$199.74"
-    },
-    {
-      "nombre": "Is This Seat Taken?",
       "precioBaseUSD": 9.99,
       "precioFinalMXN": 199.74,
       "precioFormateado": "$199.74"
@@ -312,12 +312,6 @@
       "precioBaseUSD": 4.99,
       "precioFinalMXN": 99.77,
       "precioFormateado": "$99.77"
-    },
-    {
-      "nombre": "Las Tortugas Ninja: El destino de Splinter - Contenido descargable de Slash",
-      "precioBaseUSD": 3.99,
-      "precioFinalMXN": 79.78,
-      "precioFormateado": "$79.78"
     }
   ]
 }
