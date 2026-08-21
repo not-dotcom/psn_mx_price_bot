@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T15:53:41.425Z",
+  "lastUpdated": "2026-08-21T18:54:45.036Z",
   "juegos": [
     {
       "nombre": "Mafia: The Omertà Collection",
@@ -96,6 +96,12 @@
       "precioBaseUSD": 516.38,
       "precioFinalMXN": 10241.72,
       "precioFormateado": "$10,241.72"
+    },
+    {
+      "nombre": "Destino Reiniciado: Ecos del Deseo",
+      "precioBaseUSD": 447.41,
+      "precioFinalMXN": 8873.79,
+      "precioFormateado": "$8,873.79"
     },
     {
       "nombre": "Tres Reinos: El Despertar del Dragón",
