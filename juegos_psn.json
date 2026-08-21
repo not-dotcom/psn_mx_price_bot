@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T18:54:45.036Z",
+  "lastUpdated": "2026-08-21T21:45:09.589Z",
   "juegos": [
     {
       "nombre": "Mafia: The Omertà Collection",
@@ -273,6 +273,12 @@
     },
     {
       "nombre": "Buffet Boss: Complete Edition",
+      "precioBaseUSD": 171.55,
+      "precioFinalMXN": 3402.47,
+      "precioFormateado": "$3,402.47"
+    },
+    {
+      "nombre": "Creepy Shift: Uncle Joe’s Motel",
       "precioBaseUSD": 171.55,
       "precioFinalMXN": 3402.47,
       "precioFormateado": "$3,402.47"
