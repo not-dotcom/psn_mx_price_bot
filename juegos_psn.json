@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T01:23:49.575Z",
+  "lastUpdated": "2026-08-24T04:16:03.954Z",
   "juegos": [
     {
       "nombre": "Mafia: The Omertà Collection",
@@ -8,16 +8,16 @@
       "precioFormateado": "$34,178.98"
     },
     {
-      "nombre": "ANOMALITH Digital Deluxe Edition",
-      "precioBaseUSD": 1206.03,
-      "precioFinalMXN": 23920.01,
-      "precioFormateado": "$23,920.01"
-    },
-    {
       "nombre": "Mafia: The Old Country Definitive Edition",
       "precioBaseUSD": 1119.83,
       "precioFinalMXN": 22210.35,
       "precioFormateado": "$22,210.35"
+    },
+    {
+      "nombre": "Starsand Island - Paquete Deluxe",
+      "precioBaseUSD": 1033.62,
+      "precioFinalMXN": 20500.49,
+      "precioFormateado": "$20,500.49"
     },
     {
       "nombre": "ANOMALITH",
@@ -51,6 +51,12 @@
     },
     {
       "nombre": "PATLABOR: Los Expedientes",
+      "precioBaseUSD": 688.79,
+      "precioFinalMXN": 13661.24,
+      "precioFormateado": "$13,661.24"
+    },
+    {
+      "nombre": "Starsand Island",
       "precioBaseUSD": 688.79,
       "precioFinalMXN": 13661.24,
       "precioFormateado": "$13,661.24"
@@ -165,6 +171,12 @@
     },
     {
       "nombre": "What Remains of Edith Finch",
+      "precioBaseUSD": 343.97,
+      "precioFinalMXN": 6822.19,
+      "precioFormateado": "$6,822.19"
+    },
+    {
+      "nombre": "Woodo",
       "precioBaseUSD": 343.97,
       "precioFinalMXN": 6822.19,
       "precioFormateado": "$6,822.19"
