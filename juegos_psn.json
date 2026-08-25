@@ -1,11 +1,23 @@
 {
-  "lastUpdated": "2026-08-25T16:03:40.462Z",
+  "lastUpdated": "2026-08-25T18:58:31.143Z",
   "juegos": [
+    {
+      "nombre": "Train Sim World® 7: Ultimate Edition",
+      "precioBaseUSD": 2240.52,
+      "precioFinalMXN": 44564.33,
+      "precioFormateado": "$44,564.33"
+    },
     {
       "nombre": "Mafia: The Omertà Collection",
       "precioBaseUSD": 1723.28,
       "precioFinalMXN": 34276.34,
       "precioFormateado": "$34,276.34"
+    },
+    {
+      "nombre": "Train Sim World® 7: Deluxe Edition",
+      "precioBaseUSD": 1378.45,
+      "precioFinalMXN": 27417.61,
+      "precioFormateado": "$27,417.61"
     },
     {
       "nombre": "ANOMALITH Digital Deluxe Edition",
@@ -33,6 +45,12 @@
     },
     {
       "nombre": "Brigandine Abyss",
+      "precioBaseUSD": 861.21,
+      "precioFinalMXN": 17129.62,
+      "precioFormateado": "$17,129.62"
+    },
+    {
+      "nombre": "Train Sim World® 7: Standard Edition",
       "precioBaseUSD": 861.21,
       "precioFinalMXN": 17129.62,
       "precioFormateado": "$17,129.62"
@@ -218,6 +236,12 @@
       "precioFormateado": "$5,126.89"
     },
     {
+      "nombre": "ONCE HUMAN (Free to Play) Pack Radiance (Paquete de reserva)",
+      "precioBaseUSD": 257.76,
+      "precioFinalMXN": 5126.89,
+      "precioFormateado": "$5,126.89"
+    },
+    {
       "nombre": "PixelJunk™ Shooter Ultimate",
       "precioBaseUSD": 257.76,
       "precioFinalMXN": 5126.89,
@@ -273,6 +297,12 @@
     },
     {
       "nombre": "No Case Should Remain Unsolved",
+      "precioBaseUSD": 171.55,
+      "precioFinalMXN": 3412.16,
+      "precioFormateado": "$3,412.16"
+    },
+    {
+      "nombre": "ONCE HUMAN (Free to Play) Pack inicial (Paquete de reserva)",
       "precioBaseUSD": 171.55,
       "precioFinalMXN": 3412.16,
       "precioFormateado": "$3,412.16"
