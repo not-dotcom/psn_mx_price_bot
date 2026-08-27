@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T00:50:02.033Z",
+  "lastUpdated": "2026-08-27T14:04:23.313Z",
   "juegos": [
     {
       "nombre": "Train Sim World® 7: Ultimate Edition",
@@ -39,12 +39,6 @@
     },
     {
       "nombre": "ANOMALITH",
-      "precioBaseUSD": 861.21,
-      "precioFinalMXN": 17113.83,
-      "precioFormateado": "$17,113.83"
-    },
-    {
-      "nombre": "Brigandine Abyss",
       "precioBaseUSD": 861.21,
       "precioFinalMXN": 17113.83,
       "precioFormateado": "$17,113.83"
@@ -116,6 +110,12 @@
       "precioFormateado": "$10,261.42"
     },
     {
+      "nombre": "Lou's Lagoon Deluxe Edition",
+      "precioBaseUSD": 464.66,
+      "precioFinalMXN": 9233.65,
+      "precioFormateado": "$9,233.65"
+    },
+    {
       "nombre": "Destino Reiniciado: Ecos del Deseo",
       "precioBaseUSD": 447.41,
       "precioFinalMXN": 8890.86,
@@ -123,6 +123,18 @@
     },
     {
       "nombre": "AKIBA LOST",
+      "precioBaseUSD": 430.17,
+      "precioFinalMXN": 8548.27,
+      "precioFormateado": "$8,548.27"
+    },
+    {
+      "nombre": "Lou's Lagoon",
+      "precioBaseUSD": 430.17,
+      "precioFinalMXN": 8548.27,
+      "precioFormateado": "$8,548.27"
+    },
+    {
+      "nombre": "Murders on the Yangtze River",
       "precioBaseUSD": 430.17,
       "precioFinalMXN": 8548.27,
       "precioFormateado": "$8,548.27"
@@ -212,10 +224,10 @@
       "precioFormateado": "$6,663.82"
     },
     {
-      "nombre": "Tower Dominion",
-      "precioBaseUSD": 300.86,
-      "precioFinalMXN": 5978.64,
-      "precioFormateado": "$5,978.64"
+      "nombre": "Mind Diver",
+      "precioBaseUSD": 309.48,
+      "precioFinalMXN": 6149.94,
+      "precioFormateado": "$6,149.94"
     },
     {
       "nombre": "Gravity Heroes",
@@ -231,6 +243,18 @@
     },
     {
       "nombre": "PixelJunk™ Shooter Ultimate",
+      "precioBaseUSD": 257.76,
+      "precioFinalMXN": 5122.17,
+      "precioFormateado": "$5,122.17"
+    },
+    {
+      "nombre": "Tearscape",
+      "precioBaseUSD": 257.76,
+      "precioFinalMXN": 5122.17,
+      "precioFormateado": "$5,122.17"
+    },
+    {
+      "nombre": "Whisper of the House",
       "precioBaseUSD": 257.76,
       "precioFinalMXN": 5122.17,
       "precioFormateado": "$5,122.17"
@@ -285,12 +309,6 @@
     },
     {
       "nombre": "Psalm 5:9-13",
-      "precioBaseUSD": 171.55,
-      "precioFinalMXN": 3409.01,
-      "precioFormateado": "$3,409.01"
-    },
-    {
-      "nombre": "Tyrant's Realm",
       "precioBaseUSD": 171.55,
       "precioFinalMXN": 3409.01,
       "precioFormateado": "$3,409.01"
