@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T03:29:40.802Z",
+  "lastUpdated": "2026-08-31T12:54:29.079Z",
   "juegos": [
     {
       "nombre": "Train Sim World® 7: Ultimate Edition",
@@ -216,6 +216,12 @@
       "precioBaseUSD": 309.48,
       "precioFinalMXN": 6156.11,
       "precioFormateado": "$6,156.11"
+    },
+    {
+      "nombre": "Folk Hero",
+      "precioBaseUSD": 257.76,
+      "precioFinalMXN": 5127.31,
+      "precioFormateado": "$5,127.31"
     },
     {
       "nombre": "Gravity Heroes",
