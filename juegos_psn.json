@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T00:45:17.764Z",
+  "lastUpdated": "2026-09-01T08:38:58.924Z",
   "juegos": [
     {
       "nombre": "Train Sim World® 7: Ultimate Edition",
@@ -152,6 +152,12 @@
       "precioFormateado": "$7,554.48"
     },
     {
+      "nombre": "Destiny 2: La colección",
+      "precioBaseUSD": 361.8,
+      "precioFinalMXN": 7222.12,
+      "precioFormateado": "$7,222.12"
+    },
+    {
       "nombre": "Arcadegeddon 5,000 ARCoins(PS4™)",
       "precioBaseUSD": 343.97,
       "precioFinalMXN": 6866.2,
@@ -278,6 +284,12 @@
       "precioFormateado": "$3,768.56"
     },
     {
+      "nombre": "Destiny 2: Los Desertores",
+      "precioBaseUSD": 171.98,
+      "precioFinalMXN": 3433,
+      "precioFormateado": "$3,433.00"
+    },
+    {
       "nombre": "Arcadegeddon 2,250 ARCoins(PS4™)",
       "precioBaseUSD": 171.55,
       "precioFinalMXN": 3424.42,
@@ -320,6 +332,12 @@
       "precioFormateado": "$3,424.42"
     },
     {
+      "nombre": "Destiny 2: Los Confines del Destino",
+      "precioBaseUSD": 120.38,
+      "precioFinalMXN": 2402.98,
+      "precioFormateado": "$2,402.98"
+    },
+    {
       "nombre": "Onyx Fashion Pack",
       "precioBaseUSD": 119.83,
       "precioFinalMXN": 2392,
@@ -354,6 +372,48 @@
       "precioBaseUSD": 68.1,
       "precioFinalMXN": 1359.39,
       "precioFormateado": "$1,359.39"
+    },
+    {
+      "nombre": "Destiny 2: Eclipse",
+      "precioBaseUSD": 34.39,
+      "precioFinalMXN": 686.48,
+      "precioFormateado": "$686.48"
+    },
+    {
+      "nombre": "Destiny 2: La Forma Final",
+      "precioBaseUSD": 34.39,
+      "precioFinalMXN": 686.48,
+      "precioFormateado": "$686.48"
+    },
+    {
+      "nombre": "Destiny 2: La Reina Bruja",
+      "precioBaseUSD": 34.39,
+      "precioFinalMXN": 686.48,
+      "precioFormateado": "$686.48"
+    },
+    {
+      "nombre": "Destiny 2: Paquete 30.º aniversario de Bungie",
+      "precioBaseUSD": 25.77,
+      "precioFinalMXN": 514.41,
+      "precioFormateado": "$514.41"
+    },
+    {
+      "nombre": "Paquete de Destiny 2: Bastión de Sombras",
+      "precioBaseUSD": 17.15,
+      "precioFinalMXN": 342.34,
+      "precioFormateado": "$342.34"
+    },
+    {
+      "nombre": "Paquete de Destiny 2: Más allá de la Luz",
+      "precioBaseUSD": 17.15,
+      "precioFinalMXN": 342.34,
+      "precioFormateado": "$342.34"
+    },
+    {
+      "nombre": "Paquete de Destiny 2: Renegados",
+      "precioBaseUSD": 17.15,
+      "precioFinalMXN": 342.34,
+      "precioFormateado": "$342.34"
     }
   ]
 }
