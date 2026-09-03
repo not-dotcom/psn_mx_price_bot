@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T03:01:43.392Z",
+  "lastUpdated": "2026-09-03T08:05:53.944Z",
   "juegos": [
     {
       "nombre": "Train Sim World® 7: Ultimate Edition",
@@ -44,18 +44,6 @@
       "precioFormateado": "$13,915.37"
     },
     {
-      "nombre": "Gallipoli - British Empire Edition",
-      "precioBaseUSD": 688.79,
-      "precioFinalMXN": 13743.38,
-      "precioFormateado": "$13,743.38"
-    },
-    {
-      "nombre": "Gallipoli - Ottoman Empire Edition",
-      "precioBaseUSD": 688.79,
-      "precioFinalMXN": 13743.38,
-      "precioFormateado": "$13,743.38"
-    },
-    {
       "nombre": "PATLABOR: Los Expedientes",
       "precioBaseUSD": 688.79,
       "precioFinalMXN": 13743.38,
@@ -86,22 +74,10 @@
       "precioFormateado": "$10,303.29"
     },
     {
-      "nombre": "Gallipoli",
-      "precioBaseUSD": 516.38,
-      "precioFinalMXN": 10303.29,
-      "precioFormateado": "$10,303.29"
-    },
-    {
       "nombre": "The Slormancer",
       "precioBaseUSD": 516.38,
       "precioFinalMXN": 10303.29,
       "precioFormateado": "$10,303.29"
-    },
-    {
-      "nombre": "Lou's Lagoon Deluxe Edition",
-      "precioBaseUSD": 464.66,
-      "precioFinalMXN": 9271.33,
-      "precioFormateado": "$9,271.33"
     },
     {
       "nombre": "Destino Reiniciado: Ecos del Deseo",
@@ -123,12 +99,6 @@
     },
     {
       "nombre": "EXSTETRA",
-      "precioBaseUSD": 430.17,
-      "precioFinalMXN": 8583.15,
-      "precioFormateado": "$8,583.15"
-    },
-    {
-      "nombre": "Lou's Lagoon",
       "precioBaseUSD": 430.17,
       "precioFinalMXN": 8583.15,
       "precioFormateado": "$8,583.15"
@@ -189,6 +159,12 @@
     },
     {
       "nombre": "Death end reQuest Season Pass",
+      "precioBaseUSD": 343.97,
+      "precioFinalMXN": 6863.21,
+      "precioFormateado": "$6,863.21"
+    },
+    {
+      "nombre": "Galactic Vault",
       "precioBaseUSD": 343.97,
       "precioFinalMXN": 6863.21,
       "precioFormateado": "$6,863.21"
@@ -267,12 +243,6 @@
     },
     {
       "nombre": "Super Woden Rally Edge PS4 & PS5",
-      "precioBaseUSD": 257.76,
-      "precioFinalMXN": 5143.07,
-      "precioFormateado": "$5,143.07"
-    },
-    {
-      "nombre": "Tearscape",
       "precioBaseUSD": 257.76,
       "precioFinalMXN": 5143.07,
       "precioFormateado": "$5,143.07"
