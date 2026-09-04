@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T03:01:14.727Z",
+  "lastUpdated": "2026-09-04T08:10:39.000Z",
   "juegos": [
     {
       "nombre": "Train Sim World® 7: Ultimate Edition",
@@ -54,12 +54,6 @@
       "precioBaseUSD": 688.79,
       "precioFinalMXN": 13752.25,
       "precioFormateado": "$13,752.25"
-    },
-    {
-      "nombre": "Asdivine Knot Special Edition",
-      "precioBaseUSD": 654.31,
-      "precioFinalMXN": 13063.83,
-      "precioFormateado": "$13,063.83"
     },
     {
       "nombre": "End of Abyss",
@@ -152,12 +146,6 @@
       "precioFormateado": "$6,867.64"
     },
     {
-      "nombre": "Asdivine Knot",
-      "precioBaseUSD": 343.97,
-      "precioFinalMXN": 6867.64,
-      "precioFormateado": "$6,867.64"
-    },
-    {
       "nombre": "Death end reQuest Season Pass",
       "precioBaseUSD": 343.97,
       "precioFinalMXN": 6867.64,
@@ -228,6 +216,12 @@
       "precioBaseUSD": 309.48,
       "precioFinalMXN": 6179.02,
       "precioFormateado": "$6,179.02"
+    },
+    {
+      "nombre": "Buffet Boss & Fortress Merge: Complete Editions",
+      "precioBaseUSD": 275,
+      "precioFinalMXN": 5490.6,
+      "precioFormateado": "$5,490.60"
     },
     {
       "nombre": "Folk Hero",
