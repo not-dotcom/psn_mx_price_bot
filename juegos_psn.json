@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T21:05:34.941Z",
+  "lastUpdated": "2026-09-04T23:10:27.231Z",
   "juegos": [
     {
       "nombre": "Train Sim World® 7: Ultimate Edition",
@@ -222,6 +222,12 @@
       "precioBaseUSD": 275,
       "precioFinalMXN": 5454.61,
       "precioFormateado": "$5,454.61"
+    },
+    {
+      "nombre": "Fear The Timeloop",
+      "precioBaseUSD": 257.76,
+      "precioFinalMXN": 5112.66,
+      "precioFormateado": "$5,112.66"
     },
     {
       "nombre": "Folk Hero",
