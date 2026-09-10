@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T03:08:44.443Z",
+  "lastUpdated": "2026-09-10T08:14:06.363Z",
   "juegos": [
     {
       "nombre": "Train Sim World® 7: Ultimate Edition",
@@ -218,6 +218,18 @@
       "precioFormateado": "$6,139.74"
     },
     {
+      "nombre": "Hazard Pay",
+      "precioBaseUSD": 292.24,
+      "precioFinalMXN": 5797.72,
+      "precioFormateado": "$5,797.72"
+    },
+    {
+      "nombre": "BrokenLore: DON'T LIE",
+      "precioBaseUSD": 275,
+      "precioFinalMXN": 5455.7,
+      "precioFormateado": "$5,455.70"
+    },
+    {
       "nombre": "Buffet Boss & Fortress Merge: Complete Editions",
       "precioBaseUSD": 275,
       "precioFinalMXN": 5455.7,
@@ -260,12 +272,6 @@
       "precioFormateado": "$5,113.67"
     },
     {
-      "nombre": "Buffet Boss & Baking Time!: Complete Editions",
-      "precioBaseUSD": 240.52,
-      "precioFinalMXN": 4771.65,
-      "precioFormateado": "$4,771.65"
-    },
-    {
       "nombre": "Sniper Dan",
       "precioBaseUSD": 223.28,
       "precioFinalMXN": 4429.63,
@@ -296,12 +302,6 @@
       "precioFormateado": "$3,403.36"
     },
     {
-      "nombre": "Buffet Boss: Complete Edition",
-      "precioBaseUSD": 171.55,
-      "precioFinalMXN": 3403.36,
-      "precioFormateado": "$3,403.36"
-    },
-    {
       "nombre": "Once Alive",
       "precioBaseUSD": 171.55,
       "precioFinalMXN": 3403.36,
@@ -324,18 +324,6 @@
       "precioBaseUSD": 119.83,
       "precioFinalMXN": 2377.3,
       "precioFormateado": "$2,377.30"
-    },
-    {
-      "nombre": "Buffet Boss & The Legend Of Fireball: Starter Bundle",
-      "precioBaseUSD": 102.59,
-      "precioFinalMXN": 2035.27,
-      "precioFormateado": "$2,035.27"
-    },
-    {
-      "nombre": "Buffet Boss: Platinum Supporter",
-      "precioBaseUSD": 102.59,
-      "precioFinalMXN": 2035.27,
-      "precioFormateado": "$2,035.27"
     },
     {
       "nombre": "Arcadegeddon 1,000 ARCoins(PS4™)",
