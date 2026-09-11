@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T08:07:14.155Z",
+  "lastUpdated": "2026-09-11T13:36:47.871Z",
   "juegos": [
     {
       "nombre": "Train Sim World® 7: Ultimate Edition",
@@ -69,6 +69,12 @@
     },
     {
       "nombre": "EXSTETRA - Digital Deluxe Edition",
+      "precioBaseUSD": 516.38,
+      "precioFinalMXN": 10268.97,
+      "precioFormateado": "$10,268.97"
+    },
+    {
+      "nombre": "Puzzle Galaxy: Complete Bundle",
       "precioBaseUSD": 516.38,
       "precioFinalMXN": 10268.97,
       "precioFormateado": "$10,268.97"
